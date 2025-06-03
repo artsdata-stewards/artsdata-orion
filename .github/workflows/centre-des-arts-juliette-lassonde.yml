@@ -5,8 +5,10 @@ on:
       
 jobs:
   call-workflow-to-fetch-data:
-    uses: ./.github/workflows/generate-report.yml
+    uses: ./.github/workflows/orion-json-ld-website.yml
     with:
-        page_url: "https://www.centredesarts.ca/programmation/"
-        entity_identifier: "div.portfolio-text-title a"
+        page-url: "https://www.centredesarts.ca/programmation/"
+        entity-identifier: "div.portfolio-text-title a"
+        artifact: "centre-des-arts-juliette-lassonde"
+        publisher: "https://github.com/fjjulien#this"
         
