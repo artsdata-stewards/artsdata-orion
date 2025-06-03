@@ -1,0 +1,12 @@
+name: centre-des-arts-juliette-lassonde
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://www.centredesarts.ca/programmation/"
+        entity_identifier: "div.portfolio-text-title a"
+        
