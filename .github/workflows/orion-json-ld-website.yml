@@ -22,8 +22,7 @@ jobs:
         with:
           mode: "fetch-push"
           artifact: "${{ inputs.artifact }}"
-          publisher: "${{ inputs.publisher  }}"
-          downloadFile: "${{ inputs.artifact }}.jsonld"
+          publisher: "${{ inputs.publisher }}"
           page-url: "${{ inputs.page-url }}"
           entity-identifier: "${{ inputs.entity-identifier }}"
           token: "${{ secrets.GITHUB_TOKEN }}"
