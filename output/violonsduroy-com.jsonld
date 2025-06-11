@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-14_16h_orford-musique-4191/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -10,7 +10,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-14_16h_orford-musique-4191/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -22,7 +22,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Orford Musique Les Violons du Roy"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -33,45 +33,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/3903",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-14_16h_orford-musique-4191/4191",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-15T14:00:00-04:00"
+        "@value": "2025-06-14T16:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-15T14:00:00-04:00"
+        "@value": "2025-06-14T16:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-14_16h_orford-musique-4191/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g461680"
+        "@id": "_:g461660"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g461720"
+        "@id": "https://www.violonsduroy.com/media/fchpfoh2/thomas-le-duc-moreau-1920x1080.jpg"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g461740"
+        "@id": "_:g461700"
       }
     ],
     "http://schema.org/additionalType": [
@@ -81,24 +76,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461760"
+        "@id": "_:g461720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-14_16h_orford-musique-4191/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Orford Musique"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel.\nConcert sans pause d'une durée de 1h30"
+        "@value": "Ombre et lumière\nThomas Le Duc-Moreau, chef\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -109,87 +104,75 @@
     ]
   },
   {
-    "@id": "_:g461680",
+    "@id": "_:g461660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g461700"
+        "@id": "_:g461680"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461720",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461740",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461760",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/chaconnes-et-passacailles-avec-bernard-labadie"
+        "@value": "Salle Gilles-Lefebvre"
       }
     ]
   },
   {
     "@id": "_:g461700",
     "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461720",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://orfordmusique.tuxedobillet.com/main/les-violons-du-roy-ombre-et-lumiere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461680",
+    "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+        "@id": "https://www.google.com/maps/place/Orford+Musique/@45.323822,-72.185604,17z/data=!4m14!1m7!3m6!1s0x4cb636b8e412efd7:0x4ab52a5af677f699!2sOrford+Musique!8m2!3d45.323822!4d-72.1830291!16s%2Fg%2F1td9dc7s!3m5!1s0x4cb636b8e412efd7:0x4ab52a5af677f699!8m2!3d45.323822!4d-72.1830291!16s%2Fg%2F1td9dc7s"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "3165, chemin du Parc"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Orford"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -201,12 +184,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "J1X 7A2"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -216,7 +199,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -228,7 +211,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -239,45 +222,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/3904",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/4192",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-15T19:30:00-04:00"
+        "@value": "2025-06-28T16:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-15T19:30:00-04:00"
+        "@value": "2025-06-28T16:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g465200"
+        "@id": "_:g467540"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g465240"
+        "@id": "https://www.violonsduroy.com/media/3dzhitgy/mathieu-lussier-1920x1080.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g465260"
+        "@id": "_:g467580"
       }
     ],
     "http://schema.org/additionalType": [
@@ -287,24 +265,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g465280"
+        "@id": "_:g467600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel.\nConcert sans pause d'une durée de 1h30"
+        "@value": "Concert d'ouverture : Hymne à la découverte\nMathieu Lussier, chefCarlos Ferreira, clarinetteBenedetto Lupo, piano\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -315,36 +293,24 @@
     ]
   },
   {
-    "@id": "_:g465200",
+    "@id": "_:g467540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g465220"
+        "@id": "_:g467560"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g465240",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465260",
+    "@id": "_:g467580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -366,36 +332,36 @@
     ]
   },
   {
-    "@id": "_:g465280",
+    "@id": "_:g467600",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/chaconnes-et-passacailles-avec-bernard-labadie19h30"
+        "@id": "https://domaineforget.ticketacces.net/en/organisation/achat/recherche-manuelle.cfm?RepresentationID=839&SectionsID=3%2C4%2C2%2C1?RepresentationID=839&SectionsID=3%2C4%2C2%2C1"
       }
     ]
   },
   {
-    "@id": "_:g465220",
+    "@id": "_:g467560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -407,12 +373,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "G0T 1V0"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -422,7 +388,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -434,7 +400,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -445,45 +411,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/3405",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/4194",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-16T19:30:00-04:00"
+        "@value": "2025-07-19T19:30:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-16T19:30:00-04:00"
+        "@value": "2025-07-19T19:30:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468620"
+        "@id": "_:g472720"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g468660"
+        "@id": "https://www.violonsduroy.com/media/d43exjyi/kensho-watanabe-1920x1080.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g468680"
+        "@id": "_:g472760"
       }
     ],
     "http://schema.org/additionalType": [
@@ -493,24 +454,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468700"
+        "@id": "_:g472780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel.\nConcert sans pause d'une durée de 1h30"
+        "@value": "Brahms et Les Violons du Roy\nKensho Watanabe, chefKerson Leong, violonAvec la participation de stagiaires en direction d'orchestre\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -521,36 +482,24 @@
     ]
   },
   {
-    "@id": "_:g468620",
+    "@id": "_:g472720",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468640"
+        "@id": "_:g472740"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle Bourgie"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g468660",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468680",
+    "@id": "_:g472760",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -572,36 +521,36 @@
     ]
   },
   {
-    "@id": "_:g468700",
+    "@id": "_:g472780",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.mbam.qc.ca/fr/activites/chaconnes-et-passacailles/"
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=848&SectionsID=3%2C4%2C2%2C1"
       }
     ]
   },
   {
-    "@id": "_:g468640",
+    "@id": "_:g472740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "1339, rue Sherbrooke Ouest"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Montréal"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -613,12 +562,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "H3G 2C6"
+        "@value": "G0T 1V0"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-18_19h30_printemps-de-la-musique-4173/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-25_20h_festival-de-lanaudiere-4196/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -628,7 +577,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-18_19h30_printemps-de-la-musique-4173/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-25_20h_festival-de-lanaudiere-4196/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -640,7 +589,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Printemps de la musique"
+        "@value": "Festival de Lanaudière"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -651,40 +600,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-18_19h30_printemps-de-la-musique-4173/4173",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-25_20h_festival-de-lanaudiere-4196/4196",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-18T19:30:00-04:00"
+        "@value": "2025-07-25T20:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-18T19:30:00-04:00"
+        "@value": "2025-07-25T20:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-18_19h30_printemps-de-la-musique-4173/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-25_20h_festival-de-lanaudiere-4196/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472000"
+        "@id": "_:g478540"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/5kicruio/printemps-de-la-musique.png"
+        "@id": "https://www.violonsduroy.com/media/yvffjwis/sol-gabetta-1920x1080-photo-julia-wesely.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g472040"
+        "@id": "_:g478580"
       }
     ],
     "http://schema.org/additionalType": [
@@ -694,24 +643,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472060"
+        "@id": "_:g478600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-18_19h30_printemps-de-la-musique-4173/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-25_20h_festival-de-lanaudiere-4196/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Printemps de la musique"
+        "@value": "Festival de Lanaudière"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Classiques pour cordes\nLes Violons du Roy présentent un premier concert orchestral au Printemps de la musique avec leurs 14 musiciens permanents. Un concert présenté sans chef, reprenant trois œuvres qui font partie du plus célèbre répertoire pour orchestre à cordes."
+        "@value": "Sol Gabetta et Les Violons du Roy : pour la première fois réunis\nBernard Labadie, chefSol Gabetta, violoncelle\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -722,24 +671,24 @@
     ]
   },
   {
-    "@id": "_:g472000",
+    "@id": "_:g478540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472020"
+        "@id": "_:g478560"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Cathédrale Holy Trinity"
+        "@value": "Amphithéâtre Fernand-Lindsay"
       }
     ]
   },
   {
-    "@id": "_:g472040",
+    "@id": "_:g478580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -761,53 +710,53 @@
     ]
   },
   {
-    "@id": "_:g472060",
+    "@id": "_:g478600",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://lepointdevente.com/billets/pmq2025-violonsduroy"
+        "@id": "https://am.ticketmaster.com/festivaldelanaudiere/fr-ca/virtual-venue/L5A0725"
       }
     ]
   },
   {
-    "@id": "_:g472020",
+    "@id": "_:g478560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Cath%C3%A9drale+de+la+Sainte-Trinit%C3%A9/data=!4m2!3m1!1s0x0:0x2614c2764b6e65d8?sa=X&ved=1t:2428&ictx=111"
+        "@id": "https://www.google.com/maps/uv?pb=!1s0x4cc896017dd9b327:0x3323edde2b3de0b4!3m1!7e115!4s/maps/place/amphith%25C3%25A9%25C3%25A2tre%2Bfernand-lindsay/@46.0042641,-73.4123086,3a,75y,224.21h,90t/data%3D*213m4*211e1*213m2*211sHsO0rqsMJVl0vwoqiuD1Ag*212e0*214m2*213m1*211s0x4cc896017dd9b327:0x3323edde2b3de0b4?sa%3DX!5samphith%C3%A9%C3%A2tre+fernand-lindsay+-+Recherche+Google!15zQ2dJZ0FRPT0&imagekey=!1e2!2sHsO0rqsMJVl0vwoqiuD1Ag&hl=fr&sa=X&ved=2ahUKEwjJkanpx7f3AhX0lokEHaKRBUkQpx96BAhYEAg"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": ""
+        "@value": "1655 boul. Base-de-Roc"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": ""
+        "@value": "Joliette"
       }
     ],
     "http://schema.org/addressRegion": [
       {
         "@language": "fr",
-        "@value": ""
+        "@value": "QC"
       }
     ],
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": ""
+        "@value": "J6E 0L1"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-17_15h_festival-international-du-domaine-forget-4198/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -817,7 +766,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-17_15h_festival-international-du-domaine-forget-4198/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -829,7 +778,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Concert Apéro 4"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -840,63 +789,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/3913",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-17_15h_festival-international-du-domaine-forget-4198/4198",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-21T17:30:00-04:00"
+        "@value": "2025-08-17T15:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-21T17:30:00-04:00"
+        "@value": "2025-08-17T15:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-17_15h_festival-international-du-domaine-forget-4198/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g475120"
+        "@id": "_:g484360"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/3uwe0ddr/2025-05-21-22-satie.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g475160"
-      },
-      {
-        "@id": "_:g475180"
-      },
-      {
-        "@id": "_:g475200"
-      },
-      {
-        "@id": "_:g475220"
-      },
-      {
-        "@id": "_:g475240"
-      },
-      {
-        "@id": "_:g475260"
-      },
-      {
-        "@id": "_:g475280"
+        "@id": "https://www.violonsduroy.com/media/veldq1e3/jonathan-cohen-1920x1080-bruhmuller-studio.jpg"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g475300"
+        "@id": "_:g484400"
       }
     ],
     "http://schema.org/additionalType": [
@@ -906,24 +832,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g475320"
+        "@id": "_:g484420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-17_15h_festival-international-du-domaine-forget-4198/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Satie : Morceaux choisis en forme d’hommage"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Érik Satie occupe une place à part dans l’histoire et le répertoire de la musique. Inclassable, sa musique annonce le minimalisme américain tout en étant proche du surréalisme et de l’absurde. La poésie y est très souvent présente, particulièrement dans ses célèbres pages pour piano. Les Violons du Roy abordent Satie pour la toute première fois, grâce à des transcriptions de Simon Desbiens, spécialement réalisées pour eux à l’occasion du 100e anniversaire de la mort de ce bel iconoclaste."
+        "@value": "Un opéra imaginaire\nJonathan Cohen, chefLauréat.e du Concours de concerto des Violons du RoyPentaèdreOrchestre de chambre de l'AcadémieChanteurs et chanteuses de l’Académie\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -934,108 +860,24 @@
     ]
   },
   {
-    "@id": "_:g475120",
+    "@id": "_:g484360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g475140"
+        "@id": "_:g484380"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle D’Youville"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g475160",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475180",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Katya Poplyansky"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475200",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Annie Morrier"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475220",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jean-Louis Blouin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475240",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Dubé"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475260",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Dominique Beauséjour-Ostiguy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475280",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël McNabney"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475300",
+    "@id": "_:g484400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1057,36 +899,36 @@
     ]
   },
   {
-    "@id": "_:g475320",
+    "@id": "_:g484420",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/concert-apero-4-pour-les-echanges"
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=858&SectionsID=3%2C4%2C2%2C1"
       }
     ]
   },
   {
-    "@id": "_:g475140",
+    "@id": "_:g484380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1098,12 +940,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "G0T 1V0"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-21_19h30_festival-international-du-domaine-forget-4200/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -1113,7 +955,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-21_19h30_festival-international-du-domaine-forget-4200/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -1125,7 +967,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Concert Apéro 4"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1136,63 +978,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/3914",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-21_19h30_festival-international-du-domaine-forget-4200/4200",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-22T17:30:00-04:00"
+        "@value": "2025-08-21T19:30:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-05-22T17:30:00-04:00"
+        "@value": "2025-08-21T19:30:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-21_19h30_festival-international-du-domaine-forget-4200/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g478960"
+        "@id": "_:g490180"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/3uwe0ddr/2025-05-21-22-satie.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g479000"
-      },
-      {
-        "@id": "_:g479020"
-      },
-      {
-        "@id": "_:g479040"
-      },
-      {
-        "@id": "_:g479060"
-      },
-      {
-        "@id": "_:g479080"
-      },
-      {
-        "@id": "_:g479100"
-      },
-      {
-        "@id": "_:g479120"
+        "@id": "https://www.violonsduroy.com/media/qtappyxj/elisabeth-pion-1920x1080-photo-frederik-robitaille.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g479140"
+        "@id": "_:g490220"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1202,24 +1021,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g479160"
+        "@id": "_:g490240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-21_19h30_festival-international-du-domaine-forget-4200/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Satie : Morceaux choisis en forme d’hommage"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Érik Satie occupe une place à part dans l’histoire et le répertoire de la musique. Inclassable, sa musique annonce le minimalisme américain tout en étant proche du surréalisme et de l’absurde. La poésie y est très souvent présente, particulièrement dans ses célèbres pages pour piano. Les Violons du Roy abordent Satie pour la toute première fois, grâce à des transcriptions de Simon Desbiens, spécialement réalisées pour eux à l’occasion du 100e anniversaire de la mort de ce bel iconoclaste."
+        "@value": "Les flots du destin\nNicolas Ellis, chefÉlisabeth Pion, pianoPentaèdreOrchestre de chambre de l'Académie\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1230,108 +1049,24 @@
     ]
   },
   {
-    "@id": "_:g478960",
+    "@id": "_:g490180",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g478980"
+        "@id": "_:g490200"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle D’Youville"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g479000",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479020",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Katya Poplyansky"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479040",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Annie Morrier"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479060",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jean-Louis Blouin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479080",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Dubé"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479100",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Dominique Beauséjour-Ostiguy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479120",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël McNabney"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479140",
+    "@id": "_:g490220",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1353,36 +1088,36 @@
     ]
   },
   {
-    "@id": "_:g479160",
+    "@id": "_:g490240",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/concert-apero-4-pour-les-echanges"
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=859&SectionsID=3%2C4%2C2%2C1"
       }
     ]
   },
   {
-    "@id": "_:g478980",
+    "@id": "_:g490200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1394,12 +1129,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "G0T 1V0"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-23_19h30_festival-international-du-domaine-forget-4202/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -1409,7 +1144,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-23_19h30_festival-international-du-domaine-forget-4202/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -1421,7 +1156,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Symphonie à la française avec Nicolas Ellis"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1432,48 +1167,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/3905",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-23_19h30_festival-international-du-domaine-forget-4202/4202",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-06-05T14:00:00-04:00"
+        "@value": "2025-08-23T19:30:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-06-05T14:00:00-04:00"
+        "@value": "2025-08-23T19:30:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-23_19h30_festival-international-du-domaine-forget-4202/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g482760"
+        "@id": "_:g496000"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/oqmjpmw0/symphonie-a-la-francaise-avec-nicolas-ellis.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g482800"
-      },
-      {
-        "@id": "_:g482820"
+        "@id": "https://www.violonsduroy.com/media/3dzhitgy/mathieu-lussier-1920x1080.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g482840"
+        "@id": "_:g496040"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1483,24 +1210,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g482860"
+        "@id": "_:g496060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-08-23_19h30_festival-international-du-domaine-forget-4202/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Symphonie à la française avec Nicolas Ellis"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Pour conclure la saison, le premier chef invité des Violons du Roy Nicolas Ellis dirige un programme de musique française, avec des œuvres composées avant ou juste après la Révolution française, comprenant une grande suite orchestrale de Rameau, une superbe symphonie de Gossec et un concerto pour violoncelle de Duport, véritable trésor oublié dont Raphaël Pidoux, dans ses débuts avec l’orchestre, en fera découvrir toute la richesse."
+        "@value": "Concert de clôture : La Belle époque\nMathieu Lussier, chefAriane Girard, mezzo-sopranoPentaèdreOrchestre de chambre de l'AcadémieChanteurs et chanteuses de l’Académie\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1511,48 +1238,24 @@
     ]
   },
   {
-    "@id": "_:g482760",
+    "@id": "_:g496000",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g482780"
+        "@id": "_:g496020"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g482800",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482820",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Pidoux"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482840",
+    "@id": "_:g496040",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1574,36 +1277,36 @@
     ]
   },
   {
-    "@id": "_:g482860",
+    "@id": "_:g496060",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/symphonie-a-la-francaise-avec-nicolas-ellisPM"
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=860&SectionsID=3%2C4%2C2%2C1"
       }
     ]
   },
   {
-    "@id": "_:g482780",
+    "@id": "_:g496020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1615,449 +1318,7 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3906/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3906/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie à la française avec Nicolas Ellis"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3906/3906",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-05T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-05T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3906/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g486340"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/oqmjpmw0/symphonie-a-la-francaise-avec-nicolas-ellis.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g486380"
-      },
-      {
-        "@id": "_:g486400"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g486420"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g486440"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3906/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie à la française avec Nicolas Ellis"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Pour conclure la saison, le premier chef invité des Violons du Roy Nicolas Ellis dirige un programme de musique française, avec des œuvres composées avant ou juste après la Révolution française, comprenant une grande suite orchestrale de Rameau, une superbe symphonie de Gossec et un concerto pour violoncelle de Duport, véritable trésor oublié dont Raphaël Pidoux, dans ses débuts avec l’orchestre, en fera découvrir toute la richesse."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486340",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g486360"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486380",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486400",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Pidoux"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486420",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486440",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/symphonie-a-la-francaise-avec-nicolas-ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g486360",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-06-06_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3408/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-06-06_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3408/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Deux siècles en France avec Nicolas Ellis"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-06-06_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3408/3408",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-06T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-06T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-06-06_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3408/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g489880"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/oqmjpmw0/symphonie-a-la-francaise-avec-nicolas-ellis.png"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g489920"
-      },
-      {
-        "@id": "_:g489940"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g489960"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g489980"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-06-06_19h30_symphonie-a-la-francaise-avec-nicolas-ellis-3408/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Deux siècles en France avec Nicolas Ellis"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Pour conclure la saison, le premier chef invité des Violons du Roy Nicolas Ellis dirige un programme de musique française, avec des œuvres composées avant ou juste après la Révolution française, comprenant une grande suite orchestrale de Rameau, une superbe symphonie de Gossec et un concerto pour violoncelle de Duport, véritable trésor oublié dont Raphaël Pidoux, dans ses débuts avec l’orchestre, en fera découvrir toute la richesse."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489880",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g489900"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Bourgie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489920",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489940",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Pidoux"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489960",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489980",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.mbam.qc.ca/fr/activites/symphonie-a-la-francaise/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489900",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1339, rue Sherbrooke Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H3G 2C6"
+        "@value": "G0T 1V0"
       }
     ]
   },
@@ -2118,7 +1379,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g493420"
+        "@id": "_:g501900"
       }
     ],
     "http://schema.org/image": [
@@ -2128,12 +1389,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g493460"
+        "@id": "_:g501940"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g493480"
+        "@id": "_:g501960"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2143,7 +1404,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g493500"
+        "@id": "_:g501980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2171,13 +1432,13 @@
     ]
   },
   {
-    "@id": "_:g493420",
+    "@id": "_:g501900",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g493440"
+        "@id": "_:g501920"
       }
     ],
     "http://schema.org/name": [
@@ -2188,9 +1449,17 @@
     ]
   },
   {
-    "@id": "_:g493460",
+    "@id": "_:g501940",
     "@type": [
       "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.thomasleducmoreau.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/tomleducmoreau/"
+      }
     ],
     "http://schema.org/name": [
       {
@@ -2200,7 +1469,7 @@
     ]
   },
   {
-    "@id": "_:g493480",
+    "@id": "_:g501960",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2222,7 +1491,7 @@
     ]
   },
   {
-    "@id": "_:g493500",
+    "@id": "_:g501980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2233,13 +1502,432 @@
     ]
   },
   {
-    "@id": "_:g493440",
+    "@id": "_:g501920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
         "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Ombre et lumière, du cinéma à écouter"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/4062",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-25T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-25T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/d30hkafx/2025-09-25_19h30_ombre-et-lumière.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g508280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g508300"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ombre et lumière, du cinéma à écouter"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "De nombreux chefs-d'œuvre musicaux ont été utilisés au cinéma pour leur puissante force d’évocation, tel le célèbre Adagio de Barber, entendu dans plus d’une vingtaine de films. Un autre compositeur américain, Bernard Herrmann, a souvent été associé au grand réalisateur Alfred Hitchcock, pour lequel il a composé de nombreuses partitions originales dont celle du film Psycho qui a marqué l’imaginaire par son utilisation inoubliable des instruments à cordes."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/attendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode "
+      }
+    ]
+  },
+  {
+    "@id": "_:g508240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g508260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508280",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.thomasleducmoreau.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/tomleducmoreau/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Thomas Le Duc-Moreau"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/ombre-et-lumiere-du-cinema-a-ecouter19h30"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "\"Série Apéro - musique en convivialité - Les Goûts réunis\""
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez la série Apéro : des rencontres musicales uniques dans un climat convivial. Au programme : musique baroque française et italienne avec des œuvres de Jacquet de la Guerre, Couperin, Clérambault, Corelli et Vitali. Formule 5 à 7 avec consommation incluse. Admission générale, service de bar dès 17h."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/2skhnqnd/les-gou-ts-re-unis-1800x1800.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/4081",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-01T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-01T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g514480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/y0khfown/2025-10-01_17h30_les-goûts-réunis.jpg"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g514520"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g514540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Goûts réunis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, musique baroque française et italienne."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/attendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode "
+      }
+    ]
+  },
+  {
+    "@id": "_:g514480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g514500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514540",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/les-gouts-reunis"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
       }
     ],
     "http://schema.org/streetAddress": [
