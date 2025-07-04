@@ -46,7 +46,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-04-16T16:56:51+00:00"
+        "@value": "2025-06-23T19:23:21+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -97,7 +97,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g461200"
+        "@id": "_:g461180"
       }
     ],
     "http://schema.org/startDate": [
@@ -108,12 +108,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461240"
+        "@id": "_:g461220"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g461260"
+        "@id": "_:g461240"
       }
     ],
     "http://schema.org/image": [
@@ -121,13 +121,13 @@
         "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/#primaryimage"
       },
       {
+        "@id": "_:g461260"
+      },
+      {
         "@id": "_:g461280"
       },
       {
         "@id": "_:g461300"
-      },
-      {
-        "@id": "_:g461320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -149,13 +149,13 @@
     ]
   },
   {
-    "@id": "_:g461200",
+    "@id": "_:g461180",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g461220"
+        "@id": "_:g461200"
       }
     ],
     "http://schema.org/name": [
@@ -166,14 +166,14 @@
     ]
   },
   {
-    "@id": "_:g461240",
+    "@id": "_:g461220",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/price": [
       {
         "@language": "fr",
-        "@value": "57"
+        "@value": "59"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "@id": "_:g461260",
+    "@id": "_:g461240",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "@id": "_:g461280",
+    "@id": "_:g461260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "@id": "_:g461300",
+    "@id": "_:g461280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "@id": "_:g461320",
+    "@id": "_:g461300",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "@id": "_:g461220",
+    "@id": "_:g461200",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -423,7 +423,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g469520"
+        "@id": "_:g469480"
       }
     ],
     "http://schema.org/startDate": [
@@ -434,12 +434,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469560"
+        "@id": "_:g469520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g469580"
+        "@id": "_:g469540"
       }
     ],
     "http://schema.org/image": [
@@ -447,13 +447,13 @@
         "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/#primaryimage"
       },
       {
+        "@id": "_:g469560"
+      },
+      {
+        "@id": "_:g469580"
+      },
+      {
         "@id": "_:g469600"
-      },
-      {
-        "@id": "_:g469620"
-      },
-      {
-        "@id": "_:g469640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -475,13 +475,13 @@
     ]
   },
   {
-    "@id": "_:g469520",
+    "@id": "_:g469480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g469540"
+        "@id": "_:g469500"
       }
     ],
     "http://schema.org/name": [
@@ -492,7 +492,7 @@
     ]
   },
   {
-    "@id": "_:g469560",
+    "@id": "_:g469520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "@id": "_:g469580",
+    "@id": "_:g469540",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -556,7 +556,7 @@
     ]
   },
   {
-    "@id": "_:g469600",
+    "@id": "_:g469560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -579,7 +579,7 @@
     ]
   },
   {
-    "@id": "_:g469620",
+    "@id": "_:g469580",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -602,7 +602,7 @@
     ]
   },
   {
-    "@id": "_:g469640",
+    "@id": "_:g469600",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "@id": "_:g469540",
+    "@id": "_:g469500",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -677,6 +677,12 @@
         "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
       }
     ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-26T14:27:59+00:00"
+      }
+    ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-fr",
@@ -725,23 +731,23 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g477880"
+        "@id": "_:g477820"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-10-03T19:00:00-04:00"
+        "@value": "2025-10-02T19:00:00-04:00"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g477920"
+        "@id": "_:g477860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g477940"
+        "@id": "_:g477880"
       }
     ],
     "http://schema.org/image": [
@@ -749,13 +755,13 @@
         "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/#primaryimage"
       },
       {
-        "@id": "_:g477960"
+        "@id": "_:g477900"
       },
       {
-        "@id": "_:g477980"
+        "@id": "_:g477920"
       },
       {
-        "@id": "_:g478000"
+        "@id": "_:g477940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -777,13 +783,13 @@
     ]
   },
   {
-    "@id": "_:g477880",
+    "@id": "_:g477820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g477900"
+        "@id": "_:g477840"
       }
     ],
     "http://schema.org/name": [
@@ -794,7 +800,7 @@
     ]
   },
   {
-    "@id": "_:g477920",
+    "@id": "_:g477860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -812,7 +818,7 @@
     ]
   },
   {
-    "@id": "_:g477940",
+    "@id": "_:g477880",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -858,7 +864,7 @@
     ]
   },
   {
-    "@id": "_:g477960",
+    "@id": "_:g477900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -881,7 +887,7 @@
     ]
   },
   {
-    "@id": "_:g477980",
+    "@id": "_:g477920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -904,7 +910,7 @@
     ]
   },
   {
-    "@id": "_:g478000",
+    "@id": "_:g477940",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -927,7 +933,7 @@
     ]
   },
   {
-    "@id": "_:g477900",
+    "@id": "_:g477840",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -1033,7 +1039,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g486220"
+        "@id": "_:g486180"
       }
     ],
     "http://schema.org/startDate": [
@@ -1044,12 +1050,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g486260"
+        "@id": "_:g486220"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g486280"
+        "@id": "_:g486240"
       }
     ],
     "http://schema.org/image": [
@@ -1057,13 +1063,13 @@
         "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/#primaryimage"
       },
       {
+        "@id": "_:g486260"
+      },
+      {
+        "@id": "_:g486280"
+      },
+      {
         "@id": "_:g486300"
-      },
-      {
-        "@id": "_:g486320"
-      },
-      {
-        "@id": "_:g486340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1085,13 +1091,13 @@
     ]
   },
   {
-    "@id": "_:g486220",
+    "@id": "_:g486180",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g486240"
+        "@id": "_:g486200"
       }
     ],
     "http://schema.org/name": [
@@ -1102,7 +1108,7 @@
     ]
   },
   {
-    "@id": "_:g486260",
+    "@id": "_:g486220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1120,7 +1126,7 @@
     ]
   },
   {
-    "@id": "_:g486280",
+    "@id": "_:g486240",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1166,7 +1172,7 @@
     ]
   },
   {
-    "@id": "_:g486300",
+    "@id": "_:g486260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1189,7 +1195,7 @@
     ]
   },
   {
-    "@id": "_:g486320",
+    "@id": "_:g486280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1212,7 +1218,7 @@
     ]
   },
   {
-    "@id": "_:g486340",
+    "@id": "_:g486300",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1235,7 +1241,7 @@
     ]
   },
   {
-    "@id": "_:g486240",
+    "@id": "_:g486200",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -1290,7 +1296,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-05-21T15:40:15+00:00"
+        "@value": "2025-06-23T19:24:39+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1341,7 +1347,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g494480"
+        "@id": "_:g494420"
       }
     ],
     "http://schema.org/startDate": [
@@ -1352,12 +1358,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g494520"
+        "@id": "_:g494460"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g494540"
+        "@id": "_:g494480"
       }
     ],
     "http://schema.org/image": [
@@ -1365,13 +1371,13 @@
         "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/#primaryimage"
       },
       {
-        "@id": "_:g494560"
+        "@id": "_:g494500"
       },
       {
-        "@id": "_:g494580"
+        "@id": "_:g494520"
       },
       {
-        "@id": "_:g494600"
+        "@id": "_:g494540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1393,13 +1399,13 @@
     ]
   },
   {
-    "@id": "_:g494480",
+    "@id": "_:g494420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g494500"
+        "@id": "_:g494440"
       }
     ],
     "http://schema.org/name": [
@@ -1410,14 +1416,14 @@
     ]
   },
   {
-    "@id": "_:g494520",
+    "@id": "_:g494460",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/price": [
       {
         "@language": "fr",
-        "@value": "57"
+        "@value": "59"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1428,7 +1434,7 @@
     ]
   },
   {
-    "@id": "_:g494540",
+    "@id": "_:g494480",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1474,7 +1480,7 @@
     ]
   },
   {
-    "@id": "_:g494560",
+    "@id": "_:g494500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1497,7 +1503,7 @@
     ]
   },
   {
-    "@id": "_:g494580",
+    "@id": "_:g494520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1520,7 +1526,7 @@
     ]
   },
   {
-    "@id": "_:g494600",
+    "@id": "_:g494540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1543,7 +1549,7 @@
     ]
   },
   {
-    "@id": "_:g494500",
+    "@id": "_:g494440",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -1649,7 +1655,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g502760"
+        "@id": "_:g502700"
       }
     ],
     "http://schema.org/startDate": [
@@ -1660,12 +1666,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g502800"
+        "@id": "_:g502740"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g502820"
+        "@id": "_:g502760"
       }
     ],
     "http://schema.org/image": [
@@ -1673,13 +1679,13 @@
         "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/#primaryimage"
       },
       {
-        "@id": "_:g502840"
+        "@id": "_:g502780"
       },
       {
-        "@id": "_:g502860"
+        "@id": "_:g502800"
       },
       {
-        "@id": "_:g502880"
+        "@id": "_:g502820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1701,13 +1707,13 @@
     ]
   },
   {
-    "@id": "_:g502760",
+    "@id": "_:g502700",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g502780"
+        "@id": "_:g502720"
       }
     ],
     "http://schema.org/name": [
@@ -1718,7 +1724,7 @@
     ]
   },
   {
-    "@id": "_:g502800",
+    "@id": "_:g502740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1736,7 +1742,7 @@
     ]
   },
   {
-    "@id": "_:g502820",
+    "@id": "_:g502760",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1782,7 +1788,7 @@
     ]
   },
   {
-    "@id": "_:g502840",
+    "@id": "_:g502780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1805,7 +1811,7 @@
     ]
   },
   {
-    "@id": "_:g502860",
+    "@id": "_:g502800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1828,7 +1834,7 @@
     ]
   },
   {
-    "@id": "_:g502880",
+    "@id": "_:g502820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1851,7 +1857,7 @@
     ]
   },
   {
-    "@id": "_:g502780",
+    "@id": "_:g502720",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -1906,7 +1912,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-05-22T17:31:40+00:00"
+        "@value": "2025-06-23T19:24:55+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1957,7 +1963,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g510860"
+        "@id": "_:g510700"
       }
     ],
     "http://schema.org/startDate": [
@@ -1968,12 +1974,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g510900"
+        "@id": "_:g510740"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g510920"
+        "@id": "_:g510760"
       }
     ],
     "http://schema.org/image": [
@@ -1981,13 +1987,13 @@
         "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/#primaryimage"
       },
       {
-        "@id": "_:g510940"
+        "@id": "_:g510780"
       },
       {
-        "@id": "_:g510960"
+        "@id": "_:g510800"
       },
       {
-        "@id": "_:g510980"
+        "@id": "_:g510820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2009,13 +2015,13 @@
     ]
   },
   {
-    "@id": "_:g510860",
+    "@id": "_:g510700",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g510880"
+        "@id": "_:g510720"
       }
     ],
     "http://schema.org/name": [
@@ -2026,14 +2032,14 @@
     ]
   },
   {
-    "@id": "_:g510900",
+    "@id": "_:g510740",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/price": [
       {
         "@language": "fr",
-        "@value": "57"
+        "@value": "59"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -2044,7 +2050,7 @@
     ]
   },
   {
-    "@id": "_:g510920",
+    "@id": "_:g510760",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2090,7 +2096,7 @@
     ]
   },
   {
-    "@id": "_:g510940",
+    "@id": "_:g510780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2113,7 +2119,7 @@
     ]
   },
   {
-    "@id": "_:g510960",
+    "@id": "_:g510800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2136,7 +2142,7 @@
     ]
   },
   {
-    "@id": "_:g510980",
+    "@id": "_:g510820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2159,7 +2165,7 @@
     ]
   },
   {
-    "@id": "_:g510880",
+    "@id": "_:g510720",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -2214,7 +2220,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-06-02T13:19:37+00:00"
+        "@value": "2025-06-23T19:25:56+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -2265,7 +2271,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g519120"
+        "@id": "_:g518940"
       }
     ],
     "http://schema.org/startDate": [
@@ -2276,12 +2282,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g519160"
+        "@id": "_:g518980"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g519180"
+        "@id": "_:g519000"
       }
     ],
     "http://schema.org/image": [
@@ -2289,13 +2295,13 @@
         "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/#primaryimage"
       },
       {
-        "@id": "_:g519200"
+        "@id": "_:g519020"
       },
       {
-        "@id": "_:g519220"
+        "@id": "_:g519040"
       },
       {
-        "@id": "_:g519240"
+        "@id": "_:g519060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2317,13 +2323,13 @@
     ]
   },
   {
-    "@id": "_:g519120",
+    "@id": "_:g518940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g519140"
+        "@id": "_:g518960"
       }
     ],
     "http://schema.org/name": [
@@ -2334,14 +2340,14 @@
     ]
   },
   {
-    "@id": "_:g519160",
+    "@id": "_:g518980",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/price": [
       {
         "@language": "fr",
-        "@value": "59"
+        "@value": "61"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -2352,7 +2358,7 @@
     ]
   },
   {
-    "@id": "_:g519180",
+    "@id": "_:g519000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2398,7 +2404,7 @@
     ]
   },
   {
-    "@id": "_:g519200",
+    "@id": "_:g519020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2421,7 +2427,7 @@
     ]
   },
   {
-    "@id": "_:g519220",
+    "@id": "_:g519040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2444,7 +2450,7 @@
     ]
   },
   {
-    "@id": "_:g519240",
+    "@id": "_:g519060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2467,7 +2473,7 @@
     ]
   },
   {
-    "@id": "_:g519140",
+    "@id": "_:g518960",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -2567,7 +2573,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g527460"
+        "@id": "_:g527260"
       }
     ],
     "http://schema.org/startDate": [
@@ -2578,12 +2584,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g527500"
+        "@id": "_:g527300"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g527520"
+        "@id": "_:g527320"
       }
     ],
     "http://schema.org/image": [
@@ -2591,13 +2597,13 @@
         "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/#primaryimage"
       },
       {
-        "@id": "_:g527540"
+        "@id": "_:g527340"
       },
       {
-        "@id": "_:g527560"
+        "@id": "_:g527360"
       },
       {
-        "@id": "_:g527580"
+        "@id": "_:g527380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2619,13 +2625,13 @@
     ]
   },
   {
-    "@id": "_:g527460",
+    "@id": "_:g527260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g527480"
+        "@id": "_:g527280"
       }
     ],
     "http://schema.org/name": [
@@ -2636,7 +2642,7 @@
     ]
   },
   {
-    "@id": "_:g527500",
+    "@id": "_:g527300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2654,7 +2660,7 @@
     ]
   },
   {
-    "@id": "_:g527520",
+    "@id": "_:g527320",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2700,7 +2706,7 @@
     ]
   },
   {
-    "@id": "_:g527540",
+    "@id": "_:g527340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2723,7 +2729,7 @@
     ]
   },
   {
-    "@id": "_:g527560",
+    "@id": "_:g527360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2746,7 +2752,7 @@
     ]
   },
   {
-    "@id": "_:g527580",
+    "@id": "_:g527380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2769,7 +2775,7 @@
     ]
   },
   {
-    "@id": "_:g527480",
+    "@id": "_:g527280",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -2869,7 +2875,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g535620"
+        "@id": "_:g535420"
       }
     ],
     "http://schema.org/startDate": [
@@ -2880,12 +2886,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g535660"
+        "@id": "_:g535460"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g535680"
+        "@id": "_:g535480"
       }
     ],
     "http://schema.org/image": [
@@ -2893,13 +2899,13 @@
         "@id": "https://www.osq.org/concerts/experience-nils-wanderer/#primaryimage"
       },
       {
-        "@id": "_:g535700"
+        "@id": "_:g535500"
       },
       {
-        "@id": "_:g535720"
+        "@id": "_:g535520"
       },
       {
-        "@id": "_:g535740"
+        "@id": "_:g535540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2921,13 +2927,13 @@
     ]
   },
   {
-    "@id": "_:g535620",
+    "@id": "_:g535420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g535640"
+        "@id": "_:g535440"
       }
     ],
     "http://schema.org/name": [
@@ -2938,7 +2944,7 @@
     ]
   },
   {
-    "@id": "_:g535660",
+    "@id": "_:g535460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2956,7 +2962,7 @@
     ]
   },
   {
-    "@id": "_:g535680",
+    "@id": "_:g535480",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3002,7 +3008,7 @@
     ]
   },
   {
-    "@id": "_:g535700",
+    "@id": "_:g535500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3025,7 +3031,7 @@
     ]
   },
   {
-    "@id": "_:g535720",
+    "@id": "_:g535520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3048,7 +3054,7 @@
     ]
   },
   {
-    "@id": "_:g535740",
+    "@id": "_:g535540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3071,7 +3077,7 @@
     ]
   },
   {
-    "@id": "_:g535640",
+    "@id": "_:g535440",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -3177,7 +3183,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g543960"
+        "@id": "_:g543800"
       }
     ],
     "http://schema.org/startDate": [
@@ -3188,12 +3194,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g544000"
+        "@id": "_:g543840"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g544020"
+        "@id": "_:g543860"
       }
     ],
     "http://schema.org/image": [
@@ -3201,13 +3207,13 @@
         "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/#primaryimage"
       },
       {
-        "@id": "_:g544040"
+        "@id": "_:g543880"
       },
       {
-        "@id": "_:g544060"
+        "@id": "_:g543900"
       },
       {
-        "@id": "_:g544080"
+        "@id": "_:g543920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3229,13 +3235,13 @@
     ]
   },
   {
-    "@id": "_:g543960",
+    "@id": "_:g543800",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g543980"
+        "@id": "_:g543820"
       }
     ],
     "http://schema.org/name": [
@@ -3246,7 +3252,7 @@
     ]
   },
   {
-    "@id": "_:g544000",
+    "@id": "_:g543840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3264,7 +3270,7 @@
     ]
   },
   {
-    "@id": "_:g544020",
+    "@id": "_:g543860",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3310,7 +3316,7 @@
     ]
   },
   {
-    "@id": "_:g544040",
+    "@id": "_:g543880",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3333,7 +3339,7 @@
     ]
   },
   {
-    "@id": "_:g544060",
+    "@id": "_:g543900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3356,7 +3362,7 @@
     ]
   },
   {
-    "@id": "_:g544080",
+    "@id": "_:g543920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3379,7 +3385,7 @@
     ]
   },
   {
-    "@id": "_:g543980",
+    "@id": "_:g543820",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -3434,7 +3440,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-05-22T17:32:28+00:00"
+        "@value": "2025-06-23T19:26:31+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -3485,7 +3491,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g552280"
+        "@id": "_:g552080"
       }
     ],
     "http://schema.org/startDate": [
@@ -3496,12 +3502,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g552320"
+        "@id": "_:g552120"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g552340"
+        "@id": "_:g552140"
       }
     ],
     "http://schema.org/image": [
@@ -3509,13 +3515,13 @@
         "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/#primaryimage"
       },
       {
-        "@id": "_:g552360"
+        "@id": "_:g552160"
       },
       {
-        "@id": "_:g552380"
+        "@id": "_:g552180"
       },
       {
-        "@id": "_:g552400"
+        "@id": "_:g552200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3537,13 +3543,13 @@
     ]
   },
   {
-    "@id": "_:g552280",
+    "@id": "_:g552080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g552300"
+        "@id": "_:g552100"
       }
     ],
     "http://schema.org/name": [
@@ -3554,14 +3560,14 @@
     ]
   },
   {
-    "@id": "_:g552320",
+    "@id": "_:g552120",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/price": [
       {
         "@language": "fr",
-        "@value": "57"
+        "@value": "59"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -3572,7 +3578,7 @@
     ]
   },
   {
-    "@id": "_:g552340",
+    "@id": "_:g552140",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3618,7 +3624,7 @@
     ]
   },
   {
-    "@id": "_:g552360",
+    "@id": "_:g552160",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3641,7 +3647,7 @@
     ]
   },
   {
-    "@id": "_:g552380",
+    "@id": "_:g552180",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3664,7 +3670,7 @@
     ]
   },
   {
-    "@id": "_:g552400",
+    "@id": "_:g552200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3687,7 +3693,7 @@
     ]
   },
   {
-    "@id": "_:g552300",
+    "@id": "_:g552100",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -3793,7 +3799,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g560500"
+        "@id": "_:g560300"
       }
     ],
     "http://schema.org/startDate": [
@@ -3804,12 +3810,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g560540"
+        "@id": "_:g560340"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g560560"
+        "@id": "_:g560360"
       }
     ],
     "http://schema.org/image": [
@@ -3817,13 +3823,13 @@
         "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/#primaryimage"
       },
       {
-        "@id": "_:g560580"
+        "@id": "_:g560380"
       },
       {
-        "@id": "_:g560600"
+        "@id": "_:g560400"
       },
       {
-        "@id": "_:g560620"
+        "@id": "_:g560420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3845,13 +3851,13 @@
     ]
   },
   {
-    "@id": "_:g560500",
+    "@id": "_:g560300",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g560520"
+        "@id": "_:g560320"
       }
     ],
     "http://schema.org/name": [
@@ -3862,7 +3868,7 @@
     ]
   },
   {
-    "@id": "_:g560540",
+    "@id": "_:g560340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3880,7 +3886,7 @@
     ]
   },
   {
-    "@id": "_:g560560",
+    "@id": "_:g560360",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3926,7 +3932,7 @@
     ]
   },
   {
-    "@id": "_:g560580",
+    "@id": "_:g560380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3949,7 +3955,7 @@
     ]
   },
   {
-    "@id": "_:g560600",
+    "@id": "_:g560400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3972,7 +3978,7 @@
     ]
   },
   {
-    "@id": "_:g560620",
+    "@id": "_:g560420",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3995,7 +4001,7 @@
     ]
   },
   {
-    "@id": "_:g560520",
+    "@id": "_:g560320",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -4101,7 +4107,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g568920"
+        "@id": "_:g568760"
       }
     ],
     "http://schema.org/startDate": [
@@ -4112,12 +4118,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g568960"
+        "@id": "_:g568800"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g568980"
+        "@id": "_:g568820"
       }
     ],
     "http://schema.org/image": [
@@ -4125,13 +4131,13 @@
         "@id": "https://www.osq.org/concerts/hollywood-9/#primaryimage"
       },
       {
-        "@id": "_:g569000"
+        "@id": "_:g568840"
       },
       {
-        "@id": "_:g569020"
+        "@id": "_:g568860"
       },
       {
-        "@id": "_:g569040"
+        "@id": "_:g568880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4153,13 +4159,13 @@
     ]
   },
   {
-    "@id": "_:g568920",
+    "@id": "_:g568760",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g568940"
+        "@id": "_:g568780"
       }
     ],
     "http://schema.org/name": [
@@ -4170,7 +4176,7 @@
     ]
   },
   {
-    "@id": "_:g568960",
+    "@id": "_:g568800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4188,7 +4194,7 @@
     ]
   },
   {
-    "@id": "_:g568980",
+    "@id": "_:g568820",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4234,7 +4240,7 @@
     ]
   },
   {
-    "@id": "_:g569000",
+    "@id": "_:g568840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4257,7 +4263,7 @@
     ]
   },
   {
-    "@id": "_:g569020",
+    "@id": "_:g568860",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4280,7 +4286,7 @@
     ]
   },
   {
-    "@id": "_:g569040",
+    "@id": "_:g568880",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4303,7 +4309,7 @@
     ]
   },
   {
-    "@id": "_:g568940",
+    "@id": "_:g568780",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -4409,7 +4415,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g577140"
+        "@id": "_:g577000"
       }
     ],
     "http://schema.org/startDate": [
@@ -4420,12 +4426,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g577180"
+        "@id": "_:g577040"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g577200"
+        "@id": "_:g577060"
       }
     ],
     "http://schema.org/image": [
@@ -4433,13 +4439,13 @@
         "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/#primaryimage"
       },
       {
-        "@id": "_:g577220"
+        "@id": "_:g577080"
       },
       {
-        "@id": "_:g577240"
+        "@id": "_:g577100"
       },
       {
-        "@id": "_:g577260"
+        "@id": "_:g577120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4461,13 +4467,13 @@
     ]
   },
   {
-    "@id": "_:g577140",
+    "@id": "_:g577000",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g577160"
+        "@id": "_:g577020"
       }
     ],
     "http://schema.org/name": [
@@ -4478,7 +4484,7 @@
     ]
   },
   {
-    "@id": "_:g577180",
+    "@id": "_:g577040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4496,7 +4502,7 @@
     ]
   },
   {
-    "@id": "_:g577200",
+    "@id": "_:g577060",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4542,7 +4548,7 @@
     ]
   },
   {
-    "@id": "_:g577220",
+    "@id": "_:g577080",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4565,7 +4571,7 @@
     ]
   },
   {
-    "@id": "_:g577240",
+    "@id": "_:g577100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4588,7 +4594,7 @@
     ]
   },
   {
-    "@id": "_:g577260",
+    "@id": "_:g577120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4611,7 +4617,7 @@
     ]
   },
   {
-    "@id": "_:g577160",
+    "@id": "_:g577020",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -4717,7 +4723,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g585500"
+        "@id": "_:g585260"
       }
     ],
     "http://schema.org/startDate": [
@@ -4728,12 +4734,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g585540"
+        "@id": "_:g585300"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g585560"
+        "@id": "_:g585320"
       }
     ],
     "http://schema.org/image": [
@@ -4741,13 +4747,13 @@
         "@id": "https://www.osq.org/concerts/vikings-symphoniques/#primaryimage"
       },
       {
-        "@id": "_:g585580"
+        "@id": "_:g585340"
       },
       {
-        "@id": "_:g585600"
+        "@id": "_:g585360"
       },
       {
-        "@id": "_:g585620"
+        "@id": "_:g585380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4769,13 +4775,13 @@
     ]
   },
   {
-    "@id": "_:g585500",
+    "@id": "_:g585260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g585520"
+        "@id": "_:g585280"
       }
     ],
     "http://schema.org/name": [
@@ -4786,7 +4792,7 @@
     ]
   },
   {
-    "@id": "_:g585540",
+    "@id": "_:g585300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4804,7 +4810,7 @@
     ]
   },
   {
-    "@id": "_:g585560",
+    "@id": "_:g585320",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4850,7 +4856,7 @@
     ]
   },
   {
-    "@id": "_:g585580",
+    "@id": "_:g585340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4873,7 +4879,7 @@
     ]
   },
   {
-    "@id": "_:g585600",
+    "@id": "_:g585360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4896,7 +4902,7 @@
     ]
   },
   {
-    "@id": "_:g585620",
+    "@id": "_:g585380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4919,7 +4925,7 @@
     ]
   },
   {
-    "@id": "_:g585520",
+    "@id": "_:g585280",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -4971,6 +4977,12 @@
         "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
       }
     ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-23T19:09:51+00:00"
+      }
+    ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-fr",
@@ -5019,7 +5031,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g593520"
+        "@id": "_:g593280"
       }
     ],
     "http://schema.org/startDate": [
@@ -5030,12 +5042,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g593560"
+        "@id": "_:g593320"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g593580"
+        "@id": "_:g593340"
       }
     ],
     "http://schema.org/image": [
@@ -5043,13 +5055,13 @@
         "@id": "https://www.osq.org/concerts/2freres-symphonique/#primaryimage"
       },
       {
-        "@id": "_:g593600"
+        "@id": "_:g593360"
       },
       {
-        "@id": "_:g593620"
+        "@id": "_:g593380"
       },
       {
-        "@id": "_:g593640"
+        "@id": "_:g593400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5066,18 +5078,18 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Erik Caouette, auteur-compositeur-interprète\r\nSonny Caouette, auteur-compositeur-interprète\r\n\r\nConnus pour leurs textes sincères et leur engagement envers la société québécoise, 2Frères donnent une nouvelle couleur à leurs chansons avec une fusion parfaite entre la puissance de l’Orchestre et la sensibilité des mélodies. Entre folk, rock et influences de musique traditionnelle, leur répertoire prend une ampleur inédite dans ces arrangements orchestraux spécialement conçus pour l’occasion.\r\n\r\nRedécouvrez leurs plus grands succès — de Nous autres à Sous le même toit — ainsi que des pièces de leur dernier album Science humaine, où chaque chanson résonne avec les valeurs du Québec, apportant une profondeur et une dimension particulière à leurs airs rassembleurs. Une soirée sous le signe de la solidarité, de l’émotion et du partage!"
+        "@value": "Adam Johnson, chef\r\nErik Caouette, auteur-compositeur-interprète\r\nSonny Caouette, auteur-compositeur-interprète\r\n\r\nConnus pour leurs textes sincères et leur engagement envers la société québécoise, 2Frères donnent une nouvelle couleur à leurs chansons avec une fusion parfaite entre la puissance de l’Orchestre et la sensibilité des mélodies. Entre folk, rock et influences de musique traditionnelle, leur répertoire prend une ampleur inédite dans ces arrangements orchestraux spécialement conçus pour l’occasion.\r\n\r\nRedécouvrez leurs plus grands succès — de Nous autres à Sous le même toit — ainsi que des pièces de leur dernier album Science humaine, où chaque chanson résonne avec les valeurs du Québec, apportant une profondeur et une dimension particulière à leurs airs rassembleurs. Une soirée sous le signe de la solidarité, de l’émotion et du partage!"
       }
     ]
   },
   {
-    "@id": "_:g593520",
+    "@id": "_:g593280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g593540"
+        "@id": "_:g593300"
       }
     ],
     "http://schema.org/name": [
@@ -5088,7 +5100,7 @@
     ]
   },
   {
-    "@id": "_:g593560",
+    "@id": "_:g593320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5106,7 +5118,7 @@
     ]
   },
   {
-    "@id": "_:g593580",
+    "@id": "_:g593340",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5152,7 +5164,7 @@
     ]
   },
   {
-    "@id": "_:g593600",
+    "@id": "_:g593360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5175,7 +5187,7 @@
     ]
   },
   {
-    "@id": "_:g593620",
+    "@id": "_:g593380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5198,7 +5210,7 @@
     ]
   },
   {
-    "@id": "_:g593640",
+    "@id": "_:g593400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5221,7 +5233,7 @@
     ]
   },
   {
-    "@id": "_:g593540",
+    "@id": "_:g593300",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -5321,7 +5333,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g601560"
+        "@id": "_:g601440"
       }
     ],
     "http://schema.org/startDate": [
@@ -5332,12 +5344,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g601600"
+        "@id": "_:g601480"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g601620"
+        "@id": "_:g601500"
       }
     ],
     "http://schema.org/image": [
@@ -5345,13 +5357,13 @@
         "@id": "https://www.osq.org/concerts/la-folie-ophelie/#primaryimage"
       },
       {
-        "@id": "_:g601640"
+        "@id": "_:g601520"
       },
       {
-        "@id": "_:g601660"
+        "@id": "_:g601540"
       },
       {
-        "@id": "_:g601680"
+        "@id": "_:g601560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5373,13 +5385,13 @@
     ]
   },
   {
-    "@id": "_:g601560",
+    "@id": "_:g601440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g601580"
+        "@id": "_:g601460"
       }
     ],
     "http://schema.org/name": [
@@ -5390,7 +5402,7 @@
     ]
   },
   {
-    "@id": "_:g601600",
+    "@id": "_:g601480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5408,7 +5420,7 @@
     ]
   },
   {
-    "@id": "_:g601620",
+    "@id": "_:g601500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5454,7 +5466,7 @@
     ]
   },
   {
-    "@id": "_:g601640",
+    "@id": "_:g601520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5477,7 +5489,7 @@
     ]
   },
   {
-    "@id": "_:g601660",
+    "@id": "_:g601540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5500,7 +5512,7 @@
     ]
   },
   {
-    "@id": "_:g601680",
+    "@id": "_:g601560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5523,7 +5535,7 @@
     ]
   },
   {
-    "@id": "_:g601580",
+    "@id": "_:g601460",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -5629,7 +5641,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g609860"
+        "@id": "_:g609740"
       }
     ],
     "http://schema.org/startDate": [
@@ -5640,12 +5652,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g609900"
+        "@id": "_:g609780"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g609920"
+        "@id": "_:g609800"
       }
     ],
     "http://schema.org/image": [
@@ -5653,13 +5665,13 @@
         "@id": "https://www.osq.org/concerts/un-americain-a-paris/#primaryimage"
       },
       {
-        "@id": "_:g609940"
+        "@id": "_:g609820"
       },
       {
-        "@id": "_:g609960"
+        "@id": "_:g609840"
       },
       {
-        "@id": "_:g609980"
+        "@id": "_:g609860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5681,13 +5693,13 @@
     ]
   },
   {
-    "@id": "_:g609860",
+    "@id": "_:g609740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g609880"
+        "@id": "_:g609760"
       }
     ],
     "http://schema.org/name": [
@@ -5698,7 +5710,7 @@
     ]
   },
   {
-    "@id": "_:g609900",
+    "@id": "_:g609780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5716,7 +5728,7 @@
     ]
   },
   {
-    "@id": "_:g609920",
+    "@id": "_:g609800",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5762,7 +5774,7 @@
     ]
   },
   {
-    "@id": "_:g609940",
+    "@id": "_:g609820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5785,7 +5797,7 @@
     ]
   },
   {
-    "@id": "_:g609960",
+    "@id": "_:g609840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5808,7 +5820,7 @@
     ]
   },
   {
-    "@id": "_:g609980",
+    "@id": "_:g609860",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5831,7 +5843,7 @@
     ]
   },
   {
-    "@id": "_:g609880",
+    "@id": "_:g609760",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -5937,7 +5949,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g618100"
+        "@id": "_:g618020"
       }
     ],
     "http://schema.org/startDate": [
@@ -5948,12 +5960,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g618140"
+        "@id": "_:g618060"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g618160"
+        "@id": "_:g618080"
       }
     ],
     "http://schema.org/image": [
@@ -5961,13 +5973,13 @@
         "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/#primaryimage"
       },
       {
-        "@id": "_:g618180"
+        "@id": "_:g618100"
       },
       {
-        "@id": "_:g618200"
+        "@id": "_:g618120"
       },
       {
-        "@id": "_:g618220"
+        "@id": "_:g618140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5989,13 +6001,13 @@
     ]
   },
   {
-    "@id": "_:g618100",
+    "@id": "_:g618020",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g618120"
+        "@id": "_:g618040"
       }
     ],
     "http://schema.org/name": [
@@ -6006,7 +6018,7 @@
     ]
   },
   {
-    "@id": "_:g618140",
+    "@id": "_:g618060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6024,7 +6036,7 @@
     ]
   },
   {
-    "@id": "_:g618160",
+    "@id": "_:g618080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -6070,7 +6082,7 @@
     ]
   },
   {
-    "@id": "_:g618180",
+    "@id": "_:g618100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6093,7 +6105,7 @@
     ]
   },
   {
-    "@id": "_:g618200",
+    "@id": "_:g618120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6116,7 +6128,7 @@
     ]
   },
   {
-    "@id": "_:g618220",
+    "@id": "_:g618140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6139,7 +6151,7 @@
     ]
   },
   {
-    "@id": "_:g618120",
+    "@id": "_:g618040",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
@@ -6245,7 +6257,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g626340"
+        "@id": "_:g626240"
       }
     ],
     "http://schema.org/startDate": [
@@ -6256,12 +6268,12 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g626380"
+        "@id": "_:g626280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g626400"
+        "@id": "_:g626300"
       }
     ],
     "http://schema.org/image": [
@@ -6269,13 +6281,13 @@
         "@id": "https://www.osq.org/concerts/carmina-burana/#primaryimage"
       },
       {
-        "@id": "_:g626420"
+        "@id": "_:g626320"
       },
       {
-        "@id": "_:g626440"
+        "@id": "_:g626340"
       },
       {
-        "@id": "_:g626460"
+        "@id": "_:g626360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6297,13 +6309,13 @@
     ]
   },
   {
-    "@id": "_:g626340",
+    "@id": "_:g626240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g626360"
+        "@id": "_:g626260"
       }
     ],
     "http://schema.org/name": [
@@ -6314,7 +6326,7 @@
     ]
   },
   {
-    "@id": "_:g626380",
+    "@id": "_:g626280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6332,7 +6344,7 @@
     ]
   },
   {
-    "@id": "_:g626400",
+    "@id": "_:g626300",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -6378,7 +6390,7 @@
     ]
   },
   {
-    "@id": "_:g626420",
+    "@id": "_:g626320",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6401,7 +6413,7 @@
     ]
   },
   {
-    "@id": "_:g626440",
+    "@id": "_:g626340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6424,7 +6436,7 @@
     ]
   },
   {
-    "@id": "_:g626460",
+    "@id": "_:g626360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6447,7 +6459,7 @@
     ]
   },
   {
-    "@id": "_:g626360",
+    "@id": "_:g626260",
     "http://schema.org/addressCountry": [
       {
         "@language": "fr",
