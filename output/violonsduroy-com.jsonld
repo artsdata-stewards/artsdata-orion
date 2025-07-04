@@ -1,194 +1,5 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Festival International du Domaine Forget"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/4192",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-28T16:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-28T16:00:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g461680"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/3dzhitgy/mathieu-lussier-1920x1080.png"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g461720"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g461740"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-06-28_16h_festival-international-du-domaine-forget-4192/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Festival International du Domaine Forget"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Concert d'ouverture : Hymne à la découverte\nMathieu Lussier, chefCarlos Ferreira, clarinetteBenedetto Lupo, piano\nEn savoir plus"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461680",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g461700"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle de concert du Domaine Forget de Charlevoix"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461720",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461740",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://domaineforget.ticketacces.net/en/organisation/achat/recherche-manuelle.cfm?RepresentationID=839&SectionsID=3%2C4%2C2%2C1?RepresentationID=839&SectionsID=3%2C4%2C2%2C1"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461700",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "5, rang Saint-Antoine"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Saint-Irénée"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G0T 1V0"
-      }
-    ]
-  },
-  {
     "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-07-19_19h30_festival-international-du-domaine-forget-4194/",
     "http://ogp.me/ns#site_name": [
       {
@@ -245,7 +56,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g467520"
+        "@id": "_:g461680"
       }
     ],
     "http://schema.org/image": [
@@ -255,7 +66,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g467560"
+        "@id": "_:g461720"
       }
     ],
     "http://schema.org/additionalType": [
@@ -265,7 +76,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g467580"
+        "@id": "_:g461740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -293,13 +104,13 @@
     ]
   },
   {
-    "@id": "_:g467520",
+    "@id": "_:g461680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g467540"
+        "@id": "_:g461700"
       }
     ],
     "http://schema.org/name": [
@@ -310,7 +121,7 @@
     ]
   },
   {
-    "@id": "_:g467560",
+    "@id": "_:g461720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -332,7 +143,7 @@
     ]
   },
   {
-    "@id": "_:g467580",
+    "@id": "_:g461740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -343,7 +154,7 @@
     ]
   },
   {
-    "@id": "_:g467540",
+    "@id": "_:g461700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -434,7 +245,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g473320"
+        "@id": "_:g467540"
       }
     ],
     "http://schema.org/image": [
@@ -444,7 +255,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g473360"
+        "@id": "_:g467580"
       }
     ],
     "http://schema.org/additionalType": [
@@ -454,7 +265,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g473380"
+        "@id": "_:g467600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -482,13 +293,13 @@
     ]
   },
   {
-    "@id": "_:g473320",
+    "@id": "_:g467540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g473340"
+        "@id": "_:g467560"
       }
     ],
     "http://schema.org/name": [
@@ -499,7 +310,7 @@
     ]
   },
   {
-    "@id": "_:g473360",
+    "@id": "_:g467580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -521,7 +332,7 @@
     ]
   },
   {
-    "@id": "_:g473380",
+    "@id": "_:g467600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -532,7 +343,7 @@
     ]
   },
   {
-    "@id": "_:g473340",
+    "@id": "_:g467560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -623,7 +434,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g479140"
+        "@id": "_:g472700"
       }
     ],
     "http://schema.org/image": [
@@ -633,7 +444,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g479180"
+        "@id": "_:g472740"
       }
     ],
     "http://schema.org/additionalType": [
@@ -643,7 +454,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g479200"
+        "@id": "_:g472760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -671,13 +482,13 @@
     ]
   },
   {
-    "@id": "_:g479140",
+    "@id": "_:g472700",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g479160"
+        "@id": "_:g472720"
       }
     ],
     "http://schema.org/name": [
@@ -688,7 +499,7 @@
     ]
   },
   {
-    "@id": "_:g479180",
+    "@id": "_:g472740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -710,7 +521,7 @@
     ]
   },
   {
-    "@id": "_:g479200",
+    "@id": "_:g472760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -721,7 +532,7 @@
     ]
   },
   {
-    "@id": "_:g479160",
+    "@id": "_:g472720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -812,7 +623,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g484960"
+        "@id": "_:g478520"
       }
     ],
     "http://schema.org/image": [
@@ -822,7 +633,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g485000"
+        "@id": "_:g478560"
       }
     ],
     "http://schema.org/additionalType": [
@@ -832,7 +643,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g485020"
+        "@id": "_:g478580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -860,13 +671,13 @@
     ]
   },
   {
-    "@id": "_:g484960",
+    "@id": "_:g478520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g484980"
+        "@id": "_:g478540"
       }
     ],
     "http://schema.org/name": [
@@ -877,7 +688,7 @@
     ]
   },
   {
-    "@id": "_:g485000",
+    "@id": "_:g478560",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -899,7 +710,7 @@
     ]
   },
   {
-    "@id": "_:g485020",
+    "@id": "_:g478580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -910,7 +721,7 @@
     ]
   },
   {
-    "@id": "_:g484980",
+    "@id": "_:g478540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1001,7 +812,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g490780"
+        "@id": "_:g484340"
       }
     ],
     "http://schema.org/image": [
@@ -1011,7 +822,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g490820"
+        "@id": "_:g484380"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1021,7 +832,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g490840"
+        "@id": "_:g484400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1049,13 +860,13 @@
     ]
   },
   {
-    "@id": "_:g490780",
+    "@id": "_:g484340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g490800"
+        "@id": "_:g484360"
       }
     ],
     "http://schema.org/name": [
@@ -1066,7 +877,7 @@
     ]
   },
   {
-    "@id": "_:g490820",
+    "@id": "_:g484380",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1088,7 +899,7 @@
     ]
   },
   {
-    "@id": "_:g490840",
+    "@id": "_:g484400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1099,7 +910,7 @@
     ]
   },
   {
-    "@id": "_:g490800",
+    "@id": "_:g484360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1190,7 +1001,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g495980"
+        "@id": "_:g490240"
       }
     ],
     "http://schema.org/image": [
@@ -1200,12 +1011,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g496020"
+        "@id": "_:g490280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g496040"
+        "@id": "_:g490300"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1215,7 +1026,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g496060"
+        "@id": "_:g490320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1243,13 +1054,13 @@
     ]
   },
   {
-    "@id": "_:g495980",
+    "@id": "_:g490240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g496000"
+        "@id": "_:g490260"
       }
     ],
     "http://schema.org/name": [
@@ -1260,7 +1071,7 @@
     ]
   },
   {
-    "@id": "_:g496020",
+    "@id": "_:g490280",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1280,7 +1091,7 @@
     ]
   },
   {
-    "@id": "_:g496040",
+    "@id": "_:g490300",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1302,7 +1113,7 @@
     ]
   },
   {
-    "@id": "_:g496060",
+    "@id": "_:g490320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1313,7 +1124,7 @@
     ]
   },
   {
-    "@id": "_:g496000",
+    "@id": "_:g490260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1404,7 +1215,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g502360"
+        "@id": "_:g496540"
       }
     ],
     "http://schema.org/image": [
@@ -1414,12 +1225,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g502400"
+        "@id": "_:g496580"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g502420"
+        "@id": "_:g496600"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1429,7 +1240,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g502440"
+        "@id": "_:g496620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1457,13 +1268,13 @@
     ]
   },
   {
-    "@id": "_:g502360",
+    "@id": "_:g496540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g502380"
+        "@id": "_:g496560"
       }
     ],
     "http://schema.org/name": [
@@ -1474,7 +1285,7 @@
     ]
   },
   {
-    "@id": "_:g502400",
+    "@id": "_:g496580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1494,7 +1305,7 @@
     ]
   },
   {
-    "@id": "_:g502420",
+    "@id": "_:g496600",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1516,7 +1327,7 @@
     ]
   },
   {
-    "@id": "_:g502440",
+    "@id": "_:g496620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1527,7 +1338,7 @@
     ]
   },
   {
-    "@id": "_:g502380",
+    "@id": "_:g496560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1624,7 +1435,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508620"
+        "@id": "_:g502780"
       }
     ],
     "http://schema.org/image": [
@@ -1634,7 +1445,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g508660"
+        "@id": "_:g502820"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1644,7 +1455,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508680"
+        "@id": "_:g502840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1672,13 +1483,13 @@
     ]
   },
   {
-    "@id": "_:g508620",
+    "@id": "_:g502780",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508640"
+        "@id": "_:g502800"
       }
     ],
     "http://schema.org/name": [
@@ -1689,7 +1500,7 @@
     ]
   },
   {
-    "@id": "_:g508660",
+    "@id": "_:g502820",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1711,7 +1522,7 @@
     ]
   },
   {
-    "@id": "_:g508680",
+    "@id": "_:g502840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1722,7 +1533,7 @@
     ]
   },
   {
-    "@id": "_:g508640",
+    "@id": "_:g502800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1819,7 +1630,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g514640"
+        "@id": "_:g508700"
       }
     ],
     "http://schema.org/image": [
@@ -1829,7 +1640,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g514680"
+        "@id": "_:g508740"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1839,7 +1650,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g514700"
+        "@id": "_:g508760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1867,13 +1678,13 @@
     ]
   },
   {
-    "@id": "_:g514640",
+    "@id": "_:g508700",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g514660"
+        "@id": "_:g508720"
       }
     ],
     "http://schema.org/name": [
@@ -1884,7 +1695,7 @@
     ]
   },
   {
-    "@id": "_:g514680",
+    "@id": "_:g508740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1906,7 +1717,7 @@
     ]
   },
   {
-    "@id": "_:g514700",
+    "@id": "_:g508760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1917,13 +1728,288 @@
     ]
   },
   {
-    "@id": "_:g514660",
+    "@id": "_:g508720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
         "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Grand concert ouverture"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/4064",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g514660"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/qvvpwpla/2025-10-09_19h30_grand-concert-ouverture.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g514700"
+      },
+      {
+        "@id": "_:g514720"
+      },
+      {
+        "@id": "_:g514740"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g514760"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g514780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand concert ouverture"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g514680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://askonasholt.com/artist/jonathan-cohen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514720",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://elisabethstgelais.com/a-propos/"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/7pb9IfxSST5JJzodwSlpfg?si=PwHDH7nZTKyqjpPHpU9dlQ"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCNZFCgU4KgvYLJyUxzxAwKA"
+      },
+      {
+        "@id": "https://www.instagram.com/elisabethstgelais/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Elisabeth St-Gelais"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514740",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.cameroncrozman.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/cameroncrozman"
+      },
+      {
+        "@id": "https://www.facebook.com/CameronCrozman/"
+      },
+      {
+        "@id": "https://www.youtube.com/cameroncrozman"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/5uGKHYspEBZmXM7lsOVBTS?si=2WFZayTET2Kz4yl0-oJo1w"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K17-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cameron Crozman"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/grand-concert-douverture2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
       }
     ],
     "http://schema.org/streetAddress": [
