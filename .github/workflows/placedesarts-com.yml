@@ -12,11 +12,10 @@ jobs:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: "fetch-test"
+          mode: "fetch-push"
           artifact: "placedesarts-com"
           publisher: "https://github.com/saumier#this"
           page-url: "https://www.placedesarts.com/sitemaps-1-section-event-1-sitemap-p1.xml"
           entity-identifier: "//loc"
           headless: false
-          report-callback-url: https://webhook.site/2716ad6e-e9c6-41cf-8ecc-d1c633803d1c
           token: "${{ secrets.GITHUB_TOKEN }}"
