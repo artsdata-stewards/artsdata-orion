@@ -1,1037 +1,5 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_14h_ombre-et-lumiere-4063/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_14h_ombre-et-lumiere-4063/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Ombre et lumière, du cinéma à écouter"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_14h_ombre-et-lumiere-4063/4063",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-25T14:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-25T14:00:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_14h_ombre-et-lumiere-4063/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462520"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/d30hkafx/2025-09-25_19h30_ombre-et-lumière.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462560"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g462580"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462600"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_14h_ombre-et-lumiere-4063/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Ombre et lumière, du cinéma à écouter"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "De nombreux chefs-d'œuvre musicaux ont été utilisés au cinéma pour leur puissante force d’évocation, tel le célèbre Adagio de Barber, entendu dans plus d’une vingtaine de films. Un autre compositeur américain, Bernard Herrmann, a souvent été associé au grand réalisateur Alfred Hitchcock, pour lequel il a composé de nombreuses partitions originales dont celle du film Psycho qui a marqué l’imaginaire par son utilisation inoubliable des instruments à cordes.\nDurée : 1h15 (concert sans pause)"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462540"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462560",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.thomasleducmoreau.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/tomleducmoreau/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Thomas Le Duc-Moreau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462600",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/ombre-et-lumiere-du-cinema-a-ecouter14h"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Ombre et lumière, du cinéma à écouter"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/4062",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-25T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-25T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g471720"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/d30hkafx/2025-09-25_19h30_ombre-et-lumière.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g471760"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g471780"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g471800"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-09-25_19h30_ombre-et-lumiere-4062/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Ombre et lumière, du cinéma à écouter"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "De nombreux chefs-d'œuvre musicaux ont été utilisés au cinéma pour leur puissante force d’évocation, tel le célèbre Adagio de Barber, entendu dans plus d’une vingtaine de films. Un autre compositeur américain, Bernard Herrmann, a souvent été associé au grand réalisateur Alfred Hitchcock, pour lequel il a composé de nombreuses partitions originales dont celle du film Psycho qui a marqué l’imaginaire par son utilisation inoubliable des instruments à cordes.\nDurée : 1h55 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471720",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g471740"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471760",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.thomasleducmoreau.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/tomleducmoreau/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Thomas Le Duc-Moreau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471780",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471800",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/ombre-et-lumiere-du-cinema-a-ecouter19h30"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471740",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "\"Série Apéro - musique en convivialité - Les Goûts réunis\""
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Découvrez la série Apéro : des rencontres musicales uniques dans un climat convivial. Au programme : musique baroque française et italienne avec des œuvres de Jacquet de la Guerre, Couperin, Clérambault, Corelli et Vitali. Formule 5 à 7 avec consommation incluse. Admission générale, service de bar dès 17h."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/2skhnqnd/les-gou-ts-re-unis-1800x1800.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/4081",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-01T17:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-01T17:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g480880"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/y0khfown/2025-10-01_17h30_les-goûts-réunis.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g480920"
-      },
-      {
-        "@id": "_:g480940"
-      },
-      {
-        "@id": "_:g480960"
-      },
-      {
-        "@id": "_:g480980"
-      },
-      {
-        "@id": "_:g481000"
-      },
-      {
-        "@id": "_:g481020"
-      },
-      {
-        "@id": "_:g481040"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g481060"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g481080"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-01_17h30_les-gouts-reunis-4081/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Goûts réunis"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, musique baroque française et italienne."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480880",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g480900"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle D’Youville"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480920",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Noëlla Bouchard"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480940",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maud Langlois"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480960",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Katya Poplyansky"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480980",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481000",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jean-Louis Blouin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481020",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Dubé"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481040",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël McNabney"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481060",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481080",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/les-gouts-reunis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480900",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-02_17h30_les-gouts-reunis-4082/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-02_17h30_les-gouts-reunis-4082/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "\"Série Apéro - musique en convivialité - Les Goûts réunis\""
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Découvrez la série Apéro : des rencontres musicales uniques dans un climat convivial. Au programme : musique baroque française et italienne avec des œuvres de Jacquet de la Guerre, Couperin, Clérambault, Corelli et Vitali. Formule 5 à 7 avec consommation incluse. Admission générale, service de bar dès 17h."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/2skhnqnd/les-gou-ts-re-unis-1800x1800.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-02_17h30_les-gouts-reunis-4082/4082",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-02T17:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-02T17:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-02_17h30_les-gouts-reunis-4082/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g491000"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/y0khfown/2025-10-01_17h30_les-goûts-réunis.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g491040"
-      },
-      {
-        "@id": "_:g491060"
-      },
-      {
-        "@id": "_:g491080"
-      },
-      {
-        "@id": "_:g491100"
-      },
-      {
-        "@id": "_:g491120"
-      },
-      {
-        "@id": "_:g491140"
-      },
-      {
-        "@id": "_:g491160"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g491180"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g491200"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-02_17h30_les-gouts-reunis-4082/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Goûts réunis"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, musique baroque française et italienne."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491000",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g491020"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle D’Youville"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491040",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Noëlla Bouchard"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491060",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maud Langlois"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491080",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Katya Poplyansky"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491100",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491120",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jean-Louis Blouin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491140",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël Dubé"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491160",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Raphaël McNabney"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491180",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491200",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/les-gouts-reunis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g491020",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
     "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/",
     "http://ogp.me/ns#site_name": [
       {
@@ -1088,7 +56,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g501100"
+        "@id": "_:g462520"
       }
     ],
     "http://schema.org/image": [
@@ -1098,18 +66,18 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g501140"
+        "@id": "_:g462560"
       },
       {
-        "@id": "_:g501160"
+        "@id": "_:g462580"
       },
       {
-        "@id": "_:g501180"
+        "@id": "_:g462600"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g501200"
+        "@id": "_:g462620"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1119,7 +87,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g501220"
+        "@id": "_:g462640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1130,13 +98,13 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Grand concert ouverture"
+        "@value": "Grand concert d'ouverture"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée."
+        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée.\nDurée : 1h35 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1147,13 +115,13 @@
     ]
   },
   {
-    "@id": "_:g501100",
+    "@id": "_:g462520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g501120"
+        "@id": "_:g462540"
       }
     ],
     "http://schema.org/name": [
@@ -1164,7 +132,7 @@
     ]
   },
   {
-    "@id": "_:g501140",
+    "@id": "_:g462560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1181,7 +149,7 @@
     ]
   },
   {
-    "@id": "_:g501160",
+    "@id": "_:g462580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1207,7 +175,7 @@
     ]
   },
   {
-    "@id": "_:g501180",
+    "@id": "_:g462600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1239,7 +207,7 @@
     ]
   },
   {
-    "@id": "_:g501200",
+    "@id": "_:g462620",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1261,18 +229,18 @@
     ]
   },
   {
-    "@id": "_:g501220",
+    "@id": "_:g462640",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/grand-concert-douverture2025"
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/grand-concert-ouverture2025"
       }
     ]
   },
   {
-    "@id": "_:g501120",
+    "@id": "_:g462540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1363,7 +331,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g511220"
+        "@id": "_:g472680"
       }
     ],
     "http://schema.org/image": [
@@ -1373,18 +341,18 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g511260"
+        "@id": "_:g472720"
       },
       {
-        "@id": "_:g511280"
+        "@id": "_:g472740"
       },
       {
-        "@id": "_:g511300"
+        "@id": "_:g472760"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g511320"
+        "@id": "_:g472780"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1394,7 +362,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g511340"
+        "@id": "_:g472800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1405,13 +373,13 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Grand concert ouverture"
+        "@value": "Grand concert d'ouverture"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée."
+        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée.\nDurée : 1h35 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1422,13 +390,13 @@
     ]
   },
   {
-    "@id": "_:g511220",
+    "@id": "_:g472680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g511240"
+        "@id": "_:g472700"
       }
     ],
     "http://schema.org/name": [
@@ -1439,7 +407,7 @@
     ]
   },
   {
-    "@id": "_:g511260",
+    "@id": "_:g472720",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1456,7 +424,7 @@
     ]
   },
   {
-    "@id": "_:g511280",
+    "@id": "_:g472740",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1482,7 +450,7 @@
     ]
   },
   {
-    "@id": "_:g511300",
+    "@id": "_:g472760",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1514,7 +482,7 @@
     ]
   },
   {
-    "@id": "_:g511320",
+    "@id": "_:g472780",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1536,7 +504,7 @@
     ]
   },
   {
-    "@id": "_:g511340",
+    "@id": "_:g472800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1547,7 +515,7 @@
     ]
   },
   {
-    "@id": "_:g511240",
+    "@id": "_:g472700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1638,7 +606,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g521280"
+        "@id": "_:g482740"
       }
     ],
     "http://schema.org/image": [
@@ -1648,12 +616,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g521320"
+        "@id": "_:g482780"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g521340"
+        "@id": "_:g482800"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1663,7 +631,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g521360"
+        "@id": "_:g482820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1691,13 +659,13 @@
     ]
   },
   {
-    "@id": "_:g521280",
+    "@id": "_:g482740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g521300"
+        "@id": "_:g482760"
       }
     ],
     "http://schema.org/name": [
@@ -1708,7 +676,7 @@
     ]
   },
   {
-    "@id": "_:g521320",
+    "@id": "_:g482780",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1725,7 +693,7 @@
     ]
   },
   {
-    "@id": "_:g521340",
+    "@id": "_:g482800",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1747,7 +715,7 @@
     ]
   },
   {
-    "@id": "_:g521360",
+    "@id": "_:g482820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1758,7 +726,7 @@
     ]
   },
   {
-    "@id": "_:g521300",
+    "@id": "_:g482760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1849,7 +817,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g530480"
+        "@id": "_:g491880"
       }
     ],
     "http://schema.org/image": [
@@ -1859,12 +827,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g530520"
+        "@id": "_:g491920"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g530540"
+        "@id": "_:g491940"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1874,7 +842,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g530560"
+        "@id": "_:g491960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1902,13 +870,13 @@
     ]
   },
   {
-    "@id": "_:g530480",
+    "@id": "_:g491880",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g530500"
+        "@id": "_:g491900"
       }
     ],
     "http://schema.org/name": [
@@ -1919,7 +887,7 @@
     ]
   },
   {
-    "@id": "_:g530520",
+    "@id": "_:g491920",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1936,7 +904,7 @@
     ]
   },
   {
-    "@id": "_:g530540",
+    "@id": "_:g491940",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1958,7 +926,7 @@
     ]
   },
   {
-    "@id": "_:g530560",
+    "@id": "_:g491960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1969,7 +937,7 @@
     ]
   },
   {
-    "@id": "_:g530500",
+    "@id": "_:g491900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2060,7 +1028,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g539740"
+        "@id": "_:g501100"
       }
     ],
     "http://schema.org/image": [
@@ -2070,12 +1038,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g539780"
+        "@id": "_:g501140"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g539800"
+        "@id": "_:g501160"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2085,7 +1053,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g539820"
+        "@id": "_:g501180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2113,13 +1081,13 @@
     ]
   },
   {
-    "@id": "_:g539740",
+    "@id": "_:g501100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g539760"
+        "@id": "_:g501120"
       }
     ],
     "http://schema.org/name": [
@@ -2130,7 +1098,7 @@
     ]
   },
   {
-    "@id": "_:g539780",
+    "@id": "_:g501140",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2147,7 +1115,7 @@
     ]
   },
   {
-    "@id": "_:g539800",
+    "@id": "_:g501160",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2169,7 +1137,7 @@
     ]
   },
   {
-    "@id": "_:g539820",
+    "@id": "_:g501180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2180,7 +1148,7 @@
     ]
   },
   {
-    "@id": "_:g539760",
+    "@id": "_:g501120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2271,7 +1239,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g548940"
+        "@id": "_:g510340"
       }
     ],
     "http://schema.org/image": [
@@ -2279,9 +1247,29 @@
         "@id": "https://www.violonsduroy.com/media/00hbjqai/2025-11-12_17h30_sérénades-romantiques.jpg"
       }
     ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g510380"
+      },
+      {
+        "@id": "_:g510400"
+      },
+      {
+        "@id": "_:g510420"
+      },
+      {
+        "@id": "_:g510440"
+      },
+      {
+        "@id": "_:g510460"
+      },
+      {
+        "@id": "_:g510480"
+      }
+    ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g548980"
+        "@id": "_:g510500"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2291,7 +1279,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g549000"
+        "@id": "_:g510520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2308,7 +1296,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, trios et sextuor romantiques."
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, trios et sextuor romantiques.\nDurée : 1h15 (concert sans pause)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2319,13 +1307,13 @@
     ]
   },
   {
-    "@id": "_:g548940",
+    "@id": "_:g510340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g548960"
+        "@id": "_:g510360"
       }
     ],
     "http://schema.org/name": [
@@ -2336,7 +1324,79 @@
     ]
   },
   {
-    "@id": "_:g548980",
+    "@id": "_:g510380",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510400",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510420",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Isaac Chalk"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510440",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510460",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Benoit Loiselle"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510480",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2358,7 +1418,7 @@
     ]
   },
   {
-    "@id": "_:g549000",
+    "@id": "_:g510520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2369,13 +1429,930 @@
     ]
   },
   {
-    "@id": "_:g548960",
+    "@id": "_:g510360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
         "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-13_17h30_serenades-romantiques-4084/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-13_17h30_serenades-romantiques-4084/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Sérénades romantiques"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-13_17h30_serenades-romantiques-4084/4084",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-13_17h30_serenades-romantiques-4084/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g520280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/00hbjqai/2025-11-12_17h30_sérénades-romantiques.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g520320"
+      },
+      {
+        "@id": "_:g520340"
+      },
+      {
+        "@id": "_:g520360"
+      },
+      {
+        "@id": "_:g520380"
+      },
+      {
+        "@id": "_:g520400"
+      },
+      {
+        "@id": "_:g520420"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g520440"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g520460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-13_17h30_serenades-romantiques-4084/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sérénades romantiques"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, trios et sextuor romantiques.\nDurée : 1h15 (concert sans pause)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520320",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520340",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520360",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Isaac Chalk"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520380",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520400",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Benoit Loiselle"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520420",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/serenades-romantiques"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520300",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-19_19h30_vivaldi-estro-armonico-4067/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-19_19h30_vivaldi-estro-armonico-4067/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Vivaldi, L'Estro armonico"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-19_19h30_vivaldi-estro-armonico-4067/4067",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-19_19h30_vivaldi-estro-armonico-4067/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g530200"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/v1yfv0g3/2025-11-19_19h30_vivaldi-estro-armonico.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g530240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g530260"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g530280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-19_19h30_vivaldi-estro-armonico-4067/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vivaldi, L'Estro armonico"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g530220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530240",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://askonasholt.com/artist/jonathan-cohen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530280",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/vivaldi-lestro-armonico"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-11-22_19h30_vivaldi-estro-armonico-3757/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-11-22_19h30_vivaldi-estro-armonico-3757/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Vivaldi, L'Estro armonico"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-11-22_19h30_vivaldi-estro-armonico-3757/3757",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-11-22_19h30_vivaldi-estro-armonico-3757/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g539300"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/v1yfv0g3/2025-11-19_19h30_vivaldi-estro-armonico.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g539340"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g539360"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g539380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-11-22_19h30_vivaldi-estro-armonico-3757/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vivaldi, L'Estro armonico"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g539320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Bourgie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539340",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://askonasholt.com/artist/jonathan-cohen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.mbam.qc.ca/fr/activites/vivaldi-l-estro-armonico-fr/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1339, rue Sherbrooke Ouest"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3G 2C6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-12-11_19h30_pour-la-nuit-de-noel-4068/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-12-11_19h30_pour-la-nuit-de-noel-4068/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Pour la nuit de Noël"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-12-11_19h30_pour-la-nuit-de-noel-4068/4068",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-12-11_19h30_pour-la-nuit-de-noel-4068/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g548320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/xqfkatue/2025-12-11_19h30_pour-la-nuit-de-noel.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g548360"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g548380"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g548400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-12-11_19h30_pour-la-nuit-de-noel-4068/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pour la nuit de Noël"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cette collection de concertos baroques pour Noël regroupe des pages touchantes, tantôt champêtres, naïves ou spirituelles. Ces œuvres ont été enregistrées sur un album qui a connu un énorme succès qui ne s’est jamais démenti et qui a même suscité une réédition. Grand amoureux des traditions de Noël, Bernard Labadie revisite ces belles pages baroques, avec la précision de l’orfèvre et la candeur de l’enfant."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g548340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548360",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://askonasholt.com/artist/bernard-labadie"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/pour-la-nuit-de-noel"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
       }
     ],
     "http://schema.org/streetAddress": [
