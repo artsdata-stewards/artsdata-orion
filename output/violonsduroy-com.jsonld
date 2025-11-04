@@ -1,555 +1,5 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Grand concert ouverture"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/4064",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-09T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-09T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462520"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/qvvpwpla/2025-10-09_19h30_grand-concert-ouverture.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462560"
-      },
-      {
-        "@id": "_:g462580"
-      },
-      {
-        "@id": "_:g462600"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g462620"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462640"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-10-09_19h30_grand-concert-ouverture-4064/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand concert d'ouverture"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée.\nDurée : 1h35 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462540"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462560",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/jonathan-cohen"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jonathan Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462580",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://elisabethstgelais.com/a-propos/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/7pb9IfxSST5JJzodwSlpfg?si=PwHDH7nZTKyqjpPHpU9dlQ"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCNZFCgU4KgvYLJyUxzxAwKA"
-      },
-      {
-        "@id": "https://www.instagram.com/elisabethstgelais/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Elisabeth St-Gelais"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462600",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.cameroncrozman.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/cameroncrozman"
-      },
-      {
-        "@id": "https://www.facebook.com/CameronCrozman/"
-      },
-      {
-        "@id": "https://www.youtube.com/cameroncrozman"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/5uGKHYspEBZmXM7lsOVBTS?si=2WFZayTET2Kz4yl0-oJo1w"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K17-1"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cameron Crozman"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462620",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462640",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/grand-concert-ouverture2025"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-10-10_19h30_grand-concert-ouverture-3752/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-10-10_19h30_grand-concert-ouverture-3752/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Grand concert ouverture"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-10-10_19h30_grand-concert-ouverture-3752/3752",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-10T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-10T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-10-10_19h30_grand-concert-ouverture-3752/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g472700"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/qvvpwpla/2025-10-09_19h30_grand-concert-ouverture.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g472740"
-      },
-      {
-        "@id": "_:g472760"
-      },
-      {
-        "@id": "_:g472780"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g472800"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g472820"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-10-10_19h30_grand-concert-ouverture-3752/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand concert d'ouverture"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "La soprano Elisabeth St-Gelais et le violoncelliste Cameron Crozman, dont les carrières sont en pleine effervescence, se joignent pour la première fois à Jonathan Cohen pour un grand concert marqué par l'ouverture à la française, un genre que l'on doit à Lully et que Bach a porté à son apogée.\nDurée : 1h35 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472700",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g472720"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maison symphonique de Montréal"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472740",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/jonathan-cohen"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jonathan Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472760",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://elisabethstgelais.com/a-propos/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/7pb9IfxSST5JJzodwSlpfg?si=PwHDH7nZTKyqjpPHpU9dlQ"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCNZFCgU4KgvYLJyUxzxAwKA"
-      },
-      {
-        "@id": "https://www.instagram.com/elisabethstgelais/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Elisabeth St-Gelais"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472780",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.cameroncrozman.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/cameroncrozman"
-      },
-      {
-        "@id": "https://www.facebook.com/CameronCrozman/"
-      },
-      {
-        "@id": "https://www.youtube.com/cameroncrozman"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/5uGKHYspEBZmXM7lsOVBTS?si=2WFZayTET2Kz4yl0-oJo1w"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K17-1"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cameron Crozman"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472800",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472820",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P5S1010"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472720",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/La+Maison+Symphonique/@45.5094184,-73.5689359,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a4ebf95b709:0x83ee974031fec3ec!8m2!3d45.5094476!4d-73.5667148"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1600, rue Saint-Urbain"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H2X 0S1"
-      }
-    ]
-  },
-  {
     "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-11-06_14h_lecons-de-bach-4066/",
     "http://ogp.me/ns#site_name": [
       {
@@ -606,22 +56,25 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g482760"
+        "@id": "_:g462560"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/zuzlos4u/2025-11-06_19h30_lecons-de-bach.jpg"
+        "@id": "https://www.violonsduroy.com/media/tjjmtces/inon-barnatan_2024_1920x1080-photo-marcoboreggreve-05.jpg"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g482800"
+        "@id": "_:g462600"
+      },
+      {
+        "@id": "_:g462620"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g482820"
+        "@id": "_:g462640"
       }
     ],
     "http://schema.org/additionalType": [
@@ -631,7 +84,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g482840"
+        "@id": "_:g462660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -648,7 +101,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Le grand musicien et musicologue Robert D. Levin poursuit ici avec eux cette quête passionnante à travers quelques chefs-d'œuvre du grand maître de Leipzig."
+        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Salué par le New York Times comme « l'un des pianistes les plus admirés de sa génération », Inon Barnatan est reconnu internationalement pour sa sensibilité exceptionnelle, son impeccable musicalité et ses collaborations avec les plus grands orchestres du monde.\nDurée : 1h05 (concert sans pause)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -659,13 +112,13 @@
     ]
   },
   {
-    "@id": "_:g482760",
+    "@id": "_:g462560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g482780"
+        "@id": "_:g462580"
       }
     ],
     "http://schema.org/name": [
@@ -676,24 +129,39 @@
     ]
   },
   {
-    "@id": "_:g482800",
+    "@id": "_:g462600",
     "@type": [
       "http://schema.org/Thing"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://fr.wikipedia.org/wiki/Robert_D._Levin"
+        "@id": "https://askonasholt.com/artist/bernard-labadie"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Robert D. Levin"
+        "@value": "Bernard Labadie"
       }
     ]
   },
   {
-    "@id": "_:g482820",
+    "@id": "_:g462620",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Inon Barnatan"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462640",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -715,7 +183,7 @@
     ]
   },
   {
-    "@id": "_:g482840",
+    "@id": "_:g462660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -726,7 +194,7 @@
     ]
   },
   {
-    "@id": "_:g482780",
+    "@id": "_:g462580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -817,22 +285,25 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g491900"
+        "@id": "_:g471920"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/zuzlos4u/2025-11-06_19h30_lecons-de-bach.jpg"
+        "@id": "https://www.violonsduroy.com/media/tjjmtces/inon-barnatan_2024_1920x1080-photo-marcoboreggreve-05.jpg"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g491940"
+        "@id": "_:g471960"
+      },
+      {
+        "@id": "_:g471980"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g491960"
+        "@id": "_:g472000"
       }
     ],
     "http://schema.org/additionalType": [
@@ -842,7 +313,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g491980"
+        "@id": "_:g472020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -859,7 +330,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Le grand musicien et musicologue Robert D. Levin poursuit ici avec eux cette quête passionnante à travers quelques chefs-d'œuvre du grand maître de Leipzig."
+        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Salué par le New York Times comme « l'un des pianistes les plus admirés de sa génération », Inon Barnatan est reconnu internationalement pour sa sensibilité exceptionnelle, son impeccable musicalité et ses collaborations avec les plus grands orchestres du monde.\nDurée : 1h40 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -870,13 +341,13 @@
     ]
   },
   {
-    "@id": "_:g491900",
+    "@id": "_:g471920",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g491920"
+        "@id": "_:g471940"
       }
     ],
     "http://schema.org/name": [
@@ -887,24 +358,39 @@
     ]
   },
   {
-    "@id": "_:g491940",
+    "@id": "_:g471960",
     "@type": [
       "http://schema.org/Thing"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://fr.wikipedia.org/wiki/Robert_D._Levin"
+        "@id": "https://askonasholt.com/artist/bernard-labadie"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Robert D. Levin"
+        "@value": "Bernard Labadie"
       }
     ]
   },
   {
-    "@id": "_:g491960",
+    "@id": "_:g471980",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Inon Barnatan"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -926,7 +412,7 @@
     ]
   },
   {
-    "@id": "_:g491980",
+    "@id": "_:g472020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -937,7 +423,7 @@
     ]
   },
   {
-    "@id": "_:g491920",
+    "@id": "_:g471940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1028,22 +514,25 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g501120"
+        "@id": "_:g479900"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/zuzlos4u/2025-11-06_19h30_lecons-de-bach.jpg"
+        "@id": "https://www.violonsduroy.com/media/tjjmtces/inon-barnatan_2024_1920x1080-photo-marcoboreggreve-05.jpg"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g501160"
+        "@id": "_:g479940"
+      },
+      {
+        "@id": "_:g479960"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g501180"
+        "@id": "_:g479980"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1053,7 +542,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g501200"
+        "@id": "_:g480000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1070,7 +559,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Le grand musicien et musicologue Robert D. Levin poursuit ici avec eux cette quête passionnante à travers quelques chefs-d'œuvre du grand maître de Leipzig."
+        "@value": "Loin d’en avoir épuisé toute la richesse et percé tous les secrets, Les Violons du Roy fréquentent assidument la musique du grand Jean-Sébastien Bach depuis maintenant plus de 40 ans. Salué par le New York Times comme « l'un des pianistes les plus admirés de sa génération », Inon Barnatan est reconnu internationalement pour sa sensibilité exceptionnelle, son impeccable musicalité et ses collaborations avec les plus grands orchestres du monde.\nDurée : 1h40 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1081,13 +570,13 @@
     ]
   },
   {
-    "@id": "_:g501120",
+    "@id": "_:g479900",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g501140"
+        "@id": "_:g479920"
       }
     ],
     "http://schema.org/name": [
@@ -1098,24 +587,39 @@
     ]
   },
   {
-    "@id": "_:g501160",
+    "@id": "_:g479940",
     "@type": [
       "http://schema.org/Thing"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://fr.wikipedia.org/wiki/Robert_D._Levin"
+        "@id": "https://askonasholt.com/artist/bernard-labadie"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Robert D. Levin"
+        "@value": "Bernard Labadie"
       }
     ]
   },
   {
-    "@id": "_:g501180",
+    "@id": "_:g479960",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Inon Barnatan"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479980",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1137,7 +641,7 @@
     ]
   },
   {
-    "@id": "_:g501200",
+    "@id": "_:g480000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1148,7 +652,7 @@
     ]
   },
   {
-    "@id": "_:g501140",
+    "@id": "_:g479920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1239,7 +743,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g510360"
+        "@id": "_:g488400"
       }
     ],
     "http://schema.org/image": [
@@ -1249,27 +753,30 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g510400"
+        "@id": "_:g488440"
       },
       {
-        "@id": "_:g510420"
+        "@id": "_:g488460"
       },
       {
-        "@id": "_:g510440"
+        "@id": "_:g488480"
       },
       {
-        "@id": "_:g510460"
+        "@id": "_:g488500"
       },
       {
-        "@id": "_:g510480"
+        "@id": "_:g488520"
       },
       {
-        "@id": "_:g510500"
+        "@id": "_:g488540"
+      },
+      {
+        "@id": "_:g488560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g510520"
+        "@id": "_:g488580"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1279,7 +786,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g510540"
+        "@id": "_:g488600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1307,13 +814,13 @@
     ]
   },
   {
-    "@id": "_:g510360",
+    "@id": "_:g488400",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g510380"
+        "@id": "_:g488420"
       }
     ],
     "http://schema.org/name": [
@@ -1324,7 +831,7 @@
     ]
   },
   {
-    "@id": "_:g510400",
+    "@id": "_:g488440",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1336,7 +843,7 @@
     ]
   },
   {
-    "@id": "_:g510420",
+    "@id": "_:g488460",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1348,7 +855,19 @@
     ]
   },
   {
-    "@id": "_:g510440",
+    "@id": "_:g488480",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Noëlla Bouchard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488500",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1360,7 +879,7 @@
     ]
   },
   {
-    "@id": "_:g510460",
+    "@id": "_:g488520",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1372,7 +891,7 @@
     ]
   },
   {
-    "@id": "_:g510480",
+    "@id": "_:g488540",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1384,7 +903,7 @@
     ]
   },
   {
-    "@id": "_:g510500",
+    "@id": "_:g488560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1396,7 +915,7 @@
     ]
   },
   {
-    "@id": "_:g510520",
+    "@id": "_:g488580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1418,7 +937,7 @@
     ]
   },
   {
-    "@id": "_:g510540",
+    "@id": "_:g488600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1429,7 +948,7 @@
     ]
   },
   {
-    "@id": "_:g510380",
+    "@id": "_:g488420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1520,7 +1039,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g520300"
+        "@id": "_:g498420"
       }
     ],
     "http://schema.org/image": [
@@ -1530,27 +1049,30 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g520340"
+        "@id": "_:g498460"
       },
       {
-        "@id": "_:g520360"
+        "@id": "_:g498480"
       },
       {
-        "@id": "_:g520380"
+        "@id": "_:g498500"
       },
       {
-        "@id": "_:g520400"
+        "@id": "_:g498520"
       },
       {
-        "@id": "_:g520420"
+        "@id": "_:g498540"
       },
       {
-        "@id": "_:g520440"
+        "@id": "_:g498560"
+      },
+      {
+        "@id": "_:g498580"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g520460"
+        "@id": "_:g498600"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1560,7 +1082,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g520480"
+        "@id": "_:g498620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1588,13 +1110,13 @@
     ]
   },
   {
-    "@id": "_:g520300",
+    "@id": "_:g498420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g520320"
+        "@id": "_:g498440"
       }
     ],
     "http://schema.org/name": [
@@ -1605,7 +1127,7 @@
     ]
   },
   {
-    "@id": "_:g520340",
+    "@id": "_:g498460",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1617,7 +1139,7 @@
     ]
   },
   {
-    "@id": "_:g520360",
+    "@id": "_:g498480",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1629,7 +1151,19 @@
     ]
   },
   {
-    "@id": "_:g520380",
+    "@id": "_:g498500",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Noëlla Bouchard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498520",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1641,7 +1175,7 @@
     ]
   },
   {
-    "@id": "_:g520400",
+    "@id": "_:g498540",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1653,7 +1187,7 @@
     ]
   },
   {
-    "@id": "_:g520420",
+    "@id": "_:g498560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1665,7 +1199,7 @@
     ]
   },
   {
-    "@id": "_:g520440",
+    "@id": "_:g498580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1677,7 +1211,7 @@
     ]
   },
   {
-    "@id": "_:g520460",
+    "@id": "_:g498600",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1699,7 +1233,7 @@
     ]
   },
   {
-    "@id": "_:g520480",
+    "@id": "_:g498620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1710,7 +1244,7 @@
     ]
   },
   {
-    "@id": "_:g520320",
+    "@id": "_:g498440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1801,7 +1335,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g530220"
+        "@id": "_:g508520"
       }
     ],
     "http://schema.org/image": [
@@ -1811,12 +1345,33 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g530260"
+        "@id": "_:g508560"
+      },
+      {
+        "@id": "_:g508580"
+      },
+      {
+        "@id": "_:g508600"
+      },
+      {
+        "@id": "_:g508620"
+      },
+      {
+        "@id": "_:g508640"
+      },
+      {
+        "@id": "_:g508660"
+      },
+      {
+        "@id": "_:g508680"
+      },
+      {
+        "@id": "_:g508700"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g530280"
+        "@id": "_:g508720"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1826,7 +1381,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g530300"
+        "@id": "_:g508740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1843,7 +1398,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy."
+        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy.\nDurée : 1h53 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1854,13 +1409,13 @@
     ]
   },
   {
-    "@id": "_:g530220",
+    "@id": "_:g508520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g530240"
+        "@id": "_:g508540"
       }
     ],
     "http://schema.org/name": [
@@ -1871,7 +1426,7 @@
     ]
   },
   {
-    "@id": "_:g530260",
+    "@id": "_:g508560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1888,7 +1443,91 @@
     ]
   },
   {
-    "@id": "_:g530280",
+    "@id": "_:g508580",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508600",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Noëlla Bouchard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508620",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michelle Seto"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508640",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508660",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508680",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Benoit Loiselle"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1910,7 +1549,7 @@
     ]
   },
   {
-    "@id": "_:g530300",
+    "@id": "_:g508740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1921,7 +1560,7 @@
     ]
   },
   {
-    "@id": "_:g530240",
+    "@id": "_:g508540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2012,7 +1651,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g539340"
+        "@id": "_:g518880"
       }
     ],
     "http://schema.org/image": [
@@ -2022,12 +1661,33 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g539380"
+        "@id": "_:g518920"
+      },
+      {
+        "@id": "_:g518940"
+      },
+      {
+        "@id": "_:g518960"
+      },
+      {
+        "@id": "_:g518980"
+      },
+      {
+        "@id": "_:g519000"
+      },
+      {
+        "@id": "_:g519020"
+      },
+      {
+        "@id": "_:g519040"
+      },
+      {
+        "@id": "_:g519060"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g539400"
+        "@id": "_:g519080"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2037,7 +1697,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g539420"
+        "@id": "_:g519100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2054,7 +1714,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy."
+        "@value": "En plus de mettre en lumière le talent de nos musiciens, la musique de Vivaldi sait aussi révéler toute la créativité musicale de Jonathan Cohen. Ces irrésistibles et célèbres concertos pour un, deux et quatre violons, sans oublier les parties solistes de violoncelle, seront, une fois de plus, l’occasion de savourer la virtuosité aussi bien individuelle que collective des Violons du Roy.\nDurée : 1h53 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2065,13 +1725,13 @@
     ]
   },
   {
-    "@id": "_:g539340",
+    "@id": "_:g518880",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g539360"
+        "@id": "_:g518900"
       }
     ],
     "http://schema.org/name": [
@@ -2082,7 +1742,7 @@
     ]
   },
   {
-    "@id": "_:g539380",
+    "@id": "_:g518920",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2099,7 +1759,91 @@
     ]
   },
   {
-    "@id": "_:g539400",
+    "@id": "_:g518940",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518960",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Noëlla Bouchard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518980",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michelle Seto"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519000",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519020",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519040",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519060",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Benoit Loiselle"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2121,7 +1865,7 @@
     ]
   },
   {
-    "@id": "_:g539420",
+    "@id": "_:g519100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2132,7 +1876,7 @@
     ]
   },
   {
-    "@id": "_:g539360",
+    "@id": "_:g518900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2223,7 +1967,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g548360"
+        "@id": "_:g529200"
       }
     ],
     "http://schema.org/image": [
@@ -2233,12 +1977,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g548400"
+        "@id": "_:g529240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g548420"
+        "@id": "_:g529260"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2248,7 +1992,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g548440"
+        "@id": "_:g529280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2276,13 +2020,13 @@
     ]
   },
   {
-    "@id": "_:g548360",
+    "@id": "_:g529200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g548380"
+        "@id": "_:g529220"
       }
     ],
     "http://schema.org/name": [
@@ -2293,7 +2037,7 @@
     ]
   },
   {
-    "@id": "_:g548400",
+    "@id": "_:g529240",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2313,7 +2057,7 @@
     ]
   },
   {
-    "@id": "_:g548420",
+    "@id": "_:g529260",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2335,7 +2079,7 @@
     ]
   },
   {
-    "@id": "_:g548440",
+    "@id": "_:g529280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2346,13 +2090,391 @@
     ]
   },
   {
-    "@id": "_:g548380",
+    "@id": "_:g529220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
         "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Mozart, musique de chambre pour cordes"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/4085",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g538180"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/zwal3iwa/2026-02-04_17h30_mozart-musique-de-chambre.jpg"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g538220"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g538240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mozart, musique de chambre pour cordes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g538200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538240",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/mozart-musique-de-chambre-pour-cordes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Mozart, musique de chambre pour cordes"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/4086",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T17:30:00-05:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g546800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/zwal3iwa/2026-02-04_17h30_mozart-musique-de-chambre.jpg"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g546840"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g546860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mozart, musique de chambre pour cordes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g546820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546840",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546860",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/mozart-musique-de-chambre-pour-cordes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
       }
     ],
     "http://schema.org/streetAddress": [
