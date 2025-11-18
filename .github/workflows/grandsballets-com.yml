@@ -13,7 +13,7 @@ jobs:
         with:
           mode: "fetch-push"
           artifact: "grandsballets-com"
-          publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
+          publisher: "https://github.com/fjjulien#this"
           downloadFile: "output/grandsballets-com.jsonld"
           page-url: "https://grandsballets.com/"
           token: "${{ secrets.GITHUB_TOKEN }}"
