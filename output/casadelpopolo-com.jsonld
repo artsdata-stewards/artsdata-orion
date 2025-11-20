@@ -1,256 +1,5 @@
 [
   {
-    "@id": "https://www.venuepilot.co/en/events/152676/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "NO COSMOS & SARAH ROSSY • P'tit Ours • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c2a10b43c9ba61ee1d6474988047f857ecd62e49c08586a3f4acc347adcea43a.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/152676/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/a41b7470-dd6e-4723-9bc3-448bfd718b9c",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T20:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/152676/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "NO COSMOS & SARAH ROSSY"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "16:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://lepointdevente.com/billets/jhp251119004",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "M pour Montréal presents Hollerado, FEATURETTE, Softtub & Lennie Rayen - November 19th 2025 - La Sala Rossa, Montréal, QC - Thepointofsale.com"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://tpos.s3.amazonaws.com/events/JHP/25/11/19/004/jhp251119004-1152x648-en-68e6822e.png"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://lepointdevente.com/billets/jhp251119004"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en",
-        "@value": "M FOR MONTREAL – FESTIVAL:Hollerado, FEATURETTE, Softtub &amp; Lennie RayenPresented by: Music Ontario, CION and M for MontrealWednesday, November 19, 2025Sala RossaDoors: 9 PM | Show: 10:00 PMPRO / PRO+ PASS AND FESTIVAL PASS HOLDERSSeating subject to venue capacity limit. First come, first served."
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://lepointdevente.com/billets/jhp251119004"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471860",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lepointdevente.com/venues/lasalarossa"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g471900"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471900",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4848 Boul. Saint-Laurent"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/32176fa7-a2d8-4679-85a3-fc1cba511a15",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://tpos.s3.amazonaws.com/events/JHP/25/11/19/004/jhp251119004-1152x648-en-68e6822e.png"
-      },
-      {
-        "@id": "https://tpos.s3.amazonaws.com/events/JHP/25/11/19/001/jhp251119001-1152x648-en-68a33695.png"
-      },
-      {
-        "@id": "https://tpos.s3.amazonaws.com/events/JHP/25/11/23/001/jhp251123001-1152x648-en-68a32fb7.png"
-      },
-      {
-        "@id": "https://tpos.s3.amazonaws.com/events/JHP/25/11/19/002/jhp251119002-1152x648-en-68e7e10e.png"
-      },
-      {
-        "@id": "https://tpos.s3.amazonaws.com/events/JHP/25/11/19/003/jhp251119003-1152x648-en-68d17315.png"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g471860"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://lepointdevente.com/billets/jhp251119004"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "\n\t\t\t\t\n\t\t\t\t\tEvent Details \n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nM FOR MONTREAL – FESTIVAL:Hollerado, FEATURETTE, Softtub & Lennie RayenPresented by: Music Ontario, CION and M for MontrealWednesday, November 19, 2025Sala RossaDoors: 9 PM | Show: 10:00 PMPRO / PRO+ PASS AND FESTIVAL PASS HOLDERSSeating subject to venue capacity limit. First come, first served.\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRefunds\n\t\t\t\t\t\t\t\t\tUp to 30 days before the event starts\n\t\t\t\t\t\t\t\t\tExchanges\n\t\t\t\t\t\t\t\t\tNo exchanges\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tEvent location \n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tContact the organizer \n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tX\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tInstagram\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tinfo@mpourmontreal.com\n\t\t\t\t\t\t\t\tmpourmontreal.com/\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Hollerado, FEATURETTE, Softtub & Lennie Rayen"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@language": "en",
-        "@value": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@language": "en",
-        "@value": "2025-11-20T03:00:00Z"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@language": "en",
-        "@value": "2025-11-20T06:00:00Z"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/102913/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "M POUR MONTREAL présente MISC & KARNEEF en collaboration avec Spectacles Bonzaï et Société Souterraine • La Sotterenea • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a711085071444eb0b3241e5911058d503df7f7eb7d665caee33adb8b679bf111.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/102913/orders/new"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/142526/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -277,7 +26,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/933b0f1a-a16f-44d6-ba15-0db8d98a6ccc",
+    "@id": "https://www.venuepilot.co/temporary/6d5a4b79-b6b5-40c7-9ae7-946e97ac5c0a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -349,7 +98,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/0251e2a6-0c3a-48fd-be45-9729f5439340",
+    "@id": "https://www.venuepilot.co/temporary/ccd0af42-035e-43ec-b539-e2da9632ec62",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -433,7 +182,7 @@
     ]
   },
   {
-    "@id": "_:g497280",
+    "@id": "_:g476580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -444,7 +193,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g497300"
+        "@id": "_:g476600"
       }
     ],
     "http://schema.org/name": [
@@ -455,7 +204,7 @@
     ]
   },
   {
-    "@id": "_:g497300",
+    "@id": "_:g476600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -485,7 +234,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/1d50ae19-0e39-4872-ac69-ee1b53bb5c16",
+    "@id": "https://www.venuepilot.co/temporary/dcd8ea6f-7d63-44af-8f2d-af183978733b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -496,7 +245,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g497280"
+        "@id": "_:g476580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -562,7 +311,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d4caf169-92e6-45ff-a1ae-3b57b4cede0b",
+    "@id": "https://www.venuepilot.co/temporary/175648d3-e800-44a7-b9c9-fb32ceca5940",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -634,7 +383,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/87e9a67d-ecc0-4600-a39c-12ca8b667268",
+    "@id": "https://www.venuepilot.co/temporary/e3c07676-8ca8-4507-b4d2-419463380f4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -706,7 +455,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/9d1f8d46-049a-48e2-b175-f39a79191665",
+    "@id": "https://www.venuepilot.co/temporary/2441e361-b9de-4353-9626-cde7c419c3f6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -752,78 +501,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/102915/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "M for Mothland IX:  Brainwasher, Boutique Feelings, Mulch, Yoo Doo Right, Annie-Claude Deschênes • La Sala Rossa  • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/102915/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/ccb92911-f83c-437a-8e38-5f7c774db1e6",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21T22:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-22T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/102915/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "M for Mothland IX:  Brainwasher, Boutique Feelings, Mulch, Yoo Doo Right, Annie-Claude Deschênes"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "14:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/102902/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -850,7 +527,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/1ced9e51-9a37-4b91-8c39-bf64271f64dd",
+    "@id": "https://www.venuepilot.co/temporary/0d712546-ce5c-409f-9b41-9e166d2d8862",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -896,6 +573,78 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/102915/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "M for Mothland IX:  Brainwasher, Boutique Feelings, Mulch, Yoo Doo Right, Annie-Claude Deschênes • La Sala Rossa  • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/102915/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/0235eb1a-56c4-44dd-baff-8d2d19207b78",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/102915/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "M for Mothland IX:  Brainwasher, Boutique Feelings, Mulch, Yoo Doo Right, Annie-Claude Deschênes"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "14:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/102903/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -922,7 +671,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/f6444d28-fb6e-445e-bd77-b8dde0acb57d",
+    "@id": "https://www.venuepilot.co/temporary/90074a2c-b777-4d74-aa77-eaf602531f96",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -994,7 +743,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/269b999e-e016-419c-bd95-bfae39e81c0c",
+    "@id": "https://www.venuepilot.co/temporary/8f6feb30-c0e9-4c99-8d3d-169b0ae601a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1066,7 +815,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/2186496f-6860-49ed-82bb-b64523f70ff8",
+    "@id": "https://www.venuepilot.co/temporary/269cc956-2c0b-47c7-863a-314bf24bd70b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1138,7 +887,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/94253407-f68a-4ad8-8cc5-a54e50ad5fb2",
+    "@id": "https://www.venuepilot.co/temporary/c6b4a57f-99bb-47bc-9350-5fc3588ab714",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1210,7 +959,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/2e4f916a-888d-47d0-a39a-e5352da22c9c",
+    "@id": "https://www.venuepilot.co/temporary/f9637ce4-08f7-425e-a3f1-bb9eb377c229",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1282,7 +1031,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/79abf655-7bae-4d0c-bc82-bf06b345f747",
+    "@id": "https://www.venuepilot.co/temporary/71eb2244-ff05-4d2b-bef0-a3d48b093286",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1354,7 +1103,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/04f8b754-08fa-40f4-8276-93e9965d18cc",
+    "@id": "https://www.venuepilot.co/temporary/b96d4d93-c9ab-4271-8cf9-ff6d53d55233",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1426,7 +1175,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/577888ea-980e-4df6-8239-5c868dcd864d",
+    "@id": "https://www.venuepilot.co/temporary/fa9c17e0-9f79-41c0-a63a-7efee2c3a3e6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1498,7 +1247,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/64ba4f95-cd03-4c7a-9fb1-e28a46d265c5",
+    "@id": "https://www.venuepilot.co/temporary/15b99e1a-d1ef-4437-8098-6d12825c4807",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1544,78 +1293,6 @@
     ]
   },
   {
-    "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Lancement d'album d'Hélène Barbier et de Douance + invité(e)s • La Toscadura • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_433c129b31e860a3660ec2e840dbac1f845e9e21b46ff174a68991c224fd5394.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/a74b4cf4-d59c-463e-bf33-d00e8359d488",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-27T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-27T23:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "  Lancement d'album d'Hélène Barbier et de Douance + invité(e)s"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/146598/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -1642,7 +1319,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/c1659438-cf12-44e2-91ba-06c8ce839190",
+    "@id": "https://www.venuepilot.co/temporary/322b29ef-ddd2-4c55-8801-ec62db1bfc3d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1688,6 +1365,78 @@
     ]
   },
   {
+    "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Lancement d'album d'Hélène Barbier et de Douance + invité(e)s • La Toscadura • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_433c129b31e860a3660ec2e840dbac1f845e9e21b46ff174a68991c224fd5394.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/76e88ab2-8bbb-4d90-8182-f8d458eb47fb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T23:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/helene-barbier-douance-2025-11-27-la-toscadura-montreal-fb8efe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "  Lancement d'album d'Hélène Barbier et de Douance + invité(e)s"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/154733/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -1714,7 +1463,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/54c3883f-ed48-4aa8-b384-7f9900d6a4a7",
+    "@id": "https://www.venuepilot.co/temporary/c13799fb-5cd6-45a7-aec6-d3f41adcbe83",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1786,7 +1535,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/7390a382-ef24-47f6-b8cd-7b6a5c17779d",
+    "@id": "https://www.venuepilot.co/temporary/7186f614-1dce-4b88-988e-7514cca1e43a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1832,150 +1581,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/146202/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "RAATS w/AUS!Funkt + Benjamin Bleuez live at Ptit Ours • P'tit Ours • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a55a91f38ecaf324d00862113b9e3219da5a777f9b9bc2a641ebd7e5ca28a0bf.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/146202/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/545f9b61-0cd2-4bb6-a8b3-f6aa8b95338e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-28T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-29T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/146202/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "RAATS w/AUS!Funkt + Benjamin Bleuez live at Ptit Ours"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "16:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/143589/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Soraï présente MILLENNIUM STAR DIAMANT • La Toscadura • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3e4b59659517d5168f8c742819f70d008bc8d9d57d512b6391ef8d1e2c29baba.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/143589/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/ca11d3a9-c5e0-48d8-b262-2beda69302ca",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-28T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-29T00:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/143589/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Soraï présente MILLENNIUM STAR DIAMANT"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/140846/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -2002,7 +1607,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/4ccd7c49-674a-47fa-8d13-beeb152ce83b",
+    "@id": "https://www.venuepilot.co/temporary/6c4c46d7-4b14-402f-9080-cedbaace2017",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2048,6 +1653,150 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/143589/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Soraï présente MILLENNIUM STAR DIAMANT • La Toscadura • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3e4b59659517d5168f8c742819f70d008bc8d9d57d512b6391ef8d1e2c29baba.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/143589/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/a747cf92-3a57-4bc2-a2d1-87c433d5ca95",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T00:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/143589/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Soraï présente MILLENNIUM STAR DIAMANT"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/146202/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "RAATS w/AUS!Funkt + Benjamin Bleuez live at Ptit Ours • P'tit Ours • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a55a91f38ecaf324d00862113b9e3219da5a777f9b9bc2a641ebd7e5ca28a0bf.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/146202/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/4fe7113c-de0c-40ca-a7b0-2eb29663cd21",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/146202/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "RAATS w/AUS!Funkt + Benjamin Bleuez live at Ptit Ours"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "16:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/109011/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -2074,7 +1823,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/84a6409e-a8b2-4894-b354-17120c93eec6",
+    "@id": "https://www.venuepilot.co/temporary/e48f912e-d31f-4317-ab3f-0b3c31c6e7eb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2146,7 +1895,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/556e0b30-f5f6-4cb4-bab8-714518cecf2d",
+    "@id": "https://www.venuepilot.co/temporary/2231905b-e844-480a-b353-91fee3b8bbd4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2192,78 +1941,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/141139/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Tiffany. P + Mona Lissa Chanda // Invitée spéciale Flona Kimia • Casa Del Popolo • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_31d583e8b3c1430decfdd54e9850f578df473e35a94c0a91278e9c20ede3d577.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/141139/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/f05499b3-59d1-46f4-b365-d90a91ef008b",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-29T20:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-30T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/141139/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Tiffany. P + Mona Lissa Chanda // Invitée spéciale Flona Kimia"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "16:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/155303/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -2290,7 +1967,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/39cbab3a-b6b8-46ec-ba4c-7cac8170bcf8",
+    "@id": "https://www.venuepilot.co/temporary/67e9aad1-8fe7-4b02-b249-5fe5b277ec19",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2336,6 +2013,78 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/141139/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Tiffany. P + Mona Lissa Chanda // Invitée spéciale Flona Kimia • Casa Del Popolo • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_31d583e8b3c1430decfdd54e9850f578df473e35a94c0a91278e9c20ede3d577.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/141139/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/678fac20-3662-4908-b6df-673d25cf34b1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/141139/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Tiffany. P + Mona Lissa Chanda // Invitée spéciale Flona Kimia"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "16:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://tickets.venuepilot.com/e/1h-sam-boisvert-samboisvert49-gmail-com-2025-11-30-p-tit-ours-montreal-1a97c4",
     "http://ogp.me/ns#title": [
       {
@@ -2362,7 +2111,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/29d6b047-2f6e-4b01-b751-675e14272ebe",
+    "@id": "https://www.venuepilot.co/temporary/52cf5b19-73d6-44f4-95c4-3c74e183e291",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2408,78 +2157,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/146995/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Kodivine & Yzabo  • Casa Del Popolo • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_012ae0b9a0504af1aa2fd765cb3118604ba78d93932a3a1184847b5087823b41.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/146995/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/0f5cecaa-a009-4c93-9eb9-6e01d611c301",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-01T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-02T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/146995/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Kodivine & Yzabo "
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "16:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/147164/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -2506,7 +2183,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/6aa72a71-96fc-43bb-b324-6b131e51be88",
+    "@id": "https://www.venuepilot.co/temporary/1ba3276d-a252-4849-8297-26312be5957b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2552,6 +2229,78 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/146995/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Kodivine & Yzabo  • Casa Del Popolo • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_012ae0b9a0504af1aa2fd765cb3118604ba78d93932a3a1184847b5087823b41.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/146995/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/843629d4-6eac-45bc-ab6b-b497962f6d20",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/146995/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kodivine & Yzabo "
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "16:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/145288/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -2578,7 +2327,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/fb665a2d-f0a8-4e07-940a-21defe8df0e9",
+    "@id": "https://www.venuepilot.co/temporary/4cba585b-0b4d-4af3-9e76-e9f3ca727e20",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2650,7 +2399,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/6dd87f18-d89f-404d-a6fc-802be0afdef3",
+    "@id": "https://www.venuepilot.co/temporary/7c2bcd80-6ee9-4be6-b3d2-eedaebe3a9fe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2722,7 +2471,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/a30e7e58-bd7a-4911-9814-eaff0cb1be32",
+    "@id": "https://www.venuepilot.co/temporary/f74978fe-277d-4795-9670-54a70a07cc60",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2794,7 +2543,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/a2a6175f-4d37-4767-95dd-dc64098fe165",
+    "@id": "https://www.venuepilot.co/temporary/a27fe5e4-1c42-4c41-ae99-bbeaa4ae70af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2866,7 +2615,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/50ac663a-c2e6-4c96-ada6-9730d74e3dc0",
+    "@id": "https://www.venuepilot.co/temporary/a69470c0-a835-439c-abe0-35be5d3474c7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2912,78 +2661,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/152739/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Flamenc@s • La Sala Rossa  • VenuePilot"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_27f2feb390472b23a64d7e7214b50993fefacf7585879a16cb86f5e78fa36cdb.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/152739/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/temporary/c6e2985d-830f-44ec-a37a-d1c3911e1c3a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-04T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-05T15:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/152739/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Flamenc@s"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "19:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/156853/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -3010,7 +2687,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/2e89f196-3878-4f5d-8141-2d3b668e22d3",
+    "@id": "https://www.venuepilot.co/temporary/ce03ca6d-35d6-411d-84e6-d08198a310f4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3056,6 +2733,78 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/152739/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Flamenc@s • La Sala Rossa  • VenuePilot"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_27f2feb390472b23a64d7e7214b50993fefacf7585879a16cb86f5e78fa36cdb.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/152739/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/temporary/29bc02a1-ebbf-4c08-aaa0-3ca3f8a1a6f2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T15:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/152739/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Flamenc@s"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "19:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "en",
+        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/139506/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -3082,7 +2831,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/f05d5248-1ae4-4818-8a26-3d04c12213da",
+    "@id": "https://www.venuepilot.co/temporary/346a4d70-e5f5-4656-9200-101187a45b17",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3154,7 +2903,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/18ee9263-1f99-4cd6-a80f-d0566358aaa1",
+    "@id": "https://www.venuepilot.co/temporary/5fd294db-164a-490c-b1fb-a7e494e45368",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3226,7 +2975,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d817daef-e95f-445c-a0ef-1593b6ac720d",
+    "@id": "https://www.venuepilot.co/temporary/5f8fd6ab-37d2-472c-8417-d672933e5835",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3298,7 +3047,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/c578394a-737f-4d63-accc-7e4c1b997128",
+    "@id": "https://www.venuepilot.co/temporary/e3c236e7-aaec-43e5-8e9a-e935c6121033",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3370,7 +3119,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/1cb7c1a2-40bb-42bd-9b57-e9218987758e",
+    "@id": "https://www.venuepilot.co/temporary/34195986-b6b4-4120-b85a-fca57e08c138",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3442,7 +3191,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/073ecdd5-d263-4995-bd2c-263679ca2305",
+    "@id": "https://www.venuepilot.co/temporary/05523407-1110-43aa-bf23-c1c769f31fac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3514,7 +3263,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/ec2045d4-d12d-4e0a-83ed-d39da45816aa",
+    "@id": "https://www.venuepilot.co/temporary/7eea8e37-65fc-4268-b534-61fea1290cb6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3586,7 +3335,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/6a817c45-febf-4ca7-a06b-a82dd31f0cd6",
+    "@id": "https://www.venuepilot.co/temporary/c9d97d52-6fa2-4750-bfab-2dbf5c3e683a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3658,7 +3407,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/efddfe11-18b1-4d66-afae-5883814f40f5",
+    "@id": "https://www.venuepilot.co/temporary/eb3acb35-fff4-4f9e-89a5-60a464bf64ed",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3730,14 +3479,14 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/77c17531-4e41-423b-88ca-c3f07dac53ca",
+    "@id": "https://www.venuepilot.co/temporary/0ab2202d-4453-46e0-9199-0d064795e73f",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-12-13T21:00:00-05:00"
+        "@value": "2025-12-13T20:30:00-05:00"
       }
     ],
     "http://schema.org/endDate": [
@@ -3760,7 +3509,7 @@
     "http://schema.org/duration": [
       {
         "@language": "en",
-        "@value": "04:00"
+        "@value": "04:30"
       }
     ],
     "http://schema.org/location": [
@@ -3802,7 +3551,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d835438d-6944-4a8b-bd0a-1c9b3c42e721",
+    "@id": "https://www.venuepilot.co/temporary/c87608f3-3db3-4cf6-8570-91c487637b65",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3864,7 +3613,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/fc930cfabd6f95051e5b7365f943836b03d03aba07db72f87d57054dbec167cf.png"
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_2e65fc145c501ea297fe087e88cf7e91213f0d736b902a63fdbf52b2b4dda672.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3874,7 +3623,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/577040f4-7850-4f47-884d-4cd7c89a483d",
+    "@id": "https://www.venuepilot.co/temporary/bf0fdb7b-6c64-4c57-8f15-31545af19831",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3946,7 +3695,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/f7d210f7-90d2-4128-ad73-3900bc7f14ab",
+    "@id": "https://www.venuepilot.co/temporary/c56f9de6-b850-4c8d-b1f7-71c8a474caec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4018,7 +3767,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/adfe93f7-bf76-427d-8cac-9d7a5423bcf1",
+    "@id": "https://www.venuepilot.co/temporary/f95ddb23-3b20-4201-98aa-c4f436c55c81",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4090,7 +3839,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/b3a10aea-e0b5-410f-b4b7-cfdf51b27ca0",
+    "@id": "https://www.venuepilot.co/temporary/9e643431-83b2-47c6-9eb4-562b1312c22c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4162,7 +3911,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/9466fc26-ebe3-4eb2-9e0b-41af10417657",
+    "@id": "https://www.venuepilot.co/temporary/bbf00064-3fbe-45f8-aeee-d12cc002e51c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4234,7 +3983,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d9cb176c-a47e-421a-83fe-2ce9b8f6c705",
+    "@id": "https://www.venuepilot.co/temporary/ce721a5a-33de-4ae2-a0f0-4cfc149d06c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4306,7 +4055,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/4d5b5650-f24c-479f-8fa9-47c4128c3817",
+    "@id": "https://www.venuepilot.co/temporary/0e58d955-9aee-472f-a2f7-d3e5184ae05d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4378,7 +4127,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/09936dfc-0bbd-47e2-82db-46b685b6394f",
+    "@id": "https://www.venuepilot.co/temporary/6395c302-8192-4413-8caf-300f9ab10b21",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4450,7 +4199,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/6d46392d-db9a-4a56-b7d3-4fe89d1166de",
+    "@id": "https://www.venuepilot.co/temporary/8b00d7d3-64b7-4040-b652-f090c7586827",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4522,7 +4271,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/f08463de-fda6-45fa-9caf-a01e81522fb5",
+    "@id": "https://www.venuepilot.co/temporary/99b081e5-6402-4efe-90d4-63b65c8215b6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4594,7 +4343,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/cdd6f4a0-4a3c-4c3b-a84f-c9ca5c2137c5",
+    "@id": "https://www.venuepilot.co/temporary/fc9268c5-9820-4f79-b1f2-c04cf0cfca54",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4666,7 +4415,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/22f3bf13-a954-44ca-8dd1-4c7a5b0836fb",
+    "@id": "https://www.venuepilot.co/temporary/bf39e0ec-f3f4-4597-bd2a-5b25deb1653d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4738,7 +4487,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/22b8a127-92df-4f02-a627-d2d22882335f",
+    "@id": "https://www.venuepilot.co/temporary/cdd2ea58-cdc3-4f8b-bf18-78bf429ead50",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4810,7 +4559,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/a500f0ed-1e55-4d08-abd3-8e73cfc4e2c7",
+    "@id": "https://www.venuepilot.co/temporary/6379ee07-bb9d-4636-b4af-5b8a2011aaa5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4882,7 +4631,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/efe65eba-9461-42d7-a771-8ee3eb9ab08c",
+    "@id": "https://www.venuepilot.co/temporary/2c73ea6c-1439-43b8-870c-7157bf6468d8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4954,7 +4703,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/a7bfcded-77fa-4799-ba94-b7f5203fe4d4",
+    "@id": "https://www.venuepilot.co/temporary/133283f6-d42f-4ebf-8370-387d14499141",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5026,7 +4775,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/26a702ab-d43d-4ff6-a2a5-b35448bbb253",
+    "@id": "https://www.venuepilot.co/temporary/4644de77-832c-4307-bf84-e68ed013b30e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5098,7 +4847,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/1fcd36f8-9083-4fdb-a794-bd643645538e",
+    "@id": "https://www.venuepilot.co/temporary/62cd5f5c-1598-48da-9f9d-2c2de9298da3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5170,7 +4919,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d9b2eb26-39f7-4971-856e-8f5bf69916ad",
+    "@id": "https://www.venuepilot.co/temporary/509b6c60-3e3a-4088-afab-a85e8e450088",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5242,7 +4991,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/d6c09afe-a250-4ec6-9ba1-a3b0d63b42f1",
+    "@id": "https://www.venuepilot.co/temporary/1615df1a-b9d7-418d-9d7e-8c62d69a99c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5314,7 +5063,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/c5986ab9-b35b-43e5-9a0f-6131b47ba8d0",
+    "@id": "https://www.venuepilot.co/temporary/765369eb-d2c1-48af-bbef-939bf3dd8dbb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5386,7 +5135,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/temporary/c0b75687-c2e7-48b7-bbc5-1ac919780d28",
+    "@id": "https://www.venuepilot.co/temporary/aa2086e0-96a1-4ba8-91f0-017dfb3e3c4b",
     "@type": [
       "http://schema.org/Event"
     ],
