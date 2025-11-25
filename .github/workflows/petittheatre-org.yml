@@ -10,7 +10,7 @@ jobs:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: "fetch-test"
+          mode: "fetch-push"
           artifact: "petittheatre-org"
           publisher: "${{ vars.CAPACOA_BOT }}"
           page-url: "https://petittheatre.org/tribe_events-sitemap.xml"
