@@ -1,1 +1,17 @@
+name: petittheatre-org
 
+on:
+  workflow_dispatch:
+    
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-push"
+          artifact: "petittheatre-org"
+          publisher: "${{ vars.CAPACOA_BOT }}"
+          page-url: "https://petittheatre.org"
+          token: "${{ secrets.GITHUB_TOKEN }}"
