@@ -14,5 +14,5 @@ jobs:
           artifact: "petittheatre-org"
           publisher: "${{ vars.CAPACOA_BOT }}"
           page-url: "https://petittheatre.org/tribe_events-sitemap.xml"
-          
+          entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
