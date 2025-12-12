@@ -16,6 +16,6 @@ jobs:
           artifact: "placedesarts-com"
           publisher: "https://github.com/saumier#this"
           page-url: "https://www.placedesarts.com/sitemaps-1-section-event-1-sitemap-p1.xml"
-          entity-identifier: "//loc"
+          entity-identifier: "loc"
           headless: false
           token: "${{ secrets.GITHUB_TOKEN }}"
