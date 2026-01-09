@@ -1,257 +1,5 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-12-23-18h-le-chemin-de-noel-4893/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-12-23-18h-le-chemin-de-noel-4893/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Le chemin de Noël 2025"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-12-23-18h-le-chemin-de-noel-4893/4893",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-23T18:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-23T18:00:00-05:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-12-23-18h-le-chemin-de-noel-4893/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462480"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/gu0gw2jm/chemin-noe-l-40.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462520"
-      },
-      {
-        "@id": "_:g462540"
-      },
-      {
-        "@id": "_:g462560"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g462580"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462600"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-12-23-18h-le-chemin-de-noel-4893/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Le chemin de Noël"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "COMPLET\nDurée : 1h50 sans pause\nÀ la veille du temps des Fêtes, nous vous invitons à vivre un moment de grâce et de recueillement avec Le chemin de Noël, présenté le mardi 23 décembre à 18 h à la salle Raoul-Jobin du Palais Montcalm.\nSous la direction de Bernard Labadie, le chœur La Chapelle de Québec vous transportera dans l'atmosphère unique de cette tradition inspirée du célèbre Festival of Nine Lessons and Carols du King's College de Cambridge. Le comédien Normand Chouinard accompagnera les magnifiques chants de Noël avec des textes évocateurs qui nous invitent à la réflexion et au partage.\nComment obtenir vos billets ?\nLa distribution des billets se fera exclusivement en ligne le samedi 13 décembre 2025 dès 10 h. L'événement est gratuit, mais un don de 25 $ par billet est exigé. Tous les fonds amassés seront entièrement remis à Solidarité Familles, un organisme qui œuvre auprès des familles en situation de précarité dans le secteur Duberger – Les Saules.\nVous ne pouvez pas être des nôtres ?\nÉcoutez Le chemin de Noël en direct sur ICI Musique Classique (site internet ou application Radio-Canada Ohdio). L'émission sera également disponible en rattrapage.\nJoignez-vous à nous pour célébrer la magie de Noël et faire une différence dans votre communauté !"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462480",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462500"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462520",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/bernard-labadie"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462540",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Normand Chouinard"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462560",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/la-chapelle-de-quebec/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/6cW1qHOTQR3K7POHBQXYSW?si=YJCHUBO1Sc6H9vZXEdhhPw"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Chapelle de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462600",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://palaismontcalm-promo.tuxedobillet.com/promotion/chemin-de-noel-edition-2025"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462500",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
     "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/",
     "http://ogp.me/ns#site_name": [
       {
@@ -308,7 +56,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472240"
+        "@id": "_:g462480"
       }
     ],
     "http://schema.org/image": [
@@ -318,30 +66,30 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g472280"
+        "@id": "_:g462520"
       },
       {
-        "@id": "_:g472300"
+        "@id": "_:g462540"
       },
       {
-        "@id": "_:g472320"
+        "@id": "_:g462560"
       },
       {
-        "@id": "_:g472340"
+        "@id": "_:g462580"
       },
       {
-        "@id": "_:g472360"
+        "@id": "_:g462600"
       },
       {
-        "@id": "_:g472380"
+        "@id": "_:g462620"
       },
       {
-        "@id": "_:g472400"
+        "@id": "_:g462640"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g472420"
+        "@id": "_:g462660"
       }
     ],
     "http://schema.org/additionalType": [
@@ -351,7 +99,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472440"
+        "@id": "_:g462680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -368,7 +116,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart."
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart.\nDurée : 1h05 sans pause"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -379,13 +127,13 @@
     ]
   },
   {
-    "@id": "_:g472240",
+    "@id": "_:g462480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472260"
+        "@id": "_:g462500"
       }
     ],
     "http://schema.org/name": [
@@ -396,7 +144,7 @@
     ]
   },
   {
-    "@id": "_:g472280",
+    "@id": "_:g462520",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -408,7 +156,7 @@
     ]
   },
   {
-    "@id": "_:g472300",
+    "@id": "_:g462540",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -420,7 +168,7 @@
     ]
   },
   {
-    "@id": "_:g472320",
+    "@id": "_:g462560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -432,7 +180,7 @@
     ]
   },
   {
-    "@id": "_:g472340",
+    "@id": "_:g462580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -444,7 +192,7 @@
     ]
   },
   {
-    "@id": "_:g472360",
+    "@id": "_:g462600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -456,7 +204,7 @@
     ]
   },
   {
-    "@id": "_:g472380",
+    "@id": "_:g462620",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -468,7 +216,7 @@
     ]
   },
   {
-    "@id": "_:g472400",
+    "@id": "_:g462640",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -480,7 +228,7 @@
     ]
   },
   {
-    "@id": "_:g472420",
+    "@id": "_:g462660",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -502,7 +250,7 @@
     ]
   },
   {
-    "@id": "_:g472440",
+    "@id": "_:g462680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -513,7 +261,7 @@
     ]
   },
   {
-    "@id": "_:g472260",
+    "@id": "_:g462500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -604,7 +352,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g480940"
+        "@id": "_:g472520"
       }
     ],
     "http://schema.org/image": [
@@ -614,30 +362,30 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g480980"
+        "@id": "_:g472560"
       },
       {
-        "@id": "_:g481000"
+        "@id": "_:g472580"
       },
       {
-        "@id": "_:g481020"
+        "@id": "_:g472600"
       },
       {
-        "@id": "_:g481040"
+        "@id": "_:g472620"
       },
       {
-        "@id": "_:g481060"
+        "@id": "_:g472640"
       },
       {
-        "@id": "_:g481080"
+        "@id": "_:g472660"
       },
       {
-        "@id": "_:g481100"
+        "@id": "_:g472680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g481120"
+        "@id": "_:g472700"
       }
     ],
     "http://schema.org/additionalType": [
@@ -647,7 +395,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g481140"
+        "@id": "_:g472720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -664,7 +412,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart."
+        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart.\nDurée : 1h05 sans pause"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -675,13 +423,13 @@
     ]
   },
   {
-    "@id": "_:g480940",
+    "@id": "_:g472520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g480960"
+        "@id": "_:g472540"
       }
     ],
     "http://schema.org/name": [
@@ -692,7 +440,7 @@
     ]
   },
   {
-    "@id": "_:g480980",
+    "@id": "_:g472560",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -704,7 +452,7 @@
     ]
   },
   {
-    "@id": "_:g481000",
+    "@id": "_:g472580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -716,7 +464,7 @@
     ]
   },
   {
-    "@id": "_:g481020",
+    "@id": "_:g472600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -728,7 +476,7 @@
     ]
   },
   {
-    "@id": "_:g481040",
+    "@id": "_:g472620",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -740,7 +488,7 @@
     ]
   },
   {
-    "@id": "_:g481060",
+    "@id": "_:g472640",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -752,7 +500,7 @@
     ]
   },
   {
-    "@id": "_:g481080",
+    "@id": "_:g472660",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -764,7 +512,7 @@
     ]
   },
   {
-    "@id": "_:g481100",
+    "@id": "_:g472680",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -776,7 +524,7 @@
     ]
   },
   {
-    "@id": "_:g481120",
+    "@id": "_:g472700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -798,7 +546,7 @@
     ]
   },
   {
-    "@id": "_:g481140",
+    "@id": "_:g472720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -809,7 +557,7 @@
     ]
   },
   {
-    "@id": "_:g480960",
+    "@id": "_:g472540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -900,7 +648,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g490960"
+        "@id": "_:g482560"
       }
     ],
     "http://schema.org/image": [
@@ -910,18 +658,18 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g491000"
+        "@id": "_:g482600"
       },
       {
-        "@id": "_:g491020"
+        "@id": "_:g482620"
       },
       {
-        "@id": "_:g491040"
+        "@id": "_:g482640"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g491060"
+        "@id": "_:g482660"
       }
     ],
     "http://schema.org/additionalType": [
@@ -931,7 +679,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g491080"
+        "@id": "_:g482680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -948,7 +696,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora"
+        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora\nDurée : 57 minutes (concert sans pause)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -959,13 +707,13 @@
     ]
   },
   {
-    "@id": "_:g490960",
+    "@id": "_:g482560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g490980"
+        "@id": "_:g482580"
       }
     ],
     "http://schema.org/name": [
@@ -976,7 +724,7 @@
     ]
   },
   {
-    "@id": "_:g491000",
+    "@id": "_:g482600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1002,7 +750,7 @@
     ]
   },
   {
-    "@id": "_:g491020",
+    "@id": "_:g482620",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1028,7 +776,7 @@
     ]
   },
   {
-    "@id": "_:g491040",
+    "@id": "_:g482640",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1057,7 +805,7 @@
     ]
   },
   {
-    "@id": "_:g491060",
+    "@id": "_:g482660",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1079,7 +827,7 @@
     ]
   },
   {
-    "@id": "_:g491080",
+    "@id": "_:g482680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1090,7 +838,7 @@
     ]
   },
   {
-    "@id": "_:g490980",
+    "@id": "_:g482580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1181,7 +929,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g501100"
+        "@id": "_:g492740"
       }
     ],
     "http://schema.org/image": [
@@ -1191,18 +939,18 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g501140"
+        "@id": "_:g492780"
       },
       {
-        "@id": "_:g501160"
+        "@id": "_:g492800"
       },
       {
-        "@id": "_:g501180"
+        "@id": "_:g492820"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g501200"
+        "@id": "_:g492840"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1212,7 +960,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g501220"
+        "@id": "_:g492860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1229,7 +977,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora"
+        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora\nDurée : 1h45 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1240,13 +988,13 @@
     ]
   },
   {
-    "@id": "_:g501100",
+    "@id": "_:g492740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g501120"
+        "@id": "_:g492760"
       }
     ],
     "http://schema.org/name": [
@@ -1257,7 +1005,7 @@
     ]
   },
   {
-    "@id": "_:g501140",
+    "@id": "_:g492780",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1283,7 +1031,7 @@
     ]
   },
   {
-    "@id": "_:g501160",
+    "@id": "_:g492800",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1309,7 +1057,7 @@
     ]
   },
   {
-    "@id": "_:g501180",
+    "@id": "_:g492820",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1338,7 +1086,7 @@
     ]
   },
   {
-    "@id": "_:g501200",
+    "@id": "_:g492840",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1360,7 +1108,7 @@
     ]
   },
   {
-    "@id": "_:g501220",
+    "@id": "_:g492860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1371,7 +1119,7 @@
     ]
   },
   {
-    "@id": "_:g501120",
+    "@id": "_:g492760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1462,7 +1210,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g511240"
+        "@id": "_:g502880"
       }
     ],
     "http://schema.org/image": [
@@ -1472,18 +1220,18 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g511280"
+        "@id": "_:g502920"
       },
       {
-        "@id": "_:g511300"
+        "@id": "_:g502940"
       },
       {
-        "@id": "_:g511320"
+        "@id": "_:g502960"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g511340"
+        "@id": "_:g502980"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1493,7 +1241,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g511360"
+        "@id": "_:g503000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1510,7 +1258,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora."
+        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nDurée : 1h45 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1521,13 +1269,13 @@
     ]
   },
   {
-    "@id": "_:g511240",
+    "@id": "_:g502880",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g511260"
+        "@id": "_:g502900"
       }
     ],
     "http://schema.org/name": [
@@ -1538,7 +1286,7 @@
     ]
   },
   {
-    "@id": "_:g511280",
+    "@id": "_:g502920",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1564,7 +1312,7 @@
     ]
   },
   {
-    "@id": "_:g511300",
+    "@id": "_:g502940",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1590,7 +1338,7 @@
     ]
   },
   {
-    "@id": "_:g511320",
+    "@id": "_:g502960",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1619,7 +1367,7 @@
     ]
   },
   {
-    "@id": "_:g511340",
+    "@id": "_:g502980",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1641,7 +1389,7 @@
     ]
   },
   {
-    "@id": "_:g511360",
+    "@id": "_:g503000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1652,7 +1400,7 @@
     ]
   },
   {
-    "@id": "_:g511260",
+    "@id": "_:g502900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1743,25 +1491,25 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g521420"
+        "@id": "_:g512260"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/1bxjnll1/johannes-mose-1920x1080-photo-uwe-arens.jpg"
+        "@id": "https://www.violonsduroy.com/media/omapu2r5/johannes-moser-1920x1080-photo-manfred-esser-haenssler-classic.jpg"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g521460"
+        "@id": "_:g512300"
       },
       {
-        "@id": "_:g521480"
+        "@id": "_:g512320"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g521500"
+        "@id": "_:g512340"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1771,7 +1519,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g521520"
+        "@id": "_:g512360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1788,7 +1536,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach."
+        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach.\nDurée : 1h47 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1799,13 +1547,13 @@
     ]
   },
   {
-    "@id": "_:g521420",
+    "@id": "_:g512260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g521440"
+        "@id": "_:g512280"
       }
     ],
     "http://schema.org/name": [
@@ -1816,7 +1564,7 @@
     ]
   },
   {
-    "@id": "_:g521460",
+    "@id": "_:g512300",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1833,7 +1581,7 @@
     ]
   },
   {
-    "@id": "_:g521480",
+    "@id": "_:g512320",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1845,7 +1593,7 @@
     ]
   },
   {
-    "@id": "_:g521500",
+    "@id": "_:g512340",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1867,7 +1615,7 @@
     ]
   },
   {
-    "@id": "_:g521520",
+    "@id": "_:g512360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1878,7 +1626,7 @@
     ]
   },
   {
-    "@id": "_:g521440",
+    "@id": "_:g512280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1969,25 +1717,25 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g530420"
+        "@id": "_:g521440"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/1bxjnll1/johannes-mose-1920x1080-photo-uwe-arens.jpg"
+        "@id": "https://www.violonsduroy.com/media/omapu2r5/johannes-moser-1920x1080-photo-manfred-esser-haenssler-classic.jpg"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g530460"
+        "@id": "_:g521480"
       },
       {
-        "@id": "_:g530480"
+        "@id": "_:g521500"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g530500"
+        "@id": "_:g521520"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1997,7 +1745,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g530520"
+        "@id": "_:g521540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2014,7 +1762,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach."
+        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach.\nDurée : 1h47 incluant la pause de 20 minutes"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2025,13 +1773,13 @@
     ]
   },
   {
-    "@id": "_:g530420",
+    "@id": "_:g521440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g530440"
+        "@id": "_:g521460"
       }
     ],
     "http://schema.org/name": [
@@ -2042,7 +1790,7 @@
     ]
   },
   {
-    "@id": "_:g530460",
+    "@id": "_:g521480",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2059,7 +1807,7 @@
     ]
   },
   {
-    "@id": "_:g530480",
+    "@id": "_:g521500",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2071,7 +1819,7 @@
     ]
   },
   {
-    "@id": "_:g530500",
+    "@id": "_:g521520",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2093,7 +1841,7 @@
     ]
   },
   {
-    "@id": "_:g530520",
+    "@id": "_:g521540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2104,7 +1852,7 @@
     ]
   },
   {
-    "@id": "_:g530440",
+    "@id": "_:g521460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2195,7 +1943,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g539360"
+        "@id": "_:g530540"
       }
     ],
     "http://schema.org/image": [
@@ -2205,27 +1953,27 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g539400"
+        "@id": "_:g530580"
       },
       {
-        "@id": "_:g539420"
+        "@id": "_:g530600"
       },
       {
-        "@id": "_:g539440"
+        "@id": "_:g530620"
       },
       {
-        "@id": "_:g539460"
+        "@id": "_:g530640"
       },
       {
-        "@id": "_:g539480"
+        "@id": "_:g530660"
       },
       {
-        "@id": "_:g539500"
+        "@id": "_:g530680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g539520"
+        "@id": "_:g530700"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2235,7 +1983,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g539540"
+        "@id": "_:g530720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2263,13 +2011,13 @@
     ]
   },
   {
-    "@id": "_:g539360",
+    "@id": "_:g530540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g539380"
+        "@id": "_:g530560"
       }
     ],
     "http://schema.org/name": [
@@ -2280,7 +2028,7 @@
     ]
   },
   {
-    "@id": "_:g539400",
+    "@id": "_:g530580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2300,7 +2048,7 @@
     ]
   },
   {
-    "@id": "_:g539420",
+    "@id": "_:g530600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2329,7 +2077,7 @@
     ]
   },
   {
-    "@id": "_:g539440",
+    "@id": "_:g530620",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2352,7 +2100,7 @@
     ]
   },
   {
-    "@id": "_:g539460",
+    "@id": "_:g530640",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2378,7 +2126,7 @@
     ]
   },
   {
-    "@id": "_:g539480",
+    "@id": "_:g530660",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2395,7 +2143,7 @@
     ]
   },
   {
-    "@id": "_:g539500",
+    "@id": "_:g530680",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2415,7 +2163,7 @@
     ]
   },
   {
-    "@id": "_:g539520",
+    "@id": "_:g530700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2437,7 +2185,7 @@
     ]
   },
   {
-    "@id": "_:g539540",
+    "@id": "_:g530720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2448,7 +2196,7 @@
     ]
   },
   {
-    "@id": "_:g539380",
+    "@id": "_:g530560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2539,7 +2287,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g550300"
+        "@id": "_:g541540"
       }
     ],
     "http://schema.org/image": [
@@ -2549,27 +2297,27 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g550340"
+        "@id": "_:g541580"
       },
       {
-        "@id": "_:g550360"
+        "@id": "_:g541600"
       },
       {
-        "@id": "_:g550380"
+        "@id": "_:g541620"
       },
       {
-        "@id": "_:g550400"
+        "@id": "_:g541640"
       },
       {
-        "@id": "_:g550420"
+        "@id": "_:g541660"
       },
       {
-        "@id": "_:g550440"
+        "@id": "_:g541680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g550460"
+        "@id": "_:g541700"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2579,7 +2327,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g550480"
+        "@id": "_:g541720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2607,13 +2355,13 @@
     ]
   },
   {
-    "@id": "_:g550300",
+    "@id": "_:g541540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g550320"
+        "@id": "_:g541560"
       }
     ],
     "http://schema.org/name": [
@@ -2624,7 +2372,7 @@
     ]
   },
   {
-    "@id": "_:g550340",
+    "@id": "_:g541580",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2644,7 +2392,7 @@
     ]
   },
   {
-    "@id": "_:g550360",
+    "@id": "_:g541600",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2673,7 +2421,7 @@
     ]
   },
   {
-    "@id": "_:g550380",
+    "@id": "_:g541620",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2696,7 +2444,7 @@
     ]
   },
   {
-    "@id": "_:g550400",
+    "@id": "_:g541640",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2722,7 +2470,7 @@
     ]
   },
   {
-    "@id": "_:g550420",
+    "@id": "_:g541660",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2739,7 +2487,7 @@
     ]
   },
   {
-    "@id": "_:g550440",
+    "@id": "_:g541680",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2759,7 +2507,7 @@
     ]
   },
   {
-    "@id": "_:g550460",
+    "@id": "_:g541700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2781,7 +2529,7 @@
     ]
   },
   {
-    "@id": "_:g550480",
+    "@id": "_:g541720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2792,7 +2540,7 @@
     ]
   },
   {
-    "@id": "_:g550320",
+    "@id": "_:g541560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2823,6 +2571,350 @@
       {
         "@language": "fr",
         "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Le Requiem de Mozart"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/3764",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g552600"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/dt2hxgkh/2026-03-26_19h30_requiem-de-mozart.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g552640"
+      },
+      {
+        "@id": "_:g552660"
+      },
+      {
+        "@id": "_:g552680"
+      },
+      {
+        "@id": "_:g552700"
+      },
+      {
+        "@id": "_:g552720"
+      },
+      {
+        "@id": "_:g552740"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g552760"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g552780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Requiem de Mozart"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Requiem de Mozart occupe une place à part dans le coeur des mélomanes, en particulier dans celui du public des Violons du Roy et de La Chapelle de Québec, puisque l’oeuvre jalonne l’histoire des deux formations avec plusieurs moments forts qui ont marqué les mémoires alimentées par ce disque enregistré en septembre 2001. En compagnie de quatre solistes chevronnés, Bernard Labadie partage à nouveau sa vision approfondie de ce chef-d’oeuvre légendaire."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g552620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison symphonique de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552640",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://askonasholt.com/artist/bernard-labadie"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552660",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.magalisimardgaldes.com/"
+      },
+      {
+        "@id": "https://www.facebook.com/msimardgaldes"
+      },
+      {
+        "@id": "https://www.instagram.com/magaligaldes"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCIve6Ualkd87h8zYUhVQitQ"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/2JP7Qu6pH2dM6Xk9hDN8kV?si=vKpwOdCNReaBZRx_QMsP3g"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Magali Simard-Galdès"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552680",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.alexhetherington.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/alexhether/"
+      },
+      {
+        "@id": "https://www.facebook.com/alexhethermezzo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Alex Hetherington"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.andrewhaji.com/"
+      },
+      {
+        "@id": "https://www.youtube.com/user/andrewhaji"
+      },
+      {
+        "@id": "https://www.facebook.com/andrewhaji"
+      },
+      {
+        "@id": "https://www.instagram.com/andrewhaji/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Andrew Haji"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552720",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.dispeker.com/kevin-deas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Kevin Deas"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552740",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/la-chapelle-de-quebec/"
+      },
+      {
+        "@id": "https://open.spotify.com/intl-fr/artist/6cW1qHOTQR3K7POHBQXYSW?si=YJCHUBO1Sc6H9vZXEdhhPw"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Chapelle de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P6S0328"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/La+Maison+Symphonique/@45.5094184,-73.5689359,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a4ebf95b709:0x83ee974031fec3ec!8m2!3d45.5094476!4d-73.5667148"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600, rue Saint-Urbain"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H2X 0S1"
       }
     ]
   }
