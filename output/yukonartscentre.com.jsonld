@@ -1,6 +1,6 @@
 [
   {
-    "@id": "_:g488980",
+    "@id": "_:g489240",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -12,13 +12,13 @@
     ]
   },
   {
-    "@id": "_:g489000",
+    "@id": "_:g489260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g489020"
+        "@id": "_:g489280"
       }
     ],
     "http://schema.org/name": [
@@ -29,180 +29,7 @@
     ]
   },
   {
-    "@id": "_:g489020",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/36201",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Jazz on the Wing – Saxophonist Jon Bentley Quartet"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "“Saxophonist Jon Bentley is one of Vancouver’s unsung musical talents, a gifted musician who never grandstands, but rather brings out the best in the musicians around him.” ~ Marke Andrews, Vancouver Sun"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/08/jazzbentley.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/9cc121b5-f7a3-4d03-ad2d-02a870d6ea9a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/08/jazzbentley.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-11T19:30:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-11T19:30:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g488980"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g489000"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/36201"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Jazz on the Wing – Saxophonist Jon Bentley Quartet"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "“Saxophonist Jon Bentley is one of Vancouver’s unsung musical talents, a gifted musician who never grandstands, but rather brings out the best in the musicians around him.” ~ Marke Andrews, Vancouver Sun &quot;Top drawer modern chamber jazz.&quot; ~ Ken Pickering,…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g498140",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g498160",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g498180"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g498180",
+    "@id": "_:g489280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -281,7 +108,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/7da1dfaa-21a9-44dd-bbf9-0c5195143d59",
+    "@id": "https://yukonartscentre.com/temporary/da3c79c8-835d-46fa-a848-c7d8e021e86f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -304,12 +131,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g498140"
+        "@id": "_:g489240"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498160"
+        "@id": "_:g489260"
       }
     ],
     "http://schema.org/offers": [
@@ -346,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:g508960",
+    "@id": "_:g501360",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -358,13 +185,13 @@
     ]
   },
   {
-    "@id": "_:g508980",
+    "@id": "_:g501380",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g509000"
+        "@id": "_:g501400"
       }
     ],
     "http://schema.org/name": [
@@ -375,7 +202,7 @@
     ]
   },
   {
-    "@id": "_:g509000",
+    "@id": "_:g501400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -454,7 +281,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/528707c1-048c-4526-a411-bc771e7f7881",
+    "@id": "https://yukonartscentre.com/temporary/a20f2efc-91ec-497d-89e1-9a107eecacd9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -477,12 +304,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g508960"
+        "@id": "_:g501360"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508980"
+        "@id": "_:g501380"
       }
     ],
     "http://schema.org/offers": [
@@ -519,7 +346,7 @@
     ]
   },
   {
-    "@id": "_:g517500",
+    "@id": "_:g509540",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -531,13 +358,13 @@
     ]
   },
   {
-    "@id": "_:g517520",
+    "@id": "_:g509560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g517540"
+        "@id": "_:g509580"
       }
     ],
     "http://schema.org/name": [
@@ -548,7 +375,7 @@
     ]
   },
   {
-    "@id": "_:g517540",
+    "@id": "_:g509580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -627,7 +454,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/7a10a898-bef4-4039-821a-0e58ad3a14d5",
+    "@id": "https://yukonartscentre.com/temporary/6d164d0c-a949-4e39-a608-5cfe30fe829b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -650,12 +477,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g517500"
+        "@id": "_:g509540"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g517520"
+        "@id": "_:g509560"
       }
     ],
     "http://schema.org/offers": [
@@ -692,7 +519,7 @@
     ]
   },
   {
-    "@id": "_:g525940",
+    "@id": "_:g517280",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -704,13 +531,13 @@
     ]
   },
   {
-    "@id": "_:g525960",
+    "@id": "_:g517300",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g525980"
+        "@id": "_:g517320"
       }
     ],
     "http://schema.org/name": [
@@ -721,353 +548,7 @@
     ]
   },
   {
-    "@id": "_:g525980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45801",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Evening of opera with Tessa Fackelmann"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "NOTE: This is being held at the Whitehorse United Church. Tessa Fackelmann, mezzo-soprano, is rapidly emerging as a distinctive voice among the next generation of operatic talent, praised for her expressive tone, compelling stage presence, and emotional depth. In 2025,…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/Untitled-design.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/ae359ba9-4716-4c06-9bc7-601f32757a52",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/Untitled-design-1024x465.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-18T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-18T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g525940"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g525960"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45801"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evening of opera with Tessa Fackelmann"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "NOTE: This is being held at the Whitehorse United Church. Tessa Fackelmann, mezzo-soprano, is rapidly emerging as a distinctive voice among the next generation of operatic talent, praised for her expressive tone, compelling stage presence, and emotional depth. In 2025,…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g534060",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g534080",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g534100"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g534100",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43801",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "For Science! A Study in Comedy"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Suitable for ages 5 and over. Join The Professor and her Lab Assistant on a hilarious behavioural science adventure! Get ready to be captivated as they expertly navigate the audience through a captivating array of progressively intricate challenges, all done…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/For-Science-WEb-1200x958.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/82085d8f-b95d-4f31-b039-8ea27fde83f6",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/For-Science-WEb-1024x817.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-04T16:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-04T16:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g534060"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g534080"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43801"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "For Science! A Study in Comedy"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Suitable for ages 5 and over. Join The Professor and her Lab Assistant on a hilarious behavioural science adventure! Get ready to be captivated as they expertly navigate the audience through a captivating array of progressively intricate challenges, all done…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g542000",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g542020",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g542040"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g542040",
+    "@id": "_:g517320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1146,7 +627,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/80879d8a-b563-4a56-9fb4-eba6c01d1af3",
+    "@id": "https://yukonartscentre.com/temporary/0f57986f-d8b7-43ec-95c5-9f064799e256",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1169,12 +650,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g542000"
+        "@id": "_:g517280"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g542020"
+        "@id": "_:g517300"
       }
     ],
     "http://schema.org/offers": [
@@ -1211,7 +692,7 @@
     ]
   },
   {
-    "@id": "_:g549900",
+    "@id": "_:g525260",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1223,13 +704,13 @@
     ]
   },
   {
-    "@id": "_:g549920",
+    "@id": "_:g525280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g549940"
+        "@id": "_:g525300"
       }
     ],
     "http://schema.org/name": [
@@ -1240,7 +721,7 @@
     ]
   },
   {
-    "@id": "_:g549940",
+    "@id": "_:g525300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1319,7 +800,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/fa80cad5-1fbb-4cb9-8cb0-900f6d52854c",
+    "@id": "https://yukonartscentre.com/temporary/6ce6de99-cdc9-4390-9282-10c635757d14",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1342,12 +823,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g549900"
+        "@id": "_:g525260"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g549920"
+        "@id": "_:g525280"
       }
     ],
     "http://schema.org/offers": [
@@ -1384,7 +865,7 @@
     ]
   },
   {
-    "@id": "_:g557820",
+    "@id": "_:g533460",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1396,13 +877,13 @@
     ]
   },
   {
-    "@id": "_:g557840",
+    "@id": "_:g533480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g557860"
+        "@id": "_:g533500"
       }
     ],
     "http://schema.org/name": [
@@ -1413,7 +894,7 @@
     ]
   },
   {
-    "@id": "_:g557860",
+    "@id": "_:g533500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1492,7 +973,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/a42c36b6-097b-4643-af2a-eb762f8c2799",
+    "@id": "https://yukonartscentre.com/temporary/6c282394-abcb-4154-8cea-91f46bf522ce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1515,12 +996,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g557820"
+        "@id": "_:g533460"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g557840"
+        "@id": "_:g533480"
       }
     ],
     "http://schema.org/offers": [
@@ -1557,7 +1038,7 @@
     ]
   },
   {
-    "@id": "_:g565940",
+    "@id": "_:g543220",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1569,13 +1050,13 @@
     ]
   },
   {
-    "@id": "_:g565960",
+    "@id": "_:g543240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g565980"
+        "@id": "_:g543260"
       }
     ],
     "http://schema.org/name": [
@@ -1586,872 +1067,7 @@
     ]
   },
   {
-    "@id": "_:g565980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35001&ref=bookNow&scroll=timeAndDates",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "YTYP: Disney’s Frozen"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "For the first time in forever, experience the musical phenomenon that has taken the world by storm! Based on the Academy Award-winning animated feature film, Disney’s Frozen includes all the film’s beloved songs by Kristen Anderson-Lopez and Robert Lopez, along…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1200x633.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/9f09d937-b217-4de2-8a49-f7f0096e7ecc",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1024x540.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-08T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-10T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g565940"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g565960"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35001&ref=bookNow&scroll=timeAndDates"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "YTYP: Disney’s Frozen"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "For the first time in forever, experience the musical phenomenon that has taken the world by storm! Based on the Academy Award-winning animated feature film, Disney’s Frozen includes all the film’s beloved songs by Kristen Anderson-Lopez and Robert Lopez, along…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g573900",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g573920",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g573940"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g573940",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/46201",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "YTYP GALA: Disney’s Frozen"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Join us for the opening night gala performance of Disney’s Frozen, which will include a glamorous evening of frozen cocktails and treats and exclusive photos with the cast and a backstage tour. From “Arendelle Ice” cocktails to snowflake-shaped desserts dusted…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1200x633.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/a3eef471-d51a-4dbb-b92c-100be29ac42a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1024x540.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-07T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-07T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g573900"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g573920"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/46201"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "YTYP GALA: Disney’s Frozen"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join us for the opening night gala performance of Disney’s Frozen, which will include a glamorous evening of frozen cocktails and treats and exclusive photos with the cast and a backstage tour. From “Arendelle Ice” cocktails to snowflake-shaped desserts dusted…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g582940",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g582960",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g582980"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g582980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=36601",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/the-creative-lives-of-stories/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "The Creative Lives of Stories"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "This event will feature some favourite works from over the years, as well as the premiere of a major work by Problematic Orchestra Composer-in-Residence Nicolas Hyatt. Can people’s stories, whether based on personal or shared experience, serve as a basis…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/problematic-1200x545.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/the-creative-lives-of-stories/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/3e725d4b-c0f4-42c8-950c-aec1fe97bf41",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/problematic-1024x465.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-20T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-21T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g582940"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g582960"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=36601"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/the-creative-lives-of-stories/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Creative Lives of Stories"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "This event will feature some favourite works from over the years, as well as the premiere of a major work by Problematic Orchestra Composer-in-Residence Nicolas Hyatt. Can people’s stories, whether based on personal or shared experience, serve as a basis…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g591300",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g591320",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g591340"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g591340",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=37001&ref=bookNow&scroll=timeAndDates",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/polar-night-2/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Polar Night"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "“In order to survive a northern winter, one must celebrate a northern winter, in all its madness and toil, breathtaking beauty and hardship, isolation and community.” The Heart of Riverdale invites you to join our dancers, singers and artists as…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/POLAR-NIGHT-TICKET2.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/polar-night-2/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/e3b32eb0-331a-49cd-b23c-b9bd7e2b293c",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/POLAR-NIGHT-TICKET2-1024x465.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-23T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-24T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g591300"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g591320"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=37001&ref=bookNow&scroll=timeAndDates"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/polar-night-2/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Polar Night"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "“In order to survive a northern winter, one must celebrate a northern winter, in all its madness and toil, breathtaking beauty and hardship, isolation and community.” The Heart of Riverdale invites you to join our dancers, singers and artists as…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g599340",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g599360",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g599380"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g599380",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/48601",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/sunday-showcase-2/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Sunday Showcase"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Join the Heart of Riverdale’s dancers and singers for a SNEAK PEEK of works-in-progress that will be part of our year-end Art From the Heart in May. Our Musical Theatre Class will present two pieces from our upcoming production of…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/Sunday-Showcase-copy.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/sunday-showcase-2/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/7cb9b20b-6455-4002-ba9a-c1fb9cc056b4",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/Sunday-Showcase-copy-1024x465.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-25T13:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-25T13:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g599340"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g599360"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/48601"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/sunday-showcase-2/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sunday Showcase"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join the Heart of Riverdale’s dancers and singers for a SNEAK PEEK of works-in-progress that will be part of our year-end Art From the Heart in May. Our Musical Theatre Class will present two pieces from our upcoming production of…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g607260",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g607280",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g607300"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g607300",
+    "@id": "_:g543260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2530,7 +1146,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/745e9309-2419-462e-bd86-a3084ffbb3e8",
+    "@id": "https://yukonartscentre.com/temporary/7c996b5e-312e-4f7c-b0da-37d93f588bb3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2553,12 +1169,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g607260"
+        "@id": "_:g543220"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g607280"
+        "@id": "_:g543240"
       }
     ],
     "http://schema.org/offers": [
@@ -2595,7 +1211,7 @@
     ]
   },
   {
-    "@id": "_:g615100",
+    "@id": "_:g551200",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2607,13 +1223,13 @@
     ]
   },
   {
-    "@id": "_:g615120",
+    "@id": "_:g551220",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g615140"
+        "@id": "_:g551240"
       }
     ],
     "http://schema.org/name": [
@@ -2624,7 +1240,7 @@
     ]
   },
   {
-    "@id": "_:g615140",
+    "@id": "_:g551240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2703,7 +1319,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/66972537-527b-4416-9efe-14282488e1fa",
+    "@id": "https://yukonartscentre.com/temporary/92fdc190-683b-45b6-8b9d-05d4b4d262f7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2726,12 +1342,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g615100"
+        "@id": "_:g551200"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g615120"
+        "@id": "_:g551220"
       }
     ],
     "http://schema.org/offers": [
@@ -2754,6 +1370,1390 @@
       {
         "@language": "en",
         "@value": "Cold Calls – Japan Cold Calls is a ski film pieced together through conversations, memories, and whatever the season decided to offer! The Hive Architect For the last 14 years Matt Somerville has spent the winters creating his log hives…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g559400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/50201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/album-release-cryptozoologists-with-special-guests-the-bleeders/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Album Release: Cryptozoologists with special guests The Bleeders"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join Cryptozoologists with special guests the Bleeders at the Old Fire Hall for an evening celebrating the band's new album, Backwater Station.  Backwater Station is Cryptozoologists at their most honed and confident, a culmination of a decade of irreverent and…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/Cryptozoologists-website-1200x800.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/album-release-cryptozoologists-with-special-guests-the-bleeders/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/457a531b-04ce-4668-912c-571e4d6e1f59",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/Cryptozoologists-website-1024x682.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-30T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-30T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g559360"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g559380"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/50201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/album-release-cryptozoologists-with-special-guests-the-bleeders/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Album Release: Cryptozoologists with special guests The Bleeders"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Cryptozoologists with special guests the Bleeders at the Old Fire Hall for an evening celebrating the band&#039;s new album, Backwater Station.  Backwater Station is Cryptozoologists at their most honed and confident, a culmination of a decade of irreverent and…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g567460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/49801",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/mr-turf/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Mr. Turf"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Mr Turf blends acrobatics, juggling, balancing and unicycling into a vibrant display of clowning arts with colourful costumes and lively music, and with his iconic little car, he turns each show into a joyful journey of laughter and wonder."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/mr-turf-1200x1052.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/mr-turf/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/cb0b9cc9-0b67-44db-bfab-eea795b7c4bc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/mr-turf-1024x898.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-01T16:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-01T16:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g567420"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g567440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/49801"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/mr-turf/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mr. Turf"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Mr Turf blends acrobatics, juggling, balancing and unicycling into a vibrant display of clowning arts with colourful costumes and lively music, and with his iconic little car, he turns each show into a joyful journey of laughter and wonder."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g575440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/50202",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/active-voice-an-evening-of-conversation-with-david-garneau-and-ivan-coyote/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Active Voice – An evening of conversation with David Garneau and Ivan Coyote"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us for an evening with David Garneau in conversation with Ivan Coyote, presented in conjunction with Garneau’s solo exhibition Dark Chapters. Together, they will explore themes of artmaking, David's Métis identity, and storytelling. This talk offers a deeper entry…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/garneau-web-1200x800.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/active-voice-an-evening-of-conversation-with-david-garneau-and-ivan-coyote/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/598a6d69-073f-4797-9e74-9c26a099d5a0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/garneau-web-1024x682.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-18T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-18T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g575400"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g575420"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/50202"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/active-voice-an-evening-of-conversation-with-david-garneau-and-ivan-coyote/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Active Voice – An evening of conversation with David Garneau and Ivan Coyote"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us for an evening with David Garneau in conversation with Ivan Coyote, presented in conjunction with Garneau’s solo exhibition Dark Chapters. Together, they will explore themes of artmaking, David&#039;s Métis identity, and storytelling. This talk offers a deeper entry…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g583440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/Memberships",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/available-light-film-festival-2026/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Available Light Film Festival 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Bundle and save on films with our festival ticket packs. This year we have venue specific ticket packs options – mix and match to create your ultimate 10-day festival experience. Get your YAC ticket pack through the Buy Tickets button…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/12/ALFF-YAC-Spectrix-1056x519-1.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/available-light-film-festival-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/29cedaf5-934e-4df7-9453-080024c3645e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/12/ALFF-YAC-Spectrix-1056x519-1-1024x503.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-06T00:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-15T20:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g583400"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g583420"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/Memberships"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/available-light-film-festival-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Available Light Film Festival 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Bundle and save on films with our festival ticket packs. This year we have venue specific ticket packs options – mix and match to create your ultimate 10-day festival experience. Get your YAC ticket pack through the Buy Tickets button…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g591740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/49201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/siakol-canada-tour-2026/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "SIAKOL Canada Tour 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Siakol Live in Whitehorse Canada 2026 – The Rock N’ Roll Reunion Tour Get ready, WHITEHORSE! The legendary Filipino rock band Siakol is hitting the road for their much-awaited 2026 World Tour, bringing their signature Pinoy rock anthems and high-energy…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2026/01/siakolweb-1200x788.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/siakol-canada-tour-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/7b97549b-c6c8-46cd-a297-3e8e2af17e57",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2026/01/siakolweb-1024x673.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T18:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T18:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g591700"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g591720"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/49201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/siakol-canada-tour-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SIAKOL Canada Tour 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Siakol Live in Whitehorse Canada 2026 – The Rock N’ Roll Reunion Tour Get ready, WHITEHORSE! The legendary Filipino rock band Siakol is hitting the road for their much-awaited 2026 World Tour, bringing their signature Pinoy rock anthems and high-energy…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g600200",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g600220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g600240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g600240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/61001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/2026-alff-tracy-martina-live/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "2026 ALFF: Tracy & Martina Live"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kick off the Available Light Film Festival 2026 with Tracy & Martina! All the way from Cape Breton Island, the girls head out on their first cross-Canada tour in March but you get the sneak peak experience! Come see the…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2026/01/tracy-and-martina-1200x697.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/2026-alff-tracy-martina-live/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/69e0326f-c2b5-49f6-9e0d-e4ce7bc0ce80",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2026/01/tracy-and-martina-1024x595.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T19:45:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g600200"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g600220"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/61001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/2026-alff-tracy-martina-live/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2026 ALFF: Tracy &amp; Martina Live"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Kick off the Available Light Film Festival 2026 with Tracy &amp; Martina! All the way from Cape Breton Island, the girls head out on their first cross-Canada tour in March but you get the sneak peak experience! Come see the…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g608180",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g608200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g608220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g608220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=46201&ref=bookNow&scroll=timeAndDates",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/arctic-winter-games-cultural-gala/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Arctic Winter Games Cultural Gala"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Youth cultural performers from across the circumpolar north come together at the Arctic Winter Games to perform a variety of music, dance, theatre, and more."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2026/01/awg-website-1200x602.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/arctic-winter-games-cultural-gala/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/6b32861a-cf26-4b03-82ed-f9e7054926b8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2026/01/awg-website-1024x514.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-13T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g608180"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g608200"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=46201&ref=bookNow&scroll=timeAndDates"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/arctic-winter-games-cultural-gala/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arctic Winter Games Cultural Gala"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Youth cultural performers from across the circumpolar north come together at the Arctic Winter Games to perform a variety of music, dance, theatre, and more."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g616320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g616340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g616360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g616360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/62201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/the-honourable-bob-rae-the-world-turned-upside-down/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Honourable Bob Rae: The World Turned Upside Down"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The World Turned Upside Down: Democracy, Disruption, and the New Global Order The world order has fundamentally shifted. In this timely keynote, the Honourable Bob Rae examines the seismic forces reshaping global politics: the crisis of democracy, the weaponization of…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2026/01/bob-rae-web-1200x873.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/the-honourable-bob-rae-the-world-turned-upside-down/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/f5447c80-8c66-4819-9e96-68c7fdf18212",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2026/01/bob-rae-web-1024x745.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g616320"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g616340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/62201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/the-honourable-bob-rae-the-world-turned-upside-down/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Honourable Bob Rae: The World Turned Upside Down"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The World Turned Upside Down: Democracy, Disruption, and the New Global Order The world order has fundamentally shifted. In this timely keynote, the Honourable Bob Rae examines the seismic forces reshaping global politics: the crisis of democracy, the weaponization of…"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
