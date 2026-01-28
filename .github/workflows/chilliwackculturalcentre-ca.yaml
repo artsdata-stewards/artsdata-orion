@@ -1,0 +1,23 @@
+name: Fetch chilliwackculturalcentre-ca Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * 3' #runs every week on wednesday at noon UTC (around 4 AM PDT)
+
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-push"
+          artifact: "chilliwackculturalcentre-ca"
+          publisher: "https://github.com/fjjulien#this"
+          downloadFile: "output/chilliwackculturalcentre-ca.jsonld"
+          page-url: "https://www.chilliwackculturalcentre.ca/upcoming-events/"
+          entity-identifier: "div.tribe-events-pro-photo__event-featured-image-wrapper"
+          is-paginated: "0"
+          offset: "0"
+          token: "${{ secrets.GITHUB_TOKEN }}"
