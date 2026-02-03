@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-09/Matt%20Anderson%20web%20pic.png?itok=zgE5gitB",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Banff%20web%20pic.png?itok=xbu7WK7z",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -83,6 +83,9 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
@@ -90,6 +93,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -128,6 +134,38 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Banff Centre Mountain Film Festival | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Banff Centre Mountain Film Festival"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-11/Banff%20web%20pic.png?itok=aWWRsgQ6"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
       }
     ]
   },
@@ -202,6 +240,38 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Le Banff Centre Mountain Film Festival | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Le Banff Centre Mountain Film Festival"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-11/Banff%20web%20pic.png?itok=aWWRsgQ6"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -237,96 +307,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Banff%20web%20pic.png?itok=xbu7WK7z",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Banff Centre Mountain Film Festival | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Banff Centre Mountain Film Festival"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-11/Banff%20web%20pic.png?itok=aWWRsgQ6"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/banff-centre-mountain-film-festival-4"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Le Banff Centre Mountain Film Festival | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Le Banff Centre Mountain Film Festival"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-11/Banff%20web%20pic.png?itok=aWWRsgQ6"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/le-banff-centre-mountain-film-festival-2"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-05/Heterosexuals%20web%20banner.png?itok=TP3sVSXT",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -336,6 +316,9 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
@@ -343,6 +326,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
@@ -426,6 +412,9 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
@@ -433,6 +422,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
@@ -452,10 +444,42 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Untitled%20design%20%283%29.jpg?itok=r_GYrkY6",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -981,7 +1005,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-07/Signature%204.png?itok=_HnCfJG2",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Signature%204.png?itok=eDX156yO",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -1027,21 +1051,18 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-07/Signature%205.png?itok=eA1JJndT",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Signature%205.png?itok=IL1GgOyr",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-07/Playhouse_LifeCircles.png?itok=kbTYnHxh",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Signature%206.png?itok=Ylu8jKL6",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -1150,6 +1171,112 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news/employment-opportunity-ticketing-operations-manager"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-05/Nomfusi%20web%20banner%20NEW.png?itok=lNw8xBuL",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-08/PH-PinkFloyd-1920x1080-Graphic-Proof.jpg?itok=oZl1IDVk",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-10/Wes%20Barker%20web%20pic.png?itok=9-lpWkdt",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Jeremy%20Hotz%20web%20pic.png?itok=-J1QBrj-",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Chinese%20New%20Year%20Gala%20web%20pic.png?itok=eBoiVRDQ",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -4165,12 +4292,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g741200"
+        "@id": "_:g744040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g741240"
+        "@id": "_:g744080"
       }
     ],
     "http://schema.org/organizer": [
@@ -4187,12 +4314,20 @@
       {
         "@language": "en",
         "@value": "Donovan Woods"
+      },
+      {
+        "@language": "fr",
+        "@value": "Donovan Woods"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Donovan Woods is a Canadian singer-songwriter, who is equ"
+      },
+      {
+        "@language": "fr",
+        "@value": "Donovan Woods est un auteur-compositeur-interprète qui es"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -4219,18 +4354,18 @@
     ]
   },
   {
-    "@id": "_:g741200",
+    "@id": "_:g744040",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g741220"
+        "@id": "_:g744060"
       }
     ]
   },
   {
-    "@id": "_:g741240",
+    "@id": "_:g744080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4279,7 +4414,7 @@
     ]
   },
   {
-    "@id": "_:g741220",
+    "@id": "_:g744060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7919,7 +8054,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2022-01/Scott%20Kennedy%20%20Board%20pic.png?itok=Zo8mDT3s",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2024-04/Greg%20Parker%20board%20pic.png?itok=CIrmaMay",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -7989,6 +8124,20 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2026-01/IMG_8349.JPEG?itok=965j-hmy",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/playhouse-non-profit-organization/board-directors"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/lorganisation-sans-lucratif-playhouse/conseil-dadministration"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2022-01/Sara%20DeGrace.jpg?itok=Kq5qFMri",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -8003,7 +8152,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2022-01/Jihad%20El%20Zamer%20Board%20pic%20%281%29.png?itok=kMfLenFJ",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2026-01/Saa%20Andrew.jpg?itok=t67UII9H",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -8017,7 +8166,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2024-04/Greg%20Parker%20board%20pic.png?itok=CIrmaMay",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/board_profile_picture/public/2022-01/Jihad%20El%20Zamer%20Board%20pic%20%281%29.png?itok=kMfLenFJ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -8314,26 +8463,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-05/Nomfusi%20web%20banner%20NEW.png?itok=lNw8xBuL",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -11146,12 +11275,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1002720"
+        "@id": "_:g1003180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1002760"
+        "@id": "_:g1003220"
       }
     ],
     "http://schema.org/organizer": [
@@ -11168,12 +11297,20 @@
       {
         "@language": "en",
         "@value": "The Barr Brothers"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Barr Brothers"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*Originally scheduled for March 20, 2025."
+      },
+      {
+        "@language": "fr",
+        "@value": "*Initialement prévue pour le 20 mars 2025."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -11206,18 +11343,18 @@
     ]
   },
   {
-    "@id": "_:g1002720",
+    "@id": "_:g1003180",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1002740"
+        "@id": "_:g1003200"
       }
     ]
   },
   {
-    "@id": "_:g1002760",
+    "@id": "_:g1003220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11245,7 +11382,7 @@
     ]
   },
   {
-    "@id": "_:g1002740",
+    "@id": "_:g1003200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12533,76 +12670,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Untitled%20design%20%283%29.jpg?itok=r_GYrkY6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-08/PH-PinkFloyd-1920x1080-Graphic-Proof.jpg?itok=oZl1IDVk",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Chinese%20New%20Year%20Gala%20web%20pic.png?itok=eBoiVRDQ",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Jeremy%20Hotz%20web%20pic.png?itok=-J1QBrj-",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-10/Wes%20Barker%20web%20pic.png?itok=9-lpWkdt",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Fredericton%202nd%20Show%201900x600.png?itok=UJwcIazi",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -12673,7 +12740,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-06/Tom%20Green%20web%20pic.png?itok=Y_J3YDys",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Company%20Showcase%20Banner.png?itok=x-tGOClz",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -12687,7 +12754,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Snowed%20In%20Comedy%201%20web%20pic%20%283%29.png?itok=72sFg68d",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-06/Tom%20Green%20web%20pic.png?itok=Y_J3YDys",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -12823,12 +12890,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1123120"
+        "@id": "_:g1124060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1123160"
+        "@id": "_:g1124100"
       }
     ],
     "http://schema.org/organizer": [
@@ -12845,12 +12912,20 @@
       {
         "@language": "en",
         "@value": "2025-26 Spotlight Season Preview Night"
+      },
+      {
+        "@language": "fr",
+        "@value": "Soirée avant-première de la série Pleins feux 2025-26"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Join us as we unveil the extraordinary line-up of artists"
+      },
+      {
+        "@language": "fr",
+        "@value": "Joignez-vous à nous pour le dévoilement de la brochette e"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -12883,18 +12958,18 @@
     ]
   },
   {
-    "@id": "_:g1123120",
+    "@id": "_:g1124060",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1123140"
+        "@id": "_:g1124080"
       }
     ]
   },
   {
-    "@id": "_:g1123160",
+    "@id": "_:g1124100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12922,7 +12997,7 @@
     ]
   },
   {
-    "@id": "_:g1123140",
+    "@id": "_:g1124080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13271,12 +13346,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1137000"
+        "@id": "_:g1138060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1137040"
+        "@id": "_:g1138100"
       }
     ],
     "http://schema.org/organizer": [
@@ -13293,12 +13368,20 @@
       {
         "@language": "en",
         "@value": "The Heterosexuals"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Heterosexuals"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "A comedic deep dive into the mysterious world of heterose"
+      },
+      {
+        "@language": "fr",
+        "@value": "Une plongée profonde et comique dans le monde mystérieux"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -13331,18 +13414,18 @@
     ]
   },
   {
-    "@id": "_:g1137000",
+    "@id": "_:g1138060",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1137020"
+        "@id": "_:g1138080"
       }
     ]
   },
   {
-    "@id": "_:g1137040",
+    "@id": "_:g1138100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13370,7 +13453,7 @@
     ]
   },
   {
-    "@id": "_:g1137020",
+    "@id": "_:g1138080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13431,12 +13514,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1146640"
+        "@id": "_:g1147760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1146680"
+        "@id": "_:g1147800"
       }
     ],
     "http://schema.org/organizer": [
@@ -13453,12 +13536,20 @@
       {
         "@language": "en",
         "@value": "BOOM X"
+      },
+      {
+        "@language": "fr",
+        "@value": "BOOM X"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "A Kidoons and WYRD Production, in association with Th"
+      },
+      {
+        "@language": "fr",
+        "@value": "Une production de Kidoons et WYRD, en collaboration a"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -13491,18 +13582,18 @@
     ]
   },
   {
-    "@id": "_:g1146640",
+    "@id": "_:g1147760",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1146660"
+        "@id": "_:g1147780"
       }
     ]
   },
   {
-    "@id": "_:g1146680",
+    "@id": "_:g1147800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13530,7 +13621,7 @@
     ]
   },
   {
-    "@id": "_:g1146660",
+    "@id": "_:g1147780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13591,12 +13682,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1155700"
+        "@id": "_:g1156980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1155740"
+        "@id": "_:g1157020"
       }
     ],
     "http://schema.org/organizer": [
@@ -13618,12 +13709,20 @@
       {
         "@language": "en",
         "@value": "Nomfusi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Nomfusi"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Nomfusi is known for her vibrant mix of Afro-soul, jazz,"
+      },
+      {
+        "@language": "fr",
+        "@value": "Nomfusi est connue pour son mix vibrant d’afro-soul, de j"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -13656,18 +13755,18 @@
     ]
   },
   {
-    "@id": "_:g1155700",
+    "@id": "_:g1156980",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1155720"
+        "@id": "_:g1157000"
       }
     ]
   },
   {
-    "@id": "_:g1155740",
+    "@id": "_:g1157020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13707,7 +13806,7 @@
     ]
   },
   {
-    "@id": "_:g1155720",
+    "@id": "_:g1157000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13768,12 +13867,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1165200"
+        "@id": "_:g1166500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1165240"
+        "@id": "_:g1166540"
       }
     ],
     "http://schema.org/organizer": [
@@ -13790,12 +13889,20 @@
       {
         "@language": "en",
         "@value": "UPU"
+      },
+      {
+        "@language": "fr",
+        "@value": "UPU"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "A Journey through the Heartbeat of Pacific Po"
+      },
+      {
+        "@language": "fr",
+        "@value": "Une immersion dans la poésie vivante du Pacif"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -13828,18 +13935,18 @@
     ]
   },
   {
-    "@id": "_:g1165200",
+    "@id": "_:g1166500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1165220"
+        "@id": "_:g1166520"
       }
     ]
   },
   {
-    "@id": "_:g1165240",
+    "@id": "_:g1166540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13867,7 +13974,7 @@
     ]
   },
   {
-    "@id": "_:g1165220",
+    "@id": "_:g1166520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13942,12 +14049,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1174780"
+        "@id": "_:g1176200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1174820"
+        "@id": "_:g1176240"
       }
     ],
     "http://schema.org/organizer": [
@@ -13964,12 +14071,20 @@
       {
         "@language": "en",
         "@value": "A Cabaret of Legends"
+      },
+      {
+        "@language": "fr",
+        "@value": "A Cabaret of Legends"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Legendary songs from the collections of legendary artists"
+      },
+      {
+        "@language": "fr",
+        "@value": "Des chansons légendaires, tirées de collections d’artiste"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -14002,18 +14117,18 @@
     ]
   },
   {
-    "@id": "_:g1174780",
+    "@id": "_:g1176200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1174800"
+        "@id": "_:g1176220"
       }
     ]
   },
   {
-    "@id": "_:g1174820",
+    "@id": "_:g1176240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14041,7 +14156,7 @@
     ]
   },
   {
-    "@id": "_:g1174800",
+    "@id": "_:g1176220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14102,12 +14217,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1184060"
+        "@id": "_:g1185200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1184100"
+        "@id": "_:g1185240"
       }
     ],
     "http://schema.org/organizer": [
@@ -14124,12 +14239,20 @@
       {
         "@language": "en",
         "@value": "Dwayne Gretzky"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dwayne Gretzky"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Dwayne Gretzky are Canada’s greatest party band and a can"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dwayne Gretzky est le meilleur groupe de musique party du"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -14162,18 +14285,18 @@
     ]
   },
   {
-    "@id": "_:g1184060",
+    "@id": "_:g1185200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1184080"
+        "@id": "_:g1185220"
       }
     ]
   },
   {
-    "@id": "_:g1184100",
+    "@id": "_:g1185240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14201,7 +14324,7 @@
     ]
   },
   {
-    "@id": "_:g1184080",
+    "@id": "_:g1185220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14262,12 +14385,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1193400"
+        "@id": "_:g1194480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1193440"
+        "@id": "_:g1194520"
       }
     ],
     "http://schema.org/organizer": [
@@ -14284,12 +14407,20 @@
       {
         "@language": "en",
         "@value": "Gravity & Other Myths: Ten Thousand Hours"
+      },
+      {
+        "@language": "fr",
+        "@value": "Gravity & Other Myths: Ten Thousand Hours"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Everybody is a master of something. Blink, step, jum"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tout le monde est maître de quelque chose. Cligner d"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -14322,18 +14453,18 @@
     ]
   },
   {
-    "@id": "_:g1193400",
+    "@id": "_:g1194480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1193420"
+        "@id": "_:g1194500"
       }
     ]
   },
   {
-    "@id": "_:g1193440",
+    "@id": "_:g1194520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14361,7 +14492,7 @@
     ]
   },
   {
-    "@id": "_:g1193420",
+    "@id": "_:g1194500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14422,12 +14553,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1202500"
+        "@id": "_:g1203500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1202540"
+        "@id": "_:g1203540"
       }
     ],
     "http://schema.org/organizer": [
@@ -14449,12 +14580,20 @@
       {
         "@language": "en",
         "@value": "Wintersleep"
+      },
+      {
+        "@language": "fr",
+        "@value": "Wintersleep"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Hailing from Halifax, Wintersleep has been quietly reshap"
+      },
+      {
+        "@language": "fr",
+        "@value": "Originaire de Halifax, Wintersleep refaçonne tranquilleme"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -14487,18 +14626,18 @@
     ]
   },
   {
-    "@id": "_:g1202500",
+    "@id": "_:g1203500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1202520"
+        "@id": "_:g1203520"
       }
     ]
   },
   {
-    "@id": "_:g1202540",
+    "@id": "_:g1203540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14538,7 +14677,7 @@
     ]
   },
   {
-    "@id": "_:g1202520",
+    "@id": "_:g1203520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14599,12 +14738,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1212160"
+        "@id": "_:g1213240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1212200"
+        "@id": "_:g1213280"
       }
     ],
     "http://schema.org/organizer": [
@@ -14621,12 +14760,20 @@
       {
         "@language": "en",
         "@value": "Ballet Kelowna: taqəš and Other Works"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ballet Kelowna: taqəš and Other Works"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Ballet Kelowna, known for its innovative performances in"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ballet Kelowna, connu pour ses performances innovatrices"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -14659,18 +14806,18 @@
     ]
   },
   {
-    "@id": "_:g1212160",
+    "@id": "_:g1213240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1212180"
+        "@id": "_:g1213260"
       }
     ]
   },
   {
-    "@id": "_:g1212200",
+    "@id": "_:g1213280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14698,7 +14845,7 @@
     ]
   },
   {
-    "@id": "_:g1212180",
+    "@id": "_:g1213260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14949,12 +15096,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1233700"
+        "@id": "_:g1235260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1233740"
+        "@id": "_:g1235300"
       }
     ],
     "http://schema.org/organizer": [
@@ -14971,12 +15118,20 @@
       {
         "@language": "en",
         "@value": "NBCS: Farewell Party"
+      },
+      {
+        "@language": "fr",
+        "@value": "NBCS: Farewell Party"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "After 38 years and hundreds of performances, the New Brun"
+      },
+      {
+        "@language": "fr",
+        "@value": "Après 38 ans et des centaines de représentations, le New"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -15009,18 +15164,18 @@
     ]
   },
   {
-    "@id": "_:g1233700",
+    "@id": "_:g1235260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1233720"
+        "@id": "_:g1235280"
       }
     ]
   },
   {
-    "@id": "_:g1233740",
+    "@id": "_:g1235300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15048,7 +15203,7 @@
     ]
   },
   {
-    "@id": "_:g1233720",
+    "@id": "_:g1235280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15136,12 +15291,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1241800"
+        "@id": "_:g1243420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1241840"
+        "@id": "_:g1243460"
       }
     ],
     "http://schema.org/organizer": [
@@ -15158,12 +15313,20 @@
       {
         "@language": "en",
         "@value": "Under the Same Sky"
+      },
+      {
+        "@language": "fr",
+        "@value": "Under the Same Sky"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Join Tunes and Tall Tales for a joyful, interactive music"
+      },
+      {
+        "@language": "fr",
+        "@value": "Joignez-vous à Tunes and Tall Tales pour une aventure mus"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -15196,18 +15359,18 @@
     ]
   },
   {
-    "@id": "_:g1241800",
+    "@id": "_:g1243420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1241820"
+        "@id": "_:g1243440"
       }
     ]
   },
   {
-    "@id": "_:g1241840",
+    "@id": "_:g1243460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15235,7 +15398,7 @@
     ]
   },
   {
-    "@id": "_:g1241820",
+    "@id": "_:g1243440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15296,12 +15459,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1250660"
+        "@id": "_:g1252280"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1250700"
+        "@id": "_:g1252320"
       }
     ],
     "http://schema.org/organizer": [
@@ -15318,11 +15481,19 @@
       {
         "@language": "en",
         "@value": "Dino-Light"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dino-Light"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
+        "@value": "Lightwire Theater"
+      },
+      {
+        "@language": "fr",
         "@value": "Lightwire Theater"
       }
     ],
@@ -15356,18 +15527,18 @@
     ]
   },
   {
-    "@id": "_:g1250660",
+    "@id": "_:g1252280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1250680"
+        "@id": "_:g1252300"
       }
     ]
   },
   {
-    "@id": "_:g1250700",
+    "@id": "_:g1252320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15395,7 +15566,7 @@
     ]
   },
   {
-    "@id": "_:g1250680",
+    "@id": "_:g1252300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15565,12 +15736,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1271420"
+        "@id": "_:g1273300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1271460"
+        "@id": "_:g1273340"
       }
     ],
     "http://schema.org/organizer": [
@@ -15587,12 +15758,20 @@
       {
         "@language": "en",
         "@value": "Tom Green: Stompin' Comedy Tour"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tom Green: Stompin' Comedy Tour"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "You know Tom Green from his innovative, anything-goes run"
+      },
+      {
+        "@language": "fr",
+        "@value": "On connaît Tom Green pour sa p"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -15625,18 +15804,18 @@
     ]
   },
   {
-    "@id": "_:g1271420",
+    "@id": "_:g1273300",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1271440"
+        "@id": "_:g1273320"
       }
     ]
   },
   {
-    "@id": "_:g1271460",
+    "@id": "_:g1273340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15664,7 +15843,7 @@
     ]
   },
   {
-    "@id": "_:g1271440",
+    "@id": "_:g1273320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15752,12 +15931,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1279640"
+        "@id": "_:g1281540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1279680"
+        "@id": "_:g1281580"
       }
     ],
     "http://schema.org/organizer": [
@@ -15774,12 +15953,20 @@
       {
         "@language": "en",
         "@value": "Martin Levac: A Tribute to Phil Collins & Genesis"
+      },
+      {
+        "@language": "fr",
+        "@value": "Martin Levac: A Tribute to Phil Collins & Genesis"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "From the intimate to the universal, Martin Levac takes us"
+      },
+      {
+        "@language": "fr",
+        "@value": "De l’intime à l’universel, Martin Levac nous accompagne d"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -15812,18 +15999,18 @@
     ]
   },
   {
-    "@id": "_:g1279640",
+    "@id": "_:g1281540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1279660"
+        "@id": "_:g1281560"
       }
     ]
   },
   {
-    "@id": "_:g1279680",
+    "@id": "_:g1281580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15851,7 +16038,7 @@
     ]
   },
   {
-    "@id": "_:g1279660",
+    "@id": "_:g1281560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16091,7 +16278,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Signature%204.png?itok=aYMTzgAC"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Signature%204.png?itok=8a4lHXnh"
       }
     ]
   },
@@ -16113,12 +16300,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1313040"
+        "@id": "_:g1315320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1313080"
+        "@id": "_:g1315360"
       }
     ],
     "http://schema.org/organizer": [
@@ -16135,11 +16322,19 @@
       {
         "@language": "en",
         "@value": "Signature Concert 4: Ode to Joy"
+      },
+      {
+        "@language": "fr",
+        "@value": "Quatrème concert Signature: Ode à la joie"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
+        "@value": ""
+      },
+      {
+        "@language": "fr",
         "@value": ""
       }
     ],
@@ -16173,18 +16368,18 @@
     ]
   },
   {
-    "@id": "_:g1313040",
+    "@id": "_:g1315320",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1313060"
+        "@id": "_:g1315340"
       }
     ]
   },
   {
-    "@id": "_:g1313080",
+    "@id": "_:g1315360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16196,7 +16391,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-24"
+        "@value": "2026-01-28"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -16212,7 +16407,7 @@
     ]
   },
   {
-    "@id": "_:g1313060",
+    "@id": "_:g1315340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16242,7 +16437,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-07/Signature%204.png?itok=nyCBzEHk",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Signature%204.png?itok=ajv7ld2_",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -16278,7 +16473,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Signature%204.png?itok=aYMTzgAC"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Signature%204.png?itok=8a4lHXnh"
       }
     ]
   },
@@ -16305,7 +16500,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Signature%205.png?itok=fzmwYdzY"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Signature%205.png?itok=Z7kiRoO7"
       }
     ]
   },
@@ -16327,12 +16522,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1321100"
+        "@id": "_:g1323420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1321140"
+        "@id": "_:g1323460"
       }
     ],
     "http://schema.org/organizer": [
@@ -16349,12 +16544,20 @@
       {
         "@language": "en",
         "@value": "Signature Concert 5: Rhythmic Lines"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cinquième concert Signature: Lignes rythmiques"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Feel the rhythm as Symphony NB pairs Mendelssohn’s majest"
+      },
+      {
+        "@language": "fr",
+        "@value": "Laissez-vous emporter par le rythme avec la majestueuse S"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -16387,18 +16590,18 @@
     ]
   },
   {
-    "@id": "_:g1321100",
+    "@id": "_:g1323420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1321120"
+        "@id": "_:g1323440"
       }
     ]
   },
   {
-    "@id": "_:g1321140",
+    "@id": "_:g1323460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16410,7 +16613,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-10-27"
+        "@value": "2026-01-28"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -16426,7 +16629,7 @@
     ]
   },
   {
-    "@id": "_:g1321120",
+    "@id": "_:g1323440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16456,43 +16659,13 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-07/Signature%205.png?itok=t4e-Z4_y",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Signature%205.png?itok=ypx49Jtn",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/signature-concert-5-rhythmic-lines"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Cinquième concert Signature: Lignes rythmiques | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Cinquième concert Signature: Lignes rythmiques"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Signature%205.png?itok=fzmwYdzY"
       }
     ]
   },
@@ -16519,7 +16692,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Playhouse_LifeCircles.png?itok=0rBa0OoP"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Signature%206.png?itok=Am4dq1LG"
       }
     ]
   },
@@ -16541,12 +16714,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1329200"
+        "@id": "_:g1331340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1329240"
+        "@id": "_:g1331380"
       }
     ],
     "http://schema.org/organizer": [
@@ -16563,12 +16736,20 @@
       {
         "@language": "en",
         "@value": "Signature Concert 6: Life Circles"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dernier concert Signature: Cercles de vie"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Symphony NB closes out the season on an intriguing note w"
+      },
+      {
+        "@language": "fr",
+        "@value": "Symphonie Nouveau-Brunswick conclut la saison sur une not"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -16601,18 +16782,18 @@
     ]
   },
   {
-    "@id": "_:g1329200",
+    "@id": "_:g1331340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1329220"
+        "@id": "_:g1331360"
       }
     ]
   },
   {
-    "@id": "_:g1329240",
+    "@id": "_:g1331380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16624,7 +16805,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-10-27"
+        "@value": "2026-01-28"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -16640,7 +16821,7 @@
     ]
   },
   {
-    "@id": "_:g1329220",
+    "@id": "_:g1331360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16670,7 +16851,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-07/Playhouse_LifeCircles.png?itok=Tn4QMIay",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Signature%206.png?itok=dMKFbyuZ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -16706,7 +16887,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Playhouse_LifeCircles.png?itok=0rBa0OoP"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Signature%206.png?itok=Am4dq1LG"
       }
     ]
   },
@@ -16796,12 +16977,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1343480"
+        "@id": "_:g1345660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1343520"
+        "@id": "_:g1345700"
       }
     ],
     "http://schema.org/organizer": [
@@ -16818,12 +16999,20 @@
       {
         "@language": "en",
         "@value": "TNB Theatre School: Mean Girls High School Version"
+      },
+      {
+        "@language": "fr",
+        "@value": "TNB Theatre School: Mean Girls High School Version"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Cady Heron may have grown up on an African savanna, but n"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cady Heron a peut-être grandit dans la savane africaine,"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -16856,18 +17045,18 @@
     ]
   },
   {
-    "@id": "_:g1343480",
+    "@id": "_:g1345660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1343500"
+        "@id": "_:g1345680"
       }
     ]
   },
   {
-    "@id": "_:g1343520",
+    "@id": "_:g1345700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16895,7 +17084,7 @@
     ]
   },
   {
-    "@id": "_:g1343500",
+    "@id": "_:g1345680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17084,12 +17273,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1357600"
+        "@id": "_:g1359820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1357640"
+        "@id": "_:g1359860"
       }
     ],
     "http://schema.org/organizer": [
@@ -17106,12 +17295,20 @@
       {
         "@language": "en",
         "@value": "TNB Theatre School: Mean Girls High School Version"
+      },
+      {
+        "@language": "fr",
+        "@value": "TNB Theatre School: Mean Girls High School Version"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Cady Heron may have grown up on an African savanna, but n"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cady Heron a peut-être grandit dans la savane africaine,"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -17144,18 +17341,18 @@
     ]
   },
   {
-    "@id": "_:g1357600",
+    "@id": "_:g1359820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1357620"
+        "@id": "_:g1359840"
       }
     ]
   },
   {
-    "@id": "_:g1357640",
+    "@id": "_:g1359860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17183,7 +17380,7 @@
     ]
   },
   {
-    "@id": "_:g1357620",
+    "@id": "_:g1359840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17257,12 +17454,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1365860"
+        "@id": "_:g1367960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1365900"
+        "@id": "_:g1368000"
       }
     ],
     "http://schema.org/organizer": [
@@ -17279,12 +17476,20 @@
       {
         "@language": "en",
         "@value": "Classic Albums Live performs: Pink Floyd"
+      },
+      {
+        "@language": "fr",
+        "@value": "Classic Albums Live performs: Pink Floyd"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Twenty million people bought this album first on vinyl, t"
+      },
+      {
+        "@language": "fr",
+        "@value": "Vingt millions de personnes ont d’abord acheté le disque"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -17317,18 +17522,18 @@
     ]
   },
   {
-    "@id": "_:g1365860",
+    "@id": "_:g1367960",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1365880"
+        "@id": "_:g1367980"
       }
     ]
   },
   {
-    "@id": "_:g1365900",
+    "@id": "_:g1368000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17356,7 +17561,7 @@
     ]
   },
   {
-    "@id": "_:g1365880",
+    "@id": "_:g1367980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17471,12 +17676,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1373880"
+        "@id": "_:g1376000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1373920"
+        "@id": "_:g1376040"
       }
     ],
     "http://schema.org/organizer": [
@@ -17493,12 +17698,20 @@
       {
         "@language": "en",
         "@value": "Classic Albums Live performs: Led Zeppelin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Classic Albums Live performs: Led Zeppelin"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "LED ZEPPELIN - Led Zeppelin II: Is the second studio albu"
+      },
+      {
+        "@language": "fr",
+        "@value": "LED ZEPPELIN - Led Zeppelin II : est le deuxième album du"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -17531,18 +17744,18 @@
     ]
   },
   {
-    "@id": "_:g1373880",
+    "@id": "_:g1376000",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1373900"
+        "@id": "_:g1376020"
       }
     ]
   },
   {
-    "@id": "_:g1373920",
+    "@id": "_:g1376040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17570,7 +17783,7 @@
     ]
   },
   {
-    "@id": "_:g1373900",
+    "@id": "_:g1376020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17685,12 +17898,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1382000"
+        "@id": "_:g1384120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1382040"
+        "@id": "_:g1384160"
       }
     ],
     "http://schema.org/organizer": [
@@ -17707,12 +17920,20 @@
       {
         "@language": "en",
         "@value": "Gypsy: Premiere Fleetwood Mac Tribute"
+      },
+      {
+        "@language": "fr",
+        "@value": "Gypsy: Premiere Fleetwood Mac Tribute"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "“Gypsy” The Premiere “Fleetwood Mac” Tribute band feature"
+      },
+      {
+        "@language": "fr",
+        "@value": "« Gypsy » le célèbre groupe hommage à « Fl"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -17745,18 +17966,18 @@
     ]
   },
   {
-    "@id": "_:g1382000",
+    "@id": "_:g1384120",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1382020"
+        "@id": "_:g1384140"
       }
     ]
   },
   {
-    "@id": "_:g1382040",
+    "@id": "_:g1384160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17784,7 +18005,7 @@
     ]
   },
   {
-    "@id": "_:g1382020",
+    "@id": "_:g1384140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17899,12 +18120,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1390080"
+        "@id": "_:g1392140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1390120"
+        "@id": "_:g1392180"
       }
     ],
     "http://schema.org/organizer": [
@@ -17921,12 +18142,20 @@
       {
         "@language": "en",
         "@value": "Bolero & Other Works: A Celebration in Dance and Song"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bolero & Other Works: A Celebration in Dance and Song"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Atlantic Ballet is proud to collaborate once again with t"
+      },
+      {
+        "@language": "fr",
+        "@value": "Boléro & autres œuvres : Une célébration en danse et"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -17959,18 +18188,18 @@
     ]
   },
   {
-    "@id": "_:g1390080",
+    "@id": "_:g1392140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1390100"
+        "@id": "_:g1392160"
       }
     ]
   },
   {
-    "@id": "_:g1390120",
+    "@id": "_:g1392180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17998,7 +18227,7 @@
     ]
   },
   {
-    "@id": "_:g1390100",
+    "@id": "_:g1392160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18113,12 +18342,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1398160"
+        "@id": "_:g1400240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1398200"
+        "@id": "_:g1400280"
       }
     ],
     "http://schema.org/organizer": [
@@ -18135,12 +18364,20 @@
       {
         "@language": "en",
         "@value": "FSO: 50th Anniversary Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "FSO: 50th Anniversary Concert"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Originally formed as the Fredericton Chamber Orchestra, t"
+      },
+      {
+        "@language": "fr",
+        "@value": "Anciennement connu sous le nom d’Orchestre de chambre Fre"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -18173,18 +18410,18 @@
     ]
   },
   {
-    "@id": "_:g1398160",
+    "@id": "_:g1400240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1398180"
+        "@id": "_:g1400260"
       }
     ]
   },
   {
-    "@id": "_:g1398200",
+    "@id": "_:g1400280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18212,7 +18449,7 @@
     ]
   },
   {
-    "@id": "_:g1398180",
+    "@id": "_:g1400260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18327,12 +18564,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1406180"
+        "@id": "_:g1408280"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1406220"
+        "@id": "_:g1408320"
       }
     ],
     "http://schema.org/organizer": [
@@ -18349,12 +18586,20 @@
       {
         "@language": "en",
         "@value": "William Prince"
+      },
+      {
+        "@language": "fr",
+        "@value": "William Prince"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "The distance traveled on William Prince’s new album, Furt"
+      },
+      {
+        "@language": "fr",
+        "@value": "Guidées par une gratitude pratique mais profonde, les cha"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -18387,18 +18632,18 @@
     ]
   },
   {
-    "@id": "_:g1406180",
+    "@id": "_:g1408280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1406200"
+        "@id": "_:g1408300"
       }
     ]
   },
   {
-    "@id": "_:g1406220",
+    "@id": "_:g1408320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18426,7 +18671,7 @@
     ]
   },
   {
-    "@id": "_:g1406200",
+    "@id": "_:g1408300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18664,12 +18909,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1426480"
+        "@id": "_:g1428560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1426520"
+        "@id": "_:g1428600"
       }
     ],
     "http://schema.org/organizer": [
@@ -18686,12 +18931,20 @@
       {
         "@language": "en",
         "@value": "Alex Mackenzie's Never Been Better Comedy Tour"
+      },
+      {
+        "@language": "fr",
+        "@value": "Alex Mackenzie's Never Been Better Comedy Tour"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Alex Mackenzie is taking the comedy world by storm, and h"
+      },
+      {
+        "@language": "fr",
+        "@value": "Alex Mackenzie prend d’assaut le monde de l’humour, et sa"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -18724,18 +18977,18 @@
     ]
   },
   {
-    "@id": "_:g1426480",
+    "@id": "_:g1428560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1426500"
+        "@id": "_:g1428580"
       }
     ]
   },
   {
-    "@id": "_:g1426520",
+    "@id": "_:g1428600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18763,7 +19016,7 @@
     ]
   },
   {
-    "@id": "_:g1426500",
+    "@id": "_:g1428580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18878,12 +19131,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1434740"
+        "@id": "_:g1436820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1434780"
+        "@id": "_:g1436860"
       }
     ],
     "http://schema.org/organizer": [
@@ -18900,12 +19153,20 @@
       {
         "@language": "en",
         "@value": "The Alan Jackson Experience"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Alan Jackson Experience"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "The Alan Jackson Experience is an internationally recogni"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Alan Jackson Experience » est un hommage internationa"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -18938,18 +19199,18 @@
     ]
   },
   {
-    "@id": "_:g1434740",
+    "@id": "_:g1436820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1434760"
+        "@id": "_:g1436840"
       }
     ]
   },
   {
-    "@id": "_:g1434780",
+    "@id": "_:g1436860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18977,7 +19238,7 @@
     ]
   },
   {
-    "@id": "_:g1434760",
+    "@id": "_:g1436840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19246,12 +19507,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1451540"
+        "@id": "_:g1453440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1451580"
+        "@id": "_:g1453480"
       }
     ],
     "http://schema.org/organizer": [
@@ -19268,12 +19529,20 @@
       {
         "@language": "en",
         "@value": "Golden Girls: The Laughs Continue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Golden Girls: The Laughs Continue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "The Golden Girls are back!"
+      },
+      {
+        "@language": "fr",
+        "@value": "Les Golden Girls sont de retour !"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -19306,18 +19575,18 @@
     ]
   },
   {
-    "@id": "_:g1451540",
+    "@id": "_:g1453440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1451560"
+        "@id": "_:g1453460"
       }
     ]
   },
   {
-    "@id": "_:g1451580",
+    "@id": "_:g1453480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19345,7 +19614,7 @@
     ]
   },
   {
-    "@id": "_:g1451560",
+    "@id": "_:g1453460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19433,12 +19702,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1459860"
+        "@id": "_:g1461760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1459900"
+        "@id": "_:g1461800"
       }
     ],
     "http://schema.org/organizer": [
@@ -19455,12 +19724,20 @@
       {
         "@language": "en",
         "@value": "Banff Centre Mountain Film Festival"
+      },
+      {
+        "@language": "fr",
+        "@value": "Banff Centre Mountain Film Festival"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Banff Centre Mountain Film Festival World Tour brings a c"
+      },
+      {
+        "@language": "fr",
+        "@value": "La tournée mondiale du Banff Centre Mountain Film Festiva"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -19493,18 +19770,18 @@
     ]
   },
   {
-    "@id": "_:g1459860",
+    "@id": "_:g1461760",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1459880"
+        "@id": "_:g1461780"
       }
     ]
   },
   {
-    "@id": "_:g1459900",
+    "@id": "_:g1461800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19532,7 +19809,7 @@
     ]
   },
   {
-    "@id": "_:g1459880",
+    "@id": "_:g1461780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19579,12 +19856,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1467980"
+        "@id": "_:g1469660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1468020"
+        "@id": "_:g1469700"
       }
     ],
     "http://schema.org/organizer": [
@@ -19601,12 +19878,20 @@
       {
         "@language": "en",
         "@value": "Banff Centre Mountain Film Festival"
+      },
+      {
+        "@language": "fr",
+        "@value": "Banff Centre Mountain Film Festival"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Banff Centre Mountain Film Festival World Tour brings a c"
+      },
+      {
+        "@language": "fr",
+        "@value": "La tournée mondiale du Banff Centre Mountain Film Festiva"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -19639,18 +19924,18 @@
     ]
   },
   {
-    "@id": "_:g1467980",
+    "@id": "_:g1469660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1468000"
+        "@id": "_:g1469680"
       }
     ]
   },
   {
-    "@id": "_:g1468020",
+    "@id": "_:g1469700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19678,7 +19963,7 @@
     ]
   },
   {
-    "@id": "_:g1468000",
+    "@id": "_:g1469680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19752,12 +20037,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1483080"
+        "@id": "_:g1484820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1483120"
+        "@id": "_:g1484860"
       }
     ],
     "http://schema.org/organizer": [
@@ -19774,12 +20059,20 @@
       {
         "@language": "en",
         "@value": "Jeremy Hotz One Night Only - With the Dog"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jeremy Hotz One Night Only - With the Dog"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "\"It’s true, they’re coming!"
+      },
+      {
+        "@language": "fr",
+        "@value": "« C’est vrai, il revient! Contre toute attente,"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -19812,18 +20105,18 @@
     ]
   },
   {
-    "@id": "_:g1483080",
+    "@id": "_:g1484820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1483100"
+        "@id": "_:g1484840"
       }
     ]
   },
   {
-    "@id": "_:g1483120",
+    "@id": "_:g1484860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19851,7 +20144,7 @@
     ]
   },
   {
-    "@id": "_:g1483100",
+    "@id": "_:g1484840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19966,12 +20259,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1491200"
+        "@id": "_:g1492940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1491240"
+        "@id": "_:g1492980"
       }
     ],
     "http://schema.org/organizer": [
@@ -19988,12 +20281,20 @@
       {
         "@language": "en",
         "@value": "The Ultimate Tribute to Megastars of Country"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Ultimate Tribute to Megastars of Country"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "The MEGASTARS OF COUNTRY MUSIC is an exciting, fun-filled"
+      },
+      {
+        "@language": "fr",
+        "@value": "Les MEGASTARS DE LA MUSIQUE COUNTRY, c’est un spectacle é"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -20026,18 +20327,18 @@
     ]
   },
   {
-    "@id": "_:g1491200",
+    "@id": "_:g1492940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1491220"
+        "@id": "_:g1492960"
       }
     ]
   },
   {
-    "@id": "_:g1491240",
+    "@id": "_:g1492980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20065,7 +20366,7 @@
     ]
   },
   {
-    "@id": "_:g1491220",
+    "@id": "_:g1492960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20240,12 +20541,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1505520"
+        "@id": "_:g1507360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1505560"
+        "@id": "_:g1507400"
       }
     ],
     "http://schema.org/organizer": [
@@ -20262,12 +20563,20 @@
       {
         "@language": "en",
         "@value": "Guys and Dolls: In Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "Guys and Dolls: In Concert"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "This spring, Rogue Productions presents Guys and Dolls: I"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ce printemps, Rogue Productions présente Guys and"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -20300,18 +20609,18 @@
     ]
   },
   {
-    "@id": "_:g1505520",
+    "@id": "_:g1507360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1505540"
+        "@id": "_:g1507380"
       }
     ]
   },
   {
-    "@id": "_:g1505560",
+    "@id": "_:g1507400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20339,7 +20648,7 @@
     ]
   },
   {
-    "@id": "_:g1505540",
+    "@id": "_:g1507380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20677,12 +20986,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1513580"
+        "@id": "_:g1515480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1513620"
+        "@id": "_:g1515520"
       }
     ],
     "http://schema.org/organizer": [
@@ -20699,12 +21008,20 @@
       {
         "@language": "en",
         "@value": "Guys and Dolls: In Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "Guys and Dolls: In Concert"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "This spring, Rogue Productions presents Guys and Dolls: I"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ce printemps, Rogue Productions présente Guy"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -20737,18 +21054,18 @@
     ]
   },
   {
-    "@id": "_:g1513580",
+    "@id": "_:g1515480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1513600"
+        "@id": "_:g1515500"
       }
     ]
   },
   {
-    "@id": "_:g1513620",
+    "@id": "_:g1515520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20776,7 +21093,7 @@
     ]
   },
   {
-    "@id": "_:g1513600",
+    "@id": "_:g1515500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20823,12 +21140,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1521720"
+        "@id": "_:g1523720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1521760"
+        "@id": "_:g1523760"
       }
     ],
     "http://schema.org/organizer": [
@@ -20845,12 +21162,20 @@
       {
         "@language": "en",
         "@value": "Guys and Dolls: In Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "Guys and Dolls: In Concert"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "This spring, Rogue Productions presents Guys and Dolls: I"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ce printemps, Rogue Productions présente Guy"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -20883,18 +21208,18 @@
     ]
   },
   {
-    "@id": "_:g1521720",
+    "@id": "_:g1523720",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1521740"
+        "@id": "_:g1523740"
       }
     ]
   },
   {
-    "@id": "_:g1521760",
+    "@id": "_:g1523760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20922,7 +21247,7 @@
     ]
   },
   {
-    "@id": "_:g1521740",
+    "@id": "_:g1523740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20969,12 +21294,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1529800"
+        "@id": "_:g1531860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1529840"
+        "@id": "_:g1531900"
       }
     ],
     "http://schema.org/organizer": [
@@ -20991,12 +21316,20 @@
       {
         "@language": "en",
         "@value": "Guys and Dolls: In Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "Guys and Dolls: In Concert"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "This spring, Rogue Productions presents Guys and Dolls: I"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ce printemps, Rogue Productions présente Guy"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -21029,18 +21362,18 @@
     ]
   },
   {
-    "@id": "_:g1529800",
+    "@id": "_:g1531860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1529820"
+        "@id": "_:g1531880"
       }
     ]
   },
   {
-    "@id": "_:g1529840",
+    "@id": "_:g1531900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21068,7 +21401,7 @@
     ]
   },
   {
-    "@id": "_:g1529820",
+    "@id": "_:g1531880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21156,12 +21489,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1545740"
+        "@id": "_:g1547800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1545780"
+        "@id": "_:g1547840"
       }
     ],
     "http://schema.org/organizer": [
@@ -21178,12 +21511,20 @@
       {
         "@language": "en",
         "@value": "The Michael Jackson History Show"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Michael Jackson History Show"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Don’t miss your chance to see Showtime’s The Mich"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ne ratez pas l’occasion de voir The Michael Jackson HISto"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -21216,18 +21557,18 @@
     ]
   },
   {
-    "@id": "_:g1545740",
+    "@id": "_:g1547800",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1545760"
+        "@id": "_:g1547820"
       }
     ]
   },
   {
-    "@id": "_:g1545780",
+    "@id": "_:g1547840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21255,7 +21596,7 @@
     ]
   },
   {
-    "@id": "_:g1545760",
+    "@id": "_:g1547820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21370,12 +21711,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1553820"
+        "@id": "_:g1555860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1553860"
+        "@id": "_:g1555900"
       }
     ],
     "http://schema.org/organizer": [
@@ -21392,12 +21733,20 @@
       {
         "@language": "en",
         "@value": "Chinese New Year Gala"
+      },
+      {
+        "@language": "fr",
+        "@value": "Chinese New Year Gala"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "The CCANB Spring Festival Gala will be held on February 2"
+      },
+      {
+        "@language": "fr",
+        "@value": "Le gala du Festival du printemps de l’Association Culture"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -21430,18 +21779,18 @@
     ]
   },
   {
-    "@id": "_:g1553820",
+    "@id": "_:g1555860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1553840"
+        "@id": "_:g1555880"
       }
     ]
   },
   {
-    "@id": "_:g1553860",
+    "@id": "_:g1555900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21469,7 +21818,7 @@
     ]
   },
   {
-    "@id": "_:g1553840",
+    "@id": "_:g1555880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21584,12 +21933,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1562040"
+        "@id": "_:g1564080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1562080"
+        "@id": "_:g1564120"
       }
     ],
     "http://schema.org/organizer": [
@@ -21606,12 +21955,20 @@
       {
         "@language": "en",
         "@value": "The Very Best of James Mullinger"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Very Best of James Mullinger"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "James Mullinger - Canadian Comedian! "
+      },
+      {
+        "@language": "fr",
+        "@value": "James Mullinger – Humoriste canadien! "
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -21644,18 +22001,18 @@
     ]
   },
   {
-    "@id": "_:g1562040",
+    "@id": "_:g1564080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1562060"
+        "@id": "_:g1564100"
       }
     ]
   },
   {
-    "@id": "_:g1562080",
+    "@id": "_:g1564120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21683,7 +22040,7 @@
     ]
   },
   {
-    "@id": "_:g1562060",
+    "@id": "_:g1564100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21798,12 +22155,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1569980"
+        "@id": "_:g1572040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1570020"
+        "@id": "_:g1572080"
       }
     ],
     "http://schema.org/organizer": [
@@ -21820,12 +22177,20 @@
       {
         "@language": "en",
         "@value": "New Brunswick Youth Orchestra: Vive Le Canada"
+      },
+      {
+        "@language": "fr",
+        "@value": "New Brunswick Youth Orchestra: Vive Le Canada"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "This event takes place at the Tom Morrison Th"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cet spectacle a lieu au Tom Morrison Theatre"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -21858,18 +22223,18 @@
     ]
   },
   {
-    "@id": "_:g1569980",
+    "@id": "_:g1572040",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1570000"
+        "@id": "_:g1572060"
       }
     ]
   },
   {
-    "@id": "_:g1570020",
+    "@id": "_:g1572080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21897,7 +22262,7 @@
     ]
   },
   {
-    "@id": "_:g1570000",
+    "@id": "_:g1572060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22026,12 +22391,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1584420"
+        "@id": "_:g1586480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1584460"
+        "@id": "_:g1586520"
       }
     ],
     "http://schema.org/organizer": [
@@ -22048,12 +22413,20 @@
       {
         "@language": "en",
         "@value": "Music Of The Night: The Concert Tour"
+      },
+      {
+        "@language": "fr",
+        "@value": "Music Of The Night: The Concert Tour"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "A Concert Celebration of Andrew Lloyd Webber's Greatest H"
+      },
+      {
+        "@language": "fr",
+        "@value": "*La traduction française sera bientôt disponi"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -22086,18 +22459,18 @@
     ]
   },
   {
-    "@id": "_:g1584420",
+    "@id": "_:g1586480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1584440"
+        "@id": "_:g1586500"
       }
     ]
   },
   {
-    "@id": "_:g1584460",
+    "@id": "_:g1586520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22125,7 +22498,7 @@
     ]
   },
   {
-    "@id": "_:g1584440",
+    "@id": "_:g1586500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22240,12 +22613,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1592600"
+        "@id": "_:g1594580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1592640"
+        "@id": "_:g1594620"
       }
     ],
     "http://schema.org/organizer": [
@@ -22262,12 +22635,20 @@
       {
         "@language": "en",
         "@value": "Tim Hicks: Going Somewhere Tour"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tim Hicks: Going Somewhere Tour"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Tim Hicks is one of Canada's most consistent country hitm"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tim Hicks compte parmi les valeurs sûres de la scène coun"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -22300,18 +22681,18 @@
     ]
   },
   {
-    "@id": "_:g1592600",
+    "@id": "_:g1594580",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1592620"
+        "@id": "_:g1594600"
       }
     ]
   },
   {
-    "@id": "_:g1592640",
+    "@id": "_:g1594620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22339,7 +22720,7 @@
     ]
   },
   {
-    "@id": "_:g1592620",
+    "@id": "_:g1594600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22454,12 +22835,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1600540"
+        "@id": "_:g1602660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1600580"
+        "@id": "_:g1602700"
       }
     ],
     "http://schema.org/organizer": [
@@ -22476,12 +22857,20 @@
       {
         "@language": "en",
         "@value": "Loreena McKennitt: The Mask and Mirror Tour"
+      },
+      {
+        "@language": "fr",
+        "@value": "Loreena McKennitt: The Mask and Mirror Tour"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Next fall, award-winning Canadian singer/songwriter, Lore"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cet automne, la chanteuse et auteure-compositrice canadie"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -22514,18 +22903,18 @@
     ]
   },
   {
-    "@id": "_:g1600540",
+    "@id": "_:g1602660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1600560"
+        "@id": "_:g1602680"
       }
     ]
   },
   {
-    "@id": "_:g1600580",
+    "@id": "_:g1602700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22553,7 +22942,7 @@
     ]
   },
   {
-    "@id": "_:g1600560",
+    "@id": "_:g1602680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22668,12 +23057,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1608480"
+        "@id": "_:g1610600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1608520"
+        "@id": "_:g1610640"
       }
     ],
     "http://schema.org/organizer": [
@@ -22690,12 +23079,20 @@
       {
         "@language": "en",
         "@value": "The Price of Freedom"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Price of Freedom"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Set against the turbulent backdrop of 1860s Canada, The P"
+      },
+      {
+        "@language": "fr",
+        "@value": "Située dans le climat tumultueux du Canada des années 186"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -22728,18 +23125,18 @@
     ]
   },
   {
-    "@id": "_:g1608480",
+    "@id": "_:g1610600",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1608500"
+        "@id": "_:g1610620"
       }
     ]
   },
   {
-    "@id": "_:g1608520",
+    "@id": "_:g1610640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22767,7 +23164,7 @@
     ]
   },
   {
-    "@id": "_:g1608500",
+    "@id": "_:g1610620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22882,12 +23279,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1616700"
+        "@id": "_:g1618740"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1616740"
+        "@id": "_:g1618780"
       }
     ],
     "http://schema.org/organizer": [
@@ -22904,12 +23301,20 @@
       {
         "@language": "en",
         "@value": "Hells Bells: Celebrating the music of AC/DC"
+      },
+      {
+        "@language": "fr",
+        "@value": "Hells Bells: Celebrating the music of AC/DC"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*Early bird pricing available until March 20."
+      },
+      {
+        "@language": "fr",
+        "@value": "*Tarif préférentiel disponible jusqu'au 20 ma"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -22942,18 +23347,18 @@
     ]
   },
   {
-    "@id": "_:g1616700",
+    "@id": "_:g1618740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1616720"
+        "@id": "_:g1618760"
       }
     ]
   },
   {
-    "@id": "_:g1616740",
+    "@id": "_:g1618780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22981,7 +23386,7 @@
     ]
   },
   {
-    "@id": "_:g1616720",
+    "@id": "_:g1618760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23096,12 +23501,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1624820"
+        "@id": "_:g1626860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1624860"
+        "@id": "_:g1626900"
       }
     ],
     "http://schema.org/organizer": [
@@ -23118,12 +23523,20 @@
       {
         "@language": "en",
         "@value": "The Piano Men"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Piano Men"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*Early bird pricing available until March 20."
+      },
+      {
+        "@language": "fr",
+        "@value": "*Tarif préférentiel disponible jusqu'au 20 ma"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -23156,18 +23569,18 @@
     ]
   },
   {
-    "@id": "_:g1624820",
+    "@id": "_:g1626860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1624840"
+        "@id": "_:g1626880"
       }
     ]
   },
   {
-    "@id": "_:g1624860",
+    "@id": "_:g1626900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23195,7 +23608,7 @@
     ]
   },
   {
-    "@id": "_:g1624840",
+    "@id": "_:g1626880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23310,12 +23723,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1632980"
+        "@id": "_:g1635020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1633020"
+        "@id": "_:g1635060"
       }
     ],
     "http://schema.org/organizer": [
@@ -23332,12 +23745,20 @@
       {
         "@language": "en",
         "@value": "Solitary Man: Celebrating The Music of Neil Diamond"
+      },
+      {
+        "@language": "fr",
+        "@value": "Solitary Man: Celebrating The Music of Neil Diamond"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*Early bird pricing available until March 20."
+      },
+      {
+        "@language": "fr",
+        "@value": "*Tarif préférentiel disponible jusqu'au 20 ma"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -23370,18 +23791,18 @@
     ]
   },
   {
-    "@id": "_:g1632980",
+    "@id": "_:g1635020",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1633000"
+        "@id": "_:g1635040"
       }
     ]
   },
   {
-    "@id": "_:g1633020",
+    "@id": "_:g1635060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23409,7 +23830,7 @@
     ]
   },
   {
-    "@id": "_:g1633000",
+    "@id": "_:g1635040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23565,12 +23986,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1647140"
+        "@id": "_:g1649140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1647180"
+        "@id": "_:g1649180"
       }
     ],
     "http://schema.org/organizer": [
@@ -23587,12 +24008,20 @@
       {
         "@language": "en",
         "@value": "Sláinte: A Celtic Soirée"
+      },
+      {
+        "@language": "fr",
+        "@value": "Sláinte: A Celtic Soirée"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Following two very successful performances Frantically At"
+      },
+      {
+        "@language": "fr",
+        "@value": "Après deux représentations très réussies, Frantically Atl"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -23625,18 +24054,18 @@
     ]
   },
   {
-    "@id": "_:g1647140",
+    "@id": "_:g1649140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1647160"
+        "@id": "_:g1649160"
       }
     ]
   },
   {
-    "@id": "_:g1647180",
+    "@id": "_:g1649180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23664,7 +24093,7 @@
     ]
   },
   {
-    "@id": "_:g1647160",
+    "@id": "_:g1649160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23752,12 +24181,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1655360"
+        "@id": "_:g1657340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1655400"
+        "@id": "_:g1657380"
       }
     ],
     "http://schema.org/organizer": [
@@ -23774,12 +24203,20 @@
       {
         "@language": "en",
         "@value": "The Ultimate Tribute to Megastars of Country"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Ultimate Tribute to Megastars of Country"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*2nd show added!"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Deuxième spectacle ajouté !"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -23812,18 +24249,18 @@
     ]
   },
   {
-    "@id": "_:g1655360",
+    "@id": "_:g1657340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1655380"
+        "@id": "_:g1657360"
       }
     ]
   },
   {
-    "@id": "_:g1655400",
+    "@id": "_:g1657380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23851,7 +24288,7 @@
     ]
   },
   {
-    "@id": "_:g1655380",
+    "@id": "_:g1657360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23939,12 +24376,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1669680"
+        "@id": "_:g1671680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1669720"
+        "@id": "_:g1671720"
       }
     ],
     "http://schema.org/organizer": [
@@ -23961,12 +24398,20 @@
       {
         "@language": "en",
         "@value": "Smokey Mountain Songbird: Tribute to Dolly Parton"
+      },
+      {
+        "@language": "fr",
+        "@value": "Smokey Mountain Songbird: Tribute to Dolly Parton"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*Early bird pricing available until March 20."
+      },
+      {
+        "@language": "fr",
+        "@value": "*Tarif préférentiel disponible jusqu'au 20 ma"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -23999,18 +24444,18 @@
     ]
   },
   {
-    "@id": "_:g1669680",
+    "@id": "_:g1671680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1669700"
+        "@id": "_:g1671700"
       }
     ]
   },
   {
-    "@id": "_:g1669720",
+    "@id": "_:g1671720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24038,7 +24483,7 @@
     ]
   },
   {
-    "@id": "_:g1669700",
+    "@id": "_:g1671700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24153,12 +24598,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1677800"
+        "@id": "_:g1679800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1677840"
+        "@id": "_:g1679840"
       }
     ],
     "http://schema.org/organizer": [
@@ -24175,12 +24620,20 @@
       {
         "@language": "en",
         "@value": "Golden Girls: The Laughs Continue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Golden Girls: The Laughs Continue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "*2nd show added!"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Deuxième spectacle ajouté !"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -24213,18 +24666,18 @@
     ]
   },
   {
-    "@id": "_:g1677800",
+    "@id": "_:g1679800",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1677820"
+        "@id": "_:g1679820"
       }
     ]
   },
   {
-    "@id": "_:g1677840",
+    "@id": "_:g1679840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24252,7 +24705,7 @@
     ]
   },
   {
-    "@id": "_:g1677820",
+    "@id": "_:g1679820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24367,12 +24820,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1686040"
+        "@id": "_:g1688040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1686080"
+        "@id": "_:g1688080"
       }
     ],
     "http://schema.org/organizer": [
@@ -24389,12 +24842,20 @@
       {
         "@language": "en",
         "@value": "The Australian Bee Gees Show"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Australian Bee Gees Show"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Winner of “Best Tribute Show” in Las Vegas (The Las Vegas"
+      },
+      {
+        "@language": "fr",
+        "@value": "Lauréat du prix du Meilleur spectacle hommage à"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -24427,18 +24888,18 @@
     ]
   },
   {
-    "@id": "_:g1686040",
+    "@id": "_:g1688040",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1686060"
+        "@id": "_:g1688060"
       }
     ]
   },
   {
-    "@id": "_:g1686080",
+    "@id": "_:g1688080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24466,7 +24927,7 @@
     ]
   },
   {
-    "@id": "_:g1686060",
+    "@id": "_:g1688060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24533,6 +24994,442 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Bee%20Gees%201900%20x%20600%20pixels%20CENTRE.png?itok=ohhkRvxR"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Company%20Showcase%20Banner.png?itok=A_4fWcpc"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/853",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-19"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1696100"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1696140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      },
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Wednesday, February 11 at 1"
+      },
+      {
+        "@language": "fr",
+        "@value": "Les billets seront mis en vente le mercredi 11 fé"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-19T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-19T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1696100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1696120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1696140",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=9326FA6A-8ED4-435B-B05E-9B12B83D2578&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1696120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Company%20Showcase%20Banner.png?itok=MlqUXnOu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Company%20Showcase%20Banner.png?itok=A_4fWcpc"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Company%20Showcase%20Banner.png?itok=A_4fWcpc"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/core-dance-season-4-company-showcase-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Company%20Showcase%20Banner.png?itok=A_4fWcpc"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/854",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase-0"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1704100"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1704140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-season-4-company-showcase-0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      },
+      {
+        "@language": "fr",
+        "@value": "Core Dance: Season 4 Company Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Wednesday, February 11 at 1"
+      },
+      {
+        "@language": "fr",
+        "@value": "Les billets seront mis en vente le mercredi 11 fé"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1704100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1704120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1704140",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=96C5DB56-070B-4F6C-BA8A-786458178735&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1704120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
       }
     ]
   },
@@ -24718,6 +25615,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-07/Signature%205.png?itok=eA1JJndT",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ]
   },
@@ -25358,6 +26266,44 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/rejoignez-notre-equipe"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Cinquième concert Signature: Lignes rythmiques | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Cinquième concert Signature: Lignes rythmiques"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-07/Signature%205.png?itok=fzmwYdzY"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-07/Signature%205.png?itok=t4e-Z4_y",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/cinquieme-concert-signature-lignes-rythmiques"
       }
     ]
   },
