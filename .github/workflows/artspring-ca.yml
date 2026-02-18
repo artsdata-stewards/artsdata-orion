@@ -1,0 +1,20 @@
+name: Orion Fetch and Push
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 12 * * 3' #runs every week on wednesday at 12:35 UTC (around 4 AM PDT)
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-push"
+          artifact: "artspring-ca"
+          publisher: "https://github.com/fjjulien#this"
+          page-url: "https://artspring.ca/tribe_events-sitemap1.xml"
+          entity-identifier: "loc"
+          token: "${{ secrets.GITHUB_TOKEN }}"
