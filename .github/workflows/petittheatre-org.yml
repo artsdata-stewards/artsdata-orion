@@ -2,6 +2,8 @@ name: petittheatre-org
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '57 7 * * 3'
     
 jobs:
   artsdata-fetch-and-push:
@@ -16,3 +18,4 @@ jobs:
           page-url: "https://petittheatre.org/tribe_events-sitemap.xml"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
