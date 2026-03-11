@@ -15,7 +15,7 @@ jobs:
           mode: "fetch-push"
           artifact: "naccnt-ca"
           publisher: "${{ vars.CAPACOA_BOT }}"
-          page-url: "https://naccnt.ca/events/list/"
-          entity-identifier: "a.link[href*='/events/list/']"
+          page-url: "https://naccnt.ca/events/"
+          entity-identifier: "div.row-title a"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
