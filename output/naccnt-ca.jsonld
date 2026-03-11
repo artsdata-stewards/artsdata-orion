@@ -1,0 +1,4967 @@
+[
+  {
+    "@id": "https://naccnt.ca/event/chicago-sing-a-long/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Chicago Sing-A-Long | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts &amp; Cultural Centre"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "naccnt.ca"
+      }
+    ],
+    "http://schema.org/encoding": [
+      {
+        "@language": "en",
+        "@value": "UTF-8"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/author/communications/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/author/communications/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Emily Mercredi"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g462180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/e5ed643d-4fe4-487a-8905-ec1e5e61eca7",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/communications/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-12T09:29:56"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Chicago Sing-A-Long | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chicago Sing-A-Long"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/57472463-5ae2-4fd0-862d-21c97d29bd99",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g462160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g462200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chicago Sing-A-Long"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in prison, Billy takes on her...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/02b20635-6f55-4e52-bbbc-908e0e0216e1",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/e0769cc2-755d-45fe-ac03-1c4038df78d6",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-09-16T15:57:08"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g478440"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478460",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.facebook.com/BigLaughsComedy/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/BigLaughsComedy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Big Laughs Comedy"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "Mi&#107;&#101;&#64;big&#108;a&#117;&#103;h&#115;&#99;o&#109;e&#100;y.&#99;o&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478480",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-16T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d09be750-56dd-4b18-9c36-569f19c329ea",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/communications/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-14T11:15:40"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-16T15:57:08"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The  ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/f1cfee52-3973-4e9c-9c02-3658f39115ab",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-13T20:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-13T20:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478420"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g478460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g478480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The Bonfire’s DJ Lou said, “Super funny...I...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/1f04c5f7-965e-407d-8402-118556d12b5f",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/6195c063-ea67-405f-9958-b63244a34fc4",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/shorts/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-02-11T15:08:46"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/author/artistic/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g495440"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495460",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife Dance Collective"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "y&#107;&#100;a&#110;&#99;ec&#111;l&#108;e&#99;ti&#118;e&#64;&#103;ma&#105;&#108;&#46;com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495480",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/19b90a93-e3ca-4f83-a3f5-6fae29117f06",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-13T10:57:17"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T15:08:46"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "SHORTS | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/5ebf5a77-4bb7-4b9f-92cb-1bf4efcfcd17",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-20T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g495420"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g495460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g495480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Yellowknife Dance Collective. Fast-paced and full...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/a23dda1f-16aa-4061-9252-43e686fd4338",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d4510693-d98d-41ec-9a82-14fd9beb7d66",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-3/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/shorts-3/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-02-11T15:09:55"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-3/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-3/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512160"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512180",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife Dance Collective"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#121;kd&#97;nc&#101;c&#111;llect&#105;&#118;e&#64;&#103;&#109;&#97;i&#108;&#46;&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/42bf60c2-f29f-4262-a12f-a055805703aa",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-13T11:04:31"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T15:09:55"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "SHORTS | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/82819e3e-56d0-44b3-9992-4e7acef99b55",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g512180"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Yellowknife Dance Collective. Fast-paced and full...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/2b0664bf-52e1-42d8-9e65-233f33bbf2a8",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/47f0acae-4ab1-46ef-952e-2006d7d0d47c",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-3/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/shorts-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-02-11T15:09:34"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-2/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/shorts-2/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g528900"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528920",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ykdancecollective.wordpress.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife Dance Collective"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#121;k&#100;an&#99;&#101;c&#111;lle&#99;&#116;&#105;v&#101;&#64;gm&#97;i&#108;&#46;com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/25e8e548-7ce2-4603-a22c-ec4d74e18c92",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-13T11:03:43"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T15:09:34"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "SHORTS | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Y ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/0cbf9891-4bbd-4b52-a931-be89b81025ee",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/02/newydcspektrix-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g528880"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g528920"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g528940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SHORTS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;SHORTS is a show of contemporary dance featuring 13 original works, each under 10 minutes, created by local choreographers and performed by dancers of the Yellowknife Dance Collective. Fast-paced and full...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/fd84cd22-c147-4587-95df-c6a7c36a519b",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/e3ea01d5-e3bb-4871-8391-64d4a6a5d72d",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/shorts-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Degrees of Separation | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-01-13T10:31:14"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation-2/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation-2/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g545640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545660",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-13T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/21ff612f-ad11-4ce1-bc9b-52066b91f1af",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-13T10:41:07"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-13T10:31:14"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/41a4f5b3-fea7-42e3-b0aa-89a5dce04348",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g545620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g545660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Following Alison’s personal journey from young...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/297ce88f-7b51-44c8-9f00-4f86d92bf9ac",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/c7bd2ce8-83d5-4c46-bb5f-62ce744acc31",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Degrees of Separation | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/degrees-of-separation/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g562020"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d645c349-987c-4f7d-9424-67cc010cdbff",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/communications/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-13T10:41:55"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/6f11d532-a436-4ebb-ad92-64c1ff8f3785",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g562000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g562040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Degrees of Separation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Following Alison’s personal journey from young...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/0e35a143-02d5-4374-a35d-98a2b66957bd",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/543e4130-ee10-4525-bcf0-0fb6ceba49b2",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/effortless/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Effortless | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Presented As part of the Northern Spark Emerging Artist Series A Collaboration Between NACC and The UNDerground Effortless is a collection of short con ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-06T16:09:49"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/effortless/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/effortless/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g578360"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Underground"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g578360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4910 Franklin Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-06T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/727b68e9-32a3-4bdf-8e4d-69ce8f2272d3",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-06T16:09:53"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-06T16:09:49"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Effortless | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Presented As part of the Northern Spark Emerging Artist Series A Collaboration Between NACC and The UNDerground Effortless&nbsp;is a collection of short con ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Effortless"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/21594b07-aba7-42f5-b75e-320bce3dc2eb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-17T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-17T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g578340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g578380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Effortless"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Presented As part of the Northern Spark Emerging Artist Series A Collaboration Between NACC and The UNDerground Effortless&nbsp;is a collection of short contemporary dance works created by professional and emerging...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d264f9c5-d6fa-49bc-9c50-4420f8773944",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/ee4c406c-b646-42f0-bdd8-5ad683657891",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/juliet-romeo/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Juliet & Romeo | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "This Lost Dog show reveals the real story of Romeo and Juliet. It turns out they didn’t die in a tragic misunderstanding; they grew up and lived happily eve ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/julietandromeospektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-15T16:00:58"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/juliet-romeo/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/juliet-romeo/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/julietandromeospektrix.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g594860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/256f7da2-73df-44e0-9317-984a8b160129",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/communications/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-13T10:30:18"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T16:00:58"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/julietandromeospektrix.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Juliet &amp; Romeo | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "This Lost Dog show reveals the real story of Romeo and Juliet. It turns out they didn’t die in a tragic misunderstanding; they grew up and lived happily eve ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Juliet &amp; Romeo"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/1242885f-f4be-4ba3-8d38-bfd6a47a110b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/julietandromeospektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g594840"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g594880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Juliet &amp; Romeo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;This Lost Dog show reveals the real story of Romeo and Juliet. It turns out they didn’t die in a tragic misunderstanding; they grew up and lived happily ever after....&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/fb6b8fa3-b564-4182-a8ee-a2b5c6677973",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/2d4feadc-267e-44d0-a934-78499ae414ac",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/transhumanist-superhuman/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "TRANSHUMANIST / SUPERHUMAN | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "NEXT ZONE is a Denmark based company working with OPEN STYLE DANCE.  Choreographer Lene Boel works with dancers from different street dance backgr ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/nextzonespektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/transhumanist-superhuman/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/transhumanist-superhuman/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/nextzonespektrix.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g611840"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611860",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/472a5445-4ac3-473c-b814-584715010a77",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/communications/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-12T15:48:34"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T16:00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/nextzonespektrix.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "TRANSHUMANIST / SUPERHUMAN | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "NEXT ZONE is a Denmark based company working with OPEN STYLE DANCE.&nbsp;&nbsp;Choreographer Lene Boel works with dancers from different street dance backgr ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TRANSHUMANIST / SUPERHUMAN"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/1d43f42b-f1c7-424b-9ca6-6750fb875652",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/nextzonespektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-16T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-16T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g611820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g611860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TRANSHUMANIST / SUPERHUMAN"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;NEXT ZONE is a Denmark based company working with OPEN STYLE DANCE.&nbsp;&nbsp;Choreographer Lene Boel works with dancers from different street dance backgrounds such as popping, locking, electro, break dance, hip...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/3486d30e-0fbf-4646-a545-de506293b744",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d4540486-6655-497b-bc75-ae2672d735fc",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Alex Mackenzie's Never Been Better Tour | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even th ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-12-12T10:42:38"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g628280"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628300",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://eclproductions.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://eclproductions.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ECL Productions"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(778) 890-0980"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#105;n&#102;&#111;&#64;&#101;&#99;l&#112;&#114;&#111;du&#99;t&#105;o&#110;s.c&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "39.95"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/92f28b31-cfdf-4b93-b86c-b848eb52e837",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T10:54:39"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T10:42:38"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie's Never Been Better Tour | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even th ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie&#8217;s Never Been Better Tour"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/f63f7f1a-eede-4a25-a6a5-dc5ad6d20162",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-22T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-22T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g628260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g628300"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g628320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie&#8217;s Never Been Better Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even the respect of...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/dd9e3a6d-afde-4ef0-ae88-c6513d2b179a",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/f93e6de8-6719-44da-aa3a-312a3a1f3776",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Alex Mackenzie's Never Been Better Tour | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even th ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-12-12T10:42:35"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g644980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g645000"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645020",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://eclproductions.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://eclproductions.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ECL Productions"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(778) 890-0980"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#105;nfo&#64;&#101;c&#108;&#112;&#114;&#111;du&#99;&#116;&#105;on&#115;&#46;&#99;&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "39.95"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/285b2465-015c-4d73-8218-20d000604c42",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T10:55:23"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T10:42:35"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie's Never Been Better Tour | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even th ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie&#8217;s Never Been Better Tour"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/46d00f0e-212d-4b7f-8275-532a84ba05fa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2025/12/AlexMackenzieSpektrix.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-23T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-23T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g644980"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g645020"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g645040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alex Mackenzie&#8217;s Never Been Better Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Alex Mackenzie is taking the comedy world by storm, and his Never Been Better tour proves why. Mackenzie gave up everything: his house, his job, and even the respect of...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/3f162903-75a2-4d48-869d-a5a73d751a5a",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/27e4b760-a1e1-4828-9568-5960dd199200",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ]
+  }
+]
