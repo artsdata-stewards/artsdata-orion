@@ -1,0 +1,21 @@
+name: Fetch Northern Arts and Culture Centre Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '11 6 * * 3'
+    
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-push"
+          artifact: "naccnt-ca"
+          publisher: "${{ vars.CAPACOA_BOT }}"
+          page-url: "https://naccnt.ca/events/list/"
+          entity-identifier: "a.link[href*='/events/list/']"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
