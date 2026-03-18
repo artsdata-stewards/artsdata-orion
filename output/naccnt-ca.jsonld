@@ -1,879 +1,5 @@
 [
   {
-    "@id": "https://naccnt.ca/event/chicago-sing-a-long/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Chicago Sing-A-Long | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-08-15T16:00:00"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Emily"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts &amp; Cultural Centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/#schema-website",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "naccnt.ca"
-      }
-    ],
-    "http://schema.org/encoding": [
-      {
-        "@language": "en",
-        "@value": "UTF-8"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/author/communications/#schema-author",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/author/communications/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Emily Mercredi"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://naccnt.ca/#schema-website"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://naccnt.ca/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-article-image",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1056"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462120",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462140"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts and Cultural Centre (NACC)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "(867) 766-6101"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462140",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4701 52nd Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "X1A 2N7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462160",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-08-15T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "20"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/9b2c1692-eb8b-484f-9d7e-ec40c7dedce0",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-webpage"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://naccnt.ca/author/communications/#schema-author"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://naccnt.ca/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-08-12T09:29:56"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-08-15T16:00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/#schema-article-image"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@language": "en",
-        "@value": "Chicago Sing-A-Long | Northern Arts &amp; Cultural Centre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in ..."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chicago Sing-A-Long"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/aff36550-3743-453a-b12d-28f9524ae995",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/07/chicago-singalong.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-12T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-12T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462120"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462160"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chicago Sing-A-Long"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;When nightclub sensation Velma murders her philandering husband, Chicago’s slickest lawyer Billy Flynn is set to defend her. But when Roxie also winds up in prison, Billy takes on her...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/de8ce407-b690-4923-9326-b40375ef6e1c",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/fafe7750-33e8-4de2-9042-24c4654b491e",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/chicago-sing-a-long/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-09-16T15:57:08"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Emily"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://naccnt.ca/#schema-website"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://naccnt.ca/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-article-image",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1056"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478420",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g478440"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts and Cultural Centre (NACC)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "(867) 766-6101"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478440",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4701 52nd Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "X1A 2N7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478460",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.facebook.com/BigLaughsComedy/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/BigLaughsComedy/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Big Laughs Comedy"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "Mi&#107;&#101;&#64;big&#108;a&#117;&#103;h&#115;&#99;o&#109;e&#100;y.&#99;o&#109;"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478480",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-16T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "35"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/5176d3ce-4a5c-475a-8552-df8a7be81228",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-webpage"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://naccnt.ca/author/communications/#schema-author"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://naccnt.ca/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-14T11:15:40"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-16T15:57:08"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/#schema-article-image"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@language": "en",
-        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour | Northern Arts &amp; Cultural Centre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The  ..."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/5f117c19-8623-47be-8338-f6ea890fc984",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/09/mikegreenwood.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-13T20:00:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-13T20:00:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g478420"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g478460"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g478480"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Mike Greenwood’s Max-out Always Stand-Up Comedy Tour"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;Don’t miss one of the country’s fastest-rising headliners as he brings his cross-Canada Maxout Always Stand-Up Comedy Tour to Yellowknife! Come see why The Bonfire’s DJ Lou said, “Super funny...I...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/24f30aea-4bb3-473b-b524-a543fab6dcdf",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/9814bfc6-52fd-4e5e-a246-f8dd69b42705",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/mike-greenwoods-max-out-always-stand-up-comedy-tour/"
-      }
-    ]
-  },
-  {
     "@id": "https://naccnt.ca/event/shorts/",
     "https://api.w.org/": [
       {
@@ -932,6 +58,46 @@
       {
         "@language": "en-ca",
         "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts &amp; Cultural Centre"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "naccnt.ca"
+      }
+    ],
+    "http://schema.org/encoding": [
+      {
+        "@language": "en",
+        "@value": "UTF-8"
       }
     ]
   },
@@ -997,7 +163,7 @@
     ]
   },
   {
-    "@id": "_:g495500",
+    "@id": "_:g462160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1013,7 +179,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g495520"
+        "@id": "_:g462180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1041,7 +207,7 @@
     ]
   },
   {
-    "@id": "_:g495520",
+    "@id": "_:g462180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1077,7 +243,7 @@
     ]
   },
   {
-    "@id": "_:g495540",
+    "@id": "_:g462200",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1112,12 +278,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "y&#107;&#100;a&#110;&#99;ec&#111;l&#108;e&#99;ti&#118;e&#64;&#103;ma&#105;&#108;&#46;com"
+        "@value": "&#121;&#107;&#100;an&#99;e&#99;&#111;l&#108;&#101;&#99;t&#105;&#118;e&#64;gmail.co&#109;"
       }
     ]
   },
   {
-    "@id": "_:g495560",
+    "@id": "_:g462220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1158,7 +324,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/7eda1007-1330-4e1c-b48c-c2f44ecec814",
+    "@id": "https://naccnt.ca/temporary/a0ba3ed1-719b-4fbb-abc9-dd6f2d8c86b7",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1224,7 +390,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/f3a691f5-6e38-4576-910d-85bc08d20643",
+    "@id": "https://naccnt.ca/temporary/3d704b44-09d5-4932-953a-615f02e9c9de",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1252,17 +418,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g495500"
+        "@id": "_:g462160"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g495540"
+        "@id": "_:g462200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g495560"
+        "@id": "_:g462220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1300,7 +466,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/3169e470-7b19-4d87-8bce-136779b49b06",
+    "@id": "https://naccnt.ca/temporary/3c185142-2ee1-43f8-a19f-5d302334c6a3",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1311,7 +477,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/bd1432e9-4ebc-494a-8e4f-3dcb01259ce5",
+    "@id": "https://naccnt.ca/temporary/dfe7fda0-9517-4aac-adfd-cfa25b7ca622",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1428,7 +594,7 @@
     ]
   },
   {
-    "@id": "_:g512260",
+    "@id": "_:g478880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1444,7 +610,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g512280"
+        "@id": "_:g478900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1472,7 +638,7 @@
     ]
   },
   {
-    "@id": "_:g512280",
+    "@id": "_:g478900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1508,7 +674,7 @@
     ]
   },
   {
-    "@id": "_:g512300",
+    "@id": "_:g478920",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1543,12 +709,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#121;kd&#97;nc&#101;c&#111;llect&#105;&#118;e&#64;&#103;&#109;&#97;i&#108;&#46;&#99;&#111;&#109;"
+        "@value": "&#121;k&#100;&#97;n&#99;&#101;co&#108;&#108;&#101;&#99;t&#105;&#118;e&#64;g&#109;ail.c&#111;m"
       }
     ]
   },
   {
-    "@id": "_:g512320",
+    "@id": "_:g478940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1589,7 +755,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/59aced16-e6ac-433a-a61e-317611f12afe",
+    "@id": "https://naccnt.ca/temporary/9a73af04-381d-407f-be0c-c7c8a2a6b75b",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1655,7 +821,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/42956170-3099-49db-8b41-7f80e36740d5",
+    "@id": "https://naccnt.ca/temporary/4a51ea99-ba92-45e9-b9ed-a3a2c7e1d9d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1683,17 +849,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g512260"
+        "@id": "_:g478880"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g512300"
+        "@id": "_:g478920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g512320"
+        "@id": "_:g478940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1731,7 +897,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/724fe8b4-9390-4ee5-b69b-328af31f71da",
+    "@id": "https://naccnt.ca/temporary/d67a97c2-4b6f-42e2-b1f0-72229274af99",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1742,7 +908,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/7cde9cf6-a990-48f6-afa5-2196ff77ba5f",
+    "@id": "https://naccnt.ca/temporary/3c6afc8f-0097-4fd4-9334-710f06282ce2",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1859,7 +1025,7 @@
     ]
   },
   {
-    "@id": "_:g529000",
+    "@id": "_:g495560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1875,7 +1041,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g529020"
+        "@id": "_:g495580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1903,7 +1069,7 @@
     ]
   },
   {
-    "@id": "_:g529020",
+    "@id": "_:g495580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1939,7 +1105,7 @@
     ]
   },
   {
-    "@id": "_:g529040",
+    "@id": "_:g495600",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1974,12 +1140,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#121;k&#100;an&#99;&#101;c&#111;lle&#99;&#116;&#105;v&#101;&#64;gm&#97;i&#108;&#46;com"
+        "@value": "&#121;&#107;da&#110;&#99;&#101;&#99;&#111;llecti&#118;e&#64;&#103;mail&#46;&#99;o&#109;"
       }
     ]
   },
   {
-    "@id": "_:g529060",
+    "@id": "_:g495620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2020,7 +1186,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/a0f07d1f-3654-49dd-a250-ac75c442da68",
+    "@id": "https://naccnt.ca/temporary/80363b6a-5bf6-4e5c-8ed4-6a84624df34e",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -2086,7 +1252,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/ef3a1fa3-66f3-4ed5-b5f7-fb0041bc3bff",
+    "@id": "https://naccnt.ca/temporary/d1fa7b18-b52e-43a3-ba13-c2141a226391",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2114,17 +1280,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g529000"
+        "@id": "_:g495560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g529040"
+        "@id": "_:g495600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g529060"
+        "@id": "_:g495620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2162,7 +1328,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/11048466-93f4-444e-954d-9e39fc3b266d",
+    "@id": "https://naccnt.ca/temporary/c6b9a61b-688a-4655-997a-a4c0b721aeb2",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2173,7 +1339,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/2e39fb21-b90c-45c0-a041-a1c566af6990",
+    "@id": "https://naccnt.ca/temporary/91747873-7f11-4cc0-b07e-97f2b4c493d2",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2290,7 +1456,7 @@
     ]
   },
   {
-    "@id": "_:g545740",
+    "@id": "_:g512880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2306,7 +1472,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g545760"
+        "@id": "_:g512900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2334,7 +1500,7 @@
     ]
   },
   {
-    "@id": "_:g545760",
+    "@id": "_:g512900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2370,7 +1536,7 @@
     ]
   },
   {
-    "@id": "_:g545780",
+    "@id": "_:g512920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2411,7 +1577,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/3cccb1b2-4af7-4230-89b5-ede1b83c8bda",
+    "@id": "https://naccnt.ca/temporary/da72a215-652a-4c7e-b417-3fa920b061a6",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -2477,7 +1643,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/0f601342-f8cd-479b-bcce-96809e19c8d4",
+    "@id": "https://naccnt.ca/temporary/506418ac-28d1-4710-b27d-14ad0cc95eef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2505,12 +1671,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g545740"
+        "@id": "_:g512880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g545780"
+        "@id": "_:g512920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2548,7 +1714,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/117e75a0-ad94-4a61-a4d6-6b5fc35fb5ff",
+    "@id": "https://naccnt.ca/temporary/8d3c667b-2cb3-4ddf-8fa1-63ff7bf36e59",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2559,7 +1725,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/cbc1b80b-1f94-4b0e-bd18-a7ddd990c6b4",
+    "@id": "https://naccnt.ca/temporary/33e8944e-ba25-413f-afb8-059d2c5c4cb7",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2632,6 +1798,23 @@
     ]
   },
   {
+    "@id": "https://naccnt.ca/author/communications/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/author/communications/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Emily Mercredi"
+      }
+    ]
+  },
+  {
     "@id": "https://naccnt.ca/event/degrees-of-separation/#schema-webpage",
     "@type": [
       "http://schema.org/WebPage"
@@ -2676,7 +1859,7 @@
     ]
   },
   {
-    "@id": "_:g562120",
+    "@id": "_:g529580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2692,7 +1875,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g562140"
+        "@id": "_:g529600"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2720,7 +1903,7 @@
     ]
   },
   {
-    "@id": "_:g562140",
+    "@id": "_:g529600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2756,7 +1939,7 @@
     ]
   },
   {
-    "@id": "_:g562160",
+    "@id": "_:g529620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2797,7 +1980,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/080c8a89-b60d-4121-8fe3-09d306b852b5",
+    "@id": "https://naccnt.ca/temporary/71f4f02f-0101-489f-9cc3-dbbf799f7ba0",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -2863,7 +2046,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/fdb57670-d70f-4eb6-9f2c-5766a8035aed",
+    "@id": "https://naccnt.ca/temporary/eac1208f-e570-438c-a860-929d22515252",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2891,12 +2074,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g562120"
+        "@id": "_:g529580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g562160"
+        "@id": "_:g529620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2934,7 +2117,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/70112c0d-23c7-419b-a033-78109a8ae75e",
+    "@id": "https://naccnt.ca/temporary/9c9d7868-b669-43e6-aa9c-47969be71484",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2945,13 +2128,875 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/74b93227-bcbe-4605-a20e-fba344afc7d3",
+    "@id": "https://naccnt.ca/temporary/ce87341f-bcc6-428e-bf7c-d099480c7638",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://naccnt.ca/event/degrees-of-separation/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Change Makers - A Choir Concert | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-12T17:03:12"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g546020"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546040",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ykchoralsociety.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ykchoralsociety.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife Choral Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "y&#107;ch&#111;&#114;a&#108;&#115;&#111;c&#105;e&#116;y&#64;g&#109;ail.&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546060",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/1edb6c02-b6db-4ba7-ab04-b4237aa28e70",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-17T10:29:11"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T17:03:12"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Change Makers - A Choir Concert | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Change Makers &#8211; A Choir Concert"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/0f1720b3-fb64-4348-bf72-50e30b90706b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g546000"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g546040"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g546060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Change Makers &#8211; A Choir Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world premiere performance of&nbsp;...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/a00730ee-76d3-4913-9f4d-3ec8307ac418",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/fcbeff5c-b461-4aae-a8cc-212d3a94d66d",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Change Makers - A Choir Concert | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-12T17:04:03"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://naccnt.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1056"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g562740"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ykchoralsociety.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ykchoralsociety.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife Choral Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "y&#107;&#99;&#104;ora&#108;&#115;oci&#101;t&#121;&#64;&#103;m&#97;&#105;l&#46;c&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/41811016-3222-45a3-a5c0-d9781060c27a",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://naccnt.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-17T10:29:03"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-12T17:04:03"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Change Makers - A Choir Concert | Northern Arts &amp; Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Change Makers &#8211; A Choir Concert"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/e141fe91-3ae9-4170-b472-284e8f4b9a1c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/change.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g562720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g562760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g562780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Change Makers &#8211; A Choir Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;In an ever-changing world, our choirs sing about Change Makers: the people and things that shape change around us. The music is diverse, inspired by a world premiere performance of&nbsp;...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/bb47be74-2dea-457b-877f-8f1b541b93ba",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/c592baa2-d814-4047-91c9-56d665622a96",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
       }
     ]
   },
@@ -3062,7 +3107,7 @@
     ]
   },
   {
-    "@id": "_:g578520",
+    "@id": "_:g579480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3073,7 +3118,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g578540"
+        "@id": "_:g579500"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3101,7 +3146,7 @@
     ]
   },
   {
-    "@id": "_:g578540",
+    "@id": "_:g579500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3131,7 +3176,7 @@
     ]
   },
   {
-    "@id": "_:g578560",
+    "@id": "_:g579520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3172,7 +3217,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/5eb64bac-01ac-43c3-9795-83cd9f9520e1",
+    "@id": "https://naccnt.ca/temporary/28f1b2d2-f2d3-4d15-bf9e-5d6862c625ff",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -3238,7 +3283,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/0afb5d91-34f4-4a9a-92de-4a0d4e9213de",
+    "@id": "https://naccnt.ca/temporary/de43ca13-7d44-4c7d-bcf0-0c2f49a47ce3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3266,12 +3311,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g578520"
+        "@id": "_:g579480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g578560"
+        "@id": "_:g579520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3309,7 +3354,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c4ad1fc1-0afd-4711-8683-69dbef86b99f",
+    "@id": "https://naccnt.ca/temporary/1f639f28-ecc9-4736-9f9a-98e73f2e7e39",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3320,7 +3365,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c426c2f4-db77-4ca6-9e6f-8c6dde16b180",
+    "@id": "https://naccnt.ca/temporary/212259e6-70b4-4397-97fd-fd3e01dff226",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3437,7 +3482,7 @@
     ]
   },
   {
-    "@id": "_:g594760",
+    "@id": "_:g595640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3453,7 +3498,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g594780"
+        "@id": "_:g595660"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3481,7 +3526,7 @@
     ]
   },
   {
-    "@id": "_:g594780",
+    "@id": "_:g595660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3517,7 +3562,7 @@
     ]
   },
   {
-    "@id": "_:g594800",
+    "@id": "_:g595680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3558,7 +3603,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/b9c0be8b-b2b7-423b-80be-235155b2d312",
+    "@id": "https://naccnt.ca/temporary/687adff0-0217-4bd7-a6ee-d00fd45fe7c2",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -3624,7 +3669,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/eadf70e9-75da-4ed0-a048-621283ef96c9",
+    "@id": "https://naccnt.ca/temporary/3da3be0d-558e-42f9-808d-6af9742bc58c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3652,12 +3697,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g594760"
+        "@id": "_:g595640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g594800"
+        "@id": "_:g595680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3695,7 +3740,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/a335aa8b-0d79-43a3-8047-2740bd852159",
+    "@id": "https://naccnt.ca/temporary/34e5f0f2-e12f-4879-b3a2-d491060d1ab0",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3706,7 +3751,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/7031e9c7-f726-4d02-9dd4-d426be05f602",
+    "@id": "https://naccnt.ca/temporary/f5252cc7-09af-47b4-9910-9c972e6ac921",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3823,7 +3868,7 @@
     ]
   },
   {
-    "@id": "_:g611100",
+    "@id": "_:g612680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3839,7 +3884,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g611120"
+        "@id": "_:g612700"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3867,7 +3912,7 @@
     ]
   },
   {
-    "@id": "_:g611120",
+    "@id": "_:g612700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3903,7 +3948,7 @@
     ]
   },
   {
-    "@id": "_:g611140",
+    "@id": "_:g612720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3944,7 +3989,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/ccc06ead-9032-4d16-9c5e-0a12a1670ba3",
+    "@id": "https://naccnt.ca/temporary/8f6a73d4-5832-4e35-896e-bc6b70bb45c9",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -4010,7 +4055,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/31f18ab9-0d1d-47c4-af22-e4c82fd63e33",
+    "@id": "https://naccnt.ca/temporary/4653edd5-2b88-4827-9406-6910b01e3ef2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4038,12 +4083,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g611100"
+        "@id": "_:g612680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g611140"
+        "@id": "_:g612720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4081,7 +4126,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/71240b5d-9dea-478f-92b8-4b223f7c2be7",
+    "@id": "https://naccnt.ca/temporary/e6121a67-ba49-4ac2-87d1-8b3d9961d843",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4092,7 +4137,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/518c6a4f-53a0-4470-bf6d-b6b979d76a57",
+    "@id": "https://naccnt.ca/temporary/3f4453e1-2819-4b8d-b336-55758f7a2c9e",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -4209,7 +4254,7 @@
     ]
   },
   {
-    "@id": "_:g628040",
+    "@id": "_:g629560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4225,7 +4270,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g628060"
+        "@id": "_:g629580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4253,7 +4298,7 @@
     ]
   },
   {
-    "@id": "_:g628060",
+    "@id": "_:g629580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4289,7 +4334,7 @@
     ]
   },
   {
-    "@id": "_:g628080",
+    "@id": "_:g629600",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4324,12 +4369,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;n&#102;&#111;&#64;&#101;&#99;l&#112;&#114;&#111;du&#99;t&#105;o&#110;s.c&#111;m"
+        "@value": "i&#110;f&#111;&#64;&#101;c&#108;&#112;&#114;oduc&#116;i&#111;&#110;s&#46;&#99;&#111;&#109;"
       }
     ]
   },
   {
-    "@id": "_:g628100",
+    "@id": "_:g629620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4370,7 +4415,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/2abc2828-b62f-4c13-86ec-6013c63df44e",
+    "@id": "https://naccnt.ca/temporary/abf46521-d973-42a2-a747-5e615a58edbe",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -4436,7 +4481,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/a27700d3-ecce-40dc-848d-1f5bf5d25815",
+    "@id": "https://naccnt.ca/temporary/54c38589-fc94-404c-9bad-81d2056521fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4464,17 +4509,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g628040"
+        "@id": "_:g629560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g628080"
+        "@id": "_:g629600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g628100"
+        "@id": "_:g629620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4512,7 +4557,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/8353c470-3799-4ff2-9115-489cd6a5a511",
+    "@id": "https://naccnt.ca/temporary/5e8cdbc8-7911-4a82-aa28-cc186bb3f222",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4523,7 +4568,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/37a5fa72-1384-40df-a2a3-c3892d5963cb",
+    "@id": "https://naccnt.ca/temporary/de7f6118-5196-49c8-b7eb-0877bf8fe6c3",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -4640,7 +4685,7 @@
     ]
   },
   {
-    "@id": "_:g645380",
+    "@id": "_:g646320",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4656,7 +4701,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645400"
+        "@id": "_:g646340"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4684,7 +4729,7 @@
     ]
   },
   {
-    "@id": "_:g645400",
+    "@id": "_:g646340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4720,7 +4765,7 @@
     ]
   },
   {
-    "@id": "_:g645420",
+    "@id": "_:g646360",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4755,12 +4800,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;nfo&#64;&#101;c&#108;&#112;&#114;&#111;du&#99;&#116;&#105;on&#115;&#46;&#99;&#111;m"
+        "@value": "&#105;&#110;&#102;o&#64;ecl&#112;ro&#100;u&#99;t&#105;&#111;&#110;&#115;&#46;&#99;&#111;&#109;"
       }
     ]
   },
   {
-    "@id": "_:g645440",
+    "@id": "_:g646380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4801,7 +4846,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/7c4d7598-6155-4268-9543-0d6c25523a5d",
+    "@id": "https://naccnt.ca/temporary/2ff86a03-1c55-45d7-8f16-dde3c72011e6",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -4867,7 +4912,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/4a8eacc5-37a1-4b61-933b-dd36771b067e",
+    "@id": "https://naccnt.ca/temporary/42efc3a3-ecc5-4f65-b711-bf2e8d61d0af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4895,17 +4940,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645380"
+        "@id": "_:g646320"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g645420"
+        "@id": "_:g646360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645440"
+        "@id": "_:g646380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4943,7 +4988,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/150d4445-e90a-4a65-927d-47644b09510a",
+    "@id": "https://naccnt.ca/temporary/75f27411-150f-470e-adad-c7341a013c05",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4954,7 +4999,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/a71949b2-af6d-439d-bcc9-afa6e0e98af3",
+    "@id": "https://naccnt.ca/temporary/2a6077ed-d54d-4392-b3ef-894ec965d83a",
     "@type": [
       "https://schema.org/WPHeader"
     ],
