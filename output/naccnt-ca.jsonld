@@ -1,175 +1,5 @@
 [
   {
-    "@id": "https://naccnt.ca/event/degrees-of-separation-2/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Degrees of Separation | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-01-13T10:31:14"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Kacie Hall"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/juliet-romeo/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts &amp; Cultural Centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/event/degrees-of-separation/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Degrees of Separation | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Fol ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-08-15T16:00:00"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Emily"
-      }
-    ]
-  },
-  {
     "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/",
     "https://api.w.org/": [
       {
@@ -228,6 +58,70 @@
       {
         "@language": "en-ca",
         "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/change-makers-a-choir-concert-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/effortless/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts &amp; Cultural Centre"
       }
     ]
   },
@@ -346,6 +240,502 @@
       {
         "@language": "en-ca",
         "@value": "2026-03-06T16:09:49"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:52:45"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:54:07"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-3/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:54:19"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-4/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:55:41"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-5/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:56:10"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-6/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:56:15"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-7/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:56:26"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/event/crazy-for-you-8/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crazy For You | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Ptarmigan Ptheatrics is proud to present Crazy For You, a fun for the whole family musical that is sure to have audiences laughing and their toes ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-26T14:56:38"
       }
     ],
     "article:author": [
@@ -615,12 +1005,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      },
-      {
         "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
       },
       {
@@ -628,6 +1012,30 @@
       },
       {
         "@id": "https://naccnt.ca/event/effortless/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
       },
       {
         "@id": "https://naccnt.ca/event/juliet-romeo/"
@@ -667,9 +1075,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      },
-      {
         "@id": "https://naccnt.ca/event/change-makers-a-choir-concert/"
       },
       {
@@ -677,6 +1082,27 @@
       },
       {
         "@id": "https://naccnt.ca/event/effortless/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
       },
       {
         "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
@@ -775,462 +1201,6 @@
   {
     "@id": "_:g462240",
     "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-13T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "45"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/076a60ed-c1b1-493e-a7a3-51e1826b1588",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-27T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-27T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462200"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462240"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Degrees of Separation"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Following Alison’s personal journey from young...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/bc9737bd-44dc-46bc-98e4-0f0c0c779482",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/0b81cedf-2687-480e-9e9a-afda37e4d8fa",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation-2/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/author/communications/#schema-author",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/author/communications/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/juliet-romeo/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Emily Mercredi"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g477540"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts and Cultural Centre (NACC)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "(867) 766-6101"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4701 52nd Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "X1A 2N7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477560",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-08-15T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "45"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/a264beef-0860-4796-afdb-1244106021d3",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2025/08/degrees-spektrix.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-28T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-28T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g477520"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g477560"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Degrees of Separation"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;An Adaptation By Tinged with Alison McCreesh’s signature blend of humour and humanity, Degrees of Separation is a story of the North and transformation. Following Alison’s personal journey from young...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/fc2cf261-309f-49b4-8efe-9c873b8b5343",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/8cfa5410-514c-4f11-af69-afe004fab5a8",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/degrees-of-separation/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492860",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g492880"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts and Cultural Centre (NACC)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "(867) 766-6101"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492880",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4701 52nd Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "X1A 2N7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492900",
-    "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/url": [
@@ -1264,12 +1234,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "yk&#99;h&#111;ra&#108;&#115;o&#99;i&#101;&#116;&#121;&#64;gmail.c&#111;m"
+        "@value": "&#121;k&#99;&#104;&#111;&#114;&#97;&#108;s&#111;&#99;ie&#116;&#121;&#64;gma&#105;&#108;.&#99;&#111;m"
       }
     ]
   },
   {
-    "@id": "_:g492920",
+    "@id": "_:g462260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1310,7 +1280,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/cccb8d07-2d5b-4f65-b016-d08a8c811207",
+    "@id": "https://naccnt.ca/temporary/01e9150e-a2b7-4c3d-ac0e-a829ac8cdd5b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1338,17 +1308,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g492860"
+        "@id": "_:g462200"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g492900"
+        "@id": "_:g462240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g492920"
+        "@id": "_:g462260"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1386,7 +1356,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/34ca297c-1969-4230-b7a3-be49230bfb76",
+    "@id": "https://naccnt.ca/temporary/effc597f-0242-4638-ba90-007b54b4dcc5",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1397,7 +1367,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/3f6a234e-3f0e-41ef-907d-0855c255b44d",
+    "@id": "https://naccnt.ca/temporary/837a8282-2336-4629-92d5-0140e937b484",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1408,7 +1378,7 @@
     ]
   },
   {
-    "@id": "_:g508600",
+    "@id": "_:g477860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1424,7 +1394,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508620"
+        "@id": "_:g477880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1452,7 +1422,7 @@
     ]
   },
   {
-    "@id": "_:g508620",
+    "@id": "_:g477880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1488,7 +1458,7 @@
     ]
   },
   {
-    "@id": "_:g508640",
+    "@id": "_:g477900",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1523,12 +1493,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "yk&#99;&#104;ora&#108;&#115;&#111;&#99;i&#101;ty&#64;g&#109;&#97;i&#108;.&#99;&#111;&#109;"
+        "@value": "ykch&#111;ral&#115;o&#99;&#105;&#101;ty&#64;gmail.com"
       }
     ]
   },
   {
-    "@id": "_:g508660",
+    "@id": "_:g477920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1569,7 +1539,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/773fa12a-bb64-4eca-8613-1f9012830e37",
+    "@id": "https://naccnt.ca/temporary/595a067a-6121-49e9-8bc5-b48573151beb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1597,17 +1567,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508600"
+        "@id": "_:g477860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g508640"
+        "@id": "_:g477900"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508660"
+        "@id": "_:g477920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1645,7 +1615,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/ebf08b91-83e5-4c6b-8c47-b0d64ed3ac9b",
+    "@id": "https://naccnt.ca/temporary/52304132-21fa-4ae6-b095-6c13a745e92c",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1656,7 +1626,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/da1718cc-9358-4bd5-9390-32fe62106551",
+    "@id": "https://naccnt.ca/temporary/8ae64eb3-019a-4106-bd0e-d60453590042",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1667,7 +1637,7 @@
     ]
   },
   {
-    "@id": "_:g524380",
+    "@id": "_:g493560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1678,7 +1648,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g524400"
+        "@id": "_:g493580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1706,7 +1676,7 @@
     ]
   },
   {
-    "@id": "_:g524400",
+    "@id": "_:g493580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1736,7 +1706,7 @@
     ]
   },
   {
-    "@id": "_:g524420",
+    "@id": "_:g493600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1777,7 +1747,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/e3f08d24-f0c8-40b8-9371-f663f843256c",
+    "@id": "https://naccnt.ca/temporary/e161c51b-8c4f-4e97-a3eb-1cff1f4292c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1805,12 +1775,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g524380"
+        "@id": "_:g493560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g524420"
+        "@id": "_:g493600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1848,7 +1818,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c2c76443-5f6c-4c99-aafa-0f9c039420ef",
+    "@id": "https://naccnt.ca/temporary/28331dd8-3acd-49fd-be04-817dc90b4d9d",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1859,7 +1829,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/50c0c2f7-7f41-4c55-95ff-3c53bce5ac3f",
+    "@id": "https://naccnt.ca/temporary/f07b9509-6abc-4e88-a678-b25ae30820dd",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1870,7 +1840,35 @@
     ]
   },
   {
-    "@id": "_:g539680",
+    "@id": "https://naccnt.ca/author/communications/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/author/communications/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Emily Mercredi"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1886,7 +1884,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g539700"
+        "@id": "_:g508800"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1914,7 +1912,7 @@
     ]
   },
   {
-    "@id": "_:g539700",
+    "@id": "_:g508800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1950,7 +1948,2079 @@
     ]
   },
   {
-    "@id": "_:g539720",
+    "@id": "_:g508820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "i&#110;&#102;&#111;&#64;&#112;ta&#114;mig&#97;npt&#104;e&#97;tr&#105;c&#115;.o&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/492a21e7-131a-40b8-aece-02729c293b75",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508780"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g508820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/be99a226-bd5a-4dfe-bf5e-12663a944a6d",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/f5d92df5-263b-48de-ac39-7c9a6220a1b6",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524520",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "in&#102;&#111;&#64;&#112;&#116;a&#114;m&#105;g&#97;&#110;&#112;&#116;&#104;&#101;&#97;&#116;&#114;i&#99;s&#46;org"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524540",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/49a3877e-7914-4fe6-8c69-291b12e6a034",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g524520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/fd782612-5acd-4795-aeac-ded3c22ed07c",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/b9f524bb-82d9-40de-8ca2-6119ccb797b1",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g540540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540560",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#105;&#110;&#102;&#111;&#64;&#112;t&#97;&#114;&#109;&#105;g&#97;&#110;p&#116;&#104;eatr&#105;cs&#46;&#111;&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/9b726cb9-f974-487d-8a47-7aa76e28df94",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-25T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-25T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g540520"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g540560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g540580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/45ff116f-c013-4043-a0fe-19c87f798a48",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/c56398e3-d924-492c-ba40-ada8e3e91764",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g556640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556660",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "in&#102;&#111;&#64;&#112;&#116;&#97;&#114;&#109;ig&#97;n&#112;th&#101;a&#116;ri&#99;&#115;.&#111;rg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556680",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/5ac59a93-cc31-4a88-b1cc-0d826c1917da",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-26T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-26T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g556620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g556660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g556680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/8f5dcd47-e5ca-4eed-aea8-f1c7b6e45e6e",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/91e61cc4-44c0-4e11-b4fb-197e65c3b10e",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g572380"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572380",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572400",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "i&#110;f&#111;&#64;pt&#97;&#114;&#109;&#105;&#103;&#97;np&#116;&#104;e&#97;&#116;ri&#99;s&#46;&#111;&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572420",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/0eef4ac0-5e6a-4985-8748-49a9bb7be948",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-29T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-29T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g572360"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g572400"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g572420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/7c6c74aa-8674-4c88-b072-5cec353b65f3",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/8da1a09f-0708-4624-a203-328a423e7c1d",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g588120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "inf&#111;&#64;&#112;t&#97;r&#109;i&#103;a&#110;pt&#104;ea&#116;&#114;i&#99;s&#46;o&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/06652f59-f576-459d-80af-06f8c47aa425",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-30T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-30T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g588100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g588140"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g588160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/ec7f6813-d542-4949-8c3f-cbc487916f43",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/52f9d48e-8a6a-4cbc-885a-c33ec042e232",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g603860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603880",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "i&#110;&#102;&#111;&#64;pt&#97;rmigan&#112;&#116;he&#97;t&#114;&#105;c&#115;&#46;&#111;rg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603900",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/cf657c48-d450-4cc2-a971-20071efb69e2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-01T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-01T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g603840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g603880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g603900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/f4587d82-60e1-4159-a1ad-04437317f39d",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/60fa9bad-3baf-4d64-944f-3d1162859681",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g619760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619780",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://ptarmiganptheatrics.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ptarmigan Ptheatrics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "i&#110;fo&#64;&#112;tarmi&#103;anpt&#104;eatr&#105;cs.&#111;&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619800",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/bff451c3-96b1-4c8b-a078-71eca4eddffd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/crazyforyouspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g619740"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g619780"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g619800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crazy For You"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ptarmigan Ptheatrics is proud to present&nbsp;Crazy For You,&nbsp;a fun for the whole family musical that is sure to have audiences laughing and their toes tapping. There is something for everyone...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/35746b58-e1b9-4d77-9d14-c49e967b80b9",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/6597074a-951e-4e5b-b839-417adf2ba0a1",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g636180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1991,7 +4061,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/8d85f8bc-f07d-465d-aeaf-ff44dc6ae233",
+    "@id": "https://naccnt.ca/temporary/bc746db4-42bc-43af-a588-d2d7c5da45da",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2019,12 +4089,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g539680"
+        "@id": "_:g636160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g539720"
+        "@id": "_:g636200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2062,7 +4132,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/e36c0808-e2c2-4e50-b4eb-c0c2ee11fb25",
+    "@id": "https://naccnt.ca/temporary/2f384227-de7e-41bc-aac7-aba229411b9d",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2073,7 +4143,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/32a9f7d7-ee71-40dd-93bb-921a23520d20",
+    "@id": "https://naccnt.ca/temporary/2b6374d4-55ab-485c-8f12-ed51b2064a41",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2084,7 +4154,7 @@
     ]
   },
   {
-    "@id": "_:g555120",
+    "@id": "_:g651600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2100,7 +4170,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g555140"
+        "@id": "_:g651620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2128,7 +4198,7 @@
     ]
   },
   {
-    "@id": "_:g555140",
+    "@id": "_:g651620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2164,7 +4234,7 @@
     ]
   },
   {
-    "@id": "_:g555160",
+    "@id": "_:g651640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2205,7 +4275,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/fbabeeaf-e6bb-418f-b2e8-6bfc01df6af0",
+    "@id": "https://naccnt.ca/temporary/2fc6ee93-d623-468b-844d-fe70db2cf7a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2233,12 +4303,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g555120"
+        "@id": "_:g651600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g555160"
+        "@id": "_:g651640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2276,7 +4346,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/af61d2a3-17be-4cf4-be1e-16d7557702ae",
+    "@id": "https://naccnt.ca/temporary/ac5580d0-6c79-4818-99b1-3fbfe796da20",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2287,7 +4357,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/855c1879-4438-4a63-8a4b-1ab52bfa2fdc",
+    "@id": "https://naccnt.ca/temporary/cfb026a9-a555-4095-ae6c-d66eb56d7af1",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2298,7 +4368,7 @@
     ]
   },
   {
-    "@id": "_:g570560",
+    "@id": "_:g667040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2314,7 +4384,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g570580"
+        "@id": "_:g667060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2342,7 +4412,7 @@
     ]
   },
   {
-    "@id": "_:g570580",
+    "@id": "_:g667060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2378,7 +4448,7 @@
     ]
   },
   {
-    "@id": "_:g570600",
+    "@id": "_:g667080",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2413,12 +4483,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;nf&#111;&#64;e&#99;&#108;pro&#100;uc&#116;&#105;o&#110;&#115;&#46;com"
+        "@value": "&#105;&#110;fo&#64;&#101;&#99;&#108;p&#114;od&#117;&#99;t&#105;on&#115;.com"
       }
     ]
   },
   {
-    "@id": "_:g570620",
+    "@id": "_:g667100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2459,7 +4529,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/9464b3ad-f0cb-46b1-b970-563bf2b25bdf",
+    "@id": "https://naccnt.ca/temporary/31e78792-231a-43aa-b93f-437fecce3a50",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2487,17 +4557,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g570560"
+        "@id": "_:g667040"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g570600"
+        "@id": "_:g667080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g570620"
+        "@id": "_:g667100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2535,7 +4605,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/5970926b-b825-426c-9167-18c3e81ca2e9",
+    "@id": "https://naccnt.ca/temporary/515aecdb-6da8-412d-8ecf-6f7e783a28e5",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2546,7 +4616,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/759cad96-d901-478b-8b23-253a454bbce2",
+    "@id": "https://naccnt.ca/temporary/d520c932-deb1-42ec-9900-ad1cf369cef9",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2557,7 +4627,7 @@
     ]
   },
   {
-    "@id": "_:g586340",
+    "@id": "_:g682780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2573,7 +4643,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g586360"
+        "@id": "_:g682800"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2601,7 +4671,7 @@
     ]
   },
   {
-    "@id": "_:g586360",
+    "@id": "_:g682800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2637,7 +4707,7 @@
     ]
   },
   {
-    "@id": "_:g586380",
+    "@id": "_:g682820",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2672,12 +4742,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "info&#64;e&#99;&#108;pr&#111;&#100;uc&#116;io&#110;&#115;.c&#111;&#109;"
+        "@value": "i&#110;fo&#64;&#101;&#99;&#108;p&#114;od&#117;ct&#105;&#111;ns&#46;c&#111;m"
       }
     ]
   },
   {
-    "@id": "_:g586400",
+    "@id": "_:g682840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2718,7 +4788,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/47cbc28a-6ee9-4a51-a799-8ccae6d51a59",
+    "@id": "https://naccnt.ca/temporary/75a06f28-d213-420f-9995-e61042e170e0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2746,17 +4816,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g586340"
+        "@id": "_:g682780"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g586380"
+        "@id": "_:g682820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g586400"
+        "@id": "_:g682840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2794,7 +4864,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/6cee9f1a-e8c8-41f9-8ff8-ca1eb5651e19",
+    "@id": "https://naccnt.ca/temporary/f94f202d-c582-40da-a0ab-dd20fc4c9ba9",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2805,7 +4875,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/21c102ca-37cb-4079-99be-3221ff9a23d3",
+    "@id": "https://naccnt.ca/temporary/213eec50-6c1a-46e7-b433-0926b2359b19",
     "@type": [
       "https://schema.org/WPHeader"
     ],
