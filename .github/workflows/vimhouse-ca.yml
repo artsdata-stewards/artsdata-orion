@@ -1,9 +1,9 @@
-name: Fetch test vimhouse-ca
+name: Fetch vimhouse-ca
 
 on:
   workflow_dispatch:
     schedule:
-    - cron: '25 16 * * 3' #runs every week on wednesday at 16:25 UTC
+    - cron: '25 16 * * 4' #runs every week on thursday at 16:25 UTC
 
 jobs:
   artsdata-pipeline:
@@ -12,7 +12,7 @@ jobs:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: "fetch-test"
+          mode: "fetch-push"
           artifact: "vimhouse-ca"
           publisher: "https://github.com/fjjulien#this"
           page-url: "https://vimhouse.ca/vim-events/"
