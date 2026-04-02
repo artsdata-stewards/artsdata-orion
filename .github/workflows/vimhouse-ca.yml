@@ -16,5 +16,5 @@ jobs:
           artifact: "vimhouse-ca"
           publisher: "https://github.com/fjjulien#this"
           page-url: "https://vimhouse.ca/vim-events/"
-          entity-identifier: "//a[@class=\"tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin\"]"
+          entity-identifier: "//a[@class='tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin']"
           token: ${{ secrets.GITHUB_TOKEN }}
