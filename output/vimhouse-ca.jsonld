@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://vimhouse.ca/event/russell-wallaces-saltchuck-city-orchestra-klatwa-album-release/",
+    "@id": "https://vimhouse.ca/event/capu-choirs-in-the-same-room/",
     "https://api.w.org/": [
       {
         "@id": "https://vimhouse.ca/wp-json/"
@@ -20,31 +20,31 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-us",
-        "@value": "Russell Wallace’s Saltchuck City Orchestra – Klatwa Album Release"
+        "@value": "CapU Choirs: In the Same Room"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-us",
-        "@value": "https://vimhouse.ca/event/russell-wallaces-saltchuck-city-orchestra-klatwa-album-release/"
+        "@value": "https://vimhouse.ca/event/capu-choirs-in-the-same-room/"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "en-us",
-        "@value": "Russell Wallace and the Vancouver Independent Music Centre Society (VIM) present: Saltchuck City Orchestra – Klatwa Album Release – Saturday, February 7th, 2026 Vancouver Community…"
+        "@value": "Saturday, April 11th, 2026 7:30 PM Blueshore Financial Centre for the Performing Arts (North Vancouver) VIM is proud to support this multigenerational, multicultural, multigenre show. Expect Baroqu…"
       }
     ],
     "article:published_time": [
       {
         "@language": "en-us",
-        "@value": "2026-01-14T02:51:36+00:00"
+        "@value": "2026-03-18T00:33:31+00:00"
       }
     ],
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-01-22T19:01:56+00:00"
+        "@value": "2026-03-18T00:33:31+00:00"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -56,7 +56,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en-us",
-        "@value": "https://i0.wp.com/vimhouse.ca/wordpress/wp-content/uploads/2026/01/Klatwa-Concert-Teaser.jpg?fit=1200%2C630&ssl=1"
+        "@value": "https://i0.wp.com/vimhouse.ca/wordpress/wp-content/uploads/2026/03/capu-choir-social.jpg?fit=1200%2C1200&ssl=1"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -68,13 +68,13 @@
     "http://ogp.me/ns#image:height": [
       {
         "@language": "en-us",
-        "@value": "630"
+        "@value": "1200"
       }
     ],
     "http://ogp.me/ns#image:alt": [
       {
         "@language": "en-us",
-        "@value": "klatwa russell wallace saltchuck city orchestra 2026"
+        "@value": "CapU Choirs April 11"
       }
     ],
     "http://ogp.me/ns#locale": [
@@ -85,29 +85,220 @@
     ]
   },
   {
-    "@id": "_:g462420",
+    "@id": "_:g462360",
     "@type": [
-      "http://schema.org/Place"
+      "http://schema.org/Person"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://vimhouse.ca/venue/vcc-broadway-auditorium/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462440"
+        "@id": "https://www.capilanou.ca/"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://vimhouse.ca/event/russell-wallaces-saltchuck-city-orchestra-klatwa-album-release/"
+        "@id": "https://www.capilanou.ca/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "VCC Broadway Auditorium"
+        "@value": "Capilano University"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/temporary/131a02c0-9edc-480d-a0c4-58c51c2449df",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vimhouse.ca/wordpress/wp-content/uploads/2026/03/capu-choir-social.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/event/capu-choirs-in-the-same-room/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T21:30:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g462360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vimhouse.ca/event/capu-choirs-in-the-same-room/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "CapU Choirs: In the Same Room"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Saturday, April 11th, 2026 7:30 PM Blueshore Financial Centre for the Performing Arts (North Vancouver) VIM is proud to support this multigenerational, multicultural, multigenre show. Expect Baroque excerpts by Vivaldi, sounds of the East, works by Indigenous composers, and popular favourites showcased through Capilano University\\'s choral ensembles. Featuring daring vocalist Shruti Ramani (Raagaverse), santoor virtuoso [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/event/shine-showcasing-filipinx-artistic-excellence-curated-by-mary-ancheta/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "SHINE: Showcasing Filipinx Artistic Excellence – Curated by Mary Ancheta"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://vimhouse.ca/event/shine-showcasing-filipinx-artistic-excellence-curated-by-mary-ancheta/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Mary Ancheta and Vancouver Independent Music Centre Society (VIM) present: SHINE: Showcasing Filipinx Artistic Excellence Curated by Mary Ancheta Box Office & Bar Open: 6:30 PM Doors to the the…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-02-03T19:58:10+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-02-03T19:58:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "VIM House"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://i0.wp.com/vimhouse.ca/wordpress/wp-content/uploads/2026/02/SHOWPASS-BANNER-SHINE-April-23-1200-x-600-px.png?fit=1200%2C600&ssl=1"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "SHINE Showcase curated by Mary Ancheta"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/venue/annex/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g473540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vancouvercivictheatres.com/venues/annex/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Annex"
       }
     ],
     "http://schema.org/description": [
@@ -124,14 +315,14 @@
     ]
   },
   {
-    "@id": "_:g462440",
+    "@id": "_:g473540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "en",
-        "@value": "1155 E Broadway"
+        "@value": "823 Seymour Street"
       }
     ],
     "http://schema.org/addressLocality": [
@@ -143,13 +334,13 @@
     "http://schema.org/addressRegion": [
       {
         "@language": "en",
-        "@value": "BC"
+        "@value": "British Columbia"
       }
     ],
     "http://schema.org/postalCode": [
       {
         "@language": "en",
-        "@value": "V5T 4V5"
+        "@value": "V6B 3L4"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -160,7 +351,7 @@
     ]
   },
   {
-    "@id": "_:g462460",
+    "@id": "_:g473560",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -195,62 +386,604 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "in&#102;&#111;(at&#41;&#118;imhouse&#46;ca"
+        "@value": "&#105;&#110;&#102;&#111;&#40;&#97;t)vi&#109;h&#111;use.c&#97;"
       }
     ]
   },
   {
-    "@id": "https://vimhouse.ca/temporary/4ddc933e-4144-404f-9fe6-74ad5a3e07ee",
+    "@id": "https://vimhouse.ca/temporary/f3f3f1d1-8ef2-4e73-b44f-af20bce832b0",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://vimhouse.ca/wordpress/wp-content/uploads/2026/01/Klatwa-Concert-Teaser.jpg"
+        "@id": "https://vimhouse.ca/wordpress/wp-content/uploads/2026/02/SHOWPASS-BANNER-SHINE-April-23-1200-x-600-px.png"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://vimhouse.ca/event/russell-wallaces-saltchuck-city-orchestra-klatwa-album-release/"
+        "@id": "https://vimhouse.ca/event/shine-showcasing-filipinx-artistic-excellence-curated-by-mary-ancheta/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-07T19:30:00-08:00"
+        "@value": "2026-04-23T19:30:00-07:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-07T21:00:00-08:00"
+        "@value": "2026-04-23T22:00:00-07:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g462420"
+        "@id": "_:g473520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g462460"
+        "@id": "_:g473560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://vimhouse.ca/event/russell-wallaces-saltchuck-city-orchestra-klatwa-album-release/"
+        "@id": "https://vimhouse.ca/event/shine-showcasing-filipinx-artistic-excellence-curated-by-mary-ancheta/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Russell Wallace&#8217;s Saltchuck City Orchestra &#8211; Klatwa Album Release"
+        "@value": "SHINE: Showcasing Filipinx Artistic Excellence &#8211; Curated by Mary Ancheta"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Russell Wallace and the Vancouver Independent Music Centre Society (VIM) present: Saltchuck City Orchestra - Klatwa&nbsp;Album Release - Saturday, February 7th, 2026 Vancouver Community College - Broadway Auditorium 1155 E Broadway, Vancouver Doors: 6:30 PM Show: 7:30 PM - the orchestra will perform one set, reception to follow Tickets: https://show.ps/l/ff8e9003/ All proceeds from ticket sales [&hellip;]&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;Mary Ancheta and Vancouver Independent Music Centre Society (VIM) present: SHINE: Showcasing Filipinx Artistic Excellence Curated by Mary Ancheta Box Office &amp; Bar Open: 6:30 PM Doors to the theatre open: 7:00 PM Show: 7:30 PM - 2 sets with intermission Tickets: https://show.ps/l/5ed10063/ $20-$25 for Sliding Scale General Admission $15 for Youth/Students/those who are budget [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/event/goodbye-strawberry-hill-sharon-minemoto-album-release-concert/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Goodbye, Strawberry Hill – Sharon Minemoto Album Release Concert"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://vimhouse.ca/event/goodbye-strawberry-hill-sharon-minemoto-album-release-concert/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Anvil Theatre & Vancouver Independent Music Centre presents Goodbye, Strawberry Hill Saturday, May 2, 2026 | 7:30pm A concert celebrating the launch of Sharon Minemoto’s new album, Goodbye…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-18T00:35:22+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-18T00:35:22+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "VIM House"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://i0.wp.com/vimhouse.ca/wordpress/wp-content/uploads/2026/03/Strawberry-Hill-1200X600-Mailchimp.png?fit=1200%2C600&ssl=1"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "Goodbye Strawberry Hill Sharon Minemoto"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/venue/the-anvil-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g485720"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://anviltheatre.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Anvil Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g485720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "777 Columbia St"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "New Westminster"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V3M 1B6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485740",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vimhouse.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "VIM House"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "604 683 8240"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#105;nf&#111;(&#97;t&#41;&#118;i&#109;h&#111;&#117;se&#46;&#99;&#97;"
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/temporary/fd90e476-455d-4147-8f7d-13741b671a6f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vimhouse.ca/wordpress/wp-content/uploads/2026/03/Strawberry-Hill-1200X600-Mailchimp.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/event/goodbye-strawberry-hill-sharon-minemoto-album-release-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485700"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g485740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vimhouse.ca/event/goodbye-strawberry-hill-sharon-minemoto-album-release-concert/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Goodbye, Strawberry Hill &#8211; Sharon Minemoto Album Release Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Anvil Theatre &amp; Vancouver Independent Music Centre presents Goodbye, Strawberry Hill Saturday, May 2, 2026 | 7:30pm A concert celebrating the launch of Sharon Minemoto’s new album,&nbsp;Goodbye, Strawberry Hill&nbsp;(Cellar Music). This album tells her family’s stories, joyful and sad, from WWII to present day. Following the bombing of Pearl Harbour in December 1941, the Canadian [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/event/george-leach-hayley-wallis/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://vimhouse.ca/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "George Leach & Hayley Wallis"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://vimhouse.ca/event/george-leach-hayley-wallis/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Vancouver Independent Music Centre Society (VIM) presents: GEORGE LEACH & HAYLEY WALLIS Double bill concert curated by Rob Thomson Thursday, May 14th, 2026 Fox Cabaret – 2321 Main St, Van…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-17T19:45:17+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-19T20:11:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "VIM House"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://i0.wp.com/vimhouse.ca/wordpress/wp-content/uploads/2026/03/SHOWPASS_1200x600_LeachWallis_May14_2026-1.jpg?fit=1200%2C600&ssl=1"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "george leach hayley wallis 2026"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/venue/fox-cabaret/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g497560"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.foxcabaret.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fox Cabaret"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g497560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2321 Main St"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V5T 3C9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497580",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vimhouse.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "VIM House"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "604 683 8240"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#105;&#110;fo&#40;a&#116;)v&#105;mho&#117;se.&#99;&#97;"
+      }
+    ]
+  },
+  {
+    "@id": "https://vimhouse.ca/temporary/fe852378-b585-4e0c-8a79-9c453fccbe90",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vimhouse.ca/wordpress/wp-content/uploads/2026/03/SHOWPASS_1200x600_LeachWallis_May14_2026-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vimhouse.ca/event/george-leach-hayley-wallis/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-14T20:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-14T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g497540"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g497580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vimhouse.ca/event/george-leach-hayley-wallis/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "George Leach &#038; Hayley Wallis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Vancouver Independent Music Centre Society (VIM) presents: GEORGE LEACH &amp; HAYLEY WALLIS Double bill concert curated by Rob Thomson Thursday, May 14th, 2026 Fox Cabaret - 2321 Main St, Vancouver Doors: 7:00 PM Show: 8:00 PM This Concert takes place on the traditional and unceded territory of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), and səl̓ilw̓ətaʔɬ [&hellip;]&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
