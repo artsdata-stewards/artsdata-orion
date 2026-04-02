@@ -1,0 +1,18 @@
+name: Fetch test vimhouse-ca
+
+on:
+  workflow_dispatch:
+
+jobs:
+  artsdata-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-test"
+          artifact: "my-artifact-name"
+          publisher: "http://my-publisher-uri"
+          page-url: "https://website-to-crawl"
+          entity-identifier: "//a[@class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"]"
+          token: ${{ secrets.GITHUB_TOKEN }}
