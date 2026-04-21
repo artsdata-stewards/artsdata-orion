@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-10/thumbnail_FSO-photo_2019-12-06-action_5700x1800%20%281%29.jpg?itok=WMph2QhE",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-08/Mean%20Girls%20Banner.png?itok=NuAyxxPh",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -83,6 +83,9 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
@@ -90,6 +93,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -128,6 +134,32 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "TNB Theatre School | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "TNB Theatre School"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
       }
     ]
   },
@@ -202,6 +234,32 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "TNB Theatre School | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "TNB Theatre School"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -237,7 +295,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Bee%20Gees%201900%20x%20600%20pixels%20CENTRE.png?itok=x2R1C6DB",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-04/Fredericton%20Music%20Festival%20Choir%20web%20pic.png?itok=wV9Uc6ZP",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -252,33 +310,7 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-05/Ten%20Thousand%20Hours%20web%20banner%20NEW.png?itok=SmV098z7",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
@@ -287,254 +319,74 @@
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en",
-        "@value": "Spotlight Series | Fredericton Playhouse"
+        "@value": "Fredericton Music Festival | Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "Spotlight Series"
+        "@value": "Fredericton Music Festival"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2024-06/Spotlight%20cover%20photo%20NEW%20%281%29.png?itok=mAv5dSmS"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/Fredericton%20Music%20Festival%20logo%20web%20pic%20%281%29.png?itok=AjI5-bUp"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
-        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
+        "@value": "Fredericton Music Festival | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Série Pleins-Feux"
+        "@value": "Fredericton Music Festival"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2024-06/Spotlight%20cover%20photo%20NEW%20%281%29.png?itok=mAv5dSmS"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/Fredericton%20Music%20Festival%20logo%20web%20pic%20%281%29.png?itok=AjI5-bUp"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-01/Farewell%20party%20for%20Playhouse_0.png?itok=mGG3YXPV",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "NB Country Showcase | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "NB Country Showcase"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-06/NBCS%20for%20Playhouse.jpg?itok=J1hWS6Jk"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "NB Country Showcase | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "NB Country Showcase"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-06/NBCS%20for%20Playhouse.jpg?itok=J1hWS6Jk"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-08/Mean%20Girls%20Banner.png?itok=NuAyxxPh",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "TNB Theatre School | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "TNB Theatre School"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tnb-theatre-school"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "TNB Theatre School | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "TNB Theatre School"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tnb-theatre-school"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
       }
     ]
   },
@@ -939,6 +791,38 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "NB Country Showcase | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "NB Country Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-06/NBCS%20for%20Playhouse.jpg?itok=J1hWS6Jk"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-06/NBCS%20for%20Playhouse.jpg?itok=n3seS8G5",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -947,6 +831,38 @@
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nb-country-showcase-1"
       },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "NB Country Showcase | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "NB Country Showcase"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-06/NBCS%20for%20Playhouse.jpg?itok=J1hWS6Jk"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nb-country-showcase-1"
       }
@@ -1148,96 +1064,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-04/Fredericton%20Music%20Festival%20Choir%20web%20pic.png?itok=wV9Uc6ZP",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Music Festival | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Music Festival"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/Fredericton%20Music%20Festival%20logo%20web%20pic%20%281%29.png?itok=AjI5-bUp"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-music-festival"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Fredericton Music Festival | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Fredericton Music Festival"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/Fredericton%20Music%20Festival%20logo%20web%20pic%20%281%29.png?itok=AjI5-bUp"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fredericton-music-festival"
       }
     ]
   },
@@ -3453,6 +3279,38 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2024-06/Spotlight%20cover%20photo%20NEW%20%281%29.png?itok=mAv5dSmS"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/spotlight-series-cloned",
     "http://ogp.me/ns#site_name": [
       {
@@ -3648,6 +3506,38 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/sorties-scolaires"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2024-06/Spotlight%20cover%20photo%20NEW%20%281%29.png?itok=mAv5dSmS"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
       }
     ]
   },
@@ -4252,12 +4142,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g742220"
+        "@id": "_:g738260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g742260"
+        "@id": "_:g738300"
       }
     ],
     "http://schema.org/organizer": [
@@ -4315,18 +4205,18 @@
     ]
   },
   {
-    "@id": "_:g742220",
+    "@id": "_:g738260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g742240"
+        "@id": "_:g738280"
       }
     ]
   },
   {
-    "@id": "_:g742260",
+    "@id": "_:g738300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4375,7 +4265,7 @@
     ]
   },
   {
-    "@id": "_:g742240",
+    "@id": "_:g738280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4461,9 +4351,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/barr-brothers"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/wintersleep"
       },
       {
@@ -4483,9 +4370,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/barr-brothers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/wintersleep"
@@ -4525,33 +4409,6 @@
       {
         "@language": "en",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2024-05/BarrBrosWebBanner.png?itok=EcpFbVT0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-05/Ten%20Thousand%20Hours%20web%20banner%20NEW.png?itok=yNqHwOuj"
       }
     ]
   },
@@ -4664,33 +4521,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-05/Ten%20Thousand%20Hours%20web%20banner%20NEW.png?itok=yNqHwOuj"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets/wintersleep",
     "http://ogp.me/ns#site_name": [
       {
@@ -4787,9 +4617,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/barr-brothers"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/wintersleep"
       },
       {
@@ -4812,9 +4639,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/barr-brothers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/wintersleep"
@@ -4906,9 +4730,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/barr-brothers"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/wintersleep"
       },
       {
@@ -4934,9 +4755,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/barr-brothers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/wintersleep"
@@ -8077,7 +7895,13 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -8105,9 +7929,6 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/wintersleep"
       },
       {
@@ -8121,9 +7942,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/wintersleep"
@@ -10813,80 +10631,214 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-3-1",
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-0",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en",
-        "@value": "The Dance Connection Season 3 | Fredericton Playhouse"
+        "@value": "The Dance Connection Season 4 | Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-3-1"
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-0"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "The Dance Connection Season 3"
+        "@value": "The Dance Connection Season 4"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/The%20Dance%20Connection%20web%20pic.png?itok=IsyE1pDh"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-3-1"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-0"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-04/The%20Dance%20Connection%20web%20pic.png?itok=rJn6HLQw",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=LW0STikl",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-3-1"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-0"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-3-1"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-1"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-1"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-0"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-3-1",
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4 | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4 | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
-        "@value": "The Dance Connection Season 3 | Le Fredericton Playhouse"
+        "@value": "The Dance Connection Season 4 | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-3-1"
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "The Dance Connection Season 3"
+        "@value": "The Dance Connection Season 4"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-04/The%20Dance%20Connection%20web%20pic.png?itok=IsyE1pDh"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-3-1"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4 | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4 | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=YKZ3JlWw"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/The%20Dance%20Connection%20web%20pic.jpg?itok=HFYKb3uJ",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dance-connection-season-4"
       }
     ]
   },
@@ -11088,7 +11040,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g1006880"
+        "@id": "_:g998460"
       }
     ],
     "http://schema.org/previousStartDate": [
@@ -11099,12 +11051,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1006900"
+        "@id": "_:g998480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1006940"
+        "@id": "_:g998520"
       }
     ],
     "http://schema.org/organizer": [
@@ -11168,7 +11120,7 @@
     ]
   },
   {
-    "@id": "_:g1006880",
+    "@id": "_:g998460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -11197,18 +11149,18 @@
     ]
   },
   {
-    "@id": "_:g1006900",
+    "@id": "_:g998480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1006920"
+        "@id": "_:g998500"
       }
     ]
   },
   {
-    "@id": "_:g1006940",
+    "@id": "_:g998520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11236,7 +11188,7 @@
     ]
   },
   {
-    "@id": "_:g1006920",
+    "@id": "_:g998500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12674,6 +12626,34 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-11/Fredericton%20Playhouse%201900x600.jpg?itok=I3HuTeS5",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-09/PH-LedZeppelin-1920x1080-Graphic%20%281%29.jpg?itok=MAg6madP",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-04/Fredericton%20Music%20Festival%20logo%20web%20pic%20%281%29.png?itok=nWi7CvBt",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -12732,12 +12712,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1130780"
+        "@id": "_:g1120860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1130820"
+        "@id": "_:g1120900"
       }
     ],
     "http://schema.org/organizer": [
@@ -12801,18 +12781,18 @@
     ]
   },
   {
-    "@id": "_:g1130780",
+    "@id": "_:g1120860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1130800"
+        "@id": "_:g1120880"
       }
     ]
   },
   {
-    "@id": "_:g1130820",
+    "@id": "_:g1120900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12840,7 +12820,7 @@
     ]
   },
   {
-    "@id": "_:g1130800",
+    "@id": "_:g1120880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12946,6 +12926,97 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/news/tom-hoyt-recognized-playhouse-honours-2026",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Tom Hoyt Recognized with Playhouse Honours 2026"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/news"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/news/tom-hoyt-recognized-playhouse-honours-2026"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nouvelles/le-fredericton-playhouse-rend-hommage-tom-hoyt-avec-la-distinction-playhouse-2026"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Tom Hoyt Recognized with Playhouse Honours 2026 | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/news/tom-hoyt-recognized-playhouse-honours-2026"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Tom Hoyt Recognized with Playhouse Honours 2026"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "The Fredericton Playhouse is pleased to announce producer and musician Tom Hoyt as the 2026 recipient of the Playhouse Honours.\n\nThis award celebrates individuals who have made a lasting impact on the region’s performing arts community. Hoyt is being recognized at a significant moment, as he concludes his long-standing role as producer of the New Brunswick Country Showcase, which presented its final season on April 18th 2026, after nearly four decades.\n\n“Through Tom Hoyt’s work producing the New Brunswick Country Showcase, he has been instrumental in bringing live country music to communities across the province,” said Natalie Carrier, Chair of the Playhouse Honours Committee. “We’re honoured to recognize his lasting impact with the Playhouse Honours Award this year.”\n\nHoyt is a lifelong musician from Prince William, NB. He was inspired early on by his family’s musical roots, learning guitar under the guidance of Canadian country icon Danny Messer. Hoyt performed across the province with various bands including November Chill and Midnight Special before stepping into live event production in the early 1990s.\n\nUnder his leadership, the New Brunswick Country Showcase has grown into a cornerstone of the province’s country music scene. It has created opportunities for emerging artists and fostered a strong sense of community through music.\n\nOver more than 30 years, Hoyt has supported hundreds of performers and launched the careers of many artists including Joan Kennedy, Julian Austin, and Chris Cummings, and The Martin Boys.\n\nHoyt is a previous recipient of the Mazzuca Award and was inducted into the New Brunswick Country Music Hall of Fame in 2023.\n\nAs the 2026 Playhouse Honours recipient, Tom Hoyt joins a celebrated group of performing arts pioneers who have shaped the cultural fabric of our region. The award will be presented later this season.\n\nEstablished in 2008, the Playhouse Honours annually recognizes and celebrates the important work by members in the performing arts community in Fredericton. We believe in the value people can bring to the community through their work in the performing arts, and the Playhouse strives to foster a deeper appreciation of such contributions. A permanent display in the west gallery of the Playhouse recognizes each honouree.  \n\nPlayhouse Honours is generously sponsored by Atlantic Media Works.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/nouvelles/le-fredericton-playhouse-rend-hommage-tom-hoyt-avec-la-distinction-playhouse-2026",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Fredericton Playhouse rend hommage à Tom Hoyt avec la Distinction Playhouse 2026"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/nouvelles"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nouvelles/le-fredericton-playhouse-rend-hommage-tom-hoyt-avec-la-distinction-playhouse-2026"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Le Fredericton Playhouse rend hommage à Tom Hoyt avec la Distinction Playhouse 2026 | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/nouvelles/le-fredericton-playhouse-rend-hommage-tom-hoyt-avec-la-distinction-playhouse-2026"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Le Fredericton Playhouse rend hommage à Tom Hoyt avec la Distinction Playhouse 2026"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "fr",
+        "@value": "Le Fredericton Playhouse est heureux d’annoncer que le producteur et musicien Tom Hoyt est le lauréat de la Distinction Playhouse 2026.\n\nCe prix souligne les personnes qui ont eu un impact durable sur la communauté des arts de la scène de la région. Tom Hoyt est honoré à un moment charnière de sa carrière, alors qu’il conclut son rôle de longue date à titre de producteur du New Brunswick Country Showcase, qui a présenté sa dernière saison le 18 avril 2026, après près de quatre décennies.\n\n« Grâce au travail de Tom Hoyt à la production du New Brunswick Country Showcase, il a joué un rôle déterminant dans la diffusion de la musique country en direct auprès des communautés de toute la province, » a déclaré Natalie Carrier, présidente du comité de la Distinction Playhouse. « Nous sommes honorés de souligner son impact durable en lui décernant la Distinction Playhouse cette année. »\n\nOriginaire de Prince William, au Nouveau-Brunswick, Tom Hoyt est musicien depuis toujours. Inspiré dès son plus jeune âge par les racines musicales de sa famille, il apprend la guitare sous la tutelle de l’icône canadienne de la musique country Danny Messer. Il se produit partout dans la province avec divers groupes, dont November Chill et Midnight Special, avant de se tourner vers la production de spectacles au début des années 1990.\n\nSous sa direction, le New Brunswick Country Showcase est devenu un pilier de la scène country provinciale. Il a créé des occasions pour les artistes émergents et favorisé un fort sentiment de communauté grâce à la musique.\n\nAu cours de plus de 30 ans, Tom Hoyt a soutenu des centaines d’artistes et contribué au lancement de nombreuses carrières, notamment celles de Joan Kennedy, Julian Austin, Chris Cummings et The Martin Boys.\n\nTom Hoyt est également récipiendaire du prix Mazzuca et a été intronisé au Temple de la renommée de la musique country du Nouveau-Brunswick en 2023.\n\nÀ titre de lauréat de la Distinction Playhouse 2026, Tom Hoyt rejoint un groupe distingué de pionniers des arts de la scène qui ont façonné le paysage culturel de notre région. Le prix sera remis plus tard cette saison.\n\nCréée en 2008, la Distinction Playhouse est décernée à une personne sélectionnée par le conseil d’administration du Fredericton Playhouse. Ce programme reconnaît l’engagement d’un individu dans les arts de la scène à Fredericton et favorise une appréciation accrue de la contribution que les artistes apportent à la vie communautaire par leur travail en musique, théâtre, danse, arts de la parole et disciplines multidisciplinaires.\n"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/en/news/fredericton-playhouse-seeking-nominations-playhouse-honours-2026",
     "@type": [
       "http://schema.org/Article"
@@ -13037,175 +13108,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/node/727",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-17"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1145280"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1145320"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours"
-      },
-      {
-        "@language": "fr",
-        "@value": "Gravity & Other Myths: Ten Thousand Hours"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Everybody is a master of something. Blink, step, jump, balance, flip, fly. This is an ode to the countless hours needed to achieve great things. A tribute to the dedication required to realize our physical ambitions. An acknowledgement of the backstory that is often more spectacular than the finished product.\n\nEight world class acrobats investigate physical skill; how we obtain it, how we perfect it, and how it can transform our lives. Demonstrating high-flying flips and tricks, they will show the audience a greater appreciation of acrobatics and the dedication it takes to become a master of"
-      },
-      {
-        "@language": "fr",
-        "@value": "Tout le monde est maître de quelque chose. Cligner des yeux, faire un pas, garder l’équilibre, sauter, culbuter, voler. C’est une ode aux heures innombrables nécessaires à l’accomplissement de grandes choses. Un hommage au dévouement requis pour réaliser nos ambitions physiques. Une reconnaissance de la toile de fond qui est souvent plus spectaculaire que le produit final.\n\nHuit acrobates de calibre mondial s’intéressent aux compétences physiques, à la manière dont nous les obtenons, les perfectionnons et comment elles peuvent transformer nos vies. En mettant en lumière des sauts et des"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-17T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-17T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1145280",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1145300"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1145320",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=ACE4A52A-6517-4503-9A00-D48F0797F9A5&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-07-02"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1145300",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Playhouse"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-05/Ten%20Thousand%20Hours%20web%20banner%20NEW.png?itok=ILyNTUw-",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/gravity-other-myths-ten-thousand-hours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/gravity-other-myths-ten-thousand-hours"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/node/728",
     "@type": [
       "http://schema.org/Event"
@@ -13223,12 +13125,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1154460"
+        "@id": "_:g1135120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1154500"
+        "@id": "_:g1135160"
       }
     ],
     "http://schema.org/organizer": [
@@ -13297,18 +13199,18 @@
     ]
   },
   {
-    "@id": "_:g1154460",
+    "@id": "_:g1135120",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1154480"
+        "@id": "_:g1135140"
       }
     ]
   },
   {
-    "@id": "_:g1154500",
+    "@id": "_:g1135160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13348,7 +13250,7 @@
     ]
   },
   {
-    "@id": "_:g1154480",
+    "@id": "_:g1135140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13409,12 +13311,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1164340"
+        "@id": "_:g1144680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1164380"
+        "@id": "_:g1144720"
       }
     ],
     "http://schema.org/organizer": [
@@ -13478,18 +13380,18 @@
     ]
   },
   {
-    "@id": "_:g1164340",
+    "@id": "_:g1144680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1164360"
+        "@id": "_:g1144700"
       }
     ]
   },
   {
-    "@id": "_:g1164380",
+    "@id": "_:g1144720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13517,7 +13419,7 @@
     ]
   },
   {
-    "@id": "_:g1164360",
+    "@id": "_:g1144700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13724,229 +13626,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nbcs-farewell-party",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "NBCS: Farewell Party | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/nbcs-farewell-party"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "NBCS: Farewell Party"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Farewell%20party%20for%20Playhouse_0.png?itok=6wYfMnS0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/740",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nbcs-farewell-party"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-18"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1186180"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1186220"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nbcs-farewell-party"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "NBCS: Farewell Party"
-      },
-      {
-        "@language": "fr",
-        "@value": "NBCS: Farewell Party"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "After 38 years and hundreds of performances, the New Brunswick Country Showcase concludes with its final show at the Fredericton Playhouse, Saturday, April 18th at 7:00pm. Performers for this last presentation include Pat Comeau, Wanda Grant, Frank Hartt, Allison Inch, Dave McNeil, Noel Nason, Cora Morrison, Kevin Neilson, Nellie Spinney, Phil McGeehan, Steve Knox, Becky Banks, and Iris Lloyd from “Canada’s Got Talent”. \n\n\n\t\n\t\t\n\t\t\tPRICE TYPE\n\t\t\tALL PRICES SUBJECT TO 15% HST\n\t\t\n\t\n\t\n\t\t\n\t\t\tRegular PKG\n\t\t\t$120\n\t\t\n\t\t\n\t\t\tRegular\n\t\t\t$36.50"
-      },
-      {
-        "@language": "fr",
-        "@value": "Après 38 ans et des centaines de représentations, le New Brunswick Country Showcase tire sa révérence avec son tout dernier spectacle au Fredericton Playhouse, le samedi 18 avril à 19 h. Les artistes de cette ultime présentation sont : Pat Comeau, Wanda Grant, Frank Hartt, Allison Inch, Dave McNeil, Noel Nason, Cora Morrison, Kevin Neilson, Nellie Spinney, Phil McGeehan, Steve Knox, Becky Banks, et Iris Lloyd de Canada’s Got Talent. Billets en vente au www.theplayhouse.ca ou par téléphone au 506 458-8344.\n\n\n\t\n\t\t\n\t\t\tCATÉGORIE DE PRIX\n\t\t\tTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-18T19:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-18T21:00:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1186180",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1186200"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1186220",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=0EA2ED05-F2C9-495D-9827-2CE666B5A477&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-26"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1186200",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Playhouse"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Farewell%20party%20for%20Playhouse_0.png?itok=qOLpfzJM",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/nbcs-farewell-party"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nbcs-farewell-party"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/nbcs-farewell-party",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "NBCS: Farewell Party | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/nbcs-farewell-party"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "NBCS: Farewell Party"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Farewell%20party%20for%20Playhouse_0.png?itok=6wYfMnS0"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/node/745",
     "@type": [
       "http://schema.org/Event"
@@ -13964,12 +13643,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1194360"
+        "@id": "_:g1166120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1194400"
+        "@id": "_:g1166160"
       }
     ],
     "http://schema.org/organizer": [
@@ -14033,18 +13712,18 @@
     ]
   },
   {
-    "@id": "_:g1194360",
+    "@id": "_:g1166120",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1194380"
+        "@id": "_:g1166140"
       }
     ]
   },
   {
-    "@id": "_:g1194400",
+    "@id": "_:g1166160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14072,7 +13751,7 @@
     ]
   },
   {
-    "@id": "_:g1194380",
+    "@id": "_:g1166140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14215,12 +13894,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1216040"
+        "@id": "_:g1187720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1216080"
+        "@id": "_:g1187760"
       }
     ],
     "http://schema.org/organizer": [
@@ -14284,18 +13963,18 @@
     ]
   },
   {
-    "@id": "_:g1216040",
+    "@id": "_:g1187720",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1216060"
+        "@id": "_:g1187740"
       }
     ]
   },
   {
-    "@id": "_:g1216080",
+    "@id": "_:g1187760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14323,7 +14002,7 @@
     ]
   },
   {
-    "@id": "_:g1216060",
+    "@id": "_:g1187740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14585,12 +14264,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1250440"
+        "@id": "_:g1220580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1250480"
+        "@id": "_:g1220620"
       }
     ],
     "http://schema.org/organizer": [
@@ -14654,18 +14333,18 @@
     ]
   },
   {
-    "@id": "_:g1250440",
+    "@id": "_:g1220580",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1250460"
+        "@id": "_:g1220600"
       }
     ]
   },
   {
-    "@id": "_:g1250480",
+    "@id": "_:g1220620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14693,7 +14372,7 @@
     ]
   },
   {
-    "@id": "_:g1250460",
+    "@id": "_:g1220600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14778,12 +14457,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1258580"
+        "@id": "_:g1228640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1258620"
+        "@id": "_:g1228680"
       }
     ],
     "http://schema.org/organizer": [
@@ -14847,18 +14526,18 @@
     ]
   },
   {
-    "@id": "_:g1258580",
+    "@id": "_:g1228640",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1258600"
+        "@id": "_:g1228660"
       }
     ]
   },
   {
-    "@id": "_:g1258620",
+    "@id": "_:g1228680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14886,7 +14565,7 @@
     ]
   },
   {
-    "@id": "_:g1258600",
+    "@id": "_:g1228660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15042,12 +14721,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1273340"
+        "@id": "_:g1243140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1273380"
+        "@id": "_:g1243180"
       }
     ],
     "http://schema.org/organizer": [
@@ -15111,18 +14790,18 @@
     ]
   },
   {
-    "@id": "_:g1273340",
+    "@id": "_:g1243140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1273360"
+        "@id": "_:g1243160"
       }
     ]
   },
   {
-    "@id": "_:g1273380",
+    "@id": "_:g1243180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15150,7 +14829,7 @@
     ]
   },
   {
-    "@id": "_:g1273360",
+    "@id": "_:g1243160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15339,12 +15018,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1287740"
+        "@id": "_:g1257460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1287780"
+        "@id": "_:g1257500"
       }
     ],
     "http://schema.org/organizer": [
@@ -15408,18 +15087,18 @@
     ]
   },
   {
-    "@id": "_:g1287740",
+    "@id": "_:g1257460",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1287760"
+        "@id": "_:g1257480"
       }
     ]
   },
   {
-    "@id": "_:g1287780",
+    "@id": "_:g1257500",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15447,7 +15126,7 @@
     ]
   },
   {
-    "@id": "_:g1287760",
+    "@id": "_:g1257480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15521,12 +15200,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1296020"
+        "@id": "_:g1265660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1296060"
+        "@id": "_:g1265700"
       }
     ],
     "http://schema.org/organizer": [
@@ -15590,18 +15269,18 @@
     ]
   },
   {
-    "@id": "_:g1296020",
+    "@id": "_:g1265660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1296040"
+        "@id": "_:g1265680"
       }
     ]
   },
   {
-    "@id": "_:g1296060",
+    "@id": "_:g1265700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15629,7 +15308,7 @@
     ]
   },
   {
-    "@id": "_:g1296040",
+    "@id": "_:g1265680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15744,12 +15423,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1304360"
+        "@id": "_:g1273940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1304400"
+        "@id": "_:g1273980"
       }
     ],
     "http://schema.org/organizer": [
@@ -15813,18 +15492,18 @@
     ]
   },
   {
-    "@id": "_:g1304360",
+    "@id": "_:g1273940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1304380"
+        "@id": "_:g1273960"
       }
     ]
   },
   {
-    "@id": "_:g1304400",
+    "@id": "_:g1273980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15852,7 +15531,7 @@
     ]
   },
   {
-    "@id": "_:g1304380",
+    "@id": "_:g1273960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15919,229 +15598,6 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-09/Gypsy%20web%20pic.png?itok=bvprAGEE"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fso-50th-anniversary-concert",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "FSO: 50th Anniversary Concert | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fso-50th-anniversary-concert"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "FSO: 50th Anniversary Concert"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-10/thumbnail_FSO-photo_2019-12-06-action_5700x1800%20%281%29.jpg?itok=iW2d15dU"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/802",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fso-50th-anniversary-concert"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-14"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1312640"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1312680"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fso-50th-anniversary-concert"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "FSO: 50th Anniversary Concert"
-      },
-      {
-        "@language": "fr",
-        "@value": "FSO: 50th Anniversary Concert"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "The Fredericton Symphony Orchestra (FSO), formed in 1976, will be having a gala musical celebration at The Playhouse (Tuesday, April 14th at 7:30) to celebrate its 50th year.  The featured work on the concert will be a performance of Haydn’s Paukenmesse, which will be performed in collaboration with special guests, the Fredericton Choral Society, and soloists Olivia LaPointe (Soprano), Jillian Bonner (Contralto), Shane Scott (Tenor), and Paul Bustin (Baritone).  Rounding out the program will be performances of Brahm’s Academic Festival Overture and Fauré’s Élégie featuring Emily Kennedy on"
-      },
-      {
-        "@language": "fr",
-        "@value": "Le Fredericton Symphony Orchestra (FSO), fondé en 1976, présente une soirée musicale de gala au Fredericton Playhouse le mardi 14 avril à 19 h 30, afin de célébrer son 50e anniversaire.  L'œuvre principale du concert sera la Paukenmesse de Haydn, qui sera interprétée en collaboration avec nos invités spéciaux, la Fredericton Choral Society et les solistes Olivia LaPointe (soprano), Jillian Bonner (contralto), Shane Scott (ténor) et Paul Bustin (baryton).  Le concert sera complété par l'Ouverture de la fête académique de Brahms et l'Élégie de Fauré, avec Emily Kennedy au violoncelle."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-14T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-14T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1312640",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1312660"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1312680",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=ED9A3697-153B-4237-A7E5-0A4FC1E9B1CB&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-19"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1312660",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Playhouse"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2025-10/thumbnail_FSO-photo_2019-12-06-action_5700x1800%20%281%29.jpg?itok=I53rmkNW",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fso-50th-anniversary-concert"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fso-50th-anniversary-concert"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fso-50th-anniversary-concert",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "FSO: 50th Anniversary Concert | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fso-50th-anniversary-concert"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "FSO: 50th Anniversary Concert"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2025-10/thumbnail_FSO-photo_2019-12-06-action_5700x1800%20%281%29.jpg?itok=iW2d15dU"
       }
     ]
   },
@@ -16313,12 +15769,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1333260"
+        "@id": "_:g1294200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1333300"
+        "@id": "_:g1294240"
       }
     ],
     "http://schema.org/organizer": [
@@ -16382,18 +15838,18 @@
     ]
   },
   {
-    "@id": "_:g1333260",
+    "@id": "_:g1294200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1333280"
+        "@id": "_:g1294220"
       }
     ]
   },
   {
-    "@id": "_:g1333300",
+    "@id": "_:g1294240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16421,7 +15877,7 @@
     ]
   },
   {
-    "@id": "_:g1333280",
+    "@id": "_:g1294220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16901,12 +16357,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1363980"
+        "@id": "_:g1324800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1364020"
+        "@id": "_:g1324840"
       }
     ],
     "http://schema.org/organizer": [
@@ -16970,18 +16426,18 @@
     ]
   },
   {
-    "@id": "_:g1363980",
+    "@id": "_:g1324800",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1364000"
+        "@id": "_:g1324820"
       }
     ]
   },
   {
-    "@id": "_:g1364020",
+    "@id": "_:g1324840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17009,7 +16465,7 @@
     ]
   },
   {
-    "@id": "_:g1364000",
+    "@id": "_:g1324820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17283,12 +16739,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1372240"
+        "@id": "_:g1333060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1372280"
+        "@id": "_:g1333100"
       }
     ],
     "http://schema.org/organizer": [
@@ -17352,18 +16808,18 @@
     ]
   },
   {
-    "@id": "_:g1372240",
+    "@id": "_:g1333060",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1372260"
+        "@id": "_:g1333080"
       }
     ]
   },
   {
-    "@id": "_:g1372280",
+    "@id": "_:g1333100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17391,7 +16847,7 @@
     ]
   },
   {
-    "@id": "_:g1372260",
+    "@id": "_:g1333080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17438,12 +16894,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1380620"
+        "@id": "_:g1341380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1380660"
+        "@id": "_:g1341420"
       }
     ],
     "http://schema.org/organizer": [
@@ -17507,18 +16963,18 @@
     ]
   },
   {
-    "@id": "_:g1380620",
+    "@id": "_:g1341380",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1380640"
+        "@id": "_:g1341400"
       }
     ]
   },
   {
-    "@id": "_:g1380660",
+    "@id": "_:g1341420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17546,7 +17002,7 @@
     ]
   },
   {
-    "@id": "_:g1380640",
+    "@id": "_:g1341400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17593,12 +17049,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1389020"
+        "@id": "_:g1349520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1389060"
+        "@id": "_:g1349560"
       }
     ],
     "http://schema.org/organizer": [
@@ -17662,18 +17118,18 @@
     ]
   },
   {
-    "@id": "_:g1389020",
+    "@id": "_:g1349520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1389040"
+        "@id": "_:g1349540"
       }
     ]
   },
   {
-    "@id": "_:g1389060",
+    "@id": "_:g1349560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17701,7 +17157,7 @@
     ]
   },
   {
-    "@id": "_:g1389040",
+    "@id": "_:g1349540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17775,12 +17231,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1405600"
+        "@id": "_:g1365700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1405640"
+        "@id": "_:g1365740"
       }
     ],
     "http://schema.org/organizer": [
@@ -17844,18 +17300,18 @@
     ]
   },
   {
-    "@id": "_:g1405600",
+    "@id": "_:g1365700",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1405620"
+        "@id": "_:g1365720"
       }
     ]
   },
   {
-    "@id": "_:g1405640",
+    "@id": "_:g1365740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17883,7 +17339,7 @@
     ]
   },
   {
-    "@id": "_:g1405620",
+    "@id": "_:g1365720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17998,12 +17454,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1414100"
+        "@id": "_:g1373940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1414140"
+        "@id": "_:g1373980"
       }
     ],
     "http://schema.org/organizer": [
@@ -18067,18 +17523,18 @@
     ]
   },
   {
-    "@id": "_:g1414100",
+    "@id": "_:g1373940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1414120"
+        "@id": "_:g1373960"
       }
     ]
   },
   {
-    "@id": "_:g1414140",
+    "@id": "_:g1373980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18106,7 +17562,7 @@
     ]
   },
   {
-    "@id": "_:g1414120",
+    "@id": "_:g1373960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18235,12 +17691,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1428920"
+        "@id": "_:g1388420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1428960"
+        "@id": "_:g1388460"
       }
     ],
     "http://schema.org/organizer": [
@@ -18304,18 +17760,18 @@
     ]
   },
   {
-    "@id": "_:g1428920",
+    "@id": "_:g1388420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1428940"
+        "@id": "_:g1388440"
       }
     ]
   },
   {
-    "@id": "_:g1428960",
+    "@id": "_:g1388460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18343,7 +17799,7 @@
     ]
   },
   {
-    "@id": "_:g1428940",
+    "@id": "_:g1388440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18458,12 +17914,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1437240"
+        "@id": "_:g1396680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1437280"
+        "@id": "_:g1396720"
       }
     ],
     "http://schema.org/organizer": [
@@ -18527,18 +17983,18 @@
     ]
   },
   {
-    "@id": "_:g1437240",
+    "@id": "_:g1396680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1437260"
+        "@id": "_:g1396700"
       }
     ]
   },
   {
-    "@id": "_:g1437280",
+    "@id": "_:g1396720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18566,7 +18022,7 @@
     ]
   },
   {
-    "@id": "_:g1437260",
+    "@id": "_:g1396700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18681,12 +18137,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1445240"
+        "@id": "_:g1404740"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1445280"
+        "@id": "_:g1404780"
       }
     ],
     "http://schema.org/organizer": [
@@ -18750,18 +18206,18 @@
     ]
   },
   {
-    "@id": "_:g1445240",
+    "@id": "_:g1404740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1445260"
+        "@id": "_:g1404760"
       }
     ]
   },
   {
-    "@id": "_:g1445280",
+    "@id": "_:g1404780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18789,7 +18245,7 @@
     ]
   },
   {
-    "@id": "_:g1445260",
+    "@id": "_:g1404760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18904,12 +18360,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1453480"
+        "@id": "_:g1412920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1453520"
+        "@id": "_:g1412960"
       }
     ],
     "http://schema.org/organizer": [
@@ -18973,18 +18429,18 @@
     ]
   },
   {
-    "@id": "_:g1453480",
+    "@id": "_:g1412920",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1453500"
+        "@id": "_:g1412940"
       }
     ]
   },
   {
-    "@id": "_:g1453520",
+    "@id": "_:g1412960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19012,7 +18468,7 @@
     ]
   },
   {
-    "@id": "_:g1453500",
+    "@id": "_:g1412940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19127,12 +18583,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1461720"
+        "@id": "_:g1421100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1461760"
+        "@id": "_:g1421140"
       }
     ],
     "http://schema.org/organizer": [
@@ -19196,18 +18652,18 @@
     ]
   },
   {
-    "@id": "_:g1461720",
+    "@id": "_:g1421100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1461740"
+        "@id": "_:g1421120"
       }
     ]
   },
   {
-    "@id": "_:g1461760",
+    "@id": "_:g1421140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19235,7 +18691,7 @@
     ]
   },
   {
-    "@id": "_:g1461740",
+    "@id": "_:g1421120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19350,12 +18806,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1470000"
+        "@id": "_:g1429440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1470040"
+        "@id": "_:g1429480"
       }
     ],
     "http://schema.org/organizer": [
@@ -19419,18 +18875,18 @@
     ]
   },
   {
-    "@id": "_:g1470000",
+    "@id": "_:g1429440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1470020"
+        "@id": "_:g1429460"
       }
     ]
   },
   {
-    "@id": "_:g1470040",
+    "@id": "_:g1429480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19458,7 +18914,7 @@
     ]
   },
   {
-    "@id": "_:g1470020",
+    "@id": "_:g1429460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19628,12 +19084,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1490780"
+        "@id": "_:g1449660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1490820"
+        "@id": "_:g1449700"
       }
     ],
     "http://schema.org/organizer": [
@@ -19697,18 +19153,18 @@
     ]
   },
   {
-    "@id": "_:g1490780",
+    "@id": "_:g1449660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1490800"
+        "@id": "_:g1449680"
       }
     ]
   },
   {
-    "@id": "_:g1490820",
+    "@id": "_:g1449700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19736,7 +19192,7 @@
     ]
   },
   {
-    "@id": "_:g1490800",
+    "@id": "_:g1449680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19807,229 +19263,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/australian-bee-gees-show-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "The Australian Bee Gees Show | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/australian-bee-gees-show-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "The Australian Bee Gees Show"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Bee%20Gees%201900%20x%20600%20pixels%20CENTRE.png?itok=ohhkRvxR"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/852",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/australian-bee-gees-show-0"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-15"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1498980"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1499020"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/australian-bee-gees-show-0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Australian Bee Gees Show"
-      },
-      {
-        "@language": "fr",
-        "@value": "The Australian Bee Gees Show"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Winner of “Best Tribute Show” in Las Vegas (The Las Vegas Review)\n\nIt's Saturday Night Fever every night with \"The Australian Bee Gees Show - A Tribute to the Bee Gees\". One of the most successful and adored acts in musical history is recreated live in concert. You'll hear hits like, \"Staying Alive\", \"You Should Be Dancing,\"  \"How Deep Is Your Love,\" and \"Jive Talkin.”\n\nThe performers' authentic take on the trio's clothes, style and moves showcase five decades of the Brothers Gibb's success as rock and disco legends, while audiences groove to their memorable music and are immersed in the disco"
-      },
-      {
-        "@language": "fr",
-        "@value": "Lauréat du prix du Meilleur spectacle hommage à Las Vegas (The Las Vegas Review) \n\nC’est Saturday Night Fever tous les soirs avec « The Australian Bee Gees Show – A Tribute to the Bee Gees ». L’un des groupes les plus adorés et les plus couronnés de succès de l’histoire de la musique renaît sur scène dans un concert électrisant. Vous entendrez des succès tels que Staying Alive, You Should Be Dancing, How Deep Is Your Love et Jive Talkin’. \n\nL’interprétation authentique des artistes — costumes, style, mouvements — met en valeur cinq décennies de succès des frères Gibb, véritables légendes du"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T19:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T21:00:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1498980",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1499000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1499020",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=8491EB81-2A84-49DD-B545-460E57C1DFCB&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-16"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1499000",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Playhouse"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-01/Bee%20Gees%201900%20x%20600%20pixels%20CENTRE.png?itok=J2UgZYpf",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/australian-bee-gees-show-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/australian-bee-gees-show-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/australian-bee-gees-show-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "The Australian Bee Gees Show | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/australian-bee-gees-show-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "The Australian Bee Gees Show"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-01/Bee%20Gees%201900%20x%20600%20pixels%20CENTRE.png?itok=ohhkRvxR"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fredericton-comedy-classic-2026",
     "http://ogp.me/ns#site_name": [
       {
@@ -20074,12 +19307,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1507100"
+        "@id": "_:g1457960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1507140"
+        "@id": "_:g1458000"
       }
     ],
     "http://schema.org/organizer": [
@@ -20143,18 +19376,18 @@
     ]
   },
   {
-    "@id": "_:g1507100",
+    "@id": "_:g1457960",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1507120"
+        "@id": "_:g1457980"
       }
     ]
   },
   {
-    "@id": "_:g1507140",
+    "@id": "_:g1458000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20182,7 +19415,7 @@
     ]
   },
   {
-    "@id": "_:g1507120",
+    "@id": "_:g1457980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20297,12 +19530,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1521660"
+        "@id": "_:g1472500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1521700"
+        "@id": "_:g1472540"
       }
     ],
     "http://schema.org/organizer": [
@@ -20366,18 +19599,18 @@
     ]
   },
   {
-    "@id": "_:g1521660",
+    "@id": "_:g1472500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1521680"
+        "@id": "_:g1472520"
       }
     ]
   },
   {
-    "@id": "_:g1521700",
+    "@id": "_:g1472540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20405,7 +19638,7 @@
     ]
   },
   {
-    "@id": "_:g1521680",
+    "@id": "_:g1472520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20534,12 +19767,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1536340"
+        "@id": "_:g1487320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1536380"
+        "@id": "_:g1487360"
       }
     ],
     "http://schema.org/organizer": [
@@ -20603,18 +19836,18 @@
     ]
   },
   {
-    "@id": "_:g1536340",
+    "@id": "_:g1487320",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1536360"
+        "@id": "_:g1487340"
       }
     ]
   },
   {
-    "@id": "_:g1536380",
+    "@id": "_:g1487360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20642,7 +19875,7 @@
     ]
   },
   {
-    "@id": "_:g1536360",
+    "@id": "_:g1487340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21040,12 +20273,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1544600"
+        "@id": "_:g1495660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1544640"
+        "@id": "_:g1495700"
       }
     ],
     "http://schema.org/organizer": [
@@ -21109,18 +20342,18 @@
     ]
   },
   {
-    "@id": "_:g1544600",
+    "@id": "_:g1495660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1544620"
+        "@id": "_:g1495680"
       }
     ]
   },
   {
-    "@id": "_:g1544640",
+    "@id": "_:g1495700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21148,7 +20381,7 @@
     ]
   },
   {
-    "@id": "_:g1544620",
+    "@id": "_:g1495680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21195,12 +20428,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1552860"
+        "@id": "_:g1503580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1552900"
+        "@id": "_:g1503620"
       }
     ],
     "http://schema.org/organizer": [
@@ -21264,18 +20497,18 @@
     ]
   },
   {
-    "@id": "_:g1552860",
+    "@id": "_:g1503580",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1552880"
+        "@id": "_:g1503600"
       }
     ]
   },
   {
-    "@id": "_:g1552900",
+    "@id": "_:g1503620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21303,7 +20536,7 @@
     ]
   },
   {
-    "@id": "_:g1552880",
+    "@id": "_:g1503600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21350,12 +20583,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1561120"
+        "@id": "_:g1511820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1561160"
+        "@id": "_:g1511860"
       }
     ],
     "http://schema.org/organizer": [
@@ -21419,18 +20652,18 @@
     ]
   },
   {
-    "@id": "_:g1561120",
+    "@id": "_:g1511820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1561140"
+        "@id": "_:g1511840"
       }
     ]
   },
   {
-    "@id": "_:g1561160",
+    "@id": "_:g1511860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21458,7 +20691,7 @@
     ]
   },
   {
-    "@id": "_:g1561140",
+    "@id": "_:g1511840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21505,12 +20738,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1569380"
+        "@id": "_:g1520080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1569420"
+        "@id": "_:g1520120"
       }
     ],
     "http://schema.org/organizer": [
@@ -21574,18 +20807,18 @@
     ]
   },
   {
-    "@id": "_:g1569380",
+    "@id": "_:g1520080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1569400"
+        "@id": "_:g1520100"
       }
     ]
   },
   {
-    "@id": "_:g1569420",
+    "@id": "_:g1520120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21613,7 +20846,7 @@
     ]
   },
   {
-    "@id": "_:g1569400",
+    "@id": "_:g1520100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21701,12 +20934,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1585900"
+        "@id": "_:g1536540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1585940"
+        "@id": "_:g1536580"
       }
     ],
     "http://schema.org/organizer": [
@@ -21770,18 +21003,18 @@
     ]
   },
   {
-    "@id": "_:g1585900",
+    "@id": "_:g1536540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1585920"
+        "@id": "_:g1536560"
       }
     ]
   },
   {
-    "@id": "_:g1585940",
+    "@id": "_:g1536580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21809,7 +21042,7 @@
     ]
   },
   {
-    "@id": "_:g1585920",
+    "@id": "_:g1536560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21924,12 +21157,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1594100"
+        "@id": "_:g1544720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1594140"
+        "@id": "_:g1544760"
       }
     ],
     "http://schema.org/organizer": [
@@ -21993,18 +21226,18 @@
     ]
   },
   {
-    "@id": "_:g1594100",
+    "@id": "_:g1544720",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1594120"
+        "@id": "_:g1544740"
       }
     ]
   },
   {
-    "@id": "_:g1594140",
+    "@id": "_:g1544760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22032,7 +21265,7 @@
     ]
   },
   {
-    "@id": "_:g1594120",
+    "@id": "_:g1544740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22161,12 +21394,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1608740"
+        "@id": "_:g1559300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1608780"
+        "@id": "_:g1559340"
       }
     ],
     "http://schema.org/organizer": [
@@ -22230,18 +21463,18 @@
     ]
   },
   {
-    "@id": "_:g1608740",
+    "@id": "_:g1559300",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1608760"
+        "@id": "_:g1559320"
       }
     ]
   },
   {
-    "@id": "_:g1608780",
+    "@id": "_:g1559340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22253,7 +21486,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-03-06"
+        "@value": "2026-04-16"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -22269,7 +21502,7 @@
     ]
   },
   {
-    "@id": "_:g1608760",
+    "@id": "_:g1559320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22384,12 +21617,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1616880"
+        "@id": "_:g1567580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1616920"
+        "@id": "_:g1567620"
       }
     ],
     "http://schema.org/organizer": [
@@ -22453,18 +21686,18 @@
     ]
   },
   {
-    "@id": "_:g1616880",
+    "@id": "_:g1567580",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1616900"
+        "@id": "_:g1567600"
       }
     ]
   },
   {
-    "@id": "_:g1616920",
+    "@id": "_:g1567620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22492,7 +21725,7 @@
     ]
   },
   {
-    "@id": "_:g1616900",
+    "@id": "_:g1567600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22607,12 +21840,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1624920"
+        "@id": "_:g1575500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1624960"
+        "@id": "_:g1575540"
       }
     ],
     "http://schema.org/organizer": [
@@ -22676,18 +21909,18 @@
     ]
   },
   {
-    "@id": "_:g1624920",
+    "@id": "_:g1575500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1624940"
+        "@id": "_:g1575520"
       }
     ]
   },
   {
-    "@id": "_:g1624960",
+    "@id": "_:g1575540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22715,7 +21948,7 @@
     ]
   },
   {
-    "@id": "_:g1624940",
+    "@id": "_:g1575520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22830,12 +22063,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1633040"
+        "@id": "_:g1583620"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1633080"
+        "@id": "_:g1583660"
       }
     ],
     "http://schema.org/organizer": [
@@ -22899,18 +22132,18 @@
     ]
   },
   {
-    "@id": "_:g1633040",
+    "@id": "_:g1583620",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1633060"
+        "@id": "_:g1583640"
       }
     ]
   },
   {
-    "@id": "_:g1633080",
+    "@id": "_:g1583660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22938,7 +22171,7 @@
     ]
   },
   {
-    "@id": "_:g1633060",
+    "@id": "_:g1583640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23187,12 +22420,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1649480"
+        "@id": "_:g1600240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1649520"
+        "@id": "_:g1600280"
       }
     ],
     "http://schema.org/organizer": [
@@ -23256,18 +22489,18 @@
     ]
   },
   {
-    "@id": "_:g1649480",
+    "@id": "_:g1600240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1649500"
+        "@id": "_:g1600260"
       }
     ]
   },
   {
-    "@id": "_:g1649520",
+    "@id": "_:g1600280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23295,7 +22528,7 @@
     ]
   },
   {
-    "@id": "_:g1649500",
+    "@id": "_:g1600260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23383,12 +22616,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1671560"
+        "@id": "_:g1622380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1671600"
+        "@id": "_:g1622420"
       }
     ],
     "http://schema.org/organizer": [
@@ -23452,18 +22685,18 @@
     ]
   },
   {
-    "@id": "_:g1671560",
+    "@id": "_:g1622380",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1671580"
+        "@id": "_:g1622400"
       }
     ]
   },
   {
-    "@id": "_:g1671600",
+    "@id": "_:g1622420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23491,7 +22724,7 @@
     ]
   },
   {
-    "@id": "_:g1671580",
+    "@id": "_:g1622400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23671,12 +22904,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1682060"
+        "@id": "_:g1632860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1682100"
+        "@id": "_:g1632900"
       }
     ],
     "http://schema.org/organizer": [
@@ -23740,18 +22973,18 @@
     ]
   },
   {
-    "@id": "_:g1682060",
+    "@id": "_:g1632860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1682080"
+        "@id": "_:g1632880"
       }
     ]
   },
   {
-    "@id": "_:g1682100",
+    "@id": "_:g1632900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23779,7 +23012,7 @@
     ]
   },
   {
-    "@id": "_:g1682080",
+    "@id": "_:g1632880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23908,12 +23141,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1696500"
+        "@id": "_:g1647380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1696540"
+        "@id": "_:g1647420"
       }
     ],
     "http://schema.org/organizer": [
@@ -23977,18 +23210,18 @@
     ]
   },
   {
-    "@id": "_:g1696500",
+    "@id": "_:g1647380",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1696520"
+        "@id": "_:g1647400"
       }
     ]
   },
   {
-    "@id": "_:g1696540",
+    "@id": "_:g1647420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24016,7 +23249,7 @@
     ]
   },
   {
-    "@id": "_:g1696520",
+    "@id": "_:g1647400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24131,12 +23364,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1704500"
+        "@id": "_:g1655440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1704540"
+        "@id": "_:g1655480"
       }
     ],
     "http://schema.org/organizer": [
@@ -24200,18 +23433,18 @@
     ]
   },
   {
-    "@id": "_:g1704500",
+    "@id": "_:g1655440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1704520"
+        "@id": "_:g1655460"
       }
     ]
   },
   {
-    "@id": "_:g1704540",
+    "@id": "_:g1655480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24239,7 +23472,7 @@
     ]
   },
   {
-    "@id": "_:g1704520",
+    "@id": "_:g1655460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24354,12 +23587,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1712760"
+        "@id": "_:g1663540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1712800"
+        "@id": "_:g1663580"
       }
     ],
     "http://schema.org/organizer": [
@@ -24423,18 +23656,18 @@
     ]
   },
   {
-    "@id": "_:g1712760",
+    "@id": "_:g1663540",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1712780"
+        "@id": "_:g1663560"
       }
     ]
   },
   {
-    "@id": "_:g1712800",
+    "@id": "_:g1663580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24462,7 +23695,7 @@
     ]
   },
   {
-    "@id": "_:g1712780",
+    "@id": "_:g1663560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24577,12 +23810,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1721000"
+        "@id": "_:g1671640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1721040"
+        "@id": "_:g1671680"
       }
     ],
     "http://schema.org/organizer": [
@@ -24651,18 +23884,18 @@
     ]
   },
   {
-    "@id": "_:g1721000",
+    "@id": "_:g1671640",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1721020"
+        "@id": "_:g1671660"
       }
     ]
   },
   {
-    "@id": "_:g1721040",
+    "@id": "_:g1671680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24702,7 +23935,7 @@
     ]
   },
   {
-    "@id": "_:g1721020",
+    "@id": "_:g1671660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24817,12 +24050,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1729440"
+        "@id": "_:g1679940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1729480"
+        "@id": "_:g1679980"
       }
     ],
     "http://schema.org/organizer": [
@@ -24886,18 +24119,18 @@
     ]
   },
   {
-    "@id": "_:g1729440",
+    "@id": "_:g1679940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1729460"
+        "@id": "_:g1679960"
       }
     ]
   },
   {
-    "@id": "_:g1729480",
+    "@id": "_:g1679980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24925,7 +24158,7 @@
     ]
   },
   {
-    "@id": "_:g1729460",
+    "@id": "_:g1679960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25040,12 +24273,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1737660"
+        "@id": "_:g1688040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1737700"
+        "@id": "_:g1688080"
       }
     ],
     "http://schema.org/organizer": [
@@ -25109,18 +24342,18 @@
     ]
   },
   {
-    "@id": "_:g1737660",
+    "@id": "_:g1688040",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1737680"
+        "@id": "_:g1688060"
       }
     ]
   },
   {
-    "@id": "_:g1737700",
+    "@id": "_:g1688080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25148,7 +24381,7 @@
     ]
   },
   {
-    "@id": "_:g1737680",
+    "@id": "_:g1688060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25236,12 +24469,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1745960"
+        "@id": "_:g1696220"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1746000"
+        "@id": "_:g1696260"
       }
     ],
     "http://schema.org/organizer": [
@@ -25305,18 +24538,18 @@
     ]
   },
   {
-    "@id": "_:g1745960",
+    "@id": "_:g1696220",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1745980"
+        "@id": "_:g1696240"
       }
     ]
   },
   {
-    "@id": "_:g1746000",
+    "@id": "_:g1696260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25344,7 +24577,7 @@
     ]
   },
   {
-    "@id": "_:g1745980",
+    "@id": "_:g1696240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25391,12 +24624,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1754180"
+        "@id": "_:g1704420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1754220"
+        "@id": "_:g1704460"
       }
     ],
     "http://schema.org/organizer": [
@@ -25460,18 +24693,18 @@
     ]
   },
   {
-    "@id": "_:g1754180",
+    "@id": "_:g1704420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1754200"
+        "@id": "_:g1704440"
       }
     ]
   },
   {
-    "@id": "_:g1754220",
+    "@id": "_:g1704460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25499,7 +24732,7 @@
     ]
   },
   {
-    "@id": "_:g1754200",
+    "@id": "_:g1704440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25546,12 +24779,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1762400"
+        "@id": "_:g1712440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1762440"
+        "@id": "_:g1712480"
       }
     ],
     "http://schema.org/organizer": [
@@ -25615,18 +24848,18 @@
     ]
   },
   {
-    "@id": "_:g1762400",
+    "@id": "_:g1712440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1762420"
+        "@id": "_:g1712460"
       }
     ]
   },
   {
-    "@id": "_:g1762440",
+    "@id": "_:g1712480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25654,7 +24887,7 @@
     ]
   },
   {
-    "@id": "_:g1762420",
+    "@id": "_:g1712460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25701,12 +24934,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1770620"
+        "@id": "_:g1720520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1770660"
+        "@id": "_:g1720560"
       }
     ],
     "http://schema.org/organizer": [
@@ -25770,18 +25003,18 @@
     ]
   },
   {
-    "@id": "_:g1770620",
+    "@id": "_:g1720520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1770640"
+        "@id": "_:g1720540"
       }
     ]
   },
   {
-    "@id": "_:g1770660",
+    "@id": "_:g1720560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25809,7 +25042,7 @@
     ]
   },
   {
-    "@id": "_:g1770640",
+    "@id": "_:g1720540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25897,12 +25130,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1785440"
+        "@id": "_:g1735200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1785480"
+        "@id": "_:g1735240"
       }
     ],
     "http://schema.org/organizer": [
@@ -25966,18 +25199,18 @@
     ]
   },
   {
-    "@id": "_:g1785440",
+    "@id": "_:g1735200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1785460"
+        "@id": "_:g1735220"
       }
     ]
   },
   {
-    "@id": "_:g1785480",
+    "@id": "_:g1735240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26005,7 +25238,7 @@
     ]
   },
   {
-    "@id": "_:g1785460",
+    "@id": "_:g1735220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26090,12 +25323,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1793580"
+        "@id": "_:g1743260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1793620"
+        "@id": "_:g1743300"
       }
     ],
     "http://schema.org/organizer": [
@@ -26159,18 +25392,18 @@
     ]
   },
   {
-    "@id": "_:g1793580",
+    "@id": "_:g1743260",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1793600"
+        "@id": "_:g1743280"
       }
     ]
   },
   {
-    "@id": "_:g1793620",
+    "@id": "_:g1743300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26198,7 +25431,7 @@
     ]
   },
   {
-    "@id": "_:g1793600",
+    "@id": "_:g1743280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26430,12 +25663,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1808980"
+        "@id": "_:g1758420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1809020"
+        "@id": "_:g1758460"
       }
     ],
     "http://schema.org/organizer": [
@@ -26499,18 +25732,18 @@
     ]
   },
   {
-    "@id": "_:g1808980",
+    "@id": "_:g1758420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1809000"
+        "@id": "_:g1758440"
       }
     ]
   },
   {
-    "@id": "_:g1809020",
+    "@id": "_:g1758460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26538,7 +25771,7 @@
     ]
   },
   {
-    "@id": "_:g1809000",
+    "@id": "_:g1758440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26612,12 +25845,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1817300"
+        "@id": "_:g1766740"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1817340"
+        "@id": "_:g1766780"
       }
     ],
     "http://schema.org/organizer": [
@@ -26643,11 +25876,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Friday, April 17 at 10am. Playhouse Member presale starts on Wednesday, April 15 at 10am.\n\nIn 1984, Johnny Cash invited Willie Nelson, Waylon Jennings and Kris Kristofferson to play on his Johnny Cash Christmas TV Special that was filmed in Switzerland.  When they got back to the hotel, they started jamming and hanging out and that was how the Highwaymen came to be.   \n\nThe Highwaymen Show pays tribute to the great American Outlaws of Country Music - Johnny Cash, Willie Nelson, Waylon Jennings and Kris Kristofferson. The Show covers all of the greatest hits including"
+        "@value": "In 1984, Johnny Cash invited Willie Nelson, Waylon Jennings and Kris Kristofferson to play on his Johnny Cash Christmas TV Special that was filmed in Switzerland.  When they got back to the hotel, they started jamming and hanging out and that was how the Highwaymen came to be.   \n\nThe Highwaymen Show pays tribute to the great American Outlaws of Country Music - Johnny Cash, Willie Nelson, Waylon Jennings and Kris Kristofferson. The Show covers all of the greatest hits including “Mama Don't Let Your Babies Grow up to be Cowboys”, “Always on My Mind”, “Me and Bobby McGee” and “Folsom Prison"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le vendredi 17 avril à 10 h. La prévente pour les membres du Playhouse commence le mercredi 15 avril à 10 h.\n\nEn 1984, Johnny Cash a invité Willie Nelson, Waylon Jennings et Kris Kristofferson à participer à son émission télévisée spéciale de Noël, The Johnny Cash Christmas Special, tournée en Suisse. De retour à l’hôtel, ils ont commencé à improviser, à jouer ensemble et à passer du temps ensemble — c’est ainsi que les Highwaymen sont nés.\n\nThe Highwaymen Show rend hommage aux grands hors-la-loi américains de la musique country — Johnny Cash, Willie"
+        "@value": "En 1984, Johnny Cash a invité Willie Nelson, Waylon Jennings et Kris Kristofferson à participer à son émission télévisée spéciale de Noël, The Johnny Cash Christmas Special, tournée en Suisse. De retour à l’hôtel, ils ont commencé à improviser, à jouer ensemble et à passer du temps ensemble — c’est ainsi que les Highwaymen sont nés.\n\nThe Highwaymen Show rend hommage aux grands hors-la-loi américains de la musique country — Johnny Cash, Willie Nelson, Waylon Jennings et Kris Kristofferson. Le spectacle présente tous les plus grands succès, notamment « Mama Don’t Let Your Babies Grow up to be"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -26681,18 +25914,18 @@
     ]
   },
   {
-    "@id": "_:g1817300",
+    "@id": "_:g1766740",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1817320"
+        "@id": "_:g1766760"
       }
     ]
   },
   {
-    "@id": "_:g1817340",
+    "@id": "_:g1766780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26704,7 +25937,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-09"
+        "@value": "2026-04-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -26720,7 +25953,7 @@
     ]
   },
   {
-    "@id": "_:g1817320",
+    "@id": "_:g1766760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26835,12 +26068,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1825480"
+        "@id": "_:g1774820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1825520"
+        "@id": "_:g1774860"
       }
     ],
     "http://schema.org/organizer": [
@@ -26866,11 +26099,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, April 15 at 10am. Playhouse Member presale starts on Monday, April 13 at 10am.\n\nX-Treme Dance Studio presents A Chance to Dance. This year, we proudly introduced our Adapted Program, welcoming dancers of all abilities and creating a space where everyone has the opportunity to shine.  \n\nA Chance to Dance will showcase the hard work, bravery, and love of music demonstrated by our incredible Adapted dancers. This heartfelt performance celebrates determination, inclusion, and the joy that dance brings to every individual.  \n\nJoin us for a meaningful and inspiring"
+        "@value": "X-Treme Dance Studio presents A Chance to Dance. This year, we proudly introduced our Adapted Program, welcoming dancers of all abilities and creating a space where everyone has the opportunity to shine.  \n\nA Chance to Dance will showcase the hard work, bravery, and love of music demonstrated by our incredible Adapted dancers. This heartfelt performance celebrates determination, inclusion, and the joy that dance brings to every individual.  \n\nJoin us for a meaningful and inspiring presentation that is sure to leave you smiling, moved, and reminded of the power of dance to bring people together"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 15 avril à 10 h. La prévente pour les membres du Playhouse commence le lundi 13 avril à 10 h.\n\nX-Treme Dance Studio présente A Chance to Dance. Cette année, nous avons fièrement lancé notre programme adapté, accueillant des danseurs de toutes capacités et créant un espace inclusif où chacun a l’opportunité de briller.\n\nA Chance to Dance mettra en Valeur le travail acharné, le courage et l’amour de la musique dont font preuve nos incroyables danseurs du programme adapté. Cette représentation touchante célèbre la détermination, l’inclusion et la"
+        "@value": "X-Treme Dance Studio présente A Chance to Dance. Cette année, nous avons fièrement lancé notre programme adapté, accueillant des danseurs de toutes capacités et créant un espace inclusif où chacun a l’opportunité de briller.\n\nA Chance to Dance mettra en Valeur le travail acharné, le courage et l’amour de la musique dont font preuve nos incroyables danseurs du programme adapté. Cette représentation touchante célèbre la détermination, l’inclusion et la joie que la danse apporte à chaque individu.\n\nJoignez-vous à nous pour une présentation significative et inspirante qui saura vous laisser le"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -26904,18 +26137,18 @@
     ]
   },
   {
-    "@id": "_:g1825480",
+    "@id": "_:g1774820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1825500"
+        "@id": "_:g1774840"
       }
     ]
   },
   {
-    "@id": "_:g1825520",
+    "@id": "_:g1774860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26927,7 +26160,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-13"
+        "@value": "2026-04-15"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -26943,7 +26176,7 @@
     ]
   },
   {
-    "@id": "_:g1825500",
+    "@id": "_:g1774840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27105,12 +26338,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1841100"
+        "@id": "_:g1790340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1841140"
+        "@id": "_:g1790380"
       }
     ],
     "http://schema.org/organizer": [
@@ -27136,11 +26369,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, April 15 at 10am. Playhouse Member presale starts on Monday, April 13 at 10am.\n\nGet ready for an unforgettable evening as X-Treme Dance Studio presents its year-end recital, Momentum. This spectacular showcase will take you on an emotional journey - bringing tears to your eyes, filling you with excitement, and leaving you cheering for more.  \n\nJoin us as we celebrate the hard work, passion, and dedication of our talented dancers. This special event marks the culmination of an incredible season, highlighting their growth, commitment, and love for the art of"
+        "@value": "Get ready for an unforgettable evening as X-Treme Dance Studio presents its year-end recital, Momentum. This spectacular showcase will take you on an emotional journey - bringing tears to your eyes, filling you with excitement, and leaving you cheering for more.  \n\nJoin us as we celebrate the hard work, passion, and dedication of our talented dancers. This special event marks the culmination of an incredible season, highlighting their growth, commitment, and love for the art of dance. \n\nExperience the magic of an evening filled with energy, artistry, and heart. From powerful performances to"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 15 avril à 10 h. La prévente pour les membres du Playhouse commence le lundi 13 avril à 10 h.\n\nPréparez-vous à vivre une soirée hors du commun! X-Treme Dance Studio vous présente son spectacle de fin d’année, Momentum. Un voyage émotionnel à couper le souffle – des larmes, des frissons, et des envies d’en redemander.\n\nRejoignez-nous pour célébrer le travail, la passion et l’engagement sans faille de nos danseurs.  Cet événement tant attendu couronne une saison exceptionnelle et met en lumière le chemin parcouru, la persévérance et l’amour"
+        "@value": "Préparez-vous à vivre une soirée hors du commun! X-Treme Dance Studio vous présente son spectacle de fin d’année, Momentum. Un voyage émotionnel à couper le souffle – des larmes, des frissons, et des envies d’en redemander.\n\nRejoignez-nous pour célébrer le travail, la passion et l’engagement sans faille de nos danseurs.  Cet événement tant attendu couronne une saison exceptionnelle et met en lumière le chemin parcouru, la persévérance et l’amour profond qu’ils portent à leur art.\n\nLaissez-vous emporter par une soirée vibrante, où l’énergie, la créativité et l’émotion sont au rendez-vous. Des"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -27174,18 +26407,18 @@
     ]
   },
   {
-    "@id": "_:g1841100",
+    "@id": "_:g1790340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1841120"
+        "@id": "_:g1790360"
       }
     ]
   },
   {
-    "@id": "_:g1841140",
+    "@id": "_:g1790380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27197,7 +26430,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-13"
+        "@value": "2026-04-15"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -27213,7 +26446,7 @@
     ]
   },
   {
-    "@id": "_:g1841120",
+    "@id": "_:g1790360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27287,12 +26520,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1849360"
+        "@id": "_:g1798440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1849400"
+        "@id": "_:g1798480"
       }
     ],
     "http://schema.org/organizer": [
@@ -27356,18 +26589,18 @@
     ]
   },
   {
-    "@id": "_:g1849360",
+    "@id": "_:g1798440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1849380"
+        "@id": "_:g1798460"
       }
     ]
   },
   {
-    "@id": "_:g1849400",
+    "@id": "_:g1798480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27390,7 +26623,7 @@
     ]
   },
   {
-    "@id": "_:g1849380",
+    "@id": "_:g1798460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27658,12 +26891,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1857540"
+        "@id": "_:g1806520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1857580"
+        "@id": "_:g1806560"
       }
     ],
     "http://schema.org/organizer": [
@@ -27727,18 +26960,18 @@
     ]
   },
   {
-    "@id": "_:g1857540",
+    "@id": "_:g1806520",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1857560"
+        "@id": "_:g1806540"
       }
     ]
   },
   {
-    "@id": "_:g1857580",
+    "@id": "_:g1806560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27761,7 +26994,7 @@
     ]
   },
   {
-    "@id": "_:g1857560",
+    "@id": "_:g1806540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27822,12 +27055,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1872320"
+        "@id": "_:g1821240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1872360"
+        "@id": "_:g1821280"
       }
     ],
     "http://schema.org/organizer": [
@@ -27891,18 +27124,18 @@
     ]
   },
   {
-    "@id": "_:g1872320",
+    "@id": "_:g1821240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1872340"
+        "@id": "_:g1821260"
       }
     ]
   },
   {
-    "@id": "_:g1872360",
+    "@id": "_:g1821280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27925,7 +27158,7 @@
     ]
   },
   {
-    "@id": "_:g1872340",
+    "@id": "_:g1821260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27972,12 +27205,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1880540"
+        "@id": "_:g1829340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1880580"
+        "@id": "_:g1829380"
       }
     ],
     "http://schema.org/organizer": [
@@ -28041,18 +27274,18 @@
     ]
   },
   {
-    "@id": "_:g1880540",
+    "@id": "_:g1829340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1880560"
+        "@id": "_:g1829360"
       }
     ]
   },
   {
-    "@id": "_:g1880580",
+    "@id": "_:g1829380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28075,7 +27308,7 @@
     ]
   },
   {
-    "@id": "_:g1880560",
+    "@id": "_:g1829360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -28101,229 +27334,6 @@
       {
         "@language": "en",
         "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/still-standin-night-elton-john-billy-joel",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/still-standin-night-elton-john-billy-joel"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/Still%20Standin%20web%20pic.png?itok=Lze4-5OI"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/902",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/still-standin-night-elton-john-billy-joel"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-26"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1888740"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1888780"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/still-standin-night-elton-john-billy-joel"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel"
-      },
-      {
-        "@language": "fr",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Tickets go on sale on Tuesday, April 14 at 10am. Playhouse Member presale starts on Sunday, April 12 at 10am.\n\nStill Standin: A Night of Elton John and Billy Joel is our critically acclaimed, five-times-celebrated, flagship concert spectacular that has become a signature of what we do best and we are thrilled to be bringing it to The Fredericton Playhouse!   \n\nTwo grand pianos sit at the heart of the stage, surrounded by a sixteen-piece orchestra of rhythm, brass, strings, and powerhouse vocals. This production pays tribute to the legendary artistry of Elton John and Billy Joel while"
-      },
-      {
-        "@language": "fr",
-        "@value": "La mise en vente des billets commence le mardi 14 avril à 10 h. La prévente pour les membres du Playhouse commence le dimanche 12 avril à 10 h.\n\nLa traduction en français sera bientôt disponible.\n\nStill Standin: A Night of Elton John and Billy Joel is our critically acclaimed, five-times-celebrated, flagship concert spectacular that has become a signature of what we do best and we are thrilled to be bringing it to The Fredericton Playhouse!   \n\nTwo grand pianos sit at the heart of the stage, surrounded by a sixteen-piece orchestra of rhythm, brass, strings, and powerhouse vocals. This"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-26T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-26T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1888740",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1888760"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1888780",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=8FEC7E26-D0A2-4503-BB48-8492EEC0301E&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-09"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1888760",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Fredericton Playhouse"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-04/Still%20Standin%20web%20pic.png?itok=pvEJkTdV",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/still-standin-night-elton-john-billy-joel"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/still-standin-night-elton-john-billy-joel"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/still-standin-night-elton-john-billy-joel",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/still-standin-night-elton-john-billy-joel"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Still Standin: A Night of Elton John & Billy Joel"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/Still%20Standin%20web%20pic.png?itok=Lze4-5OI"
       }
     ]
   },
@@ -28372,12 +27382,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1896980"
+        "@id": "_:g1837140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1897020"
+        "@id": "_:g1837180"
       }
     ],
     "http://schema.org/organizer": [
@@ -28407,7 +27417,7 @@
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le jeudi 16 avril à 10 h. La prévente réservée aux membres du Playhouse débute le mardi 14 avril à 10 h.\n\nLa traduction en français sera bientôt disponible.\n\nEchoes of Fundy Bay \n\nAn Immersive Interactive Soundscape Performance \n\nEchoes of Fundy Bay is an immersive, interdisciplinary soundscape performance inspired by the tides and natural sonic landscape of Canada’s Bay of Fundy. \n\nPresented as part of Asian Heritage Month, the performance is conceived and led by Artistic Director Charles Pan, bringing together artists and youth from diverse Asian"
+        "@value": "Une performance sonore immersive et interactive\n\nEchoes of Fundy Bay est une performance sonore immersive et interdisciplinaire, puisée aux sources des marées et des paysages sonores naturels de la Baie de Fundy, ce joyau canadien.\n\nPrésentée dans le cadre du Mois du patrimoine asiatique, cette création est portée par le directeur artistique Charles Pan, qui réunit artistes et jeunes issus de diverses communautés asiatiques pour tisser un espace de dialogue culturel, d’appartenance et de rencontre. Le projet rassemble un ensemble d’artistes d’une richesse remarquable : CHEN Fei à l’erhu"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -28441,18 +27451,18 @@
     ]
   },
   {
-    "@id": "_:g1896980",
+    "@id": "_:g1837140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1897000"
+        "@id": "_:g1837160"
       }
     ]
   },
   {
-    "@id": "_:g1897020",
+    "@id": "_:g1837180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28464,7 +27474,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-10"
+        "@value": "2026-04-16"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -28480,7 +27490,7 @@
     ]
   },
   {
-    "@id": "_:g1897000",
+    "@id": "_:g1837160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -28547,6 +27557,757 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/5c7778f8-f5d3-43ad-9bf5-51cdfd446ef7.png?itok=hMAREuiH"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/green-river-revival-ccr-tribute-concert",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Green River Revival: CCR Tribute Concert | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/green-river-revival-ccr-tribute-concert"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Green River Revival: CCR Tribute Concert"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/CCR%20%26%20BORN.png?itok=UpllahKR"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/904",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/green-river-revival-ccr-tribute-concert"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1845220"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1845260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/green-river-revival-ccr-tribute-concert"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Green River Revival: CCR Tribute Concert"
+      },
+      {
+        "@language": "fr",
+        "@value": "Green River Revival: CCR Tribute Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Thursday, April 23 at 10am. Playhouse Member presale starts on Tuesday, April 21 at 10am.\n\nThe CCR Tribute Concert Experience is coming to the Playhouse for the very first time on June 18!!  \n\nGREEN RIVER REVIVAL has  been selling out theatres across the States & Canada including the Maritimes and the Rock since 2020. \n\nCome and see the greatest hits of CREEDENCE CLEARWATER REVIVAL performed by one of the most entertaining acts on the theatre circuit. \n\nTheir 2026 tour includes an opening set of STEPPENWOLF with keyboardist Gregg Dechert who has toured and recorded with"
+      },
+      {
+        "@language": "fr",
+        "@value": "La vente des billets commence le jeudi 23 avril à 10 h. La prévente pour les membres du Playhouse débute le mardi 21 avril à 10 h.\n\n*La traduction en français sera bientôt disponible.\n\nThe CCR Tribute Concert Experience is coming to the Playhouse for the very first time on June 18!!  \n\nGREEN RIVER REVIVAL has  been selling out theatres across the States & Canada including the Maritimes and the Rock since 2020. \n\nCome and see the greatest hits of CREEDENCE CLEARWATER REVIVAL performed by one of the most entertaining acts on the theatre circuit. \n\nTheir 2026 tour includes an opening set of"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T21:30:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1845220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1845240"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1845260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=C18619F1-0B5B-4B67-83F7-DFF975022BBE&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1845240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-04/CCR%20%26%20BORN.png?itok=FOIv7xRv",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/green-river-revival-ccr-tribute-concert"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/green-river-revival-ccr-tribute-concert"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/green-river-revival-ccr-tribute-concert",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Green River Revival: CCR Tribute Concert | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/green-river-revival-ccr-tribute-concert"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Green River Revival: CCR Tribute Concert"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/CCR%20%26%20BORN.png?itok=UpllahKR"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/905",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1853260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1853300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Thursday, April 30 at 10am. Playhouse Member presale starts on Tuesday, April 28 at 10am.\n\nJoin The Dance Connection on May 31st for a day of dance showcasing all the work that Season 4 dancers have been putting in to hit the stage! This will be a showcase of talented local dancers in the recreational program & competitive program and will be a show you do not want to miss. Dancers are excited to perform routines in lyrical, contemporary, tap, jazz, hip hop, ballet, acro & musical theatre for you after putting their hearts into learning all season! Sit back, relax, and"
+      },
+      {
+        "@language": "fr",
+        "@value": "La vente des billets commence le jeudi 30 avril à 10 h. La prévente réservée aux membres du Playhouse débute le mardi 28 avril à 10 h.\n\n*La traduction en français sera bientôt disponible.\n\nJoin The Dance Connection on May 31st for a day of dance showcasing all the work that Season 4 dancers have been putting in to hit the stage! This will be a showcase of talented local dancers in the recreational program & competitive program and will be a show you do not want to miss. Dancers are excited to perform routines in lyrical, contemporary, tap, jazz, hip hop, ballet, acro & musical theatre for you"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T13:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T15:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1853260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1853280"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1853300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=BCD882DF-6732-4573-B4AE-C3350F851641&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1853280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/906",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-1"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1861500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1861540"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-connection-season-4-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Dance Connection Season 4"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Dance Connection Season 4"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Thursday, April 30 at 10am. Playhouse Member presale starts on Tuesday, April 28 at 10am.\n\nJoin The Dance Connection on May 31st for a day of dance showcasing all the work that Season 4 dancers have been putting in to hit the stage! This will be a showcase of talented local dancers in the recreational program & competitive program and will be a show you do not want to miss. Dancers are excited to perform routines in lyrical, contemporary, tap, jazz, hip hop, ballet, acro & musical theatre for you after putting their hearts into learning all season! Sit back, relax, and"
+      },
+      {
+        "@language": "fr",
+        "@value": "La vente des billets débute le jeudi 30 avril à 10 h. La prévente pour les membres du Playhouse commence le mardi 28 avril à 10 h.\n\n*La traduction en français sera bientôt disponible.\n\nJoin The Dance Connection on May 31st for a day of dance showcasing all the work that Season 4 dancers have been putting in to hit the stage! This will be a showcase of talented local dancers in the recreational program & competitive program and will be a show you do not want to miss. Dancers are excited to perform routines in lyrical, contemporary, tap, jazz, hip hop, ballet, acro & musical theatre for you"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1861500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1861520"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1861540",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=A3BD2EAF-E6C8-4776-A4E2-AB1E9C825B4B&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1861520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/filipino-cultural-gala-roots-and-horizons",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Filipino Cultural Gala: Roots And Horizons | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/filipino-cultural-gala-roots-and-horizons"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Filipino Cultural Gala: Roots And Horizons"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/Philippine%20Cultural%20Gala%20web%20pic.png?itok=iCiZpjMz"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/907",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/filipino-cultural-gala-roots-and-horizons"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1869620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1869660"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/filipino-cultural-gala-roots-and-horizons"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Filipino Cultural Gala: Roots And Horizons"
+      },
+      {
+        "@language": "fr",
+        "@value": "Filipino Cultural Gala: Roots And Horizons"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "June is Philippine Heritage Month, and this year marks the 11th Cultural Gala! This annual celebration is a wonderful occasion for us to come together and honor the rich tapestry of our culture. The theme for this year's event is “Roots and Horizon: Our Shared Heritage, Our Collective Future.”  \n \nThrough music and cultural dance, we aim to unite generations—both young and old—who contribute to shaping a collective future for years to come. We have planned an array of performances that highlight various aspects of our culture, allowing everyone to experience the vibrancy and diversity that we"
+      },
+      {
+        "@language": "fr",
+        "@value": "La traduction en français sera bientôt disponible.\n\nJune is Philippine Heritage Month, and this year marks the 11th Cultural Gala! This annual celebration is a wonderful occasion for us to come together and honor the rich tapestry of our culture. The theme for this year's event is “Roots and Horizon: Our Shared Heritage, Our Collective Future.”  \n \nThrough music and cultural dance, we aim to unite generations—both young and old—who contribute to shaping a collective future for years to come. We have planned an array of performances that highlight various aspects of our culture, allowing"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1869620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1869640"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1869660",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1869640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Fredericton Playhouse"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-04/Philippine%20Cultural%20Gala%20web%20pic.png?itok=2YlEoZM5",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/filipino-cultural-gala-roots-and-horizons"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/filipino-cultural-gala-roots-and-horizons"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/filipino-cultural-gala-roots-and-horizons",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Filipino Cultural Gala: Roots And Horizons | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/filipino-cultural-gala-roots-and-horizons"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Filipino Cultural Gala: Roots And Horizons"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-04/Philippine%20Cultural%20Gala%20web%20pic.png?itok=iCiZpjMz"
       }
     ]
   },
