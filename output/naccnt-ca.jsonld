@@ -1,131 +1,5 @@
 [
   {
-    "@id": "https://naccnt.ca/event/effortless/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/event/effortless/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Effortless | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Presented As part of the Northern Spark Emerging Artist Series A Collaboration Between NACC and The UNDerground Effortless is a collection of short con ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-03-06T16:09:49"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Kacie Hall"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/juliet-romeo/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/music-for-mental-health-10th-annual/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/our-first-show/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts &amp; Cultural Centre"
-      }
-    ]
-  },
-  {
     "@id": "https://naccnt.ca/event/crazy-for-you/",
     "https://api.w.org/": [
       {
@@ -184,6 +58,70 @@
       {
         "@language": "en-ca",
         "@value": "Emily"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/juliet-romeo/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/music-for-mental-health-10th-annual/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/transhumanist-superhuman/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/our-first-show/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts &amp; Cultural Centre"
       }
     ]
   },
@@ -994,6 +932,68 @@
     ]
   },
   {
+    "@id": "https://naccnt.ca/event/our-first-show-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Our First Show! | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Come celebrate and support the YK Dance Arts students as they put on their first dance recital! The show features performances from local dancers aged 3-13. ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://naccnt.ca/wp-content/uploads/2026/04/YKDanceSpektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-04-02T16:08:17"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
     "@id": "https://naccnt.ca/#schema-website",
     "@type": [
       "http://schema.org/WebSite"
@@ -1004,9 +1004,6 @@
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      },
       {
         "@id": "https://naccnt.ca/event/crazy-for-you/"
       },
@@ -1048,6 +1045,9 @@
       },
       {
         "@id": "https://naccnt.ca/event/our-first-show/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
       }
     ],
     "http://schema.org/name": [
@@ -1060,264 +1060,6 @@
       {
         "@language": "en",
         "@value": "UTF-8"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/author/artistic/#schema-author",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/author/artistic/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/music-for-mental-health-10th-annual/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
-      },
-      {
-        "@id": "https://naccnt.ca/event/our-first-show/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Kacie Hall"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462200",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/venue/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462220"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Underground"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g462220",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4910 Franklin Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462240",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-06T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "20"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/5f8ad7e6-9111-4074-b533-521bdf3da64d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://naccnt.ca/wp-content/uploads/2026/03/effortlesspektrix.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-17T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-17T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462200"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462240"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Effortless"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;Presented As part of the Northern Spark Emerging Artist Series A Collaboration Between NACC and The UNDerground Effortless&nbsp;is a collection of short contemporary dance works created by professional and emerging...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/ae1ec3b2-d383-4834-85f1-8f981a4d708d",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
-      }
-    ]
-  },
-  {
-    "@id": "https://naccnt.ca/temporary/2652efdc-8bca-4714-aa03-61db1aecde10",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://naccnt.ca/event/effortless/"
       }
     ]
   },
@@ -1350,7 +1092,7 @@
     ]
   },
   {
-    "@id": "_:g477360",
+    "@id": "_:g462160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1366,7 +1108,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g477380"
+        "@id": "_:g462180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1394,7 +1136,7 @@
     ]
   },
   {
-    "@id": "_:g477380",
+    "@id": "_:g462180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1430,7 +1172,7 @@
     ]
   },
   {
-    "@id": "_:g477400",
+    "@id": "_:g462200",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1465,12 +1207,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "info&#64;ptar&#109;&#105;ganp&#116;h&#101;&#97;&#116;ri&#99;s.o&#114;g"
+        "@value": "inf&#111;&#64;&#112;&#116;&#97;&#114;mi&#103;&#97;n&#112;&#116;he&#97;&#116;&#114;&#105;&#99;&#115;&#46;&#111;rg"
       }
     ]
   },
   {
-    "@id": "_:g477420",
+    "@id": "_:g462220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1511,7 +1253,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/321b32e6-f0b8-442b-a473-e4096614fc91",
+    "@id": "https://naccnt.ca/temporary/7e532081-e63a-4eda-8e22-a504e7d9cbf5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1539,17 +1281,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g477360"
+        "@id": "_:g462160"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g477400"
+        "@id": "_:g462200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g477420"
+        "@id": "_:g462220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1587,7 +1329,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c908fbb9-d71c-499b-9a2c-150fd19542a4",
+    "@id": "https://naccnt.ca/temporary/f8565767-b126-4494-bba2-8ed71ec3db80",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1598,7 +1340,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/1eca82f6-3a2c-4e38-a0a8-900e148b2492",
+    "@id": "https://naccnt.ca/temporary/26428389-02e5-4f3b-ba52-f496f3047add",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1609,7 +1351,62 @@
     ]
   },
   {
-    "@id": "_:g493000",
+    "@id": "https://naccnt.ca/author/artistic/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/author/artistic/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-3/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-4/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-5/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-6/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-7/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/crazy-for-you-8/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/music-for-mental-health-10th-annual/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour-2/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/alex-mackenzies-never-been-better-tour/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/our-first-show/"
+      },
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1625,7 +1422,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g493020"
+        "@id": "_:g477860"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1653,7 +1450,7 @@
     ]
   },
   {
-    "@id": "_:g493020",
+    "@id": "_:g477860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1689,7 +1486,7 @@
     ]
   },
   {
-    "@id": "_:g493040",
+    "@id": "_:g477880",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1724,12 +1521,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "inf&#111;&#64;p&#116;&#97;r&#109;&#105;&#103;&#97;np&#116;hea&#116;&#114;ics.o&#114;g"
+        "@value": "&#105;nf&#111;&#64;pt&#97;&#114;&#109;igan&#112;&#116;he&#97;t&#114;&#105;&#99;&#115;&#46;&#111;rg"
       }
     ]
   },
   {
-    "@id": "_:g493060",
+    "@id": "_:g477900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1770,7 +1567,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/76ba7bf6-6b49-4191-a86c-7ed539220448",
+    "@id": "https://naccnt.ca/temporary/2f3091d4-59ec-4f7d-bc95-de250453c095",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1798,17 +1595,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g493000"
+        "@id": "_:g477840"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g493040"
+        "@id": "_:g477880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g493060"
+        "@id": "_:g477900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1846,7 +1643,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/67dd0fea-170a-4c87-871a-674827c504ca",
+    "@id": "https://naccnt.ca/temporary/e35fb772-6c03-4a40-a5f2-48f2551bce43",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1857,7 +1654,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/6d77943a-364c-46c3-bbe5-075a05c77f60",
+    "@id": "https://naccnt.ca/temporary/cea00ad3-ed1a-4e4f-97ba-31d6fa88ab85",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -1868,7 +1665,7 @@
     ]
   },
   {
-    "@id": "_:g508760",
+    "@id": "_:g493520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1884,7 +1681,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508780"
+        "@id": "_:g493540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1912,7 +1709,7 @@
     ]
   },
   {
-    "@id": "_:g508780",
+    "@id": "_:g493540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1948,7 +1745,7 @@
     ]
   },
   {
-    "@id": "_:g508800",
+    "@id": "_:g493560",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1983,12 +1780,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;f&#111;&#64;&#112;ta&#114;m&#105;&#103;&#97;&#110;&#112;theatr&#105;cs&#46;or&#103;"
+        "@value": "&#105;&#110;&#102;&#111;&#64;&#112;ta&#114;&#109;&#105;ga&#110;pth&#101;a&#116;&#114;i&#99;&#115;&#46;o&#114;g"
       }
     ]
   },
   {
-    "@id": "_:g508820",
+    "@id": "_:g493580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2029,7 +1826,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/6a9becc7-0201-455d-9bc1-c3d9ca32f559",
+    "@id": "https://naccnt.ca/temporary/197ff691-a0cd-4d7d-9609-7fe1832e44d6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2057,17 +1854,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508760"
+        "@id": "_:g493520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g508800"
+        "@id": "_:g493560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508820"
+        "@id": "_:g493580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2105,7 +1902,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/d59f7750-d3f4-420d-bf3b-edd91bc94401",
+    "@id": "https://naccnt.ca/temporary/61346a77-1122-4a7a-b69c-add0e0c25d11",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2116,7 +1913,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/0ecb7a74-3dc2-4654-987d-1c4e30bec778",
+    "@id": "https://naccnt.ca/temporary/7610e018-9eaf-4ec0-a92c-4693938c1756",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2127,7 +1924,7 @@
     ]
   },
   {
-    "@id": "_:g524540",
+    "@id": "_:g509280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2143,7 +1940,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g524560"
+        "@id": "_:g509300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2171,7 +1968,7 @@
     ]
   },
   {
-    "@id": "_:g524560",
+    "@id": "_:g509300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2207,7 +2004,7 @@
     ]
   },
   {
-    "@id": "_:g524580",
+    "@id": "_:g509320",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2242,12 +2039,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;f&#111;&#64;p&#116;ar&#109;&#105;&#103;a&#110;pth&#101;&#97;trics.&#111;&#114;g"
+        "@value": "&#105;&#110;fo&#64;&#112;&#116;a&#114;m&#105;&#103;&#97;n&#112;&#116;hea&#116;r&#105;&#99;s.&#111;&#114;&#103;"
       }
     ]
   },
   {
-    "@id": "_:g524600",
+    "@id": "_:g509340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2288,7 +2085,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/99bfa774-2602-41a6-a915-e09d1ed55415",
+    "@id": "https://naccnt.ca/temporary/59269546-445d-4008-ab1c-d82ff4edfa52",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2316,17 +2113,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g524540"
+        "@id": "_:g509280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g524580"
+        "@id": "_:g509320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g524600"
+        "@id": "_:g509340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2364,7 +2161,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/e30fe1ec-cf42-4d13-9cc1-964b16884507",
+    "@id": "https://naccnt.ca/temporary/84afc3df-19a1-4a59-8d4f-fcb326274ee0",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2375,7 +2172,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/ca7c5772-e889-4a01-8926-2bd96d42748a",
+    "@id": "https://naccnt.ca/temporary/3bc48a36-6330-4617-86d3-f040c862dba1",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2386,7 +2183,7 @@
     ]
   },
   {
-    "@id": "_:g540360",
+    "@id": "_:g525040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2402,7 +2199,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g540380"
+        "@id": "_:g525060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2430,7 +2227,7 @@
     ]
   },
   {
-    "@id": "_:g540380",
+    "@id": "_:g525060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2466,7 +2263,7 @@
     ]
   },
   {
-    "@id": "_:g540400",
+    "@id": "_:g525080",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2501,12 +2298,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "i&#110;&#102;&#111;&#64;p&#116;&#97;rm&#105;&#103;anpth&#101;&#97;tri&#99;&#115;.&#111;rg"
+        "@value": "&#105;n&#102;o&#64;&#112;&#116;&#97;&#114;m&#105;&#103;a&#110;p&#116;h&#101;&#97;tric&#115;&#46;&#111;&#114;&#103;"
       }
     ]
   },
   {
-    "@id": "_:g540420",
+    "@id": "_:g525100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2547,7 +2344,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c5a02de0-0151-45cb-81ba-1ce02fd01f1d",
+    "@id": "https://naccnt.ca/temporary/100a0c1d-e023-428b-9d67-8917a2a028bd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2575,17 +2372,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g540360"
+        "@id": "_:g525040"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g540400"
+        "@id": "_:g525080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g540420"
+        "@id": "_:g525100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2623,7 +2420,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/95e29062-c768-4a7f-93e8-266bcd34bc55",
+    "@id": "https://naccnt.ca/temporary/0b463311-ef93-4988-bea7-3a5f466ea293",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2634,7 +2431,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/573b2164-2035-42bc-b7cb-32d9fde8921a",
+    "@id": "https://naccnt.ca/temporary/d7929f8b-bcbe-40d8-bcb7-cbfc1ffd11fd",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2645,7 +2442,7 @@
     ]
   },
   {
-    "@id": "_:g556760",
+    "@id": "_:g540720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2661,7 +2458,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g556780"
+        "@id": "_:g540740"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2689,7 +2486,7 @@
     ]
   },
   {
-    "@id": "_:g556780",
+    "@id": "_:g540740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2725,7 +2522,7 @@
     ]
   },
   {
-    "@id": "_:g556800",
+    "@id": "_:g540760",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2760,12 +2557,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "info&#64;&#112;ta&#114;&#109;&#105;&#103;&#97;n&#112;&#116;&#104;e&#97;tri&#99;s.o&#114;g"
+        "@value": "&#105;&#110;fo&#64;&#112;&#116;&#97;&#114;&#109;&#105;&#103;&#97;npth&#101;&#97;&#116;ric&#115;.org"
       }
     ]
   },
   {
-    "@id": "_:g556820",
+    "@id": "_:g540780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2806,7 +2603,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/9f014c68-579b-4cfe-859b-89a2f04d740a",
+    "@id": "https://naccnt.ca/temporary/ff981dbd-b409-45eb-9c5f-76f9970687fb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2834,17 +2631,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g556760"
+        "@id": "_:g540720"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g556800"
+        "@id": "_:g540760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g556820"
+        "@id": "_:g540780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2882,7 +2679,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/624d8b38-3199-4b37-a934-ece92f6b1233",
+    "@id": "https://naccnt.ca/temporary/35c0ff81-87d0-4458-8d0e-30c1f22dd9e9",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2893,7 +2690,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/23b956f7-40d8-4f53-b056-379a7988e7d1",
+    "@id": "https://naccnt.ca/temporary/031aab4c-433b-4494-a912-dca20df388c6",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -2904,7 +2701,7 @@
     ]
   },
   {
-    "@id": "_:g572500",
+    "@id": "_:g557060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2920,7 +2717,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g572520"
+        "@id": "_:g557080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2948,7 +2745,7 @@
     ]
   },
   {
-    "@id": "_:g572520",
+    "@id": "_:g557080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2984,7 +2781,7 @@
     ]
   },
   {
-    "@id": "_:g572540",
+    "@id": "_:g557100",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3019,12 +2816,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "i&#110;&#102;o&#64;p&#116;&#97;&#114;m&#105;&#103;anpthe&#97;tri&#99;&#115;&#46;org"
+        "@value": "i&#110;fo&#64;pt&#97;rm&#105;&#103;a&#110;&#112;the&#97;t&#114;ics&#46;or&#103;"
       }
     ]
   },
   {
-    "@id": "_:g572560",
+    "@id": "_:g557120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3065,7 +2862,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/a585779c-46e5-4856-a815-e0c9d996120f",
+    "@id": "https://naccnt.ca/temporary/6b9deb27-b62b-4b5c-95f7-f65909c97179",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3093,17 +2890,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g572500"
+        "@id": "_:g557060"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g572540"
+        "@id": "_:g557100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g572560"
+        "@id": "_:g557120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3141,7 +2938,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/2241b357-f9ab-4a28-866c-4f93113566ad",
+    "@id": "https://naccnt.ca/temporary/094b4aa2-0c89-4517-8b1a-8a87ea53c638",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3152,7 +2949,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/df5d9866-4a39-47fb-be4e-ccf4f8180118",
+    "@id": "https://naccnt.ca/temporary/59eb255e-bbea-4c3d-837b-a8022a2bc1f3",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3163,7 +2960,7 @@
     ]
   },
   {
-    "@id": "_:g588240",
+    "@id": "_:g572800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3179,7 +2976,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g588260"
+        "@id": "_:g572820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3207,7 +3004,7 @@
     ]
   },
   {
-    "@id": "_:g588260",
+    "@id": "_:g572820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3243,7 +3040,7 @@
     ]
   },
   {
-    "@id": "_:g588280",
+    "@id": "_:g572840",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3278,12 +3075,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;f&#111;&#64;pta&#114;&#109;&#105;g&#97;n&#112;t&#104;ea&#116;&#114;&#105;c&#115;.o&#114;g"
+        "@value": "&#105;nf&#111;&#64;&#112;tarmiga&#110;p&#116;&#104;&#101;&#97;tri&#99;s&#46;&#111;rg"
       }
     ]
   },
   {
-    "@id": "_:g588300",
+    "@id": "_:g572860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3324,7 +3121,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/b5c7b70e-3963-4c5b-a08e-1ac50894bc55",
+    "@id": "https://naccnt.ca/temporary/6671fc07-7ccb-4c1d-8012-20f9e9ee56e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3352,17 +3149,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g588240"
+        "@id": "_:g572800"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g588280"
+        "@id": "_:g572840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g588300"
+        "@id": "_:g572860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3400,7 +3197,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/4a57ba70-63bc-4a56-91be-22f9ec3b8fb5",
+    "@id": "https://naccnt.ca/temporary/96605f66-ed81-43e3-91c0-fd4d659a2ae8",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3411,7 +3208,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/bafe136d-c163-4db8-a0c5-a62c725e178d",
+    "@id": "https://naccnt.ca/temporary/f08b8e2e-4cbf-4752-a6ee-1298aa92fcb9",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3422,7 +3219,7 @@
     ]
   },
   {
-    "@id": "_:g603980",
+    "@id": "_:g588540",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3438,7 +3235,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g604000"
+        "@id": "_:g588560"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3466,7 +3263,7 @@
     ]
   },
   {
-    "@id": "_:g604000",
+    "@id": "_:g588560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3502,7 +3299,7 @@
     ]
   },
   {
-    "@id": "_:g604020",
+    "@id": "_:g588580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3543,7 +3340,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/7397d268-36d8-4f53-9dab-a484706ceb79",
+    "@id": "https://naccnt.ca/temporary/50ffb0a5-b839-491b-93b9-17652730dd8f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3571,12 +3368,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g603980"
+        "@id": "_:g588540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g604020"
+        "@id": "_:g588580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3614,7 +3411,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/dfb5c11a-4f0d-4b63-b4c7-04b8f97ec272",
+    "@id": "https://naccnt.ca/temporary/081bb1fb-0e80-4587-8865-d7db4554c581",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3625,7 +3422,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/3ecf4931-2956-428b-ba15-c8e71a36fdb7",
+    "@id": "https://naccnt.ca/temporary/7b7b821a-3f3f-4354-9a6f-df35971e4ad0",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3636,7 +3433,7 @@
     ]
   },
   {
-    "@id": "_:g619660",
+    "@id": "_:g603860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3652,7 +3449,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g619680"
+        "@id": "_:g603880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3680,7 +3477,7 @@
     ]
   },
   {
-    "@id": "_:g619680",
+    "@id": "_:g603880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3716,7 +3513,7 @@
     ]
   },
   {
-    "@id": "_:g619700",
+    "@id": "_:g603900",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3751,12 +3548,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "sj&#102;&#64;y&#107;1&#46;n&#116;&#46;c&#97;"
+        "@value": "s&#106;f&#64;y&#107;1.nt.&#99;a"
       }
     ]
   },
   {
-    "@id": "_:g619720",
+    "@id": "_:g603920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3797,7 +3594,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c7c88a42-fa30-4a55-8957-fe791fb627fb",
+    "@id": "https://naccnt.ca/temporary/e753830c-962f-4ba8-a1c4-0129299c00dd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3825,17 +3622,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g619660"
+        "@id": "_:g603860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g619700"
+        "@id": "_:g603900"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g619720"
+        "@id": "_:g603920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3873,7 +3670,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/f43403cb-b5e2-490f-b5d7-590c8f899e6d",
+    "@id": "https://naccnt.ca/temporary/f42dd687-f7ce-4849-b69f-1f37281fdaa3",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3884,7 +3681,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/750634d2-6fe8-4d72-987f-bb3e6c34f164",
+    "@id": "https://naccnt.ca/temporary/646575f1-0a99-4471-9b57-a8947d570584",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -3895,7 +3692,7 @@
     ]
   },
   {
-    "@id": "_:g635380",
+    "@id": "_:g620240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3911,7 +3708,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g635400"
+        "@id": "_:g620260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3939,7 +3736,7 @@
     ]
   },
   {
-    "@id": "_:g635400",
+    "@id": "_:g620260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3975,7 +3772,7 @@
     ]
   },
   {
-    "@id": "_:g635420",
+    "@id": "_:g620280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4016,7 +3813,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/b208cd68-f495-411c-bb43-6a43ba7a1050",
+    "@id": "https://naccnt.ca/temporary/cbd529c5-4639-4d7f-92bb-e0d7788f4e38",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4044,12 +3841,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g635380"
+        "@id": "_:g620240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g635420"
+        "@id": "_:g620280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4087,7 +3884,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/68d60a46-9c1c-47f2-980f-8b95ecb31701",
+    "@id": "https://naccnt.ca/temporary/cb294109-b061-457e-8c48-fe6c2c3ba264",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4098,7 +3895,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/597389a9-1f02-45da-bd7e-bf957dd11916",
+    "@id": "https://naccnt.ca/temporary/638b134c-b078-4220-92da-ba29fdadc94c",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -4109,7 +3906,7 @@
     ]
   },
   {
-    "@id": "_:g650820",
+    "@id": "_:g635600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4125,7 +3922,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g650840"
+        "@id": "_:g635620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4153,7 +3950,7 @@
     ]
   },
   {
-    "@id": "_:g650840",
+    "@id": "_:g635620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4189,7 +3986,7 @@
     ]
   },
   {
-    "@id": "_:g650860",
+    "@id": "_:g635640",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4224,12 +4021,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;nf&#111;&#64;ec&#108;p&#114;&#111;&#100;&#117;c&#116;&#105;on&#115;.c&#111;m"
+        "@value": "&#105;&#110;f&#111;&#64;e&#99;&#108;&#112;r&#111;d&#117;ct&#105;ons.&#99;&#111;&#109;"
       }
     ]
   },
   {
-    "@id": "_:g650880",
+    "@id": "_:g635660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4270,7 +4067,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/feb28a4e-dc22-42a6-9327-70fc93be68fe",
+    "@id": "https://naccnt.ca/temporary/1c5ae259-2e0a-4933-9d04-f5c1cdab2044",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4298,17 +4095,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g650820"
+        "@id": "_:g635600"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g650860"
+        "@id": "_:g635640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g650880"
+        "@id": "_:g635660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4346,7 +4143,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/9c46dfd0-007a-454c-ba39-cf5a5017a69f",
+    "@id": "https://naccnt.ca/temporary/9ea91bb7-a060-4433-bdf9-a400cf9ef5b0",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4357,7 +4154,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/6fc98e70-dcd6-4780-b122-cbb0b065a997",
+    "@id": "https://naccnt.ca/temporary/d8572121-51de-40c4-a21b-246d07ea9c9e",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -4368,7 +4165,7 @@
     ]
   },
   {
-    "@id": "_:g666500",
+    "@id": "_:g651340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4384,7 +4181,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g666520"
+        "@id": "_:g651360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4412,7 +4209,7 @@
     ]
   },
   {
-    "@id": "_:g666520",
+    "@id": "_:g651360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4448,7 +4245,7 @@
     ]
   },
   {
-    "@id": "_:g666540",
+    "@id": "_:g651380",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4483,12 +4280,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;f&#111;&#64;&#101;clpr&#111;&#100;uc&#116;i&#111;n&#115;&#46;&#99;o&#109;"
+        "@value": "i&#110;&#102;&#111;&#64;ec&#108;&#112;r&#111;&#100;u&#99;&#116;&#105;&#111;ns.co&#109;"
       }
     ]
   },
   {
-    "@id": "_:g666560",
+    "@id": "_:g651400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4529,7 +4326,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/38472375-91da-4d04-ac59-e27f55b13f74",
+    "@id": "https://naccnt.ca/temporary/9d07c7ad-ca96-4f54-b5e8-6c569e281e4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4557,17 +4354,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g666500"
+        "@id": "_:g651340"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g666540"
+        "@id": "_:g651380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g666560"
+        "@id": "_:g651400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4605,7 +4402,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/c684a904-0b01-46d0-bcd9-ed71fe4c54dc",
+    "@id": "https://naccnt.ca/temporary/4ffb89d4-f01a-497e-8a17-9a07a625f8ca",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4616,7 +4413,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/063293dd-8cf5-4c1a-90ec-e230d685ef1f",
+    "@id": "https://naccnt.ca/temporary/bdb4b90c-a05e-4c8c-944c-1993882671a6",
     "@type": [
       "https://schema.org/WPHeader"
     ],
@@ -4627,7 +4424,7 @@
     ]
   },
   {
-    "@id": "_:g682340",
+    "@id": "_:g667120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4643,7 +4440,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g682360"
+        "@id": "_:g667140"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4671,7 +4468,7 @@
     ]
   },
   {
-    "@id": "_:g682360",
+    "@id": "_:g667140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4707,7 +4504,7 @@
     ]
   },
   {
-    "@id": "_:g682380",
+    "@id": "_:g667160",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4742,12 +4539,12 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#121;kd&#97;n&#99;ear&#116;s&#64;&#103;ma&#105;&#108;.c&#111;&#109;"
+        "@value": "&#121;k&#100;a&#110;&#99;e&#97;&#114;&#116;&#115;&#64;&#103;m&#97;&#105;l&#46;&#99;&#111;m"
       }
     ]
   },
   {
-    "@id": "_:g682400",
+    "@id": "_:g667180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4788,7 +4585,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/2ccd7870-0489-49da-bf7a-22b3fb95503a",
+    "@id": "https://naccnt.ca/temporary/a4e00f0d-5cfa-4098-bed0-eada37f0a054",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4816,17 +4613,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g682340"
+        "@id": "_:g667120"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g682380"
+        "@id": "_:g667160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g682400"
+        "@id": "_:g667180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4864,7 +4661,7 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/2ae8d507-d173-4c83-bc5e-93c891aad4d6",
+    "@id": "https://naccnt.ca/temporary/0d95ab13-f669-41c3-b100-459689171b49",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -4875,13 +4672,272 @@
     ]
   },
   {
-    "@id": "https://naccnt.ca/temporary/cc9d7374-486b-4723-b2fc-cc8e924e5f2e",
+    "@id": "https://naccnt.ca/temporary/d31f2b07-df04-4e5f-be01-66fcf2d778c0",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://naccnt.ca/event/our-first-show/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g682800"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.ykdancearts.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.ykdancearts.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "YK Dance Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "&#121;&#107;&#100;anceart&#115;&#64;&#103;&#109;&#97;i&#108;.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-02T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/18b8650e-e385-4811-9ca0-395b848d4cc9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://naccnt.ca/wp-content/uploads/2026/04/YKDanceSpektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-30T15:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-30T15:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g682780"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g682820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g682840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Our First Show!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Come celebrate and support the YK Dance Arts students as they put on their first dance recital! The show features performances from local dancers aged 3-13. They’ve been working hard...&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/b9c2f052-fa6c-4dd8-b7ae-d921318afeb9",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://naccnt.ca/temporary/d4fe5c0a-b808-4a36-99b7-aba7e651a1b8",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://naccnt.ca/event/our-first-show-2/"
       }
     ]
   }
