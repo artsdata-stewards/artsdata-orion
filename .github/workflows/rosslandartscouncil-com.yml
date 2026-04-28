@@ -1,9 +1,9 @@
-name: Fetch test rosslandartscouncil-com
+name: Fetch rosslandartscouncil-com
 
 on:
   workflow_dispatch:
     schedule:
-    - cron: '25 16 * * 4' #runs every week on thursday at 16:25 UTC
+    - cron: '28 16 * * 3'
 
 jobs:
   artsdata-pipeline:
@@ -12,7 +12,7 @@ jobs:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: "fetch-test"
+          mode: "fetch-push"
           artifact: "rosslandartscouncil-com"
           publisher: "https://github.com/fjjulien#this"
           page-url: "https://rosslandartscouncil.com/events/"
