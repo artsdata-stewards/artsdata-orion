@@ -1,0 +1,20 @@
+name: Fetch test rosslandartscouncil-com
+
+on:
+  workflow_dispatch:
+    schedule:
+    - cron: '25 16 * * 4' #runs every week on thursday at 16:25 UTC
+
+jobs:
+  artsdata-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: "fetch-test"
+          artifact: "rosslandartscouncil-com"
+          publisher: "https://github.com/fjjulien#this"
+          page-url: "https://rosslandartscouncil.com/events/"
+          entity-identifier: "//a[@class='tribe-events-calendar-list__event-title-link tribe-common-anchor-thin']"
+          token: ${{ secrets.GITHUB_TOKEN }}
