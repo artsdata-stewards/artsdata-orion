@@ -14,6 +14,7 @@ jobs:
         with:
           mode: "fetch-push"
           artifact: "niagarasymphony-com"
+          page-url: "https://niagarasymphony.com/"
           publisher: "${{ vars.CAPACOA_BOT }}"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
