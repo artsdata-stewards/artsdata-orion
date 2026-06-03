@@ -18,6 +18,7 @@ jobs:
           page-url: "https://astortheatre.ca/wp-sitemap-posts-tribe_events-1.xml"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
           html-extract-config: |
             {
               "entity_type": "http://schema.org/Event",
