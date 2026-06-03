@@ -14,7 +14,7 @@ jobs:
         with:
           mode: "fetch-push"
           artifact: "astortheatre-ca"
-          publisher: "https://github.com/fjjulien#this"
+          publisher: "${{ vars.CAPACOA_BOT }}"
           page-url: "https://astortheatre.ca/live-performances/"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
