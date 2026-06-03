@@ -1,0 +1,20 @@
+name: Fetch astortheatre-ca Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 12 * * 3'
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "astortheatre-ca"
+          publisher: "https://github.com/saumier#this"
+          page-url: "https://astortheatre.ca/live-performances/"
+          entity-identifier: "loc"
+          token: "${{ secrets.GITHUB_TOKEN }}"
