@@ -1,3 +1,6 @@
+# This workflow can be used to crawl any website using all possible parameters supported in the artsdata pipeline action.
+# It does not have a schedule. Create a custom workflow to add a schedule.
+
 name: Custom crawl test
 
 on:
