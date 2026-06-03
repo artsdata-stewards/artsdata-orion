@@ -1,9 +1,10 @@
+# To delete
 name: Fetch yardbirdsuite-com Events
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '57 2 * * 3'
+  # schedule:
+  #   - cron: '57 2 * * 3'
     
 jobs:
   artsdata-fetch-and-push:
