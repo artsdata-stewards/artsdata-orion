@@ -2,8 +2,8 @@ name: Fetch spec-qc-ca-events Events
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 2 * * 6'
+#  schedule:
+#    - cron: '30 2 * * 6'
     
 jobs:
   artsdata-fetch-and-push:
