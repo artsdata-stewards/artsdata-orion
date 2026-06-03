@@ -1,9 +1,10 @@
+# To delete
 name: Fetch culturegaspesie-org Events
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '45 2 * * 2'
+  # schedule:
+  #   - cron: '45 2 * * 2'
     
 jobs:
   artsdata-fetch-and-push:
