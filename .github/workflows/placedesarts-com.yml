@@ -19,3 +19,4 @@ jobs:
           entity-identifier: "loc"
           headless: false
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
