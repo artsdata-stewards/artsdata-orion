@@ -3,7 +3,7 @@ name: Fetch astortheatre-ca Events
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 12 * * 3'
+    - cron: '0 7 * * 3'
   
 jobs:
   artsdata-fetch-and-push:
@@ -14,7 +14,7 @@ jobs:
         with:
           mode: "fetch-push"
           artifact: "astortheatre-ca"
-          publisher: "https://github.com/saumier#this"
+          publisher: "https://github.com/fjjulien#this"
           page-url: "https://astortheatre.ca/live-performances/"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
