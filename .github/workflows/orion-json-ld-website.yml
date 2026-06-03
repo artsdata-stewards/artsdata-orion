@@ -1,3 +1,7 @@
+# This workflow can be used to crawl any website by passing parameters
+# This workflow is also called by Nebula when using the form to create a new artifact with the pipeline "Orion JSON-LD Website"
+# It does not have a schedule. Create a custom workflow to add a schedule.
+
 name: Orion Fetch and Push
 
 on:
