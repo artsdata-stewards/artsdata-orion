@@ -18,3 +18,4 @@ jobs:
           downloadFile: "output/grandsballets-com.jsonld"
           page-url: "https://grandsballets.com/"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
