@@ -21,3 +21,4 @@ jobs:
           is-paginated: "0"
           offset: "12"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
