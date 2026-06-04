@@ -1,9 +1,9 @@
 name: Fetch quoivivrerimouski-ca Events
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '57 4 * * 3'
+# on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: '57 4 * * 3'
     
 jobs:
   artsdata-fetch-and-push:
