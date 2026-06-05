@@ -16,3 +16,4 @@ jobs:
           page-url: "https://odyscene.com/event-sitemap.xml,https://odyscene.com/event-sitemap2.xml"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}

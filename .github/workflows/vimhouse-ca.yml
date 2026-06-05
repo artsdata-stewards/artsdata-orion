@@ -2,7 +2,7 @@ name: Fetch vimhouse-ca
 
 on:
   workflow_dispatch:
-    schedule:
+  schedule:
     - cron: '25 16 * * 4' #runs every week on thursday at 16:25 UTC
 
 jobs:
@@ -18,3 +18,4 @@ jobs:
           page-url: "https://vimhouse.ca/vim-events/"
           entity-identifier: "//a[@class='tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin']"
           token: ${{ secrets.GITHUB_TOKEN }}
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}

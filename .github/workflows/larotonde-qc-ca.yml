@@ -17,3 +17,4 @@ jobs:
           entity-identifier: "a[href*='/programmation/']"
           fetch-urls-headlessly: true
           token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
