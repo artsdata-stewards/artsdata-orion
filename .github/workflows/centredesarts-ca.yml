@@ -1,5 +1,5 @@
-name: Fetch centre-des-arts-juliette-lassonde Events
-
+name: Fetch centredesarts-ca (centre-des-arts-juliette-lassonde) Events
+# crawled by footlight-console
 on:
   workflow_dispatch:
       
@@ -13,7 +13,7 @@ jobs:
           mode: "fetch-push"
           page-url: "https://www.centredesarts.ca/programmation/"
           entity-identifier: "div.portfolio-text-title a"
-          artifact: "centre-des-arts-juliette-lassonde"
+          artifact: "centredesarts-ca"
           publisher: "${{ vars.CAPACOA_BOT }}"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
