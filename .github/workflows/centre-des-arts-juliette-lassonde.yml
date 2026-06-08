@@ -1,0 +1,19 @@
+name: Fetch centre-des-arts-juliette-lassonde Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          page-url: "https://www.centredesarts.ca/programmation/"
+          entity-identifier: "div.portfolio-text-title a"
+          artifact: "centre-des-arts-juliette-lassonde"
+          publisher: "${{ vars.CAPACOA_BOT }}"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
