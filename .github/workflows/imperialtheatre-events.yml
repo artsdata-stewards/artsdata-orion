@@ -16,8 +16,8 @@ jobs:
           artifact: "imperialtheatre-ca"
           publisher: "https://github.com/fjjulien#this"
           downloadFile: "output/imperialtheatre-events.jsonld"
-          page-url: "https://imperialtheatre.ca/events/?_paged="
-          entity-identifier: "div.fl-post-image a"
-          is-paginated: "true"
+          page-url: "https://imperialtheatre.ca/whats-on/"
+          entity-identifier: "h3.spektrix-card__title a"
+          is-paginated: "false"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
