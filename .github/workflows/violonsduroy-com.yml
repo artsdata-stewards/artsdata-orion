@@ -1,0 +1,20 @@
+name: Fetch violonsduroy-com Events
+# https://github.com/artsdata-stewards/source-logs/issues/42
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "violonsduroy-com"
+          publisher: "${{ vars.CAPACOA_BOT }}"
+          page-url: "https://www.violonsduroy.com/fr/"
+          entity-identifier: "a.upcoming-tile"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
