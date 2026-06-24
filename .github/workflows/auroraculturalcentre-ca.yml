@@ -1,0 +1,20 @@
+name: Fetch auroraculturalcentre-ca Events
+# https://github.com/artsdata-stewards/source-logs/issues/39
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "auroraculturalcentre-ca"
+          publisher: "${{ vars.CAPACOA_BOT }}"
+          page-url: "https://auroraculturalcentre.ca/performing-arts/"
+          entity-identifier: "a.url"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
