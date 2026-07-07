@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/Steve%20Earle%20web%20pic.png?itok=mktmp6zw",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/BT_TLP_web_header.png?itok=exArCCoH",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -80,13 +80,60 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
       },
       {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/laramie-project"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       }
     ]
   },
@@ -126,6 +173,73 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Laramie Project | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Laramie Project"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/BT_TLP_web_header.png?itok=mwwLA1hi"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -157,84 +271,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Animaritime%201%20web%20pic.png?itok=mOs-y54Y",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/BT_TLP_web_header.png?itok=exArCCoH",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/laramie-project"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "The Laramie Project | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "The Laramie Project"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/BT_TLP_web_header.png?itok=mwwLA1hi"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/laramie-project-1"
       }
     ]
   },
@@ -280,10 +316,16 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -307,6 +349,116 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Rink%20Rebels%20Women%20of%20Hockey%201%20web%20pic%20%282%29.png?itok=IST-0ao2",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=tLL75Xgz",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Come From Away | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Come From Away"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Come From Away | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Come From Away"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
       }
     ]
   },
@@ -910,41 +1062,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news/employment-opportunity-ticketing-operations-manager"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       }
     ]
   },
@@ -14703,104 +14820,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Rink%20Rebels%20Women%20of%20Hockey%201%20web%20pic%20%282%29.png?itok=IST-0ao2",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=tLL75Xgz",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Come From Away | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Come From Away"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Come From Away | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Come From Away"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Joan%20Osborne%20image.png?itok=VGyvbrCN",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -15008,6 +15027,20 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20martin%20Boys%20web%20pic.png?itok=ZaxWwQ5o",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -18710,7 +18743,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/e35c5d9e3e0d1da0"
+        "@id": "https://theplayhouse.ca/genid/fd30ba68c5b76baa"
       }
     ],
     "http://schema.org/organizer": [
@@ -18774,7 +18807,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/e35c5d9e3e0d1da0",
+    "@id": "https://theplayhouse.ca/genid/fd30ba68c5b76baa",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18786,7 +18819,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-03-31"
+        "@value": "2026-06-30"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -19541,188 +19574,6 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steve-earle-51-years-songs-stories",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Steve Earle: 51 Years of Songs & Stories | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/steve-earle-51-years-songs-stories"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Steve Earle: 51 Years of Songs & Stories"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/Steve%20Earle%20web%20pic.png?itok=k6VSCJtH"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/866",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steve-earle-51-years-songs-stories"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-02"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/0ee31636c6dc4acf"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steve-earle-51-years-songs-stories"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Steve Earle: 51 Years of Songs & Stories"
-      },
-      {
-        "@language": "fr",
-        "@value": "Steve Earle: 51 Years of Songs & Stories"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Steve Earle is one of the most acclaimed singer-songwriters of his generation. A protege of legendary songwriters Townes Van Zandt and Guy Clark, he quickly became a master storyteller in his own right, with his songs being recorded by Johnny Cash, Waylon Jennings, Joan Baez, Emmylou Harris, The Pretenders, and countless others. 1986 saw the release of his record, Guitar Town, which shot to number one on the country charts and is now regarded as a classic of the Americana genre. Most recently, Earle’s 1988 hit Copperhead Road was made an official state song of Tennessee in 2023.\n\nSubsequent"
-      },
-      {
-        "@language": "fr",
-        "@value": "Steve Earle compte parmi les auteurs-compositeurs-interprètes les plus respectés et célébrés de sa génération. Protégé des légendaire Townes Van Zandt et Guy Clark, il s’est rapidement imposé comme un conteur hors pair, dont les chansons ont été interprétées et enregistrées par Johnny Cash, Waylon Jennings, Joan Baez, Emmylou Harris, The Pretenders et bien d’autres encore. Paru en 1986, Guitar Town a atteint la tête des palmarès country et est aujourd’hui considéré comme un incontournable de l’Americana. Plus récemment, son succès de 1988, Copperhead Road, a été désigné chanson officielle de l"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/0ee31636c6dc4acf",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=7F5A12DC-176D-41B0-BEF7-B53D9F4EDECC&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-02"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-02/Steve%20Earle%20web%20pic.png?itok=UvzEO-VF",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steve-earle-51-years-songs-stories"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steve-earle-51-years-songs-stories"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steve-earle-51-years-songs-stories",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Steve Earle: 51 Years of Songs & Stories | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/steve-earle-51-years-songs-stories"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Steve Earle: 51 Years of Songs & Stories"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/Steve%20Earle%20web%20pic.png?itok=k6VSCJtH"
       }
     ]
   },
@@ -29606,7 +29457,7 @@
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular | Fredericton Playhouse"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular | Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
@@ -29618,7 +29469,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -29651,7 +29502,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/0ed0f705ec046c55"
+        "@id": "https://theplayhouse.ca/genid/53296435a640ac1a"
       }
     ],
     "http://schema.org/organizer": [
@@ -29667,11 +29518,11 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular"
       },
       {
         "@language": "fr",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular"
       }
     ],
     "http://schema.org/description": [
@@ -29715,7 +29566,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/0ed0f705ec046c55",
+    "@id": "https://theplayhouse.ca/genid/53296435a640ac1a",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29727,7 +29578,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-22"
+        "@value": "2026-06-30"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -29761,7 +29612,7 @@
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular | Le Fredericton Playhouse"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
@@ -29773,7 +29624,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "God is a Scottish Drag Queen: Halloween Spooktacular"
+        "@value": "God is a Scottish Drag Queen Halloween Spooktacular"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -30344,183 +30195,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/masquerade-2026",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Masquerade 2026 | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/masquerade-2026"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Masquerade 2026"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/Animaritime%201%20web%20pic.png?itok=Yn-YTAZG"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/963",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/masquerade-2026"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-04"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/0e50fc1de0ab1a4e"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/masquerade-2026"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Masquerade 2026"
-      },
-      {
-        "@language": "fr",
-        "@value": "Masquerade 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": " Click here to buy tickets through Animaritime.Part talent show, part fashion show, all amazing! The Animaritime Masquerade features talented individuals who work tirelessly on their artistry and performance over the course of several months. Let’s enjoy the work they will be showcasing in this fun-filled afternoon."
-      },
-      {
-        "@language": "fr",
-        "@value": "Cliquez ici pour acheter des billets par l'intermédiaire de Animaritime.En partie spectacle de talent, en partie défilé de mode et complètement incroyable! La Animaritime Masquerade met en vedette des personnes talentueuses qui ont travaillé d’arrache-pied sur leur talent et expression artistique au cours de plusieurs mois. Profitons du travail qu’ils vont présenter lors de cette après-midi divertissante. "
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T16:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T17:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/0e50fc1de0ab1a4e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-06/Animaritime%201%20web%20pic.png?itok=upeO1eh2",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/masquerade-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/masquerade-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/masquerade-2026",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Masquerade 2026 | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/masquerade-2026"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Masquerade 2026"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/Animaritime%201%20web%20pic.png?itok=Yn-YTAZG"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/seven-drunken-nights-story-dubliners",
     "http://ogp.me/ns#site_name": [
       {
@@ -30570,7 +30244,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/14f3fcc3ffdd0048"
+        "@id": "https://theplayhouse.ca/genid/7a0beb8bb4da1992"
       }
     ],
     "http://schema.org/organizer": [
@@ -30600,7 +30274,7 @@
       },
       {
         "@language": "fr",
-        "@value": "*La traduction en français sera bientôt disponible.Direct from Dublin and London’s West End!Proudly celebrating its incredible 10th Anniversary Seven Drunken Nights - The Story of The Dubliners is back for 2026!Performed by a phenomenal cast of Irish Musicians, the show is packed full of classics like Whiskey in the Jar, The Irish Rover and Rocky Road to Dublin - guaranteed to get your toes tapping as they bring the joy of this much-loved Irish folk band back to the stage.This ultimate feel-good production celebrates the musical mastery of The Dubliners, Ireland's favourite sons, in"
+        "@value": "Directement de Dublin et du West End de Londres!De retour en 2026 pour célébrer son impressionnant 10e anniversaire, Seven Drunken Nights – The Story of The Dubliners poursuit son incroyable parcours!Porté par une distribution exceptionnelle de musiciens irlandais, ce spectacle rassemble les grands classiques des Dubliners, dont Whiskey in the Jar, The Irish Rover et Rocky Road to Dublin. Une soirée entraînante qui vous donnera irrésistiblement envie de battre la mesure et de redécouvrir toute la fougue de ce groupe mythique de musique traditionnelle irlandaise.Présenté en collaboration avec"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -30634,7 +30308,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/14f3fcc3ffdd0048",
+    "@id": "https://theplayhouse.ca/genid/7a0beb8bb4da1992",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30646,7 +30320,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-29"
+        "@value": "2026-06-30"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -30699,6 +30373,188 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/SDN%201900%20x%20600%20pixels%20%2872dpi%29.png?itok=86stGPYR"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/martin-boys",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Martin Boys | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/martin-boys"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Martin Boys"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/The%20martin%20Boys%20web%20pic.png?itok=3ogNAKEs"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/967",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/martin-boys"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/b1fb092b2090275c"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/martin-boys"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Martin Boys"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Martin Boys"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Friday, July 10 at 10am. Playhouse Member presale starts on Tuesday, July 7 at 10am.MODO-LIVE Presents:The Martin BoysWith Special GuestsThe Martin Boys are a rising country music duo made up of brothers Macauley and Micah Martin. They've been captivating audiences since they were just 6 and 9 years old, starting out by singing in church alongside their mother. From those humble beginnings to lighting up the world's biggest stage at Canada's Got Talent, and recording original music on Nashville's legendary Music Row, The Martin Boys are beginning to carve out their place"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le vendredi 10 juillet à 10 h. La prévente pour les membres du Playhouse commence le mardi 7 juillet à 10 h.MODO-LIVE présente :The Martin BoysAvec des invités spéciauxThe Martin Boys est un duo country en pleine ascension formé des frères Macauley et Micah Martin. Depuis qu’ils ont commencé à chanter à l’église avec leur mère, alors qu’ils n’avaient que six et neuf ans, ils séduisent le public par leur talent et leur authenticité. Depuis ces débuts empreints de simplicité, ils sont montés sur la plus grande scène du pays à Canada’s Got Talent et ont"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T22:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/b1fb092b2090275c",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=08FF97B9-422B-467D-8882-02DB8A01D467&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-06"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-06/The%20martin%20Boys%20web%20pic.png?itok=vQUftpuI",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/martin-boys"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/martin-boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/martin-boys",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "The Martin Boys | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/martin-boys"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "The Martin Boys"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/The%20martin%20Boys%20web%20pic.png?itok=3ogNAKEs"
       }
     ]
   },
@@ -30756,41 +30612,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       }
     ]
   },
