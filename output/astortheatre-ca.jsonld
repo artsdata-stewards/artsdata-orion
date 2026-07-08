@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://astortheatre.ca/event/the-grand-tour/",
+    "@id": "https://astortheatre.ca/event/4229/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -75,6 +75,132 @@
     ]
   },
   {
+    "@id": "https://astortheatre.ca/event/4229/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/4229/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/2b8f485b-bc6b-49ff-a369-8626e09b3d90",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/12/LITF-Stage-Beyond-Subscription-TP-11-x-17-in-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-18T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-31T23:59:59-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stage and Beyond Pass | Liverpool International Theatre Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;From October 14-18, 2026, the Liverpool International Theatre Festival will showcase 10 curated one-act plays performed by visiting theatre troupes from around the world.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/7eb37e98-53f0-4ad6-8654-7874b48237cf",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/605167c4-d913-484f-92c2-b4c1088486ea",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/d608eec9-f394-4569-9522-c97f080d6812",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/4229/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/the-grand-tour/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
     "@id": "https://astortheatre.ca/event/the-grand-tour/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
@@ -97,7 +223,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/da90227b-ff60-4c50-9f9e-8a0c796e03a7",
+    "@id": "https://astortheatre.ca/temporary/f15a6d5d-5b9f-4519-bcfe-8fb11dc13a71",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -165,7 +291,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/023ece1b-09af-447d-bca1-0c0ec2f228aa",
+    "@id": "https://astortheatre.ca/temporary/2f58c061-2e74-4212-a06a-3e1dd1b60a73",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -176,7 +302,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/5b0f2157-b808-4326-b4f8-b0352719a4cf",
+    "@id": "https://astortheatre.ca/temporary/8b46873c-2f4a-4166-bc77-3db8c61fbdc3",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -187,7 +313,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/6badae00-7ddb-482b-ab8d-9fe8d87da264",
+    "@id": "https://astortheatre.ca/temporary/2925ea22-4828-4a2e-afcc-66adaa12e08f",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -228,7 +354,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/aeb553cc-c90f-4fd4-8c27-8bca3a28db0d",
+    "@id": "https://astortheatre.ca/temporary/004a92db-b307-4894-b99e-168c38903eb2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -296,7 +422,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/3ec1c365-151f-4211-82bb-558e4e264bb6",
+    "@id": "https://astortheatre.ca/temporary/8c315877-d054-49ce-b686-38679f5d5cb9",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -307,7 +433,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/b8bef78d-e9c0-4ecb-9e86-e15bc959b887",
+    "@id": "https://astortheatre.ca/temporary/3372228c-f11c-475a-84d7-99a96c4421c7",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -318,7 +444,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/713c2bce-8c00-41e5-9c84-618ab06d5afa",
+    "@id": "https://astortheatre.ca/temporary/921c3230-8451-4c31-90e9-91ebdd39c3af",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -359,7 +485,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c687e932-7347-41be-8d4d-4f2921ea3443",
+    "@id": "https://astortheatre.ca/temporary/f72d9df8-4186-417a-b592-6ce9003930cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -427,7 +553,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/149c99d1-cb88-4cde-9057-215bdc2f484b",
+    "@id": "https://astortheatre.ca/temporary/071968b8-0bdc-440b-9f77-b7017c99c97d",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -438,7 +564,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/68586a8e-3550-44f2-8dd3-4590c787437e",
+    "@id": "https://astortheatre.ca/temporary/35f9b89b-78d1-4877-a75b-cf025ef94188",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -449,396 +575,13 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/1bd4e9e1-eb2e-4d3e-85af-543c5a193cb7",
+    "@id": "https://astortheatre.ca/temporary/8f291f87-cfc6-4043-a2e5-e35069fbb7df",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://astortheatre.ca/event/the-once/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://astortheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/#masthead",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/#colophon",
-    "@type": [
-      "https://schema.org/WPFooter"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/813f9637-8eca-4b2b-a19c-aaa906cfb19d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/04/Spotlight-Guild-Poster-2026-2.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-24T18:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-24T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Astor Academy Spotlight Guild"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "&lt;p&gt;After our very successful performance of &quot;And Then There Were None Left Unbroken&quot;, we are back again to perform another original stage play during the Privateer Days, Liverpool, Nova Scotia Weekend. &lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/89cffe3a-b113-4bea-8ea6-ee82ad699e68",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/9d48c69f-5714-4da7-9b11-62556f6d6a65",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/282b9575-32c8-4cd3-be03-02b5dcb75a46",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-astor-academy-spotlight-guild/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-pirates-tempest/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://astortheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-pirates-tempest/#masthead",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/the-pirates-tempest/#colophon",
-    "@type": [
-      "https://schema.org/WPFooter"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/ec5c0e16-c7cd-43fe-9e97-2f57278fb61e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/05/Copy-of-Save-The-Date-The-Pirates-Tepest.webp"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-28T18:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-28T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Pirate&#8217;s Tempest"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "&lt;p&gt;On Sunday, June 28th, our Spotlight Guild will be performing their original production &quot;The Pirate\\'s Tempest.&quot;   An exiled Pirate King uses his magic to conjure a storm to complete his ultimate revenge.  Our take on Shakespeare\\'s The Tempest brings a pirate\\'s tale full of betrayal,  love, revenge and a few laughs along the way. &lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@value": "Live Performances"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/9b41da35-4728-4061-ab33-370e4429f646",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/14407fb4-df39-4d29-94e3-e17740031e80",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/5b27882c-9df3-4437-baa4-7363be58bcea",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/the-pirates-tempest/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://astortheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/#masthead",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/#colophon",
-    "@type": [
-      "https://schema.org/WPFooter"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/12515ca0-e9a5-4e6f-a565-d891e8304283",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/05/Scotiacentric-Poster.webp"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-24T11:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-24T16:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Scotiacentric Designs Art Exhibition"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "&lt;p&gt;Join us for the Scotiacentric Designs Art Exhibition in our Lower Gallery from June 4 to 24th. The Opening Reception for this show will be held on Thursday, June 4 at 6:30 p.m.&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/2c195c42-d807-4249-814b-1b04eeb32170",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/fc45e8ac-7af8-40e8-859a-4c8ee56f87bf",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/c5132924-40a9-4a9a-ad9d-a3b4fa1488bb",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/scotiacentric-designs-art-exhibition/"
       }
     ]
   },
@@ -873,7 +616,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/61409e50-c8d3-48fa-bceb-e77e1974d66c",
+    "@id": "https://astortheatre.ca/temporary/b722318c-56cb-425c-8103-e68d499dbc5d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -941,7 +684,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/cec90c02-6684-418f-ae6d-421741148e44",
+    "@id": "https://astortheatre.ca/temporary/f5e0daf2-6240-4fab-870f-fbce240caadd",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -952,7 +695,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/9c3fd1ab-acf0-4b47-bd60-7edda56f0043",
+    "@id": "https://astortheatre.ca/temporary/fe284690-7d67-4511-a8e6-d018cd86af50",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -963,7 +706,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/2a8add18-4462-4829-b1b9-1b583fe8bf81",
+    "@id": "https://astortheatre.ca/temporary/846e5a8c-40d4-4af5-95c2-b3822c86f9b6",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1004,7 +747,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/bf75f1d7-ed1b-42f1-820a-3b2b1708a57e",
+    "@id": "https://astortheatre.ca/temporary/076a6ec9-5025-4595-acab-56ec817def9b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1072,7 +815,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/8799646f-40f3-4f54-8758-0e4e8f49c45d",
+    "@id": "https://astortheatre.ca/temporary/16645b8a-1885-4b19-94fa-cc718170af80",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1083,7 +826,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/4a500faf-edbb-459f-8297-4eb576a2ad43",
+    "@id": "https://astortheatre.ca/temporary/3175433f-c14d-4640-8e64-b7731c6dd718",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1094,7 +837,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/8d941c20-0a90-4877-b5a0-75129b9f80f5",
+    "@id": "https://astortheatre.ca/temporary/ee231b16-541d-4e60-88d3-7b70e144bfa2",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1135,7 +878,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/66a8dbe3-1cea-4315-bc42-fd0fc84422f9",
+    "@id": "https://astortheatre.ca/temporary/144e222a-48c9-46b6-a459-6bdee313cc47",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1203,7 +946,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/1f78aeae-5cf8-439c-a999-084c132cebeb",
+    "@id": "https://astortheatre.ca/temporary/95e550e2-f757-4be5-8cec-88318b67d56b",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1214,7 +957,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c3d93d74-46b1-403c-9063-0434b6a014e7",
+    "@id": "https://astortheatre.ca/temporary/56813310-807a-4860-9daa-c1ef8da599c1",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1225,7 +968,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/da991aaf-e491-4615-9bec-7cbb6241b55f",
+    "@id": "https://astortheatre.ca/temporary/569e3995-0d71-41fc-ad89-02a2b4d5e563",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1266,7 +1009,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/60d3b479-df71-4634-ae8b-909028097761",
+    "@id": "https://astortheatre.ca/temporary/7321a126-1a22-482b-9942-29401a2378da",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1334,7 +1077,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/ef800914-62d8-4650-8f75-fee534c71e83",
+    "@id": "https://astortheatre.ca/temporary/ab129333-0fc9-46fa-8d0c-8b6caf0678fc",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1345,7 +1088,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/0f773940-d32b-4497-8bd4-d895bf720815",
+    "@id": "https://astortheatre.ca/temporary/db246115-6d7d-40ba-b655-90d99105e5fa",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1356,139 +1099,13 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/43c15037-8055-485a-bd72-3baae310c179",
+    "@id": "https://astortheatre.ca/temporary/ed14ee6a-7203-4ac8-bb4f-a78c092e8273",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://astortheatre.ca/event/south-shore-summer-theatre-presents-into-the-woods/2026-08-22/2/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://astortheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/#masthead",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/#colophon",
-    "@type": [
-      "https://schema.org/WPFooter"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/67410d91-d906-4c1f-8cf9-e63b422da09f",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Musical-Theatre-Camp-with-Andrew-Morrisey-Instagram-Post-45-JPG.webp"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-06T09:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-06T16:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Musical Theatre Camp with Andrew Morrisey"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "&lt;p&gt;Returning for the third year, Andrew will be joining us again from New York City to lead our one-week musical theatre camp. Andrew is a NY-based actor and teacher, originally from Truro, and has been running his camps in theatres around NS for the last 17 summers!&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/ae3f7484-178c-4ed4-a692-82393e4c4393",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/fae76056-e055-4e0b-a8e4-15446240fc4a",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
-      }
-    ]
-  },
-  {
-    "@id": "https://astortheatre.ca/temporary/9b1feb54-da1b-4225-9af0-abe81fc4a16d",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://astortheatre.ca/event/musical-theatre-camp-with-andrew-morrisey/"
       }
     ]
   },
@@ -1523,7 +1140,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/f79251cf-2882-4fe6-9db3-81ade5ef3cb7",
+    "@id": "https://astortheatre.ca/temporary/d8f114be-2e6c-4f6b-8419-32ec0050f4d1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1591,7 +1208,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/dfc0b617-9a1a-4cef-9917-03d1078855e9",
+    "@id": "https://astortheatre.ca/temporary/26386d6c-191a-4601-9a40-7673507d1fe9",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1602,7 +1219,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/30eec0ac-0e5c-47a3-91c4-5261682a259a",
+    "@id": "https://astortheatre.ca/temporary/6162ab38-ec23-4444-9b45-eefdee664275",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1613,7 +1230,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/f45bda6c-3272-4b8d-acb9-7e052beae667",
+    "@id": "https://astortheatre.ca/temporary/1d95edab-a1e6-493c-81f5-c57249d84d52",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1654,7 +1271,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/054b2e4f-fc17-4763-aa50-505d32621206",
+    "@id": "https://astortheatre.ca/temporary/82ada053-4af0-4214-bb46-b40a31ebc9fc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1722,7 +1339,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/7153cbae-34c3-47fb-bc4d-85fe01cbe35f",
+    "@id": "https://astortheatre.ca/temporary/c2c0a903-b4b0-437d-861a-a9967b88dbd7",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1733,7 +1350,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/6c9d8cd7-8d5e-488b-9cfa-1fc10aeb6972",
+    "@id": "https://astortheatre.ca/temporary/763b9cc4-c738-4a1a-9690-f18ec508152f",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1744,7 +1361,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/37fafe2d-e516-46fc-8f52-d1a661a5bf5f",
+    "@id": "https://astortheatre.ca/temporary/0c2ed8a7-3f58-4c12-a818-c97afec94243",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1785,7 +1402,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d0f8c8bf-b541-4793-a3b2-e496653ece01",
+    "@id": "https://astortheatre.ca/temporary/15bcd4d2-b6a3-4376-946b-b3c84b03eca8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1853,7 +1470,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c027ede8-7866-4fab-a230-77b698a45da4",
+    "@id": "https://astortheatre.ca/temporary/54786446-f1f5-443b-8b5c-67a53f54a741",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1864,7 +1481,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d7624abb-4e39-4c14-9b3a-a474a2db7e7b",
+    "@id": "https://astortheatre.ca/temporary/d5199095-bcee-4397-9c6b-a7d963a4e606",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1875,7 +1492,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/86ded5d2-106a-45c5-b074-7bf0546fcc6d",
+    "@id": "https://astortheatre.ca/temporary/655103fa-2dea-47ff-9ccb-a750bcc84db5",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -1916,7 +1533,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/55b203bf-e643-4189-a6c6-474a9f1a0617",
+    "@id": "https://astortheatre.ca/temporary/1a90a620-c395-4325-862f-ea6d855c068e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1984,7 +1601,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/5903ac49-46f5-4d9c-95af-6df76337d04c",
+    "@id": "https://astortheatre.ca/temporary/1604391c-2bf9-4bf2-804e-bf4e8258e54e",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -1995,7 +1612,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d6118b39-b9b3-43f4-a9d9-ae5e903ed809",
+    "@id": "https://astortheatre.ca/temporary/bc55770d-0c0c-4b9a-becc-141ca40b5ebb",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2006,7 +1623,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d9dd66a0-4fda-4e93-8775-33dba4a27c04",
+    "@id": "https://astortheatre.ca/temporary/3767e5d4-670c-4a6d-9448-379884f8f98c",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2047,7 +1664,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/21036d53-7d00-4461-bfee-c37cff6267a9",
+    "@id": "https://astortheatre.ca/temporary/952354c3-cf48-4549-8f80-2c521b53cc66",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2115,7 +1732,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/3e26bfb7-a2e4-417f-8d6c-500ffc897adb",
+    "@id": "https://astortheatre.ca/temporary/bbdcea96-c29e-484a-9565-835739659b16",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2126,7 +1743,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/8d502380-b72a-4442-a8b5-5c7d15cd35eb",
+    "@id": "https://astortheatre.ca/temporary/dde843b7-aed5-4570-a002-26541cb53732",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2137,7 +1754,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/aa039f0f-0bf6-4273-9c13-f62ab0ff7a88",
+    "@id": "https://astortheatre.ca/temporary/095aac4d-679e-4e18-b075-d7f87e6a9ef5",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2178,7 +1795,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/03d8f8bc-4e93-4cf6-90e6-7938b99e234d",
+    "@id": "https://astortheatre.ca/temporary/6a8cb74a-3234-4701-921e-d8d6bc87abc5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2246,7 +1863,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/89edd689-9748-419d-bc9c-1a1498cb38b3",
+    "@id": "https://astortheatre.ca/temporary/fe677cf7-ac39-4c69-bfa4-28a6e4159ed1",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2257,7 +1874,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/3e06ea87-3a21-46a4-ac09-4e3675ad240e",
+    "@id": "https://astortheatre.ca/temporary/d1990a6f-2bba-480e-b370-95cd11fbce70",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2268,7 +1885,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/6f5df860-9360-48fc-ac30-f6148d3be4a3",
+    "@id": "https://astortheatre.ca/temporary/403e3695-2231-4430-84b2-a012941ae0f1",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2309,7 +1926,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/921e526c-b3a8-4e01-9487-5a189a93d504",
+    "@id": "https://astortheatre.ca/temporary/86bdff7a-0343-48b0-840e-1bd2c3399228",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2372,7 +1989,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/951ac528-0194-412f-bb4c-326a027885ff",
+    "@id": "https://astortheatre.ca/temporary/7641d3a0-4a0c-428a-8a0e-21274fb8a8d0",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -2383,7 +2000,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/1de58eb5-095d-42cd-b05c-7741b6081727",
+    "@id": "https://astortheatre.ca/temporary/e5cb5821-0a0c-48dd-b955-6b4966849daa",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2394,7 +2011,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c53e074c-a8bb-4d34-b23e-2ac6b118ef9f",
+    "@id": "https://astortheatre.ca/temporary/45037d4c-bf95-4c87-a332-b8e1688fa435",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -2405,7 +2022,7 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -2413,52 +2030,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/#masthead",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/#colophon",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/92691585-f43b-4aa6-9df5-a8ef3d8cc254",
+    "@id": "https://astortheatre.ca/temporary/14736648-64e4-4ee5-b44d-d3dfe6c2ac37",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Backrooms-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Obsession-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-23T16:00:00-03:00"
+        "@value": "2026-07-07T19:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-23T18:00:00-03:00"
+        "@value": "2026-07-07T21:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2468,17 +2085,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Backrooms"
+        "@value": "Obsession"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After breaking the mysterious &quot;One Wish Willow&quot; to win his crush\\'s heart, a hopeless romantic gets exactly what he asked for. However, he soon discovers that some desires come at a dark and sinister price.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2498,40 +2115,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/045d5d5b-a671-490e-a954-0a4c99021b7f",
+    "@id": "https://astortheatre.ca/temporary/a3b31b37-b150-40d3-96b7-891708516f0d",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d4962bfe-4e3e-4d61-bed0-0e2add97923d",
+    "@id": "https://astortheatre.ca/temporary/3b4292ff-1828-468d-9211-970b2cb178ff",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/8a51f62b-73bc-4420-95dc-f84c20a1ecd5",
+    "@id": "https://astortheatre.ca/temporary/c0173978-b8e7-458b-be44-c2bd5818d59b",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-07/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -2539,52 +2156,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/#masthead",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/#colophon",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/ba16042e-3ce2-4865-bac1-8c5c54db37e5",
+    "@id": "https://astortheatre.ca/temporary/bf30f4d0-7f5a-4f8f-86e1-f5c9433d34ca",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Backrooms-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Obsession-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-23T19:00:00-03:00"
+        "@value": "2026-07-08T16:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-23T21:00:00-03:00"
+        "@value": "2026-07-08T18:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2594,17 +2211,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Backrooms"
+        "@value": "Obsession"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After breaking the mysterious &quot;One Wish Willow&quot; to win his crush\\'s heart, a hopeless romantic gets exactly what he asked for. However, he soon discovers that some desires come at a dark and sinister price.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2624,40 +2241,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/5da2c082-93a0-4baf-a659-c2ed374a24d1",
+    "@id": "https://astortheatre.ca/temporary/a4dce7cf-6660-46c1-b4f2-e3dc75f22d16",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/a03a3ee8-923d-43c4-8d15-8e94c9961901",
+    "@id": "https://astortheatre.ca/temporary/bdf06842-6585-4fbd-a6a2-29261af0a553",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/7874e14a-0362-4ab6-b60c-cf8af59336eb",
+    "@id": "https://astortheatre.ca/temporary/807efab4-feda-412c-b2bf-cd7a2e75a098",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-23/2/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -2665,52 +2282,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/#masthead",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/#colophon",
+    "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/9700e382-bcc2-4324-93e8-90b27de71e87",
+    "@id": "https://astortheatre.ca/temporary/d2ccdf8e-1de2-4695-b964-c99b2f62f3cd",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Backrooms-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Obsession-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-25T16:00:00-03:00"
+        "@value": "2026-07-08T19:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-25T18:00:00-03:00"
+        "@value": "2026-07-08T21:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2720,17 +2337,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Backrooms"
+        "@value": "Obsession"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After breaking the mysterious &quot;One Wish Willow&quot; to win his crush\\'s heart, a hopeless romantic gets exactly what he asked for. However, he soon discovers that some desires come at a dark and sinister price.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2750,40 +2367,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/a027aed4-16eb-47b0-a80a-0d7912d7f5ea",
+    "@id": "https://astortheatre.ca/temporary/8293085a-06f4-4568-b7bf-829376be03ad",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/0cdf4e40-fc3f-48be-95b5-0f61522f974b",
+    "@id": "https://astortheatre.ca/temporary/cd4266b9-7e61-4804-94d2-1e0a4cfe87b2",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/e1fa7b7a-5847-4201-bb0f-1514aebc227a",
+    "@id": "https://astortheatre.ca/temporary/8e1735de-c3f0-4a83-b0e6-77c5f9df5a3a",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/1/"
+        "@id": "https://astortheatre.ca/event/obsession/2026-07-08/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -2791,52 +2408,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/1cf65b2d-b70e-4b08-bf25-62eecb22b13d",
+    "@id": "https://astortheatre.ca/temporary/1884b320-0588-4775-b4f4-657c6f00b17c",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Backrooms-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-25T19:00:00-03:00"
+        "@value": "2026-07-09T16:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-25T21:00:00-03:00"
+        "@value": "2026-07-09T18:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2846,17 +2463,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Backrooms"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2876,40 +2493,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/129a351e-d9c5-4cbf-b4bd-14e30d638be8",
+    "@id": "https://astortheatre.ca/temporary/dbc4a630-2b36-4955-803d-b1c020632c00",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c438507c-1437-4941-9530-4d731d545966",
+    "@id": "https://astortheatre.ca/temporary/30ab3d4e-4cb2-4546-833a-3ca1f00dc50d",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/0525b142-e94b-4b9f-9649-45da1ac73d0d",
+    "@id": "https://astortheatre.ca/temporary/2a9ce7eb-9b7c-4a71-ae60-3b86690fe3ad",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/backrooms/2026-06-25/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -2917,52 +2534,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/2c67cfc6-30f5-499e-b133-b7f93fd2cc6a",
+    "@id": "https://astortheatre.ca/temporary/b03aa0bd-c4ba-4193-a428-88f37dc8b4a3",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T16:00:00-03:00"
+        "@value": "2026-07-09T19:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T18:00:00-03:00"
+        "@value": "2026-07-09T21:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2972,17 +2589,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3002,40 +2619,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/e9ae5d55-3538-4572-80be-7fdef0495fcb",
+    "@id": "https://astortheatre.ca/temporary/2cccc1f3-ce98-441d-8136-0aa4203a92ef",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/70b13b32-c7a9-4deb-97d5-b578e42893c6",
+    "@id": "https://astortheatre.ca/temporary/3c4227e4-20c2-4de3-987b-8aa43c181a4a",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d92e0aef-493b-4655-97f6-49eb9dd78aaa",
+    "@id": "https://astortheatre.ca/temporary/0259b732-b1ed-42c7-91a4-c89d104514e4",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-09/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3043,52 +2660,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/8f2d3002-6665-4f88-adb2-a7bfe74084c2",
+    "@id": "https://astortheatre.ca/temporary/0b02431a-d222-49eb-aeff-131ca274d2d6",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T19:00:00-03:00"
+        "@value": "2026-07-10T16:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-02T21:00:00-03:00"
+        "@value": "2026-07-10T18:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3098,17 +2715,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3128,40 +2745,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/d6dffe46-f511-4f4c-8622-b0205a671ea0",
+    "@id": "https://astortheatre.ca/temporary/bdd4634f-0ba5-4fef-87e9-8bd5172113bb",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/5b010b01-2b4e-4430-9a2d-ad225ff24389",
+    "@id": "https://astortheatre.ca/temporary/b6f04967-16f8-4448-a50b-5bbdcc99906c",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/fe713c77-54c7-436d-adf4-1f5211944c1d",
+    "@id": "https://astortheatre.ca/temporary/21894dec-e7c5-4e88-bb21-72b9c8b2244d",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-02/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3169,52 +2786,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/3d370cd6-a496-4456-9a20-ce9ea78728e8",
+    "@id": "https://astortheatre.ca/temporary/8e4eb20c-5faf-4627-a2e1-1d7ea1f0e43d",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-03T16:00:00-03:00"
+        "@value": "2026-07-10T19:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-03T18:00:00-03:00"
+        "@value": "2026-07-10T21:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3224,17 +2841,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3254,40 +2871,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/2a91fda7-5aab-42cc-9d21-dabdd1571b0b",
+    "@id": "https://astortheatre.ca/temporary/49b7c2ac-6bf1-48c5-8119-54ce132e86ef",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/0a31ca6e-1a81-45d4-b5e5-a6e1628f6af3",
+    "@id": "https://astortheatre.ca/temporary/f0fcf6c9-f22a-40ae-a6c7-df234c851d60",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/41c27be4-7312-4911-8198-a74afe8ac074",
+    "@id": "https://astortheatre.ca/temporary/2635daba-f12f-4237-9587-2021b2faaf54",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-10/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3295,52 +2912,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/438d0430-a9a3-41e1-9996-28be5660eaee",
+    "@id": "https://astortheatre.ca/temporary/d3a82834-0dcc-40c4-b881-7dc82631dffe",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-03T19:00:00-03:00"
+        "@value": "2026-07-11T11:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-03T21:00:00-03:00"
+        "@value": "2026-07-11T13:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3350,17 +2967,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3380,40 +2997,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/98e91e8d-0d5c-4dd4-b5ed-b3171658e538",
+    "@id": "https://astortheatre.ca/temporary/f6d98f91-9086-42cb-b382-814f55a48f53",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/a8470345-067a-4b6e-86c8-91980136d206",
+    "@id": "https://astortheatre.ca/temporary/c088c770-5f92-41b4-a39d-ea46e8bb677e",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/658ab1b1-6dbe-4b42-86dc-f6454d444409",
+    "@id": "https://astortheatre.ca/temporary/8284085e-4b5c-4b52-b9ce-84a3e065e94a",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-03/2/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/1/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3421,52 +3038,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/#masthead",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/#colophon",
+    "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/db48c31e-2abd-4622-8f7b-a86721aeb348",
+    "@id": "https://astortheatre.ca/temporary/4b693ea4-343d-4c6f-bc3c-3bfbdb0725aa",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Masters-of-the-Universe-OG.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T11:00:00-03:00"
+        "@value": "2026-07-11T14:30:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T13:00:00-03:00"
+        "@value": "2026-07-11T16:30:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3476,17 +3093,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Masters of the Universe (2026)"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;After being separated for 15 years, the Sword of Power leads Prince Adam (Nicholas Galitzine) back to Eternia where he discovers his home shattered under the fiendish rule of Skeletor (Jared Leto). To save his family and his world, Adam must join forces with his closest allies, Teela (Camila Mendes) and Duncan/Man-At-Arms (Idris Elba), and embrace his true destiny as He-Man -- the most powerful man in the universe.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3506,40 +3123,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/f4e59179-aa0f-4c23-b0e4-77c6dc1f2a0d",
+    "@id": "https://astortheatre.ca/temporary/1692856d-1985-455a-b2f8-d85898c67374",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/c44f735d-b437-4e1d-829f-24ce1c6181ec",
+    "@id": "https://astortheatre.ca/temporary/d9cfdb33-b89b-46f3-83c3-e41df10575f5",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/584fbc63-06b0-4913-8c2e-0d994a6ae43d",
+    "@id": "https://astortheatre.ca/temporary/8e9169c3-691d-4d62-8483-8dc5c9950a0b",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/1/"
+        "@id": "https://astortheatre.ca/event/masters-of-the-universe-2026/2026-07-11/2/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3547,52 +3164,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/#masthead",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/#colophon",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/ad335924-f5a7-46f1-a883-0d33b8b364fb",
+    "@id": "https://astortheatre.ca/temporary/f319f62d-c746-4f3e-a228-6c2d6a63c80c",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Mnadalorian-Grogu-OG-poster.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Curtain-Call-Academy-Summer-Poster.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T13:30:00-03:00"
+        "@value": "2026-07-13T09:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T15:30:00-03:00"
+        "@value": "2026-07-13T15:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3602,17 +3219,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Star Wars: The Mandalorian and Grogu"
+        "@value": "Curtain Call Academy with Lincoln Inglis"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The evil Empire has fallen but Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;Now in its fifth year, Lincoln puts his spin on the decades-long Astor Theatre Camp tradition. In this one-of-a-kind program, Lincoln will explore campers’ creativity by developing an original play from start to finish, learning plenty of theatre skills along the way!&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3632,40 +3249,40 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/16c6be38-77e5-4338-8cde-2817509218dd",
+    "@id": "https://astortheatre.ca/temporary/2d7469ab-4041-42e6-b011-358c921a301d",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/899fc28d-1862-4c4b-ad28-97ec243b7378",
+    "@id": "https://astortheatre.ca/temporary/5b05d7cd-1969-429f-8119-101cefe108b3",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/65b5149d-aff7-4d0d-9971-59ceb4c7de57",
+    "@id": "https://astortheatre.ca/temporary/2f2bbb63-9d53-45e5-8a01-571afc7707ee",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/star-wars-the-mandalorian-and-grogu/2026-07-04/2/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/",
     "https://api.w.org/": [
       {
         "@id": "https://astortheatre.ca/wp-json/"
@@ -3673,52 +3290,52 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/#masthead",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/#masthead",
     "@type": [
       "https://schema.org/WPHeader"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/#colophon",
+    "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/#colophon",
     "@type": [
       "https://schema.org/WPFooter"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/67ec6fc2-2c9d-48c2-8a8b-ee725af3f294",
+    "@id": "https://astortheatre.ca/temporary/3a6258e6-1b3a-4f63-bbf9-ce0e7a4e2e68",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/El-Ultimo-Sueno-de-Frida-y-Diego-Individual-Web-Thumbnail-1000x1480-1.webp"
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Curtain-Call-Academy-JR-Summer-Poster.webp"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-30T18:00:00-03:00"
+        "@value": "2026-07-27T09:00:00-03:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-30T21:00:00-03:00"
+        "@value": "2026-07-27T16:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -3728,17 +3345,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Met Tuesdays: El Último Sueño de Frida y Diego"
+        "@value": "Curtain Call Academy with Lincoln Inglis JR"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "&lt;p&gt;The famously feuding pair briefly relive their tumultuous love, embracing both the passion and the pain before bidding the land of the living a final farewell.&lt;/p&gt;\\n"
+        "@value": "&lt;p&gt;Now in its fifth year, Lincoln puts his spin on the decades-long Astor Theatre Camp tradition. In this one-of-a-kind program, Lincoln will explore campers’ creativity by developing an original play from start to finish, learning plenty of theatre skills along the way! This year, Lincoln is bringing this fun and exciting camp to 7-13-year-olds.&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3758,35 +3375,1683 @@
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/1dd49a03-1cfb-4c02-ab32-6202e5b55b6b",
+    "@id": "https://astortheatre.ca/temporary/d36a1658-47af-477f-a40a-ddafab6af898",
     "@type": [
       "https://schema.org/Blog"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/0c5ad6d6-04ca-4540-9a81-f810354d37d2",
+    "@id": "https://astortheatre.ca/temporary/906d085f-20c9-4275-83dc-09fc64905ae8",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
       }
     ]
   },
   {
-    "@id": "https://astortheatre.ca/temporary/083040bd-2ce6-4803-b986-9826810294f1",
+    "@id": "https://astortheatre.ca/temporary/09bce3b5-bc44-42b6-a48d-ec9131a1ebdb",
     "@type": [
       "https://schema.org/Organization"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://astortheatre.ca/event/met-tuesdays-el-ultimo-sueno-de-frida-y-diego/"
+        "@id": "https://astortheatre.ca/event/curtain-call-academy-with-lincoln-inglis-jr/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/b5db0ebe-4e8d-4a92-961e-a5c4aefb257d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/The-Piano-Men-og.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-18T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-18T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Piano Men &#8211; Celebrating the music of Billy Joel and Elton John"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;TIME WARP PROMOTIONS PRESENTS: &lt;br /&gt;\\nThe Piano Men - Celebrating the music of Billy Joel and Elton John&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Live Performances"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/81f3d22c-294e-44d9-a00f-6784ab61e947",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/ee981d1d-792d-4c19-ae7b-ba56fccba9b4",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/c9ba61ff-3319-4870-99f4-8333f3d3c764",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/the-piano-men-celebrating-the-music-of-billy-joel-and-elton-john/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/e07e1067-de21-4cf6-9297-b2240f3e67fa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/06/Solitary-Man-OG.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-19T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-19T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Solitary Man &#8211; Celebrating the Music of Neil Diamond"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;TIME WARP PROMOTIONS PRESENTS: Solitary Man - Celebrating the Music of Neil Diamond&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Live Performances"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/196aeee1-5308-4eb2-aab9-4ffed3d2e25b",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/a09ecc71-3821-46e4-9e2d-17403e9da785",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/58703e9a-5913-4004-94cc-a8326df1b49b",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/solitary-man-celebrating-the-music-of-neil-diamond/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/e1e6614f-92fd-4d55-8603-9f26368416c4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/The-Audience-OG-Poster-Website.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-14T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-14T21:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Met Tuesdays: The National Theatre Live : The Audience"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;For 60 years, Queen Elizabeth II met with each of her 12 prime ministers in a private weekly meeting. This meeting is known as The Audience. From Winston Churchill to Margaret Thatcher and David Cameron, the Queen advised her prime ministers on matters both public and personal. Through these private audiences, we see glimpses of the woman behind the crown and witness the moments that shaped a monarch.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/8dcafcf0-357f-4eac-a105-7d2e20df9d3a",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/cbd6876c-fa8b-4631-af05-032f64eb4453",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/3f052795-fc95-4c9d-b45c-e7180910bf3b",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/met-tuesdays-the-national-theatre-live-the-audience/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/8b61e0a7-9ea8-4ceb-9c20-4baf6be5b8c4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/supergirl-og.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-15T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-15T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supergirl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When an unexpected and ruthless adversary strikes too close to home, Supergirl reluctantly joins forces with an unlikely companion for an interstellar journey of vengeance and justice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/395ab4b9-9a8b-4d7c-90a3-b189f0a4bdcd",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/0743d158-0874-4c87-a975-ebe9f6d9cb02",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/961273ea-d7a5-4688-821e-016aaaf604b3",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/963de84c-27cc-48f2-8eef-ee514ecd921d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/supergirl-og.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-15T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-15T21:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supergirl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When an unexpected and ruthless adversary strikes too close to home, Supergirl reluctantly joins forces with an unlikely companion for an interstellar journey of vengeance and justice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/20131fe5-822a-4b7d-9a76-cac69150ee04",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/5944b495-dda6-447b-9376-f747526b5b32",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/097bba32-84b0-4006-81bd-dd820796acc8",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-15/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/40f0972d-d7a4-4384-b46d-fca094593da0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/supergirl-og.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-16T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-16T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supergirl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When an unexpected and ruthless adversary strikes too close to home, Supergirl reluctantly joins forces with an unlikely companion for an interstellar journey of vengeance and justice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/ae7d5447-74c4-49a8-9331-a44df738a09d",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/009d9314-cbe4-4874-8b9a-685b9a4645d8",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/b6b0fde3-89bf-4573-b620-249c4cd74338",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/bc70120b-8404-4c7e-9515-8176664fd833",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/supergirl-og.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-16T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-16T21:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supergirl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When an unexpected and ruthless adversary strikes too close to home, Supergirl reluctantly joins forces with an unlikely companion for an interstellar journey of vengeance and justice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/c1bc828c-c160-4ad2-97cd-7ed50bd2cb17",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/d4992379-df7e-4c90-85d6-7f667e1491dd",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/b97113ef-e4d7-42e5-b64e-b92086045f2c",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/supergirl/2026-07-16/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/1f93a789-1991-47c7-a5ac-3849827e1dc6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/Directors-Cut-From-Script-to-Screen-Movie-Camp.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-03T09:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-03T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Directors Cut : From Script to Screen Movie Camp"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Returning for the third year, this week-long afternoon camp allows children to find out all about what goes on behind the camera. Budding filmmaker and long-time Astor Theatre friend, Easton Goodwin, will work in a group to formulate an idea, create a script and storyboard, and then film your masterpiece! The week will finish with watching your movie on the big screen (complete with the famous Astor popcorn!)&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/c2dd2fc5-93f7-4b15-8b35-dd8ac158225e",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/ae1a1100-adca-44d2-a93f-70a255a85d14",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/71690653-3175-415f-86df-3ebeadd26976",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/directors-cut-from-script-to-screen-movie-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/2e21cfbd-1ee3-4ad0-8472-e35c1a9f8961",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/lzcZDexkjkCm4VkAJgcVvBVJ5AZ.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-23T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-23T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toy Story 5"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The toys are back in Disney and Pixar\\'s &quot;Toy Story 5,&quot; and this time it\\'s Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang\\'s jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/bc4a1b5e-1c17-4504-88db-565e076c8e4c",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/9d6a6139-86ba-4ddd-a295-adf45239bd16",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/3af7a452-7778-4a0d-be23-68793e65f7a0",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/0ee6e1dd-76ec-40b2-b8cf-8a15a37e0168",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/lzcZDexkjkCm4VkAJgcVvBVJ5AZ.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-23T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-23T21:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toy Story 5"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The toys are back in Disney and Pixar\\'s &quot;Toy Story 5,&quot; and this time it\\'s Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang\\'s jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/4861626e-0919-4625-9bc7-46f8b7cf3354",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/6b5d2584-ba3c-466a-a522-18df87d39c35",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/54a0bddb-e249-4e2a-b14b-8f830880551f",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-23/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/692b5e36-c0bb-47c3-b051-132bef5fcb35",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/lzcZDexkjkCm4VkAJgcVvBVJ5AZ.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-24T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-24T18:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toy Story 5"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The toys are back in Disney and Pixar\\'s &quot;Toy Story 5,&quot; and this time it\\'s Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang\\'s jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/92d6ccb3-c87e-49ac-80fe-a5e105459d5d",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/322a860c-be4f-4f71-90fa-dda5a07f4f1c",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/07a83ba2-586f-445f-9f0c-4bf65e9c8ee8",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-24/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/18d69acd-c647-45c1-8bd7-8e500bd93889",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/lzcZDexkjkCm4VkAJgcVvBVJ5AZ.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-25T11:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-25T13:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toy Story 5"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The toys are back in Disney and Pixar\\'s &quot;Toy Story 5,&quot; and this time it\\'s Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang\\'s jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/dd9b6f8c-b677-4ba6-93b0-8492da98bf35",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/2ea2776a-5413-4b98-a08c-4698b9b8ea21",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/81491f15-7937-4e59-a934-641f7d0a8443",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/f999c1bd-a70e-4073-8af2-31d82890410a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2026/07/lzcZDexkjkCm4VkAJgcVvBVJ5AZ.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-25T14:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-25T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://astortheatre.ca/genid/d47f147c2982c024"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toy Story 5"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The toys are back in Disney and Pixar\\'s &quot;Toy Story 5,&quot; and this time it\\'s Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang\\'s jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/5425c032-1023-45e6-928f-addf41ae16a2",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/5f1dab16-6a3f-4b19-b98d-86ae9064e4f7",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://astortheatre.ca/temporary/42495e92-2048-4056-a8c1-0b650464f6ba",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://astortheatre.ca/event/toy-story-5/2026-07-25/2/"
       }
     ]
   }
