@@ -1,4 +1,4 @@
-name: Fetch yukonartscentre-com Events
+name: Fetch yukonartscentre.com Events
 # https://github.com/artsdata-stewards/source-logs/issues/41
 
 on:
@@ -12,7 +12,7 @@ jobs:
         uses: culturecreates/artsdata-pipeline-action@v4
         with:
           mode: "fetch-push"
-          artifact: "yukonartscentre-com"
+          artifact: "yukonartscentre.com"
           publisher: "${{ vars.CAPACOA_BOT }}"
           page-url: "https://yukonartscentre.com/wp-sitemap-posts-events-exhibitions-1.xml"
           entity-identifier: "loc"
