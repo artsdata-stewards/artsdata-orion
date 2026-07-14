@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-24_20h_festival-de-lanaudiere-5135/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -10,7 +10,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-24_20h_festival-de-lanaudiere-5135/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -22,7 +22,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Mozart, musique de chambre pour cordes"
+        "@value": "Festival de Lanaudière"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -33,63 +33,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/4085",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-24_20h_festival-de-lanaudiere-5135/5135",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-04T17:30:00-05:00"
+        "@value": "2026-07-24T20:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-04T17:30:00-05:00"
+        "@value": "2026-07-24T20:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-24_20h_festival-de-lanaudiere-5135/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g462480"
+        "@id": "https://www.violonsduroy.com/genid/0bf0b1b616cee32d"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/5g2nrw3d/isaacchalk_v7a3253-1920x1080-photo-stéphane-bourgeois.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462520"
-      },
-      {
-        "@id": "_:g462540"
-      },
-      {
-        "@id": "_:g462560"
-      },
-      {
-        "@id": "_:g462580"
-      },
-      {
-        "@id": "_:g462600"
-      },
-      {
-        "@id": "_:g462620"
-      },
-      {
-        "@id": "_:g462640"
+        "@id": "https://www.violonsduroy.com/media/5beh4052/2026-07-24-20h-lanaudière.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g462660"
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
       }
     ],
     "http://schema.org/additionalType": [
@@ -99,24 +76,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g462680"
+        "@id": "https://www.violonsduroy.com/genid/4f367d7b893df4f6"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-04_17h30_mozart-musique-de-chambre-4085/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-24_20h_festival-de-lanaudiere-5135/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Mozart, musique de chambre pour cordes"
+        "@value": "Festival de Lanaudière"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart.\nDurée : 1h05 sans pause"
+        "@value": "Mozart : portraits de femmes\nBernard Labadie, chefHanna-Elisabeth Müller, soprano\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -127,108 +104,24 @@
     ]
   },
   {
-    "@id": "_:g462480",
+    "@id": "https://www.violonsduroy.com/genid/0bf0b1b616cee32d",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g462500"
+        "@id": "https://www.violonsduroy.com/genid/83a8d542edb9d689"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle D’Youville"
+        "@value": "Amphithéâtre Fernand-Lindsay"
       }
     ]
   },
   {
-    "@id": "_:g462520",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Michelle Seto"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462540",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Véronique Vychytil"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462560",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maud Langlois"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462580",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462600",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Isaac Chalk"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462620",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Annie Morrier"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Benoit Loiselle"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462660",
+    "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -250,30 +143,197 @@
     ]
   },
   {
-    "@id": "_:g462680",
+    "@id": "https://www.violonsduroy.com/genid/4f367d7b893df4f6",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/mozart-musique-de-chambre-pour-cordes"
+        "@id": "https://am.ticketmaster.com/festivaldelanaudiere/fr-ca/buy/virtual-venue/L6A0724"
       }
     ]
   },
   {
-    "@id": "_:g462500",
+    "@id": "https://www.violonsduroy.com/genid/83a8d542edb9d689",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+        "@id": "https://www.google.com/maps/uv?pb=!1s0x4cc896017dd9b327:0x3323edde2b3de0b4!3m1!7e115!4s/maps/place/amphith%25C3%25A9%25C3%25A2tre%2Bfernand-lindsay/@46.0042641,-73.4123086,3a,75y,224.21h,90t/data%3D*213m4*211e1*213m2*211sHsO0rqsMJVl0vwoqiuD1Ag*212e0*214m2*213m1*211s0x4cc896017dd9b327:0x3323edde2b3de0b4?sa%3DX!5samphith%C3%A9%C3%A2tre+fernand-lindsay+-+Recherche+Google!15zQ2dJZ0FRPT0&imagekey=!1e2!2sHsO0rqsMJVl0vwoqiuD1Ag&hl=fr&sa=X&ved=2ahUKEwjJkanpx7f3AhX0lokEHaKRBUkQpx96BAhYEAg"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "1655 boul. Base-de-Roc"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Joliette"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J6E 0L1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-29_19h30_monteverdi-la-naissance-de-l-opera-5144/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-29_19h30_monteverdi-la-naissance-de-l-opera-5144/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Monteverdi, la naissance de l'opéra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-29_19h30_monteverdi-la-naissance-de-l-opera-5144/5144",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-29T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-29T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-29_19h30_monteverdi-la-naissance-de-l-opera-5144/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/c0b94d652e91407d"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/yaxo5nem/2026-07-29-19h30-monteverdi-fodq.jpg"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/d8be1ddf1b45c77c"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-07-29_19h30_monteverdi-la-naissance-de-l-opera-5144/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Monteverdi, la naissance de l'opéra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Monteverdi, la naissance de l'opéra\nJean-Marie Zeitouni, chefSophie Naubert et Paulina Francisco, sopranosMarie-Andrée Mathieu, mezzo-sopranoCharlotte Cumberbirch et Jean-François Gagné, altosAndrew Haji et Joé Lampron-Dandonneau, ténorsPhillip Addis, barytonMartin Auclair, basseMarie-Nathalie Lacoursière, mise en scène et chorégraphie\nEn savoir plus"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/c0b94d652e91407d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/3eb579942fb300a3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Église Saint-Dominique"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/d8be1ddf1b45c77c",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/operadequebec/fr-ca/buy/ism/RTcyNjIwMDE=?id=MzE3&_gl=1*1aao48f*_gcl_aw*R0NMLjE3NzYyNjA0MjAuRUFJYUlRb2JDaE1JODZ1NDBfM3Zrd01WTGtiX0FSM3F6Q05JRUFBWUFTQUNFZ0x2cHZEX0J3RQ..*_gcl_au*NjUzMzI0NjguMTc3NjI2MDQxMg..*_ga*MTE5NTE5Mzc5NS4xNzc2MjYwNDEy*_ga_K1682Z4TL0*czE3Nzg4NjM4NTkkbzUkZzEkdDE3Nzg4NjQ2MDEkajYwJGwwJGgw"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/3eb579942fb300a3",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/%C3%89glise+Saint-Dominique/@46.8012767,-71.2269901,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb8967fa148d09f:0xa1a3609e360c510e!8m2!3d46.8012497!4d-71.2247625"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "175 Grande Allée Ouest"
       }
     ],
     "http://schema.org/addressLocality": [
@@ -291,12 +351,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "G1R 2H1"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-16_15h_domaine-forget-5137/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -306,7 +366,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-16_15h_domaine-forget-5137/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -318,7 +378,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Mozart, musique de chambre pour cordes"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -329,63 +389,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/4086",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-16_15h_domaine-forget-5137/5137",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-05T17:30:00-05:00"
+        "@value": "2026-08-16T15:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-05T17:30:00-05:00"
+        "@value": "2026-08-16T15:00:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-16_15h_domaine-forget-5137/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472520"
+        "@id": "https://www.violonsduroy.com/genid/49b7fb0385deb1b1"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/5g2nrw3d/isaacchalk_v7a3253-1920x1080-photo-stéphane-bourgeois.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g472560"
-      },
-      {
-        "@id": "_:g472580"
-      },
-      {
-        "@id": "_:g472600"
-      },
-      {
-        "@id": "_:g472620"
-      },
-      {
-        "@id": "_:g472640"
-      },
-      {
-        "@id": "_:g472660"
-      },
-      {
-        "@id": "_:g472680"
+        "@id": "https://www.violonsduroy.com/media/vwib5lds/2026-08-16-15h-domaine-forget.png"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g472700"
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
       }
     ],
     "http://schema.org/additionalType": [
@@ -395,24 +432,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472720"
+        "@id": "https://www.violonsduroy.com/genid/db929c61f4b74c14"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-05_17h30_mozart-musique-de-chambre-4086/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-16_15h_domaine-forget-5137/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Mozart, musique de chambre pour cordes"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, la série Apéro propose des rencontres uniques et privilégiées. Au programme, la suite d’une intégrale de la musique de chambre pour cordes de Mozart.\nDurée : 1h05 sans pause"
+        "@value": "Aux origines de la symphonie\nLouis-Noël Bestion de Camboulas, chefOrchestre de chambre de l'AcadémieLes Violons du RoyPentaèdre\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -423,159 +460,53 @@
     ]
   },
   {
-    "@id": "_:g472520",
+    "@id": "https://www.violonsduroy.com/genid/49b7fb0385deb1b1",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472540"
+        "@id": "https://www.violonsduroy.com/genid/4f35503607809f80"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Salle D’Youville"
+        "@value": "Salle de concert du Domaine Forget de Charlevoix"
       }
     ]
   },
   {
-    "@id": "_:g472560",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Michelle Seto"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472580",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Véronique Vychytil"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472600",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maud Langlois"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472620",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Pascale Giguère"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Isaac Chalk"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472660",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Annie Morrier"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472680",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Benoit Loiselle"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472700",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472720",
+    "@id": "https://www.violonsduroy.com/genid/db929c61f4b74c14",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/mozart-musique-de-chambre-pour-cordes"
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=614&language=fr-ca&languageSwitch=on&_gl=1*toun4r*_gcl_aw*R0NMLjE3NzgxNjI1NjIuRUFJYUlRb2JDaE1JMXN1cjNhdW5sQU1WMlF0RUNCM19ldzl5RUFBWUFTQUNFZ0o4eHZEX0J3RQ..*_gcl_au*MTkwNTQ4NDk4My4xNzcyMTE1NDIw*_ga*MTQ1Nzc5OTQuMTc3MjExNTQxOQ..*_ga_H403DGBKKX*czE3NzgxNjExNDckbzMkZzEkdDE3NzgxNjQ3MDUkajM3JGwwJGgw"
       }
     ]
   },
   {
-    "@id": "_:g472540",
+    "@id": "https://www.violonsduroy.com/genid/4f35503607809f80",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+        "@id": "https://www.google.com/maps/place/Salle+de+concert+du+Domaine+Forget+de+Charlevoix/@47.5642482,-70.2077036,15z/data=!4m12!1m6!3m5!1s0x0:0xaf6e07ede95851f9!2sSalle+de+concert+du+Domaine+Forget+de+Charlevoix!8m2!3d47.5642482!4d-70.2077036!3m4!1s0x0:0xaf6e07ede95851f9!8m2!3d47.5642482!4d-70.2077036"
       }
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "fr",
-        "@value": "995, place D'Youville"
+        "@value": "5, rang Saint-Antoine"
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "fr",
-        "@value": "Québec"
+        "@value": "Saint-Irénée"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -587,12 +518,12 @@
     "http://schema.org/postalCode": [
       {
         "@language": "fr",
-        "@value": "G1R 3P1"
+        "@value": "G0T 1V0"
       }
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_14h_les-muses-de-mozart-4070/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-20_19h30_domaine-forget-5139/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -602,7 +533,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_14h_les-muses-de-mozart-4070/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-20_19h30_domaine-forget-5139/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -614,7 +545,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Les muses de Mozart"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -625,51 +556,40 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_14h_les-muses-de-mozart-4070/4070",
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-20_19h30_domaine-forget-5139/5139",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-12T14:00:00-05:00"
+        "@value": "2026-08-20T19:30:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-02-12T14:00:00-05:00"
+        "@value": "2026-08-20T19:30:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_14h_les-muses-de-mozart-4070/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-20_19h30_domaine-forget-5139/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g482560"
+        "@id": "https://www.violonsduroy.com/genid/49b7fb0385deb1b1"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/zwfbkbak/2026-02-12_19h30_les-muses-de-mozart.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g482600"
-      },
-      {
-        "@id": "_:g482620"
-      },
-      {
-        "@id": "_:g482640"
+        "@id": "https://www.violonsduroy.com/media/pwbfcxdg/2026-08-20-19h30-domaine-forget-photo_winnie_au.jpg"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g482660"
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
       }
     ],
     "http://schema.org/additionalType": [
@@ -679,24 +599,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g482680"
+        "@id": "https://www.violonsduroy.com/genid/cdec630795d8afbc"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_14h_les-muses-de-mozart-4070/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-20_19h30_domaine-forget-5139/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Les muses de Mozart"
+        "@value": "Festival International du Domaine Forget"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora\nDurée : 57 minutes (concert sans pause)"
+        "@value": "Vienne immortelle\nBernard Labadie, chefOrchestre de chambre de l'AcadémieLes Violons du RoyPentaèdre\nEn savoir plus"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -707,13 +627,251 @@
     ]
   },
   {
-    "@id": "_:g482560",
+    "@id": "https://www.violonsduroy.com/genid/cdec630795d8afbc",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=615&language=fr-ca&languageSwitch=on&_gl=1*wnpfxu*_gcl_aw*R0NMLjE3NzgxNjI1NjIuRUFJYUlRb2JDaE1JMXN1cjNhdW5sQU1WMlF0RUNCM19ldzl5RUFBWUFTQUNFZ0o4eHZEX0J3RQ..*_gcl_au*MTkwNTQ4NDk4My4xNzcyMTE1NDIw*_ga*MTQ1Nzc5OTQuMTc3MjExNTQxOQ..*_ga_H403DGBKKX*czE3NzgxNjExNDckbzMkZzEkdDE3NzgxNjQ3NjEkajU3JGwwJGgw"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-22_19h30_domaine-forget-5141/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-22_19h30_domaine-forget-5141/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Festival International du Domaine Forget"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-22_19h30_domaine-forget-5141/5141",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-22_19h30_domaine-forget-5141/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/49b7fb0385deb1b1"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/ywnncwsy/2026-08-22-19h30-domaine-forget.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/f1e94ff4fa0b499a"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-08-22_19h30_domaine-forget-5141/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival International du Domaine Forget"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Concert de clôture : fleurs et couronnes\nMathieu Lussier, chefMagali Simard-Galdès, sopranoPierre Derhet, ténorOrchestre de chambre de l'AcadémieChanteurs et chanteuses de l’AcadémieLes Violons du RoyPentaèdre\nEn savoir plus"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/f1e94ff4fa0b499a",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://domaineforget.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=616&language=fr-ca&languageSwitch=on&_gl=1*1jem3m7*_gcl_aw*R0NMLjE3NzgxNjI1NjIuRUFJYUlRb2JDaE1JMXN1cjNhdW5sQU1WMlF0RUNCM19ldzl5RUFBWUFTQUNFZ0o4eHZEX0J3RQ..*_gcl_au*MTkwNTQ4NDk4My4xNzcyMTE1NDIw*_ga*MTQ1Nzc5OTQuMTc3MjExNTQxOQ..*_ga_H403DGBKKX*czE3NzgxNjExNDckbzMkZzEkdDE3NzgxNjQ4MDkkajkkbDAkaDA."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-09-24_19h30_iestyn-davies-chante-handel-4938/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-09-24_19h30_iestyn-davies-chante-handel-4938/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Iestyn Davies chante Handel"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-09-24_19h30_iestyn-davies-chante-handel-4938/4938",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-24T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-24T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-09-24_19h30_iestyn-davies-chante-handel-4938/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/75a7574e30f82b8d"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/xzmp14y1/2026-09-24-iestyn-davies-chante-handel-photo-pablo-strong.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/3ac5c7509e5dcc02"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/2feaefd4851d76d9"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/7eb9115ac97ea64d"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-09-24_19h30_iestyn-davies-chante-handel-4938/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Iestyn Davies chante Handel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un parcours dans l'univers dramatique de Handel\nLa voix lumineuse de Iestyn Davies se déploie dans un programme entièrement consacré aux plus beaux airs d'opéra et d'oratorio de George Frideric Handel. Ce voyage musical explore la richesse dramatique et émotionnelle du maître baroque à travers ses œuvres les plus emblématiques.\nDu désespoir à l'extase\nDe la passion amoureuse de Giulio Cesare aux méditations spirituelles de Theodora, le contre-ténor britannique incarne tour à tour héros tragiques et âmes tourmentées. Le célébrissime « Cara sposa » de Rinaldo côtoie les élans virtuoses de Flavio et de Radamisto, tandis que les pages contemplatives de L'Allegro, il Penseroso ed il Moderato offrent des moments d'une intimité rare. \nLa rencontre de deux maîtres\nSous la direction de Bernard Labadie, Les Violons du Roy accompagnent cette voix d'exception avec la finesse et la sensibilité qui caractérisent leur approche du répertoire baroque. Les ouvertures et danses instrumentales ponctuent ce récital, créant un dialogue entre l'écriture vocale et l'imagination instrumentale qui révèle toute la splendeur théâtrale de Handel."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/75a7574e30f82b8d",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g482580"
+        "@id": "https://www.violonsduroy.com/genid/2d7348c44ce98df3"
       }
     ],
     "http://schema.org/name": [
@@ -724,1311 +882,7 @@
     ]
   },
   {
-    "@id": "_:g482600",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/nicolas-ellis"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/4TiUoq2JEdz8tgiNk67Ikz?si=cDOimvk_TkePT9iUpJIwYA"
-      },
-      {
-        "@id": "https://www.instagram.com/nicolas_ellis_camus/"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K12-474"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482620",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.sarahdufresne.com/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/1B0vcqK7nDA5sBVv50FW1K?si=wxqKA4ZqTneUinnzbOHy3Q"
-      },
-      {
-        "@id": "https://www.instagram.com/sarahdufresnesoprano/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCdB_nK6lqSYcxfg1sUFnhfQ"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sarah Dufresne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://orchestreagora.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/OrchestreAgora/"
-      },
-      {
-        "@id": "https://www.instagram.com/orchestredelagora/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCWSq-mpudg4nVwFxOYJ8pYA"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-543"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Orchestre de l'Agora"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482660",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482680",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/les-muses-de-mozart14h"
-      }
-    ]
-  },
-  {
-    "@id": "_:g482580",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_19h30_les-muses-de-mozart-4069/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_19h30_les-muses-de-mozart-4069/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Les muses de Mozart"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_19h30_les-muses-de-mozart-4069/4069",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-12T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-12T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_19h30_les-muses-de-mozart-4069/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g492740"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/zwfbkbak/2026-02-12_19h30_les-muses-de-mozart.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g492780"
-      },
-      {
-        "@id": "_:g492800"
-      },
-      {
-        "@id": "_:g492820"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g492840"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g492860"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-02-12_19h30_les-muses-de-mozart-4069/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les muses de Mozart"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nEn collaboration avec l'Orchestre de l'Agora\nDurée : 1h45 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492740",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g492760"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492780",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/nicolas-ellis"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/4TiUoq2JEdz8tgiNk67Ikz?si=cDOimvk_TkePT9iUpJIwYA"
-      },
-      {
-        "@id": "https://www.instagram.com/nicolas_ellis_camus/"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K12-474"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492800",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.sarahdufresne.com/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/1B0vcqK7nDA5sBVv50FW1K?si=wxqKA4ZqTneUinnzbOHy3Q"
-      },
-      {
-        "@id": "https://www.instagram.com/sarahdufresnesoprano/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCdB_nK6lqSYcxfg1sUFnhfQ"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sarah Dufresne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492820",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://orchestreagora.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/OrchestreAgora/"
-      },
-      {
-        "@id": "https://www.instagram.com/orchestredelagora/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCWSq-mpudg4nVwFxOYJ8pYA"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-543"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Orchestre de l'Agora"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492840",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492860",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/les-muses-de-mozart19h30"
-      }
-    ]
-  },
-  {
-    "@id": "_:g492760",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-02-14_19h30_les-muses-de-mozart-3760/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-02-14_19h30_les-muses-de-mozart-3760/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Les muses de Mozart"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-02-14_19h30_les-muses-de-mozart-3760/3760",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-14T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-14T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-02-14_19h30_les-muses-de-mozart-3760/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g502880"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/zwfbkbak/2026-02-12_19h30_les-muses-de-mozart.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g502920"
-      },
-      {
-        "@id": "_:g502940"
-      },
-      {
-        "@id": "_:g502960"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g502980"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g503000"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-02-14_19h30_les-muses-de-mozart-3760/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les muses de Mozart"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mozart nous a légué tant de sublimes pages pour la voix humaine dont certaines des plus belles ont été créées par les soeurs Aloysia, Josepha et Constance Weber, l’épouse du compositeur. Ces trois muses seront incarnées ici par la soprano Sarah Dufresne qui fera ses débuts avec Les Violons du Roy auxquels se joindront, en grande première, des musiciens de l’Orchestre de l’Agora.\nDurée : 1h45 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502880",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g502900"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Bourgie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502920",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/nicolas-ellis"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/4TiUoq2JEdz8tgiNk67Ikz?si=cDOimvk_TkePT9iUpJIwYA"
-      },
-      {
-        "@id": "https://www.instagram.com/nicolas_ellis_camus/"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K12-474"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502940",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.sarahdufresne.com/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/1B0vcqK7nDA5sBVv50FW1K?si=wxqKA4ZqTneUinnzbOHy3Q"
-      },
-      {
-        "@id": "https://www.instagram.com/sarahdufresnesoprano/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCdB_nK6lqSYcxfg1sUFnhfQ"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sarah Dufresne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502960",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://orchestreagora.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/OrchestreAgora/"
-      },
-      {
-        "@id": "https://www.instagram.com/orchestredelagora/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCWSq-mpudg4nVwFxOYJ8pYA"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-543"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Orchestre de l'Agora"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502980",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g503000",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.mbam.qc.ca/fr/activites/mozart-et-ses-muses/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g502900",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1339, rue Sherbrooke Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H3G 2C6"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-06_19h30_autour-de-don-quichotte-3786/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-06_19h30_autour-de-don-quichotte-3786/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Autour de Don Quichotte"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-06_19h30_autour-de-don-quichotte-3786/3786",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-06T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-06T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-06_19h30_autour-de-don-quichotte-3786/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g512260"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/omapu2r5/johannes-moser-1920x1080-photo-manfred-esser-haenssler-classic.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g512300"
-      },
-      {
-        "@id": "_:g512320"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g512340"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g512360"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-06_19h30_autour-de-don-quichotte-3786/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Autour de Don Quichotte"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach.\nDurée : 1h47 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512260",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g512280"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Bourgie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512300",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/jonathan-cohen"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jonathan Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512320",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Johannes Moser"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512340",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512360",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.mbam.qc.ca/fr/activites/autour-de-don-quichotte/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g512280",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1339, rue Sherbrooke Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H3G 2C6"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-03-08_20h_autour-de-don-quichotte-4724/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2026-03-08_20h_autour-de-don-quichotte-4724/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Autour de Don Quichotte"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-03-08_20h_autour-de-don-quichotte-4724/4724",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-08T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-08T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-03-08_20h_autour-de-don-quichotte-4724/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g521440"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/omapu2r5/johannes-moser-1920x1080-photo-manfred-esser-haenssler-classic.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g521480"
-      },
-      {
-        "@id": "_:g521500"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g521520"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g521540"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2026-03-08_20h_autour-de-don-quichotte-4724/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Autour de Don Quichotte"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Don Quichotte a inspiré un grand nombre d’œuvres d’art. Le prolifique Telemann en a fait une suite savoureuse comme le compositeur finlandais Sallinen, une œuvre concertante très originale et spectaculaire pour violoncelle qui fera ici appel à toute la virtuosité de Johannes Moser qu’on entendra aussi dans le plus célèbre concerto de C.P.E. Bach.\nDurée : 1h47 incluant la pause de 20 minutes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521440",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g521460"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Southam"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521480",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/jonathan-cohen"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jonathan Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521500",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Johannes Moser"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521520",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521540",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://nac-cna.ca/fr/event/38399"
-      }
-    ]
-  },
-  {
-    "@id": "_:g521460",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.ca/maps/search/Southam+Hall+1+Elgin+Street+Ottawa+ON/@45.4231112,-75.6931659,17z/data=!3m1!4b1"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1, rue Elgin"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Ottawa"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 4G9"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-26_19h30_le-requiem-de-mozart-4071/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-26_19h30_le-requiem-de-mozart-4071/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-26_19h30_le-requiem-de-mozart-4071/4071",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-26T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-26T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-26_19h30_le-requiem-de-mozart-4071/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g530540"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/dt2hxgkh/2026-03-26_19h30_requiem-de-mozart.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g530580"
-      },
-      {
-        "@id": "_:g530600"
-      },
-      {
-        "@id": "_:g530620"
-      },
-      {
-        "@id": "_:g530640"
-      },
-      {
-        "@id": "_:g530660"
-      },
-      {
-        "@id": "_:g530680"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g530700"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g530720"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-26_19h30_le-requiem-de-mozart-4071/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart occupe une place à part dans le coeur des mélomanes, en particulier dans celui du public des Violons du Roy et de La Chapelle de Québec, puisque l’oeuvre jalonne l’histoire des deux formations avec plusieurs moments forts qui ont marqué les mémoires alimentées par ce disque enregistré en septembre 2001. En compagnie de quatre solistes chevronnés, Bernard Labadie partage à nouveau sa vision approfondie de ce chef-d’oeuvre légendaire."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530540",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g530560"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530580",
+    "@id": "https://www.violonsduroy.com/genid/3ac5c7509e5dcc02",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2048,155 +902,30 @@
     ]
   },
   {
-    "@id": "_:g530600",
+    "@id": "https://www.violonsduroy.com/genid/2feaefd4851d76d9",
     "@type": [
       "http://schema.org/Thing"
     ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.magalisimardgaldes.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/msimardgaldes"
-      },
-      {
-        "@id": "https://www.instagram.com/magaligaldes"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCIve6Ualkd87h8zYUhVQitQ"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/2JP7Qu6pH2dM6Xk9hDN8kV?si=vKpwOdCNReaBZRx_QMsP3g"
-      }
-    ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Magali Simard-Galdès"
+        "@value": "Iestyn Davies"
       }
     ]
   },
   {
-    "@id": "_:g530620",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.alexhetherington.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/alexhether/"
-      },
-      {
-        "@id": "https://www.facebook.com/alexhethermezzo/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Alex Hetherington"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.andrewhaji.com/"
-      },
-      {
-        "@id": "https://www.youtube.com/user/andrewhaji"
-      },
-      {
-        "@id": "https://www.facebook.com/andrewhaji"
-      },
-      {
-        "@id": "https://www.instagram.com/andrewhaji/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Andrew Haji"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530660",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.dispeker.com/kevin-deas"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Kevin Deas"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530680",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/la-chapelle-de-quebec/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/6cW1qHOTQR3K7POHBQXYSW?si=YJCHUBO1Sc6H9vZXEdhhPw"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Chapelle de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530700",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g530720",
+    "@id": "https://www.violonsduroy.com/genid/7eb9115ac97ea64d",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/le-requiem-de-mozart"
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/iestyn-davies-chante-handel-gs"
       }
     ]
   },
   {
-    "@id": "_:g530560",
+    "@id": "https://www.violonsduroy.com/genid/2d7348c44ce98df3",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2231,7 +960,7 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-27_19h30_le-requiem-de-mozart-4072/",
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-09-28_19h30_iestyn-davies-chante-handel-4969/",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
@@ -2241,7 +970,7 @@
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-27_19h30_le-requiem-de-mozart-4072/"
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-09-28_19h30_iestyn-davies-chante-handel-4969/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -2253,7 +982,7 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Le Requiem de Mozart"
+        "@value": "Iestyn Davies chante Handel"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -2264,60 +993,48 @@
     ]
   },
   {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-27_19h30_le-requiem-de-mozart-4072/4072",
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-09-28_19h30_iestyn-davies-chante-handel-4969/4969",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-03-27T19:30:00-04:00"
+        "@value": "2026-09-28T19:30:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-03-27T19:30:00-04:00"
+        "@value": "2026-09-28T19:30:00-04:00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-27_19h30_le-requiem-de-mozart-4072/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-09-28_19h30_iestyn-davies-chante-handel-4969/"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g541540"
+        "@id": "https://www.violonsduroy.com/genid/e2fe829dbf40319e"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/dt2hxgkh/2026-03-26_19h30_requiem-de-mozart.jpg"
+        "@id": "https://www.violonsduroy.com/media/xzmp14y1/2026-09-24-iestyn-davies-chante-handel-photo-pablo-strong.png"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g541580"
+        "@id": "https://www.violonsduroy.com/genid/3ac5c7509e5dcc02"
       },
       {
-        "@id": "_:g541600"
-      },
-      {
-        "@id": "_:g541620"
-      },
-      {
-        "@id": "_:g541640"
-      },
-      {
-        "@id": "_:g541660"
-      },
-      {
-        "@id": "_:g541680"
+        "@id": "https://www.violonsduroy.com/genid/2feaefd4851d76d9"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g541700"
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2327,24 +1044,24 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g541720"
+        "@id": "https://www.violonsduroy.com/genid/3f5340aa760c5639"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-03-27_19h30_le-requiem-de-mozart-4072/"
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-09-28_19h30_iestyn-davies-chante-handel-4969/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Le Requiem de Mozart"
+        "@value": "Iestyn Davies chante Handel"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le Requiem de Mozart occupe une place à part dans le coeur des mélomanes, en particulier dans celui du public des Violons du Roy et de La Chapelle de Québec, puisque l’oeuvre jalonne l’histoire des deux formations avec plusieurs moments forts qui ont marqué les mémoires alimentées par ce disque enregistré en septembre 2001. En compagnie de quatre solistes chevronnés, Bernard Labadie partage à nouveau sa vision approfondie de ce chef-d’oeuvre légendaire."
+        "@value": "Un parcours dans l'univers dramatique de Handel\nLa voix lumineuse de Iestyn Davies se déploie dans un programme entièrement consacré aux plus beaux airs d'opéra de George Frideric Handel. Ce voyage musical explore la richesse dramatique et émotionnelle du maître baroque à travers ses œuvres les plus emblématiques.\nDu désespoir à l'extase\nDe la passion amoureuse de Giulio Cesare aux méditations spirituelles de Theodora, le contre-ténor britannique incarne tour à tour héros tragiques et âmes tourmentées. Le célébrissime « Cara sposa » de Rinaldo côtoie les élans virtuoses de Flavio et de Radamisto, tandis que les pages contemplatives de L'Allegro, il Penseroso ed il Moderato offrent des moments d'une intimité rare. \nLa rencontre de deux maîtres\nSous la direction de Bernard Labadie, Les Violons du Roy accompagnent cette voix d'exception avec la finesse et la sensibilité qui caractérisent leur approche du répertoire baroque. Les ouvertures et danses instrumentales ponctuent ce récital, créant un dialogue entre l'écriture vocale et l'imagination instrumentale qui révèle toute la splendeur théâtrale de Handel."
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2355,357 +1072,13 @@
     ]
   },
   {
-    "@id": "_:g541540",
+    "@id": "https://www.violonsduroy.com/genid/e2fe829dbf40319e",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g541560"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Raoul-Jobin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541580",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/bernard-labadie"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541600",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.magalisimardgaldes.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/msimardgaldes"
-      },
-      {
-        "@id": "https://www.instagram.com/magaligaldes"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCIve6Ualkd87h8zYUhVQitQ"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/2JP7Qu6pH2dM6Xk9hDN8kV?si=vKpwOdCNReaBZRx_QMsP3g"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Magali Simard-Galdès"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541620",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.alexhetherington.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/alexhether/"
-      },
-      {
-        "@id": "https://www.facebook.com/alexhethermezzo/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Alex Hetherington"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.andrewhaji.com/"
-      },
-      {
-        "@id": "https://www.youtube.com/user/andrewhaji"
-      },
-      {
-        "@id": "https://www.facebook.com/andrewhaji"
-      },
-      {
-        "@id": "https://www.instagram.com/andrewhaji/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Andrew Haji"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541660",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.dispeker.com/kevin-deas"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Kevin Deas"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541680",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/la-chapelle-de-quebec/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/6cW1qHOTQR3K7POHBQXYSW?si=YJCHUBO1Sc6H9vZXEdhhPw"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Chapelle de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541700",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541720",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/le-requiem-de-mozart"
-      }
-    ]
-  },
-  {
-    "@id": "_:g541560",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "995, place D'Youville"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1R 3P1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/3764",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-28T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-28T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g552600"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.violonsduroy.com/media/dt2hxgkh/2026-03-26_19h30_requiem-de-mozart.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g552640"
-      },
-      {
-        "@id": "_:g552660"
-      },
-      {
-        "@id": "_:g552680"
-      },
-      {
-        "@id": "_:g552700"
-      },
-      {
-        "@id": "_:g552720"
-      },
-      {
-        "@id": "_:g552740"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g552760"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g552780"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2026-03-28_19h30_le-requiem-de-mozart-3764/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Requiem de Mozart occupe une place à part dans le coeur des mélomanes, en particulier dans celui du public des Violons du Roy et de La Chapelle de Québec, puisque l’oeuvre jalonne l’histoire des deux formations avec plusieurs moments forts qui ont marqué les mémoires alimentées par ce disque enregistré en septembre 2001. En compagnie de quatre solistes chevronnés, Bernard Labadie partage à nouveau sa vision approfondie de ce chef-d’oeuvre légendaire."
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552600",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g552620"
+        "@id": "https://www.violonsduroy.com/genid/5ac36429d865dc68"
       }
     ],
     "http://schema.org/name": [
@@ -2716,175 +1089,18 @@
     ]
   },
   {
-    "@id": "_:g552640",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://askonasholt.com/artist/bernard-labadie"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/0z1Xm1EDwfBTBpsMQlBFOD?si=HRBb5ADLQC6pbELZoeVmUg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Bernard Labadie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552660",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.magalisimardgaldes.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/msimardgaldes"
-      },
-      {
-        "@id": "https://www.instagram.com/magaligaldes"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCIve6Ualkd87h8zYUhVQitQ"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/2JP7Qu6pH2dM6Xk9hDN8kV?si=vKpwOdCNReaBZRx_QMsP3g"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Magali Simard-Galdès"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552680",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.alexhetherington.com/"
-      },
-      {
-        "@id": "https://www.instagram.com/alexhether/"
-      },
-      {
-        "@id": "https://www.facebook.com/alexhethermezzo/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Alex Hetherington"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552700",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.andrewhaji.com/"
-      },
-      {
-        "@id": "https://www.youtube.com/user/andrewhaji"
-      },
-      {
-        "@id": "https://www.facebook.com/andrewhaji"
-      },
-      {
-        "@id": "https://www.instagram.com/andrewhaji/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Andrew Haji"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552720",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.dispeker.com/kevin-deas"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Kevin Deas"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552740",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.violonsduroy.com/fr/la-chapelle-de-quebec/"
-      },
-      {
-        "@id": "https://open.spotify.com/intl-fr/artist/6cW1qHOTQR3K7POHBQXYSW?si=YJCHUBO1Sc6H9vZXEdhhPw"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Chapelle de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552760",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-94"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.violonsduroy.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Violons du Roy"
-      }
-    ]
-  },
-  {
-    "@id": "_:g552780",
+    "@id": "https://www.violonsduroy.com/genid/3f5340aa760c5639",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P6S0328"
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/buy/virtual-venue/P6S0928"
       }
     ]
   },
   {
-    "@id": "_:g552620",
+    "@id": "https://www.violonsduroy.com/genid/5ac36429d865dc68",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2915,6 +1131,539 @@
       {
         "@language": "fr",
         "@value": "H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-07_17h30_conversations-baroques-4991/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-07_17h30_conversations-baroques-4991/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Conversations baroques"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-07_17h30_conversations-baroques-4991/4991",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-07T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-07T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-07_17h30_conversations-baroques-4991/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/5c2fea9f519c6cdc"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/tpvnsywk/conversations-baroques-1920x1080.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/0d2d4bcf281d31db"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/1a47f2a476a80101"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/e24f704736333567"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/d9eb830630352440"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/4365f6d5e76ac3c4"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/0f45a8595a8a9b02"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/b0da2e377df82d89"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-07_17h30_conversations-baroques-4991/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conversations baroques"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, les Apéros proposent des rencontres uniques et privilégiées.\nUne formule 5 à 7 animée par les artistes incluant une consommation.\nAdmission générale et service de bar à compter de 17 h."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/5c2fea9f519c6cdc",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/59c8bcec48f10d29"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/0d2d4bcf281d31db",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/1a47f2a476a80101",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Véronique Vychytil"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/e24f704736333567",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michelle Seto"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/d9eb830630352440",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/4365f6d5e76ac3c4",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Benoit Loiselle"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/0f45a8595a8a9b02",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Suren Barry"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/b0da2e377df82d89",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/conversations-baroques-a"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/59c8bcec48f10d29",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-08_17h30_conversations-baroques-4992/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-08_17h30_conversations-baroques-4992/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Conversations baroques"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-08_17h30_conversations-baroques-4992/4992",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-08_17h30_conversations-baroques-4992/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/5c2fea9f519c6cdc"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/tpvnsywk/conversations-baroques-1920x1080.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/0d2d4bcf281d31db"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/1a47f2a476a80101"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/e24f704736333567"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/d9eb830630352440"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/4365f6d5e76ac3c4"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/0f45a8595a8a9b02"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/b0da2e377df82d89"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-08_17h30_conversations-baroques-4992/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conversations baroques"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un choix musical varié et original, des échanges et un climat de convivialité avec les musiciens, les Apéros proposent des rencontres uniques et privilégiées.\nUne formule 5 à 7 animée par les artistes incluant une consommation.\nAdmission générale et service de bar à compter de 17 h."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-22_14h_fantaisies-baroques-4939/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-22_14h_fantaisies-baroques-4939/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Fantaisies baroques"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-22_14h_fantaisies-baroques-4939/4939",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-22T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-22T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-22_14h_fantaisies-baroques-4939/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/75a7574e30f82b8d"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/zxmlp5ip/2026-10-22-fantaisies-baroques-photo-kasskara.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/b9683fad879f76fe"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/4ffa264809ec9747"
+      },
+      {
+        "@id": "https://www.violonsduroy.com/genid/0f45a8595a8a9b02"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/02c782546d539d6d"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.violonsduroy.com/genid/ec6e6b64645d4b50"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2026-10-22_14h_fantaisies-baroques-4939/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Fantaisies baroques"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "L'esprit galant en fête \nMaurice Steger vous invite à une célébration de l'élégance orchestrale du XVIIIe siècle. Ce programme réunit quelques-uns des compositeurs les plus raffinés de l'ère galante, où la grâce mélodique et la clarté formelle règnent en maîtres. \nTelemann et l'art de la suite \nLes deux suites orchestrales de Georg Philipp Telemann offrent leur mélange caractéristique de sophistication française et de vivacité allemande. La Changeante, avec ses contrastes d'humeurs et ses couleurs instrumentales, témoigne du génie inventif du compositeur hambourgeois. \nEntre baroque tardif et classicisme naissant \nCarl Philipp Emanuel Bach et Joseph Haydn représentent la transition vers le style classique, tandis que le comte Unico Wilhelm van Wassenaer nous offre un Concerto armonico d'une élégance toute italienne. Le violon de Pascale Giguère brille dans le double concerto de Haydn, aux côtés de l'orgue positif joué par Suren Barry. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/b9683fad879f76fe",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maurice Steger"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/4ffa264809ec9747",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Giguère"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/genid/ec6e6b64645d4b50",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/fantaisies-baroques-ppm"
       }
     ]
   }
