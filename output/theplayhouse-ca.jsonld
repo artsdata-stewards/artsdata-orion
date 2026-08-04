@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/LostnLos_1900x600px_Price%20Of%20Freedom%202026_NB_v3%20%28Web-C%29.png?itok=dOP6x5Z-",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Rink%20Rebels%20Women%20of%20Hockey%201%20web%20pic%20%282%29.png?itok=IST-0ao2",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -80,13 +80,54 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
       },
       {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Schedule and Tickets"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       }
     ]
   },
@@ -126,6 +167,41 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Horaire et Billets"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -161,26 +237,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Rink%20Rebels%20Women%20of%20Hockey%201%20web%20pic%20%282%29.png?itok=IST-0ao2",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-07/Girls%2B%20Rock%20Camp%20web%20pic.png?itok=IazH9KWq",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -190,10 +246,16 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -890,41 +952,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news/employment-opportunity-ticketing-operations-manager"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Schedule and Tickets"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       }
     ]
   },
@@ -4421,9 +4448,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -4512,9 +4536,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -5142,33 +5163,6 @@
       {
         "@language": "en",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/Kathleen%20Edwards.jpg?itok=mKfxoTu_"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "VÍÍK | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "VÍÍK"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/15.jpg?itok=7HTaYrEr"
       }
     ]
   },
@@ -5848,33 +5842,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "VÍÍK | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "VÍÍK"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/15.jpg?itok=7HTaYrEr"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen",
     "http://ogp.me/ns#site_name": [
       {
@@ -6534,9 +6501,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -6628,9 +6592,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -6731,9 +6692,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -6819,9 +6777,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -6936,9 +6891,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -7029,9 +6981,6 @@
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
       },
       {
@@ -7099,6 +7048,52 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-musical-production"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=EQGPXBM2",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-musical-production"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FHS Musical Production | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "FHS Musical Production"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production"
       }
     ]
   },
@@ -10441,32 +10436,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/15.jpg?itok=vZoif-Yg",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/16.jpg?itok=L4Gals6n",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -10585,9 +10554,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -10661,9 +10627,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -10755,9 +10718,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -10837,9 +10797,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -17046,188 +17003,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/price-freedom",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "The Price of Freedom | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/price-freedom"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "The Price of Freedom"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/LostnLos_1900x600px_Price%20Of%20Freedom%202026_NB_v3%20%28Web-C%29.png?itok=16W2-VXV"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/843",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/price-freedom"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-01"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/53cd1e87d4ae49f8"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/price-freedom"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Price of Freedom"
-      },
-      {
-        "@language": "fr",
-        "@value": "The Price of Freedom"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Set against the turbulent backdrop of 1860s Canada, The Price of Freedom tells the gripping story of John Anderson, a freedom seeker accused of killing a bounty hunter in self-defence. Pursued relentlessly across borders, Anderson’s case becomes a flashpoint for Canada’s moral and legal identity as the United States demands his extradition. Supported by abolitionists from the Underground Railroad and allies within a powerful fraternity, Anderson’s journey unfolds through tense courtroom drama, haunting memories of escape, and the collective fight for dignity and justice. As the trial"
-      },
-      {
-        "@language": "fr",
-        "@value": "Située dans le climat tumultueux du Canada des années 1860, The Price of Freedom retrace le parcours bouleversant de John Anderson, un homme en fuite accusé d’avoir tué un chasseur de primes en légitime défense Traqué sans répit d’un pays à l’autre, il se retrouve au cœur d’un débat national alors que les États-Unis réclament son extradition, forçant le Canada à confronter ses propres valeurs morales et juridiques.\n\nAvec l’appui d’abolitionnistes du chemin de fer clandestin et de frères d’une puissante fraternité, le parcours d’Anderson se révèle à travers un drame judiciaire sous haute"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-01T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-01T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/53cd1e87d4ae49f8",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A0D70661-2820-467D-9C8E-3244479C41CE&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-13"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-05/LostnLos_1900x600px_Price%20Of%20Freedom%202026_NB_v3%20%28Web-C%29.png?itok=p5PllVE8",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/price-freedom"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/price-freedom"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/price-freedom",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "The Price of Freedom | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/price-freedom"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "The Price of Freedom"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/LostnLos_1900x600px_Price%20Of%20Freedom%202026_NB_v3%20%28Web-C%29.png?itok=16W2-VXV"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0",
     "http://ogp.me/ns#site_name": [
       {
@@ -20416,9 +20191,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -20447,9 +20219,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -20547,9 +20316,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -20645,9 +20411,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -20733,9 +20496,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -20833,9 +20593,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
       },
       {
@@ -20921,9 +20678,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
@@ -27769,151 +27523,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/node/949",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-25"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/96f3c4736e3dd476"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/VÍÍK"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "VÍÍK"
-      },
-      {
-        "@language": "fr",
-        "@value": "VÍÍK"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Every VÍÍK performance has a moment when ancient Nordic melodies collide head-on with the energy of a big indie rock rave. Then you realize you've never heard anything like it before.That's exactly what Elisabeth Vik had in mind.\"I wanted to dismantle my musical heritage and put it back together,\" said the Norwegian vocalist and composer who founded Víík in Denmark (2019). \"I felt a strong need to rebel against the cool, minimalist aesthetic of Nordic folk — and this firework of a band has enabled me to do just that.\"VÍÍK is one of Scandinavia's most electrifying live acts: five masterful"
-      },
-      {
-        "@language": "fr",
-        "@value": "Chaque spectacle de VÍÍK a ce moment où des mélodies nordiques anciennes percutent de plein fouet l’énergie d’un concert indie rock. Et soudain… on réalise qu’on n’a jamais rien entendu de pareil.C’est exactement l’intention d’Elisabeth Vik, chanteuse et compositrice norvégienne à l’origine du projet.« Je voulais déconstruire mon héritage musical pour mieux le reconstruire », explique-t-elle. « J’avais besoin de me rebeller contre l’esthétique minimaliste du folk nordique – et ce groupe est devenu un véritable feu d’artifice. »Fondé au Danemark en 2019, VÍÍK est aujourd’hui l’un des groupes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-25T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-25T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/96f3c4736e3dd476",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=052B73DD-5787-4621-BC71-2B5639BE5B18&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-22"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/VÍÍK",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "VÍÍK"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-06/15.jpg?itok=PIQnp3qv",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/viik"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/2022-01/PlayhouseTaniaBreenJuly5th2018%C2%A9KeithMinchin-201.jpg",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -30519,6 +30128,798 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/contact/rental-information/rental-client-assistance-program",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rental Client Assistance Program | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/contact/rental-information/rental-client-assistance-program"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Rental Client Assistance Program"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rental Client Assistance Program"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "The Playhouse’s Rental Client Assistance Program supports the rental and use of Fredericton Playhouse facilities by artists, artist collectives, non-profit organizations, and businesses delivering artistic events and experiences. The fund is intended to support activities that align with FPI’s mission, values, and strategic objectives.  Priority will be given to events and organizations that: deliver projects that would otherwise not take place at Fredericton Playhouse owing to financial constraints or risk provide meaningful and impactful artistic experiences provide onstage experiences for local artists  demonstrate feasibility advance reconciliation, equity, diversity, and consider the unique position of underserved and/or underrepresented people and communities Generally, the committee will award up to $5,000 per event to cover items such as rent, FOH fees, Technical Personnel Fees, Technical Services & Supply Sales, Ticketing Fees, and/or Marketing Services.  Assistance is only made available to New Brunswick artists and organizations. Applicants are eligible for one (1) award per year.  Awards are applied in the form of credit to a rental client on their settlement for services. Awards are not payable to the applicant as a grant.  Application Process Contact us to request RCAP application forms. Timing Applications will be accepted on an ongoing basis, and funding decisions will be made twice per year: April 1 and October 1.   AWARD APPLICATION DEADLINE April 1 March 1 October 1 September 1  If the project and award timelines do not align, FPI may consider awarding discretionary funds.  This program is supported by the Fredericton Friends of the Playhouse campaign and contributions from: Ron & Erma Hawkes Family Community Fund Jim Myles Artist Support Fund  Other endowment funds as budgeted  For more information, contact Jeff Richardson, Director of Growth and Development: jeff.richardson@theplayhouse.ca  "
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/contact/rental-information/rental-client-assistance-program"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-2",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-2"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/972",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-2"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-25"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/4b2c6894c7a98697"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/71596b768f2799f1"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "*This performance takes place at the Fredericton High School, Tom Morrison Theatre.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular$23.50Senior$20.50Student$20.50"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-25T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-25T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/4b2c6894c7a98697",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://theplayhouse.ca/genid/ea8779e9f8dac779"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fredericton High School"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/71596b768f2799f1",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=1D767B93-94F5-4A5D-9B06-F50C2FE73246&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/ea8779e9f8dac779",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "Tom Morrison Theatre"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Fredericton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=euP8vzIF",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-2"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/joseph-and-amazing-technicolor-dreamcoat"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/joseph-and-amazing-technicolor-dreamcoat",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Joseph and the Amazing Technicolor Dreamcoat | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/joseph-and-amazing-technicolor-dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Joseph%20and%20the%20Amazing%20web%20pic%20%281%29.png?itok=Tfa_3ZYA"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/973",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-26"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/4b2c6894c7a98697"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/02223088b5f238c6"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      },
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "*This performance takes place at the Fredericton High School, Tom Morrison Theatre.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular$23.50Senior$20.50Student$20.50"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-26T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-26T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/02223088b5f238c6",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=7AF3A03E-C7EA-4002-9227-F7DD6AD5FE51&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/974",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/4b2c6894c7a98697"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/91c2df43deb52d74"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      },
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "*This performance takes place at the Fredericton High School, Tom Morrison Theatre.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular$23.50Senior$20.50Student$20.50"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/91c2df43deb52d74",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=8F9B18FE-804B-46AD-B4AA-0544FFD0E3CA&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/975",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/4b2c6894c7a98697"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/f3bddf3a3ce2000b"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/fhs-joseph-and-amazing-technicolor-dreamcoat-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      },
+      {
+        "@language": "fr",
+        "@value": "FHS: Joseph and the Amazing Technicolor Dreamcoat"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "*This performance takes place at the Fredericton High School, Tom Morrison Theatre.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular$23.50Senior$20.50Student$20.50"
+      },
+      {
+        "@language": "fr",
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/f3bddf3a3ce2000b",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=E5882348-67C9-42ED-B389-CF93B9872298&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/homepage",
     "@type": [
       "http://schema.org/WebPage"
@@ -30558,41 +30959,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Horaire et Billets"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       }
     ]
   },
@@ -30932,32 +31298,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/contact/location"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "FHS Musical Production | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "FHS Musical Production"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/fhs-musical-production"
       }
     ]
   },
@@ -31424,9 +31764,6 @@
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/viik"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
       },
       {
@@ -31522,18 +31859,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/one-fell-swoop-circus-thread"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/VÍÍK",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "VÍÍK"
       }
     ]
   }
