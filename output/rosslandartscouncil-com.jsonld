@@ -425,7 +425,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-05-27T23:33:06+00:00"
+        "@value": "2026-08-18T21:11:39+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -489,7 +489,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-27T23:33:06+00:00"
+        "@value": "2026-08-18T21:11:39+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -581,6 +581,11 @@
         "@id": "https://rosslandartscouncil.com/event/shirley-gnome-parlour-panther/"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/89c7826b925ca2bf"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
@@ -600,7 +605,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://rosslandartscouncil.com/genid/ce03478764e30541"
+        "@id": "https://rosslandartscouncil.com/genid/e95e815fb7fab5ed"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -633,6 +638,47 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/89c7826b925ca2bf",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/shirley-gnome-parlour-panther/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-27T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
       }
     ]
   },
@@ -676,7 +722,7 @@
     ]
   },
   {
-    "@id": "https://rosslandartscouncil.com/genid/ce03478764e30541",
+    "@id": "https://rosslandartscouncil.com/genid/e95e815fb7fab5ed",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -706,7 +752,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "i&#110;f&#111;&#64;r&#111;&#115;&#115;&#108;a&#110;&#100;a&#114;tsc&#111;u&#110;ci&#108;.&#99;&#111;m"
+        "@value": "i&#110;&#102;&#111;&#64;&#114;&#111;&#115;s&#108;a&#110;&#100;&#97;r&#116;s&#99;o&#117;&#110;&#99;i&#108;.c&#111;&#109;"
       }
     ]
   },
@@ -751,7 +797,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-05-28T22:23:00+00:00"
+        "@value": "2026-08-18T21:15:36+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -815,7 +861,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-28T22:23:00+00:00"
+        "@value": "2026-08-18T21:15:36+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -907,6 +953,17 @@
         "@id": "https://rosslandartscouncil.com/event/tenise-marie/"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ae0f69f7284ba7e5"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/1703985b8a2c06e8"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/f66d67c587b933e0"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
@@ -926,7 +983,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://rosslandartscouncil.com/genid/8e15fdc6b08a6408"
+        "@id": "https://rosslandartscouncil.com/genid/28d7b1be3f178723"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -959,6 +1016,129 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/ae0f69f7284ba7e5",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/tenise-marie/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/1703985b8a2c06e8",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/tenise-marie/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/f66d67c587b933e0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/tenise-marie/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
       }
     ]
   },
@@ -1002,7 +1182,7 @@
     ]
   },
   {
-    "@id": "https://rosslandartscouncil.com/genid/8e15fdc6b08a6408",
+    "@id": "https://rosslandartscouncil.com/genid/28d7b1be3f178723",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1032,7 +1212,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;n&#102;&#111;&#64;r&#111;ss&#108;&#97;n&#100;a&#114;&#116;s&#99;&#111;u&#110;&#99;&#105;l.c&#111;m"
+        "@value": "&#105;nfo&#64;r&#111;s&#115;l&#97;n&#100;&#97;rt&#115;cou&#110;&#99;&#105;l.co&#109;"
       }
     ]
   },
@@ -1077,7 +1257,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-05-28T22:22:19+00:00"
+        "@value": "2026-08-18T21:23:01+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1141,7 +1321,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-28T22:22:19+00:00"
+        "@value": "2026-08-18T21:23:01+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -1233,6 +1413,17 @@
         "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/cc385b0fa9a6ccd4"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/cd9b43fe3a161eee"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/b0dbf8b06027390b"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
@@ -1252,7 +1443,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://rosslandartscouncil.com/genid/26f3146c2ca75d1e"
+        "@id": "https://rosslandartscouncil.com/genid/1bd4e673ef3fbe75"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -1285,6 +1476,129 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/cc385b0fa9a6ccd4",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/cd9b43fe3a161eee",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/b0dbf8b06027390b",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
       }
     ]
   },
@@ -1328,7 +1642,7 @@
     ]
   },
   {
-    "@id": "https://rosslandartscouncil.com/genid/26f3146c2ca75d1e",
+    "@id": "https://rosslandartscouncil.com/genid/1bd4e673ef3fbe75",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1358,7 +1672,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;fo&#64;&#114;&#111;s&#115;l&#97;n&#100;ar&#116;s&#99;ouncil.co&#109;"
+        "@value": "i&#110;f&#111;&#64;&#114;&#111;&#115;sla&#110;&#100;&#97;&#114;ts&#99;&#111;&#117;&#110;ci&#108;.c&#111;&#109;"
       }
     ]
   },
@@ -1403,7 +1717,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-05-28T22:20:43+00:00"
+        "@value": "2026-08-18T22:19:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1467,7 +1781,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-28T22:20:43+00:00"
+        "@value": "2026-08-18T22:19:08+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -1559,6 +1873,17 @@
         "@id": "https://rosslandartscouncil.com/event/bangs-bobs-banter-confessions-of-a-hairstylist/"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/fa0b567cc6daae9d"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/4e35c8843e809e8d"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/68f0f3b345712de8"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
@@ -1578,7 +1903,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://rosslandartscouncil.com/genid/672467889b8afd0d"
+        "@id": "https://rosslandartscouncil.com/genid/1b33c0d30ce9097b"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -1611,6 +1936,129 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/fa0b567cc6daae9d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/bangs-bobs-banter-confessions-of-a-hairstylist/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/4e35c8843e809e8d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/bangs-bobs-banter-confessions-of-a-hairstylist/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/68f0f3b345712de8",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/bangs-bobs-banter-confessions-of-a-hairstylist/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
       }
     ]
   },
@@ -1654,7 +2102,7 @@
     ]
   },
   {
-    "@id": "https://rosslandartscouncil.com/genid/672467889b8afd0d",
+    "@id": "https://rosslandartscouncil.com/genid/1b33c0d30ce9097b",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1684,7 +2132,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;&#110;&#102;&#111;&#64;&#114;os&#115;&#108;a&#110;&#100;&#97;&#114;&#116;&#115;&#99;ounci&#108;.com"
+        "@value": "&#105;&#110;f&#111;&#64;r&#111;ss&#108;&#97;n&#100;&#97;&#114;&#116;&#115;c&#111;u&#110;&#99;&#105;&#108;&#46;&#99;&#111;&#109;"
       }
     ]
   },
@@ -1724,6 +2172,12 @@
       {
         "@language": "en-us",
         "@value": "Rossland Arts Council"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-08-18T21:29:36+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1782,6 +2236,12 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2026-05-28T22:20:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T21:29:36+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -1873,6 +2333,17 @@
         "@id": "https://rosslandartscouncil.com/event/the-wardens/"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/6472c9947c823cfa"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/1ebd20368b67da3c"
+      },
+      {
+        "@id": "https://rosslandartscouncil.com/genid/4bb0f5347dd2e3f5"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
@@ -1892,7 +2363,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://rosslandartscouncil.com/genid/ed6a77dab483fa08"
+        "@id": "https://rosslandartscouncil.com/genid/790cea0c989747b4"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -1925,6 +2396,129 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/6472c9947c823cfa",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/the-wardens/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-03T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/1ebd20368b67da3c",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/the-wardens/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-03T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/4bb0f5347dd2e3f5",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/the-wardens/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-03T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
       }
     ]
   },
@@ -1968,7 +2562,7 @@
     ]
   },
   {
-    "@id": "https://rosslandartscouncil.com/genid/ed6a77dab483fa08",
+    "@id": "https://rosslandartscouncil.com/genid/790cea0c989747b4",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1998,7 +2592,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#105;n&#102;&#111;&#64;&#114;&#111;&#115;sla&#110;darts&#99;&#111;u&#110;&#99;&#105;l&#46;com"
+        "@value": "&#105;&#110;&#102;&#111;&#64;&#114;o&#115;sl&#97;&#110;d&#97;&#114;&#116;&#115;c&#111;unc&#105;l&#46;c&#111;m"
       }
     ]
   }
