@@ -2,6 +2,8 @@ name: Fetch confederationcentre-com Events
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 10 * *'
 
 jobs:
   artsdata-fetch-and-push:
