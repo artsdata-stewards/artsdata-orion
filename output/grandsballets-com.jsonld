@@ -1,16 +1,16 @@
 [
   {
-    "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/",
+    "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/",
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Alice aux pays des merveilles"
+        "@value": "Alice au pays des merveilles"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@value": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -51,7 +51,57 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/58b22ff711fe05fb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-06-03"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-06-03"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Alice in Wonderland"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
       }
     ]
   },
@@ -133,57 +183,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/62368f45-6111-4a08-b395-8a77726094fb",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-06-03"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-06-03"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandsballets.com/workspace/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Alice in Wonderland"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://grandsballets.com/temporary/1e6c77bc-3bfc-49b3-999d-84f38b1ea165",
+    "@id": "https://grandsballets.com/genid/9cf6fe3c93c6387d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -211,12 +211,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/name": [
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b05b635f-a76b-45e4-ad29-098cab5d197c",
+    "@id": "https://grandsballets.com/genid/01a3e267ed065114",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -261,12 +261,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/name": [
@@ -283,7 +283,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/5fedb856-397b-4795-93d8-3e2768ea6f75",
+    "@id": "https://grandsballets.com/genid/13ea94314af02677",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -311,12 +311,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-aux-pays-des-merveilles/"
+        "@id": "https://grandsballets.com/fr/spectacles/detail/alice-au-pays-des-merveilles/"
       }
     ],
     "http://schema.org/name": [
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/cb1cff07-4828-4f3b-89c6-1e59a101dddd",
+    "@id": "https://grandsballets.com/genid/5d04ef7e59b0d096",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/367233c2-b37f-4be3-a056-94088c219e61",
+    "@id": "https://grandsballets.com/genid/f5a70f73292dc824",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/500f67d1-2a3a-4cf9-94fb-49f652c4b6ab",
+    "@id": "https://grandsballets.com/genid/4e20f4bf703e467e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8809534c-780c-4a01-8ce1-6eca116a1214",
+    "@id": "https://grandsballets.com/genid/4229f66f4fac5f89",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -701,7 +701,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/a6ba0245-0fd1-4f4d-a358-761ee184f379",
+    "@id": "https://grandsballets.com/genid/305031c3dd55a512",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -751,7 +751,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9b676ac8-3c7e-49ed-9ffd-aa5253480e91",
+    "@id": "https://grandsballets.com/genid/61b4d9d94866d098",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -801,7 +801,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/54d13dd5-2011-4a7d-bfb5-398990f16c3e",
+    "@id": "https://grandsballets.com/genid/09cd59ae8a701b06",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -851,7 +851,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/da5c74f0-9bf6-41f1-98cc-80e6a4aec5e1",
+    "@id": "https://grandsballets.com/genid/d9a0a84ed333ce57",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -901,7 +901,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c6491d77-2ad8-43a2-8f8f-e2109c698a8e",
+    "@id": "https://grandsballets.com/genid/8a93dd1904e2a75b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2e76d999-90e4-4392-af49-dd226c5ab7a0",
+    "@id": "https://grandsballets.com/genid/a0bb91567f22c86c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1057,7 +1057,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/684731f7-9706-4729-a8ab-0b60321a7cdf",
+    "@id": "https://grandsballets.com/genid/89ca1a3c35bce372",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1107,7 +1107,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/fd88b040-bb98-4054-8e14-6c7fec303f91",
+    "@id": "https://grandsballets.com/genid/b53fc8646f58ac1f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1157,7 +1157,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4522ac73-510c-45e3-979d-a27aae1b238c",
+    "@id": "https://grandsballets.com/genid/b56aad022efbf96a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1207,7 +1207,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/eef8baa9-431e-497d-acbf-15336be38335",
+    "@id": "https://grandsballets.com/genid/6fd4cd712287a9d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1257,7 +1257,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/6e0f2179-d376-4cea-8b8b-34b94ec10c41",
+    "@id": "https://grandsballets.com/genid/141bb7bdc36bd157",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1307,7 +1307,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/96626d75-7d4a-4a64-b67a-7a91d974902d",
+    "@id": "https://grandsballets.com/genid/691bbf405189ccfa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1357,7 +1357,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/825d5e4a-cd42-4636-94c6-ed41ca7a00af",
+    "@id": "https://grandsballets.com/genid/c9d18955df72a651",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1463,7 +1463,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/809a5d10-e6b3-46cf-97e6-738f7a9533b3",
+    "@id": "https://grandsballets.com/genid/3f2175cc3cf58504",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1513,7 +1513,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/386db028-9c86-45ff-9a10-207a66e1d1c9",
+    "@id": "https://grandsballets.com/genid/48d8055a985fffe1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9876a231-4909-4ec8-a566-39be9016a5b9",
+    "@id": "https://grandsballets.com/genid/c03b89c6c01de774",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1613,7 +1613,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/bcb23576-b063-42e5-82ff-43a353fc2ce2",
+    "@id": "https://grandsballets.com/genid/668c8b59bcd1c42f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1719,7 +1719,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8bf54659-030e-4393-b799-2b7ea9d50cbf",
+    "@id": "https://grandsballets.com/genid/bf57ed5e51c4fc2a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1769,7 +1769,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9f1d2372-8911-4624-9c74-2d858eeaaafe",
+    "@id": "https://grandsballets.com/genid/c2c67199e97d4ea9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1819,7 +1819,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/3b09d8a0-226e-4b7c-a26f-d4de0f630c04",
+    "@id": "https://grandsballets.com/genid/18969f975e880c1a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1869,7 +1869,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/20dd4b1a-b22c-49ce-8790-d2e5318a269e",
+    "@id": "https://grandsballets.com/genid/ec4ca10cd8a4f604",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1975,7 +1975,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/a098a4fa-b6b0-4a9b-aa02-77bba9e6a86a",
+    "@id": "https://grandsballets.com/genid/2e910de70d27f2e5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2025,7 +2025,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/59b1a80a-9035-4247-a079-18ef3a713a9a",
+    "@id": "https://grandsballets.com/genid/5a31c77ec3e20323",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2075,7 +2075,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/7148735c-1896-49b4-b00c-4588f17675c6",
+    "@id": "https://grandsballets.com/genid/b918a3ba166d44f8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2125,7 +2125,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/d954b9b5-add8-4a86-b8a9-72ca11ef77ba",
+    "@id": "https://grandsballets.com/genid/0efe1d2a1e7b0a26",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2175,7 +2175,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/5adc2a18-bcfe-4012-8817-d4230b761477",
+    "@id": "https://grandsballets.com/genid/3a4f7f7d6ae9ee7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2281,7 +2281,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/38428c7c-0b4c-4e15-815b-4b5390f899f2",
+    "@id": "https://grandsballets.com/genid/fa505ffc6104cade",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2331,7 +2331,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/55fdbccb-c955-47de-bc39-e1b8defb84a2",
+    "@id": "https://grandsballets.com/genid/6fd86d14455b7f57",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2381,7 +2381,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/0e81465e-aefd-4001-ba0d-a0f74d9ad6cc",
+    "@id": "https://grandsballets.com/genid/e51a20e62905a2c1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2431,7 +2431,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8bf751b4-c455-40cc-be7e-25e94b7c0716",
+    "@id": "https://grandsballets.com/genid/b7cc5b6eb3f87797",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2481,7 +2481,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/3a808738-c28b-4519-823c-e2db2ee2f25d",
+    "@id": "https://grandsballets.com/genid/3796d835d2ebaaa8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2643,7 +2643,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/75cc05ab-103b-40cc-b26e-6a1ea8ff2844",
+    "@id": "https://grandsballets.com/genid/8d69dd051a63c35a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2693,7 +2693,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/a3b2aa49-a98f-4385-ad61-43b0c128193b",
+    "@id": "https://grandsballets.com/genid/3d58880659300672",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2743,7 +2743,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9d905222-8000-46f2-a8b1-6869e63028e4",
+    "@id": "https://grandsballets.com/genid/b9c7a59ee4e244a4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2793,7 +2793,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/30021aa9-53b9-4e2b-9aa1-631ce13320a1",
+    "@id": "https://grandsballets.com/genid/ac03a415fea86142",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2843,7 +2843,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/43e8b686-2c29-4cef-8077-48f119d4e721",
+    "@id": "https://grandsballets.com/genid/68c519a145f0a3be",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2949,7 +2949,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/f1495089-c12a-4383-90bf-d462eb074fcd",
+    "@id": "https://grandsballets.com/genid/0c14f2e684f89ad5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2999,7 +2999,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/cea2320e-0c00-4570-ab63-97503957cd55",
+    "@id": "https://grandsballets.com/genid/567da16451b21a31",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3049,7 +3049,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/5a945ada-dcff-41e1-ab9c-a3ac5372cd7e",
+    "@id": "https://grandsballets.com/genid/17192a556616e46b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3099,7 +3099,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/652e92a8-4cd0-4045-ab21-724ca13895f4",
+    "@id": "https://grandsballets.com/genid/a098cb81c83f554c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3149,7 +3149,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/7a50acff-3690-48cb-9f10-138596fe9c3d",
+    "@id": "https://grandsballets.com/genid/66f9df880e601610",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3255,7 +3255,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/1523bc28-6a8c-463b-a816-5d1b6ca898e3",
+    "@id": "https://grandsballets.com/genid/80d2f5574de6d451",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3305,7 +3305,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8460081b-8f44-4568-bc1a-f8c2e77be5ca",
+    "@id": "https://grandsballets.com/genid/3f77ffe7ebc6bcd1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3355,7 +3355,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/df0f77fa-0c1f-420c-982a-95aaa6e27503",
+    "@id": "https://grandsballets.com/genid/5c961acf1a2d2cb1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9d7f3d8f-5a18-4b69-93f8-d38e2959316e",
+    "@id": "https://grandsballets.com/genid/8c62430ae9937e5c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3511,7 +3511,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c4842cbf-bd2c-4c1f-93fd-7f161c412c60",
+    "@id": "https://grandsballets.com/genid/7107ec601896ca9c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3561,7 +3561,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/cc3b3b09-6230-4301-95c9-c7fe777344a0",
+    "@id": "https://grandsballets.com/genid/8d565a7f1ff35973",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3667,7 +3667,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/1e0b05ad-cc55-4a1c-a492-be71e9569b16",
+    "@id": "https://grandsballets.com/genid/2139eb03a3b979ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3717,7 +3717,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b8996130-78f7-4d99-894c-5522c6ae4cac",
+    "@id": "https://grandsballets.com/genid/ca6f1a701cca2cfc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3767,7 +3767,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2346bb6d-70b9-4b67-af21-22fb15f29c90",
+    "@id": "https://grandsballets.com/genid/4c7c3b778c7f129f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3817,7 +3817,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4e42a0d4-8aa9-4cc2-8220-bebead7c0676",
+    "@id": "https://grandsballets.com/genid/7caf70d15d613c33",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3867,7 +3867,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/93f1ea3d-7ac3-4420-9251-e9f1f6f67196",
+    "@id": "https://grandsballets.com/genid/81bb0fe1fb65950a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3973,7 +3973,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/868ef9e2-ebea-48b7-b541-8a091962ff93",
+    "@id": "https://grandsballets.com/genid/ec3e151519333baf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4023,7 +4023,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/72e23852-635a-4b2f-9d9d-3a404187a291",
+    "@id": "https://grandsballets.com/genid/f284942daa96c241",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4073,7 +4073,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/06d1644c-5d96-493c-aaae-1d8911f5b02d",
+    "@id": "https://grandsballets.com/genid/2922f8a21e32a56f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4123,7 +4123,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b7bffbe5-72f5-42b7-ba85-6d1dfa8f825a",
+    "@id": "https://grandsballets.com/genid/dc4d12ce388850cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4173,7 +4173,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2e08830c-3dbe-49dc-962e-70c9f3b11caf",
+    "@id": "https://grandsballets.com/genid/bee106ea1b14d47b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4279,7 +4279,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/981526c8-a2a0-4628-8c6e-32ba8d053307",
+    "@id": "https://grandsballets.com/genid/d505d2807de5fc30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4329,7 +4329,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4fd4a9f0-9b3a-4b0c-8f22-072363334733",
+    "@id": "https://grandsballets.com/genid/a8c1745e2faa6c22",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4379,7 +4379,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/177c2d27-4be5-415f-98d7-724e33d56796",
+    "@id": "https://grandsballets.com/genid/b1e8be16f22f6401",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4429,7 +4429,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2305d805-fa79-4d71-bdd2-aec2f7b2ca94",
+    "@id": "https://grandsballets.com/genid/ecbfce26df24137e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4479,7 +4479,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/895803e9-75c8-4190-b767-5dea660e097d",
+    "@id": "https://grandsballets.com/genid/fe45ea66faadedae",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4529,7 +4529,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4feb36ea-f6c3-4079-8912-24f7c0cf2201",
+    "@id": "https://grandsballets.com/genid/cf382730a07623ff",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4635,7 +4635,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/404a5d0d-28e4-49c1-bf5e-f05c7b4c892a",
+    "@id": "https://grandsballets.com/genid/6303addc20b8c85e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4685,7 +4685,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/02ae4316-153b-4bd0-b2ab-1dc78eb865d0",
+    "@id": "https://grandsballets.com/genid/7853caea6f4c6bb9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4735,7 +4735,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/d99236c2-1dc7-44d2-b995-ef54784ec662",
+    "@id": "https://grandsballets.com/genid/f90e308c6e4de4c1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4785,7 +4785,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/0e2eda8d-c48c-41fa-a4c3-b9d538a6f9b2",
+    "@id": "https://grandsballets.com/genid/450262a755f0165b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4835,7 +4835,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c2fb80ea-d088-4036-8b33-dec4dba50685",
+    "@id": "https://grandsballets.com/genid/076cb1af6819b7d4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4885,7 +4885,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/bfb5f73a-53f1-442b-8182-48a489068e08",
+    "@id": "https://grandsballets.com/genid/1db452d1525dac21",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4991,7 +4991,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c3fe7593-5a92-42fe-8eb9-dfd5e718e400",
+    "@id": "https://grandsballets.com/genid/b2586c95bd609b02",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5041,7 +5041,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b8ebba7c-f6ee-42c7-83f6-03d4d7e3eb55",
+    "@id": "https://grandsballets.com/genid/15b2f7b0aee0fd38",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5091,7 +5091,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8b192216-90f9-4477-8601-c013f6fceee3",
+    "@id": "https://grandsballets.com/genid/fb89d6339a21f800",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5141,7 +5141,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c03e3da7-e9c6-4ff7-98db-44e6e78e93de",
+    "@id": "https://grandsballets.com/genid/ed9ea0097060180a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5247,7 +5247,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/abb0571c-6efe-4228-9ca4-27b2f9523968",
+    "@id": "https://grandsballets.com/genid/c285589631a01c1e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5297,7 +5297,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/60cf3bef-32b4-40d9-a77c-671e56dd9537",
+    "@id": "https://grandsballets.com/genid/916f53bc3155fbb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5347,7 +5347,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/1a3c0f4d-619e-4855-b06e-0b498f756026",
+    "@id": "https://grandsballets.com/genid/ba79bda605ecbb37",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5397,7 +5397,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/1a90f7dd-2301-40d1-95dd-447384866f42",
+    "@id": "https://grandsballets.com/genid/4089a6316f2717d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5503,7 +5503,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/759068bc-37f0-4c77-bb69-444b06d6522e",
+    "@id": "https://grandsballets.com/genid/e928e4056f1d1b03",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5553,7 +5553,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/745f45b1-0cda-44bd-9fd8-54a998cd9595",
+    "@id": "https://grandsballets.com/genid/268e239439e78d4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5603,7 +5603,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/ffbe4966-6e4c-4130-a2fa-bbe023c6000a",
+    "@id": "https://grandsballets.com/genid/b68106b5bd4d2d0a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5653,7 +5653,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/fdb85bcd-b75f-4aa7-ba2f-7d82948d815f",
+    "@id": "https://grandsballets.com/genid/a48392ac5a33fcce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5703,7 +5703,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/51c3c290-6e3e-464e-9f57-a9473ca72275",
+    "@id": "https://grandsballets.com/genid/61ebb58c07fe00c8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5809,7 +5809,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/719c7eec-2e03-40ac-b5b5-f8afb20e2ee2",
+    "@id": "https://grandsballets.com/genid/6ad5eb2c686494e0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5859,7 +5859,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/29c27200-0b1d-45a7-887f-71ce8fe0ef53",
+    "@id": "https://grandsballets.com/genid/4d83b220bd7a3444",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5909,7 +5909,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/fc37a81e-6251-436f-be76-432801b06e32",
+    "@id": "https://grandsballets.com/genid/bf45bc8d24b768ed",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6015,6 +6015,856 @@
     ]
   },
   {
+    "@id": "https://grandsballets.com/genid/0560922c5dd32a15",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/55fab27dc98f3fe4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/4156f131a575ac2e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/64523ad12a77a12d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-11"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-11"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/48cb29aab25463a1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/06d57305b8ab9f24",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/e3a547dda59be9ad",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/99225b381f3d7e7a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-18"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-18"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/69305c127f2c3337",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/b2add5cb9da7e55f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/19e59e154c3bc5ca",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/c492fcc168d619cd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-23"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-23"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/26c83d0019dffe1a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-26"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-26"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/1d2266a7167f4913",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-27"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-27"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/c483a436d9d48ef1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-28"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/29b482a92d342058",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-29"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-29"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/121b2df29faed56d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-30"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
     "@id": "https://grandsballets.com/en/performances/detail/cinderella/",
     "http://ogp.me/ns#title": [
       {
@@ -6071,7 +6921,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/51135657-8580-4afd-8b45-4ce05b260d0c",
+    "@id": "https://grandsballets.com/genid/89a3804afa422229",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6121,7 +6971,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b46446b1-cde6-4e15-8008-40d059a21048",
+    "@id": "https://grandsballets.com/genid/dc1f05816c038367",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6171,7 +7021,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/329996c5-6d3d-4152-9ee9-286835e80a16",
+    "@id": "https://grandsballets.com/genid/52c9ad024b31e2bf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6221,7 +7071,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/252bf2bc-1cd9-4961-ac06-50eb48a64276",
+    "@id": "https://grandsballets.com/genid/681bf456858c69f1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6271,7 +7121,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8be315db-2009-4c3e-a4e1-aa642d52323a",
+    "@id": "https://grandsballets.com/genid/c6fcb3f8f1976d89",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6377,6 +7227,206 @@
     ]
   },
   {
+    "@id": "https://grandsballets.com/genid/b9d95a76cfd0a022",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lady Chatterley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/32bbe4c273ee7db1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-23"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-23"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lady Chatterley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/de771cd19b3606fd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-24"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-24"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lady Chatterley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/47c261071da6eaf8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-25"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-25"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/detail/lady-chatterley/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lady Chatterley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
     "@id": "https://grandsballets.com/en/performances/detail/alice-in-wonderland/",
     "http://ogp.me/ns#title": [
       {
@@ -6433,7 +7483,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4545f92a-3b48-4522-818d-518012e15ab5",
+    "@id": "https://grandsballets.com/genid/e6059f42e4df0ee5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6483,7 +7533,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9acf563a-fe23-4d16-801c-f313aae92790",
+    "@id": "https://grandsballets.com/genid/826397e3b4bca309",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6533,7 +7583,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/14f21ca0-cfc5-4b73-8d13-d64b92eaa639",
+    "@id": "https://grandsballets.com/genid/1b96232d85cd8b4e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6583,7 +7633,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/ee22b4d9-31db-4ee3-9faa-2644b9961ca1",
+    "@id": "https://grandsballets.com/genid/693d3556252bb9a9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6745,7 +7795,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/cf13b323-b96d-4e09-9b0a-49c1996fe192",
+    "@id": "https://grandsballets.com/genid/bc0be5c2486d69d6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6795,7 +7845,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b21bcb4a-a784-4f49-8e8c-ad4333545c73",
+    "@id": "https://grandsballets.com/genid/20b8d9ee69f68ce0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6845,7 +7895,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/dd9b9563-e64e-4a99-bf0b-a83e16f72d1a",
+    "@id": "https://grandsballets.com/genid/3d5ff1dac93f7feb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6895,7 +7945,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9ecd9f27-2ad7-4803-a67c-9880d39c6928",
+    "@id": "https://grandsballets.com/genid/529e4cf248a21a5f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7001,7 +8051,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/e5ea0faa-6975-409d-a9c5-1b8b10bd914f",
+    "@id": "https://grandsballets.com/genid/ccfd8e0967534f44",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7051,7 +8101,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/55d39715-1a79-4bf8-81bd-0f0bb54bddc8",
+    "@id": "https://grandsballets.com/genid/b3c8ea049a5dd5c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7101,7 +8151,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/d69637c4-f73a-4d39-ae33-c31245c1fc7c",
+    "@id": "https://grandsballets.com/genid/12ff32a4d3b01fbc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7151,7 +8201,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/98ceae30-3049-40b0-a1fd-322e4a170bb9",
+    "@id": "https://grandsballets.com/genid/38c21eb988c8d784",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7313,7 +8363,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/63717421-4d12-49a2-810d-84fc3193cbac",
+    "@id": "https://grandsballets.com/genid/53d6ecb1e74dc6c9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7363,7 +8413,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/7a5f8a82-5a8e-434e-a831-a60819ad827b",
+    "@id": "https://grandsballets.com/genid/6ca45e34bbdd63eb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7413,7 +8463,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/4ac111a2-f838-4bf7-a70a-1b28bf1d44ac",
+    "@id": "https://grandsballets.com/genid/f22d36b32760f1d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7463,7 +8513,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/f6fd8ffc-c47c-444a-b41d-6bd694960909",
+    "@id": "https://grandsballets.com/genid/33c6377007983ec1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7513,7 +8563,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/249a3bfc-682a-4d12-a9c2-30f57913d5bd",
+    "@id": "https://grandsballets.com/genid/e9a397141bc3fba0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7563,7 +8613,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/225ff99e-60d7-46b7-8ddd-f6239cb56d61",
+    "@id": "https://grandsballets.com/genid/6c89afd1b437eaaa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7613,7 +8663,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/55e127f2-5d20-4881-884d-6f5ea0a414c3",
+    "@id": "https://grandsballets.com/genid/fffea8511007e431",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7663,7 +8713,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2262a166-6b79-4e14-bf3c-69b5af909831",
+    "@id": "https://grandsballets.com/genid/2572f059eb6b3ae3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7713,7 +8763,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8753ecc0-2b70-4488-ac0f-cc6648a9632d",
+    "@id": "https://grandsballets.com/genid/851ca790d38200a5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7763,7 +8813,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2bacb7ce-00db-493c-b165-83de4a3e74ac",
+    "@id": "https://grandsballets.com/genid/83a6a183668af489",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7813,7 +8863,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/dd80210e-6887-43ee-8c01-55b382f8da88",
+    "@id": "https://grandsballets.com/genid/6a581a698fb3aad7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7863,7 +8913,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/50ce4dac-e900-40f7-a109-ec13917455c8",
+    "@id": "https://grandsballets.com/genid/d4d8361f5ef1409e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7913,7 +8963,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/32f6a3c0-0558-45c4-b442-1567cf96c10b",
+    "@id": "https://grandsballets.com/genid/c8e728dd2572fcba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7963,7 +9013,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/b66584a6-5783-41fd-b012-74f822c65f67",
+    "@id": "https://grandsballets.com/genid/911237a5382ab889",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8013,7 +9063,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/0f46c3db-2590-4b2a-9c22-a2732fa32a37",
+    "@id": "https://grandsballets.com/genid/39af78c5203915a5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8063,7 +9113,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/9e7c5db9-3ea2-4ea5-9dc4-3ad10b80b18a",
+    "@id": "https://grandsballets.com/genid/02f0f93ba92318f4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8113,7 +9163,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/29ff0ea8-8741-4eb8-aed1-2df60ce6ee46",
+    "@id": "https://grandsballets.com/genid/3913a3041c007511",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8219,6 +9269,856 @@
     ]
   },
   {
+    "@id": "https://grandsballets.com/genid/9bbf67e913abc8bf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/29ed33a572e5bdee",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/052385b46996fb02",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/e1bac4a6851b65cb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-11"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-11"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/2f0c84f87b1d54d8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/06a0657075532704",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/1ca737deaadc0c19",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/43758d17955c3b2a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-18"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-18"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/4219ece79c59940c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/fff76a69965888c9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/748a25a35b3fb3c2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/a7383171e1406173",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-23"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-23"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/85663582fb1df66e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-26"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-26"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/14c5e16dfc84cc53",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-27"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-27"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/5ec946b5bdfc29db",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-28"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/3f63106c765ebc01",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-29"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-29"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandsballets.com/genid/0ed2f9b33b279e0b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-30"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandsballets.com/genid/c5b63816242fc237"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandsballets.com/workspace/uploads/spectacles/1920x1080_gb_casse_noisette-1742314837.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandsballets.com/en/performances/nutcracker/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Grands Ballets presents its fabulous ballet The Nutcracker. Treat yourself to a getaway to the Land of Snow and the Kingdom of Sweets!"
+      }
+    ]
+  },
+  {
     "@id": "https://grandsballets.com/en/support-us/the-nutcracker-market/",
     "http://ogp.me/ns#title": [
       {
@@ -8275,7 +10175,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/6a30d152-6130-4696-a67a-06bf3c61e222",
+    "@id": "https://grandsballets.com/genid/eb5f98f31f3a9ab9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8325,7 +10225,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/e28f8e6a-5689-4831-a539-7e861ba84e2a",
+    "@id": "https://grandsballets.com/genid/4ab9c28c410dafee",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8375,7 +10275,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/944947f0-cf44-4eb9-8c94-a3bdf532b9f5",
+    "@id": "https://grandsballets.com/genid/ea74c71abfc290cf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8425,7 +10325,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/83fd70e2-1584-4b1e-afc2-c535dc18552b",
+    "@id": "https://grandsballets.com/genid/34e5d79c26dbd8df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8475,7 +10375,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/d3e050fe-07c5-40e2-b366-dcb46f48d67a",
+    "@id": "https://grandsballets.com/genid/aa91900c1a4fb7a9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8525,7 +10425,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/2f55223e-9596-4d45-bd8a-ac995df08ef3",
+    "@id": "https://grandsballets.com/genid/5cab11fbf896ee57",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8575,7 +10475,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/f7ca7753-129c-4fcc-8490-26a39854a4a4",
+    "@id": "https://grandsballets.com/genid/62285b32935b5bd7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8625,7 +10525,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c1a300f3-9611-4b20-a71f-a0bb471df2a6",
+    "@id": "https://grandsballets.com/genid/d9890b4b2331740f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8675,7 +10575,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/89552a3f-52ce-4c9d-b786-a2def5c2b174",
+    "@id": "https://grandsballets.com/genid/f8d76d87c3a4de0b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8725,7 +10625,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/8da0b1dd-c5e4-438c-afff-cb042d4012fa",
+    "@id": "https://grandsballets.com/genid/948effe135bd0595",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8775,7 +10675,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/70502b3d-789c-44ed-8462-f933e2531681",
+    "@id": "https://grandsballets.com/genid/8363106d54739338",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8825,7 +10725,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/23e5aabc-df05-4eb6-807e-a574cba3ccd1",
+    "@id": "https://grandsballets.com/genid/8e909bd59e908e91",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8875,7 +10775,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/a15aff63-7d3e-4116-9be7-40fa0aa9e07e",
+    "@id": "https://grandsballets.com/genid/bc599c69c57932d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8925,7 +10825,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/706215fb-41ba-4453-8295-5187397414ae",
+    "@id": "https://grandsballets.com/genid/9f1e690f2b194166",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8975,7 +10875,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/c22c6d1b-7b62-44b9-8b96-348960d4006b",
+    "@id": "https://grandsballets.com/genid/94a779189c59d59f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9025,7 +10925,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/dba630b8-69cb-4875-94ec-7056c678c5fc",
+    "@id": "https://grandsballets.com/genid/f177fbf143b1fd1a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9075,7 +10975,7 @@
     ]
   },
   {
-    "@id": "https://grandsballets.com/temporary/583178c8-a7b3-498f-91df-30f7da46ae6e",
+    "@id": "https://grandsballets.com/genid/9a4e0c28b3e1992d",
     "@type": [
       "http://schema.org/Event"
     ],
