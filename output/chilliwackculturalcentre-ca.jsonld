@@ -1,509 +1,5 @@
 [
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Art of Local Music - Chilliwack Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Price: $35 – All Seats Date and Time: August 22, 2026 – 2:00 pm     Come enjoy a laid-back August afternoon with us in our Rotary Hall Studio Theatre. […]"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Chilliwack Cultural Centre"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2026-07-29T16:48:14+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2026/03/Art-of-Local-Music-2026_WEB-1.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1200"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "1800"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2026/03/Art-of-Local-Music-2026_WEB-1.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-24T22:01:05+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-29T16:48:14+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/a1f78941dc865844"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Art of Local Music - Chilliwack Cultural Centre"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/#website",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/#organization"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chilliwack Cultural Centre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2026/03/Art-of-Local-Music-2026_WEB-1.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2026/03/Art-of-Local-Music-2026_WEB-1.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1200"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1800"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/a1f78941dc865844",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/#organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chilliwack Cultural Centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2023/02/ChilliwackCulturalCentre_LOGO.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2023/02/ChilliwackCulturalCentre_LOGO.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "872"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "259"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "Chilliwack Cultural Centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-22T14:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-22T16:00:00-07:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/8a1671485edc4d70"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/ecf81d7f9945f74f"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/598d8c44748e7423"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Art of Local Music"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Price: $35 &#8211; All Seats Date and Time: August 22, 2026 – 2:00 pm &nbsp; &nbsp; Come enjoy a laid-back August afternoon with us in our Rotary Hall Studio Theatre. [&hellip;]"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/8a1671485edc4d70",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/venue/rotary-hall-studio-theatre/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/097922b6c9deced3"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Rotary Hall Studio Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "604.392.8000"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/ecf81d7f9945f74f",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chilliwack Arts &#038; Cultural Centre Society"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "604-391-7469"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/598d8c44748e7423",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/art-of-local-music/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-24T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "35"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/097922b6c9deced3",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "9201 Corbould St"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Chilliwack"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "British Columbia"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V2P 4A6"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
     "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/queen-its-a-kinda-magic/",
     "http://ogp.me/ns#locale": [
       {
@@ -641,6 +137,40 @@
     ]
   },
   {
+    "@id": "https://www.chilliwackculturalcentre.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chilliwack Cultural Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
     "@id": "https://www.chilliwackculturalcentre.ca/ccc-event/queen-its-a-kinda-magic/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
@@ -683,6 +213,73 @@
       {
         "@language": "en",
         "@value": "https://www.chilliwackculturalcentre.ca/ccc-event/queen-its-a-kinda-magic/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chilliwackculturalcentre.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chilliwack Cultural Centre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chilliwackculturalcentre.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2023/02/ChilliwackCulturalCentre_LOGO.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/wordpress/wp-content/uploads/2023/02/ChilliwackCulturalCentre_LOGO.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "872"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "259"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Chilliwack Cultural Centre"
       }
     ]
   },
@@ -873,6 +470,42 @@
       {
         "@language": "en",
         "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/097922b6c9deced3",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "9201 Corbould St"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Chilliwack"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V2P 4A6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
       }
     ]
   },
@@ -1170,6 +803,41 @@
       {
         "@language": "en",
         "@value": "604.392.8000"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/ecf81d7f9945f74f",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chilliwackculturalcentre.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chilliwack Arts &#038; Cultural Centre Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "604-391-7469"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
       }
     ]
   },
@@ -4044,7 +3712,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-08-07T20:55:19+00:00"
+        "@value": "2026-08-25T16:23:05+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4108,7 +3776,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-07T20:55:19+00:00"
+        "@value": "2026-08-25T16:23:05+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -4755,7 +4423,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-07-22T17:11:18+00:00"
+        "@value": "2026-08-25T22:26:35+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4819,7 +4487,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-22T17:11:18+00:00"
+        "@value": "2026-08-25T22:26:35+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -6189,7 +5857,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/975007360431563e",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/555eacdb434b6a3d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6344,7 +6012,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/beb7579b6f28304e",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/0d98aae62aefd739",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9211,7 +8879,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/9e62a127accfb144",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/f3a3d87da2657210",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9366,7 +9034,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/ac47dfc3c35cd9ef",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/a90457b902aa5e18",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13892,7 +13560,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://www.chilliwackculturalcentre.ca/genid/f6883887ba58c67d"
+        "@id": "https://www.chilliwackculturalcentre.ca/genid/1fbeec0029d908e0"
       }
     ],
     "http://schema.org/offers": [
@@ -13934,7 +13602,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/f6883887ba58c67d",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/1fbeec0029d908e0",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -13964,7 +13632,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "o&#102;&#102;&#105;&#99;e&#64;cso&#112;a.&#99;a"
+        "@value": "of&#102;&#105;&#99;&#101;&#64;&#99;s&#111;&#112;a&#46;c&#97;"
       }
     ]
   },
@@ -17360,7 +17028,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/2e7490e8ff61f054",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/cc2ac93922ef5103",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17515,7 +17183,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/d377081b871e5707",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/e723b9e9665aecf7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17632,7 +17300,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/1f025596c178e585",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/2e90bd6319fd6d33",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17749,7 +17417,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/244da0bf372f9f6d",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/3e77403552b80db6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17866,7 +17534,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/495e48a70360b7da",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/1e8d06388130d60a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17983,7 +17651,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/6d4b0d95cb65064d",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/73e70a5e7cd45a07",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18100,7 +17768,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/9886aa30772616f6",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/6289fd06bbd826e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18217,7 +17885,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/d0dff3858e81e60a",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/35b261a5b71231bb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20303,7 +19971,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/b2106df341e69d84",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/bbefadea85ca6b7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20413,7 +20081,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/cee7fdf430547d4d",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/da88424f7fb750e6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20484,7 +20152,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/cfc89508d7ca880c",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/e0665b966c28bb97",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20595,7 +20263,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-08-17T21:29:41+00:00"
+        "@value": "2026-08-25T22:28:22+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -20659,7 +20327,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-17T21:29:41+00:00"
+        "@value": "2026-08-25T22:28:22+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -21986,7 +21654,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/d965eac24bf7ce49",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/49e1c18ab3dbec14",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22141,7 +21809,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/e21dd871b794898f",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/1da10fb5a8725b3e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23541,7 +23209,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/bfdec7f35c75efe8",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/3584e3086823698f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23617,7 +23285,7 @@
     ]
   },
   {
-    "@id": "https://www.chilliwackculturalcentre.ca/genid/256f30100ab509e1",
+    "@id": "https://www.chilliwackculturalcentre.ca/genid/ab5433fff00eede0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28041,7 +27709,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2026-07-06T22:37:34+00:00"
+        "@value": "2026-08-20T22:49:47+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -28105,7 +27773,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-06T22:37:34+00:00"
+        "@value": "2026-08-20T22:49:47+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
