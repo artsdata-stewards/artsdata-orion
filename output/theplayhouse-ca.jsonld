@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-07/Girls%2B%20Rock%20Camp%20web%20pic.png?itok=IazH9KWq",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Martin%20%26%20McIntyre%20Vs.%20The%20Tech%20Crew%20%281%29.jpg?itok=dM00XaGZ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -84,15 +84,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -167,6 +158,70 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=tLL75Xgz",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Come From Away | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Come From Away"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier",
     "http://ogp.me/ns#site_name": [
       {
@@ -233,78 +288,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Martin%20%26%20McIntyre%20Vs.%20The%20Tech%20Crew%20%281%29.jpg?itok=dM00XaGZ",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=tLL75Xgz",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/come-away-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Come From Away | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Come From Away"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=kUv7X1TQ"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/come-away-4"
       }
     ]
   },
@@ -854,10 +837,16 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -1086,6 +1075,254 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news/employment-opportunity-ticketing-operations-manager"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/c70073fa-ef28-415f-bd37-0c791cd4ec4b.png?itok=Hy1P34gH",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Fredericton%20Playhouse%202026.png?itok=CUOwHOa4",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Joan%20Osborne%20image.png?itok=VGyvbrCN",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival 2026 | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival 2026"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Harvest Music Festival 2026 | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Harvest Music Festival 2026"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Blue%20Moon%20Marquee.png?itok=iz4tOnWe",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Steph%20Strings%20image.png?itok=zO2gyYWU",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Harvest%20Posters.png?itok=AjkJ2XD_",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=5JW2fT77",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/SDN%201900%20x%20600%20pixels%20%2872dpi%29.png?itok=xR07puWK",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -14637,206 +14874,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Joan%20Osborne%20image.png?itok=VGyvbrCN",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Harvest Music Festival 2026 | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Harvest Music Festival 2026"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Harvest Music Festival 2026 | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Harvest Music Festival 2026"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Fredericton%20Playhouse%202026.png?itok=CUOwHOa4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Harvest%20Posters.png?itok=AjkJ2XD_",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Blue%20Moon%20Marquee.png?itok=iz4tOnWe",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Steph%20Strings%20image.png?itok=zO2gyYWU",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/c70073fa-ef28-415f-bd37-0c791cd4ec4b.png?itok=Hy1P34gH",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/SDN%201900%20x%20600%20pixels%20%2872dpi%29.png?itok=xR07puWK",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=5JW2fT77",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=dEQNZ1D0",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -15012,6 +15049,17 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=D7dcJLrn",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       }
     ]
   },
@@ -15349,6 +15397,50 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/news/employment-opportunity-janitorialmaintenance-worker-0",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Janitorial/Maintenance Worker"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/news"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/news/employment-opportunity-janitorialmaintenance-worker-0"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Janitorial/Maintenance Worker | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/news/employment-opportunity-janitorialmaintenance-worker-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Janitorial/Maintenance Worker"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "Responsible to:  Facilities & Systems ManagerHours of Work/Status: Casual; Evenings/nights/weekends as scheduledPay:  $17.95/hourReporting to the Facilities & Systems Manager, the Janitorial/Maintenance Worker plays a key role in the delivery of services to patrons and to clients by maintaining a high level of cleanliness throughout our building.  Specifically, the Janitorial/Maintenance Worker is responsible for cleaning administrative and public spaces as well as performing light maintenance projects like painting, equipment repair and snow shoveling. AccountabilitiesProvide janitorial services to the Fredericton Playhouse as specified by the Facilities and Systems Manager.Maintain an up to date understanding of the principles of WHMIS, and the meaning of the information on labels and MSDSs.Report any maintenance problems encountered to the Facilities & Systems ManagerCommunicate with the Facilities & Systems manager about janitorial supply needs.Complete assigned maintenance and snow shovelling tasksCore CompetenciesAbility to work independently or with othersAvailability to work at night and/or during business hours as requiredAble to lift 50 lbsDependableDesire to meet the high standards of cleanliness expected at the Fredericton PlayhousePlease send resume and cover letter to Jeff Fevens at jeff@theplayhouse.ca by September 16th, 2026."
       }
     ]
   },
@@ -16042,7 +16134,7 @@
     "http://schema.org/text": [
       {
         "@language": "en",
-        "@value": "Fredericton Playhouse Inc., a charitable non-profit organization that manages and develops a 709-seat performance venue. Are you passionate about the performing arts? Do you want to be a part of the team that makes the Playhouse an important part of our community? Any current job openings are listed below; please check back regularly for upcoming opportunities. To read more about our Mission, Vision, and Values, as well as our statement on Diversity, Equity, and Inclusion, please click here.Current OpportunitiesVolunteer- usher, cloak room, greeter "
+        "@value": "Fredericton Playhouse Inc., a charitable non-profit organization that manages and develops a 709-seat performance venue. Are you passionate about the performing arts? Do you want to be a part of the team that makes the Playhouse an important part of our community? Any current job openings are listed below; please check back regularly for upcoming opportunities. To read more about our Mission, Vision, and Values, as well as our statement on Diversity, Equity, and Inclusion, please click here.Current OpportunitiesVolunteer- usher, cloak room, greeterJanitorial/Maintenance Worker"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -17910,7 +18002,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/24f57b94807826a2"
+        "@id": "https://theplayhouse.ca/genid/3c8ad4ab9dc5f400"
       }
     ],
     "http://schema.org/organizer": [
@@ -17974,7 +18066,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/24f57b94807826a2",
+    "@id": "https://theplayhouse.ca/genid/3c8ad4ab9dc5f400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17986,7 +18078,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-12"
+        "@value": "2026-08-31"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -29689,187 +29781,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/girls-rock-camp-2026-final-showcase",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/girls-rock-camp-2026-final-showcase"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Girls%2B%20Rock%20Camp%20web%20pic.png?itok=OkudKd8t"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/970",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/girls-rock-camp-2026-final-showcase"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-29"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/9e4c5b5193b2d591"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/girls-rock-camp-2026-final-showcase"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase"
-      },
-      {
-        "@language": "fr",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Donations are welcome at the door.After a week of writing songs, learning instruments, forming bands, and building confidence, campers will take the stage to perform original music they've created together. The showcase celebrates the creativity, collaboration, and growth of girls, trans, non-binary, and gender-diverse youth in a supportive, inclusive environment. Girls+ Rock Camp empowers young musicians by providing hands-on experience in songwriting, performance, and teamwork while fostering confidence, creativity, and lasting friendships. The final showcase offers the community a chance to"
-      },
-      {
-        "@language": "fr",
-        "@value": "Les dons sont les bienvenus à l’entrée. Après une semaine à écrire des chansons, à découvrir de nouveaux instruments, à jouer en groupe et à gagner en confiance, les personnes participantes monteront sur scène pour présenter leurs créations originales. Ce spectacle célèbre la créativité, la collaboration et le cheminement de jeunes filles ainsi que de jeunes personnes trans, non binaires et de diverses identités de genre, dans un environnement accueillant, inclusif et bienveillant. Le Girls+ Rock Camp permet aux jeunes musiciennes et musiciens d’explorer la composition, l’interprétation et le"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-29T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-29T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/9e4c5b5193b2d591",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-27"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      },
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-07/Girls%2B%20Rock%20Camp%20web%20pic.png?itok=sQVfCULR",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/girls-rock-camp-2026-final-showcase"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/girls-rock-camp-2026-final-showcase"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/girls-rock-camp-2026-final-showcase",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/girls-rock-camp-2026-final-showcase"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Girls+ Rock Camp 2026 Final Showcase"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Girls%2B%20Rock%20Camp%20web%20pic.png?itok=OkudKd8t"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/contact/rental-information/rental-client-assistance-program",
     "http://ogp.me/ns#site_name": [
       {
@@ -32258,7 +32169,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/0825036544fac288"
+        "@id": "https://theplayhouse.ca/genid/b956694f6fd76925"
       }
     ],
     "http://schema.org/organizer": [
@@ -32284,11 +32195,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Friday, August 28, 2026 at 10am. Playhouse Member presale starts on Wednesday, August 26, 2026. Following three very successful performances Frantically Atlantic is pleased to announce their return to the Fredericton Playhouse with Sláinte [IV] A Celtic Soirée on Saint Patrick’s Day - March 17th 2027 at 7:30 pm. Our first three performances saw standing ovations and encores! Sláinte [IV] A Celtic Soirée features a stellar cast of ten artists with instruments that include fiddle, accordion, flute, Uilleann pipes, Irish bouzouki, Irish bodhrans, Irish tin whistles, piano"
+        "@value": "Following three very successful performances Frantically Atlantic is pleased to announce their return to the Fredericton Playhouse with Sláinte [IV] A Celtic Soirée on Saint Patrick’s Day - March 17th 2027 at 7:30 pm. Our first three performances saw standing ovations and encores! Sláinte [IV] A Celtic Soirée features a stellar cast of ten artists with instruments that include fiddle, accordion, flute, Uilleann pipes, Irish bouzouki, Irish bodhrans, Irish tin whistles, piano, bass, guitar, banjo, Shruti box and spoons. This magical performance will take you on a journey as we celebrate our"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le vendredi 28 août 2026 à 10 h. La prévente pour les membres du Playhouse commence le mercredi 26 août 2026.Après trois représentations très réussies, Frantically Atlantic est heureux d’annoncer son retour au Fredericton Playhouse avec Sláinte [IV] A Celtic Soirée le jour de la Saint-Patrick - le 17 mars 2027 à 19h30. Nos trois premières représentations ont été saluées par des ovations debout et des rappels ! Sláinte [IV] A Celtic Soirée met en scène une distribution exceptionnelle de dix artistes jouant des instruments tels que le violon, l’accordéon, la"
+        "@value": "Après trois représentations très réussies, Frantically Atlantic est heureux d’annoncer son retour au Fredericton Playhouse avec Sláinte [IV] A Celtic Soirée le jour de la Saint-Patrick - le 17 mars 2027 à 19h30. Nos trois premières représentations ont été saluées par des ovations debout et des rappels ! Sláinte [IV] A Celtic Soirée met en scène une distribution exceptionnelle de dix artistes jouant des instruments tels que le violon, l’accordéon, la flûte, les Uilleann pipes, le bouzouki irlandais, les bodhrans irlandais, les tin whistles irlandais, le piano, la basse, la guitare, le banjo, la"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -32322,7 +32233,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/0825036544fac288",
+    "@id": "https://theplayhouse.ca/genid/b956694f6fd76925",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -32334,7 +32245,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-24"
+        "@value": "2026-08-28"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -32387,6 +32298,158 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/A%20Celtic%20Soir%C3%A9e%20web%20pic.png?itok=aba-A3Mo"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Phantom of the Opera - The Ballet | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Phantom of the Opera - The Ballet"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=MuQZ6wMv"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/986",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-03"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/f3fa5018b2023045"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Phantom of the Opera - The Ballet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Phantom of the Opera - The Ballet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Tuesday, September 1 at 10am. Playhouse Member presale starts on Sunday, August 30 at 10am.This November, don’t miss Igor Dobrovolskiy’s captivating reimagining of the legendary Phantom of the Opera. Set to the brilliant music of Francis Poulenc, this haunting production brings together beautiful choreography, suspense, love and heartbreak.  PHANTOM OF THE OPERA – THE BALLET, features lush costumes created by Paul Daigle and an intriguing set design by Brian Perchaluk. Pierre Lavoie’s ethereal mix of light and shadows perfectly captures the eerie world where a love"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le mardi 1er septembre à 10 h. La prévente pour les membres du Playhouse commence le dimanche 30 août à 10 h.En novembre, ne manquez pas la captivante réinterprétation du légendaire Fantôme de l’Opéra par Igor Dobrovolskiy. Sur la brillante musique de Francis Poulenc, cette production envoûtante réunit une chorégraphie magnifique, du suspense, de l’amour et des peines de cœur. LE FANTÔME DE L’OPÉRA – LE BALLET présente de somptueux costumes créés par Paul Daigle ainsi qu’une scénographie fascinante de Brian Perchaluk. Le mélange éthéré d’ombre et de"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-03T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-03T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/f3fa5018b2023045",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=203032DA-FA5B-48F8-BEEA-51208B2E69A4&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-26"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=baeYvxd_",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
       }
     ]
   },
@@ -33020,6 +33083,17 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=-gQtPaN_",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/nouvelles",
     "http://ogp.me/ns#site_name": [
       {
@@ -33374,7 +33448,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/8abe84f800e596d1",
+    "@id": "https://theplayhouse.ca/genid/49b5574bcef3d209",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33386,7 +33460,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-12"
+        "@value": "2026-08-31"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -35640,7 +35714,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/ab9759eefa909fed",
+    "@id": "https://theplayhouse.ca/genid/4db6a45a92b44af7",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -35652,7 +35726,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-24"
+        "@value": "2026-08-28"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -35664,6 +35738,72 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Phantom of the Opera - The Ballet | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Phantom of the Opera - The Ballet"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=WaJOWMe2"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/85de93875c0dca0b",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=203032DA-FA5B-48F8-BEEA-51208B2E69A4&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-26"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=aqHUw06a",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet"
       }
     ]
   }
