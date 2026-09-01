@@ -3898,6 +3898,333 @@
     ]
   },
   {
+    "@id": "https://niagarasymphony.com/events/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/a-celebration-of-broadway-song/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_Broadway_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_Broadway_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "575"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "575"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/d5ebd732b71affda",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/7c783d5f947a0c31",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/mozart-mystique-concert-garden-party-at-st-marks-in-niagara-on-the-lake/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreNOTLWEB.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreNOTLWEB.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/da9cacd0fe4ae8f9",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/1293575b234adca2",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c0b1c855d54a2350",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
     "@id": "https://niagarasymphony.com/concerts/",
     "http://ogp.me/ns#locale": [
       {
@@ -4037,7 +4364,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/205df4db72412953",
+    "@id": "https://niagarasymphony.com/genid/d3cde37a6a417649",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4323,7 +4650,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/789b49bd39c00a2f",
+    "@id": "https://niagarasymphony.com/genid/e65b0231c3d5d3e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4433,7 +4760,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/63e8c440939060bc",
+    "@id": "https://niagarasymphony.com/genid/94f13fb20b31c8d8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4679,7 +5006,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/52205754ef441b76",
+    "@id": "https://niagarasymphony.com/genid/48fcc3792310b77e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4886,7 +5213,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/20e6030283665ebd",
+    "@id": "https://niagarasymphony.com/genid/5d219bbb0fa60d19",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5093,7 +5420,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7cdecad035166d55",
+    "@id": "https://niagarasymphony.com/genid/f723cf8dffe6d2fb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5300,7 +5627,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/d3821e395054cc44",
+    "@id": "https://niagarasymphony.com/genid/d347efba2aec1ae4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5507,7 +5834,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/25601834102f2425",
+    "@id": "https://niagarasymphony.com/genid/35a31396b866147a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5714,7 +6041,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/8c16cfefd15227e2",
+    "@id": "https://niagarasymphony.com/genid/29582b1735e0a76b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6009,6 +6336,1795 @@
     ]
   },
   {
+    "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/f24e9870a7e4356d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/b70c1276919797bd",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/8e988d38b2c2c25b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/d4f2c972a92aaddf",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/d3bd89a319b1353b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/?shortcode=4cf8151f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/month/2026-10/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/506d0ee5e2c5a055",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/748864e48adc77e0",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/mozart-mystique/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreWEB.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreWEB.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/ac759dd4c78ffe82",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/the-music-of-phil-collins-genesis/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/f397896ad4740479",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/the-music-of-phil-collins-genesis-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/63139dc6e0751a1f",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/7fe4e78ca942fd03",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/d0939e5467744966",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/bc62f11f07df085d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/ce3f95c4be6f799d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/month/2026-11/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/dreams-dances/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201009-nso_dreamsndances_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201009-nso_dreamsndances_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "863"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/45b4c385c057d43d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-11/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/8a1e74186c6e1779",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-11/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/0a0f66df7ed7c3e8",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-11/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/month/2026-11/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/2026-10-17/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/9ac32fcc850c3a54",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-17/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/496514e1e9636522",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-17/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-17/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/2026-10-18/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/379b352a4d5fc642",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-18/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/123a8ab805401233",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-18/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-18/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/2026-09-13/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/48ff9e8f95146528",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-09-13/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/e817c640fd0611e1",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-09-13/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-09-13/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/2026-10-02/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/ce2caab9118aa0fe",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-02/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/6f8269592caeaafe",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-02/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-02/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/2026-10-04/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/ec2deadc09db1eb8",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-04/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/a36c2265479e2572",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-04/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/2026-10-04/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
     "@id": "https://niagarasymphony.com/events/category/special-event/list/?eventDisplay=past",
     "http://ogp.me/ns#locale": [
       {
@@ -6176,6 +8292,813 @@
       }
     ],
     "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/218ecc8f9fbf0c81",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/3ae884b779e6d5a4",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/b73eacf3f4b677d6",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/58f5bf3555c6b7bc",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/d4defcabee8bad7c",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/5e9594e3131ab019",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/ec942436136696a7",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/1993ca7b32225015",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-04",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/e64fae2c427be84b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/recital-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-04"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOPAC Recital Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/5acaad621de6dc92",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-04"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-04"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/190c0015e67aaf1e",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-10-04"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/special-event/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/special-event/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/95fa4ac4e3edbdb9",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/special-event/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/0fd8bf249aa1a3a8",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/special-event/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/a94a4ea6e277b509",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/special-event/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
       {
         "@language": "en",
         "@value": ""
@@ -6513,7 +9436,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/04ebd68fea9b9532",
+    "@id": "https://niagarasymphony.com/genid/56d1c7b7ed28a2f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6662,7 +9585,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/553f226432091d16",
+    "@id": "https://niagarasymphony.com/genid/1b965cc238d0fe36",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6980,24 +9903,38 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Marina-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/JD-Headshot-web.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BeethovensNinth-web.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Marina-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/JD-Headshot-web.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BeethovensNinth-web.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1607"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1264"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -7009,7 +9946,11 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "Marina"
+        "@value": "Juliette Dunn"
+      },
+      {
+        "@language": "en",
+        "@value": "BeethovensNinth"
       }
     ]
   },
@@ -7160,24 +10101,38 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/NSO-pops-1-070-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/J-Pollock-1119_10748-web.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BT-composite-no-logo-left-lg_web.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/NSO-pops-1-070-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/J-Pollock-1119_10748-web.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BT-composite-no-logo-left-lg_web.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -7189,7 +10144,11 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "Music of John Williams"
+        "@value": "Jeffrey Pollock"
+      },
+      {
+        "@language": "en",
+        "@value": "brass transit"
       }
     ]
   },
@@ -7273,7 +10232,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/a0286b5af506ba9e",
+    "@id": "https://niagarasymphony.com/genid/f578f36cdeeb8028",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7765,12 +10724,18 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/ShengCai.png"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Nagata_Shachu.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/snow_bai-copy.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/ShengCai.png"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Nagata_Shachu.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/snow_bai-copy.jpg"
       }
     ],
     "http://schema.org/width": [
@@ -7794,7 +10759,11 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "Pianist Sheng Cai seated at piano"
+        "@value": "taiko drummers Negate Shachu performing"
+      },
+      {
+        "@language": "en",
+        "@value": "Snow Bai"
       }
     ]
   },
@@ -7945,24 +10914,38 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Rodgers_Hammerstein-1.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Classic_Rock_Jukebox.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Gavin_Hope.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Rodgers_Hammerstein-1.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Classic_Rock_Jukebox.jpg"
+      },
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Gavin_Hope.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -10524,6 +13507,1746 @@
     ]
   },
   {
+    "@id": "https://niagarasymphony.com/events/category/summer-in-niagara/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/summer-in-niagara/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/f7873c496c1d7619",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-in-niagara/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c660f272f36ff9a1",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-in-niagara/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c5b8bdc33fbd8171",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-in-niagara/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/rock/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/rock/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/984d20d9f0559e6b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/de407105e5576d30",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/9c077b6a9dc60e92",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/master-works/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/master-works/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/4f86168094cdb291",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/master-works/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/64aeecc3b7226c61",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/master-works/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/b197d28b59125e1a",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/master-works/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/pops/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/pops/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/18bb8b8797355d9d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/pops/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/4a5a8c6c1e398f39",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/pops/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/abc8068eb9d1ed33",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/pops/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/summer-under-the-pavilion/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/summer-under-the-pavilion/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/dd8aa80ef8d40029",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-under-the-pavilion/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/0f0c0d75ead78cbe",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-under-the-pavilion/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/4c4d42687e97b93d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/summer-under-the-pavilion/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/rock-2/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/rock-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/2b7eab4c81614cf0",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock-2/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/1b7c2decc19349d4",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock-2/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/dba66f9c5c8d5341",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/rock-2/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/nso-classic/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/nso-classic/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/bce54411fd0a76e3",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-classic/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/25dfe94aed414a74",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-classic/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c63310eec8864b65",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-classic/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/nso-now/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/nso-now/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/f477a87bc5558525",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-now/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/6d13d954682dfa72",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-now/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/8098db96c2bc6541",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-now/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/nibbles-and-notes/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/nibbles-and-notes/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/04110e64b4677a9d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nibbles-and-notes/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/bf3da9831d1d8ffd",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nibbles-and-notes/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/e547ec57cd0b1335",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nibbles-and-notes/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/category/nso-family-day/month/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/category/nso-family-day/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/7ca768163257af09",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-family-day/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/a402b94ac02e7112",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-family-day/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c705350502811655",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/nso-family-day/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St. Mark&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
     "@id": "https://niagarasymphony.com/organizer/niagara-symphony-orchestra/",
     "http://ogp.me/ns#locale": [
       {
@@ -10954,40 +15677,6 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/event/a-celebration-of-broadway-song/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_Broadway_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_Broadway_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "575"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "575"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
     "@id": "https://niagarasymphony.com/genid/0dd99d06c5ab72ca",
     "@type": [
       "http://schema.org/Place"
@@ -11058,40 +15747,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/event/mozart-mystique-concert-garden-party-at-st-marks-in-niagara-on-the-lake/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreNOTLWEB.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreNOTLWEB.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
       }
     ]
   },
@@ -11214,7 +15869,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01",
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -11281,7 +15936,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/924a911eb35d454c",
+    "@id": "https://niagarasymphony.com/genid/c50f940ab004d71b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11297,7 +15952,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01"
       }
     ],
     "http://schema.org/name": [
@@ -11320,18 +15975,18 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/1ffa5dc2d7826964",
+    "@id": "https://niagarasymphony.com/genid/81c875a92ac39a1c",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01"
       }
     ],
     "http://schema.org/name": [
@@ -11360,7 +16015,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/8a1997af2b3d6272",
+    "@id": "https://niagarasymphony.com/genid/54ad251c7a84537e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11376,7 +16031,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01"
       }
     ],
     "http://schema.org/name": [
@@ -11399,7 +16054,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/823af2f9e4df8e67",
+    "@id": "https://niagarasymphony.com/genid/c646e71aa224708f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11415,7 +16070,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-01"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-01"
       }
     ],
     "http://schema.org/name": [
@@ -11438,7 +16093,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/events/month/2026-10/",
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -11505,7 +16160,86 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/506d0ee5e2c5a055",
+    "@id": "https://niagarasymphony.com/genid/4457ffc493956a39",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/c15ee76a9e681a97",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/2782a943c9214077",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11521,7 +16255,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31"
       }
     ],
     "http://schema.org/name": [
@@ -11544,76 +16278,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/748864e48adc77e0",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/event/mozart-mystique/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreWEB.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/NSO_MozartMoreWEB.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/ac759dd4c78ffe82",
+    "@id": "https://niagarasymphony.com/genid/f69b956b8e5141f1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11629,7 +16294,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-31"
       }
     ],
     "http://schema.org/name": [
@@ -11652,154 +16317,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/event/the-music-of-phil-collins-genesis/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/f397896ad4740479",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/event/the-music-of-phil-collins-genesis-2/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201018-nso_philcollins_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/63139dc6e0751a1f",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-10/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/2026-10-02/",
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -11866,7 +16384,86 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/ce2caab9118aa0fe",
+    "@id": "https://niagarasymphony.com/genid/791e289d63c2ad6b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Partridge Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/9812f786949d775b",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Niagara Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/genid/26529c67f096e3f5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11882,7 +16479,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/2026-10-02/"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
       }
     ],
     "http://schema.org/name": [
@@ -11905,114 +16502,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6f8269592caeaafe",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-10-02/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-10-02/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/2026-10-04/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/ec2deadc09db1eb8",
+    "@id": "https://niagarasymphony.com/genid/c017bb3d2413cc16",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -12028,7 +16518,7 @@
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://niagarasymphony.com/events/2026-10-04/"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
       }
     ],
     "http://schema.org/name": [
@@ -12051,1338 +16541,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/a36c2265479e2572",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-10-04/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-10-04/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/2026-09-13/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/48ff9e8f95146528",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-09-13/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/e817c640fd0611e1",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-09-13/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/2026-09-13/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/218ecc8f9fbf0c81",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/3ae884b779e6d5a4",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/b73eacf3f4b677d6",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St. Mark&#8217;s Church"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/58f5bf3555c6b7bc",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/recital-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-13"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "FOPAC Recital Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/dbfaf94ecf9e9ff3",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/2a097623b03b4eb8",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/6cc205754bf58b0b",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St. Mark&#8217;s Church"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/ab9bf408d4fb2e6e",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/recital-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-07-01"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "FOPAC Recital Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/month/2026-06/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/event/a-john-williams-finale-2/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/10d42bd1542ea29b",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-06/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/6e2da2ae9f35a719",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-06/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/event/a-john-williams-finale/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/d53ba495d7c49078",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-06/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/month/2026-06/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/dc29313a1f70edaa",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/aab240fcc57a76cc",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/b0a40802c60d66bc",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St. Mark&#8217;s Church"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/d946ee44b3fda162",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/recital-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-23"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "FOPAC Recital Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/489ea159c0d8c8ab",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/partridge-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/8419d66659226d45"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Partridge Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/d7177363af2a36db",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Niagara Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/2d992bbae9b463a0",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/st-marks-church/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/5e114b96ae0147a9"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St. Mark&#8217;s Church"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/624878c01c6d3979",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/venue/recital-hall/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://niagarasymphony.com/genid/78e08bc97d374ae2"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "FOPAC Recital Hall"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/genid/f5cf68e949bf2752",
+    "@id": "https://niagarasymphony.com/genid/a8a89b8174b44340",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13410,17 +16569,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://niagarasymphony.com/genid/489ea159c0d8c8ab"
+        "@id": "https://niagarasymphony.com/genid/791e289d63c2ad6b"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://niagarasymphony.com/genid/d7177363af2a36db"
+        "@id": "https://niagarasymphony.com/genid/9812f786949d775b"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-08-25"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-09-02"
       }
     ],
     "http://schema.org/name": [
@@ -42885,6 +46044,40 @@
     ]
   },
   {
+    "@id": "https://niagarasymphony.com/event/a-john-williams-finale-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
     "@id": "https://niagarasymphony.com/genid/17c2f27e0b8e471b",
     "@type": [
       "http://schema.org/ReadAction"
@@ -43167,6 +46360,40 @@
       {
         "@language": "en",
         "@value": "A John Williams Finale  - Niagara Symphony"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/event/a-john-williams-finale/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2025/05/JohnWilliamsFinaleBrochure-Final.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -45191,40 +48418,6 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/event/dreams-dances/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201009-nso_dreamsndances_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2026/06/875201009-nso_dreamsndances_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "863"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
     "@id": "https://niagarasymphony.com/genid/4707fca880c2d3d4",
     "@type": [
       "http://schema.org/ReadAction"
@@ -47223,7 +50416,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/b76c7f22615f9ed3",
+    "@id": "https://niagarasymphony.com/genid/f04d5f931b14a9e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -47412,7 +50605,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/95b81cadf3e8861a",
+    "@id": "https://niagarasymphony.com/genid/6cf852567e0594a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -47562,7 +50755,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/3ef8b7dc46e7c29f",
+    "@id": "https://niagarasymphony.com/genid/320bd604957c3162",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -47633,7 +50826,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/16a1235644014623",
+    "@id": "https://niagarasymphony.com/genid/cbfae1af3d3aac0b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -47704,7 +50897,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/c35227f425d0d5f6",
+    "@id": "https://niagarasymphony.com/genid/a13c1222e5313547",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -47854,7 +51047,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/37294bb89cefb2fd",
+    "@id": "https://niagarasymphony.com/genid/778833a8190be661",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48004,7 +51197,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/5483952b43fa9f3b",
+    "@id": "https://niagarasymphony.com/genid/88dd0ccf493f01f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48075,7 +51268,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/a57b513903644185",
+    "@id": "https://niagarasymphony.com/genid/95a330c8b511b994",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48225,7 +51418,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/1ad267ec20a7f5a1",
+    "@id": "https://niagarasymphony.com/genid/df9de96b3fdabc33",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48415,7 +51608,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/1fdfc9ea3ddaee34",
+    "@id": "https://niagarasymphony.com/genid/364c5573c1c5ff9f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48598,7 +51791,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7540c7bdc3dd2c3b",
+    "@id": "https://niagarasymphony.com/genid/ab6989ea9b0536af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48610,13 +51803,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:48:58-04:00"
+        "@value": "2026-09-01T12:33:42-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:48:58-04:00"
+        "@value": "2026-09-01T12:33:42-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -48738,7 +51931,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/f78a142e9916f381",
+    "@id": "https://niagarasymphony.com/genid/12af7d3711273b5b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -48967,7 +52160,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/a7e60fdd9b2e4695",
+    "@id": "https://niagarasymphony.com/genid/76dfa096d0a819a7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -49184,7 +52377,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/2ce33384184fb5a3",
+    "@id": "https://niagarasymphony.com/genid/1f4890b8973ef87f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -49196,13 +52389,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:49:12-04:00"
+        "@value": "2026-09-01T12:34:02-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:49:12-04:00"
+        "@value": "2026-09-01T12:34:02-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -49363,7 +52556,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/38c92cec01fefcaf",
+    "@id": "https://niagarasymphony.com/genid/a597fd0236e49757",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -49546,7 +52739,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/0baed85fcc1b8ab8",
+    "@id": "https://niagarasymphony.com/genid/e80cf11bc1215221",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -49558,13 +52751,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:49:20-04:00"
+        "@value": "2026-09-01T12:34:14-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:49:20-04:00"
+        "@value": "2026-09-01T12:34:14-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -49686,7 +52879,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/f2b8629fea8dcc69",
+    "@id": "https://niagarasymphony.com/genid/119a207c089e8e30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -49876,7 +53069,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6c9a1dae43a0d9ed",
+    "@id": "https://niagarasymphony.com/genid/8144f817a395d398",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50105,7 +53298,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/21ffa2c547f895cc",
+    "@id": "https://niagarasymphony.com/genid/c0219412d2411b06",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50216,7 +53409,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/63dedea7d471a46b",
+    "@id": "https://niagarasymphony.com/genid/c41600ea1ab65b61",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50366,7 +53559,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/40a6c001e8d18899",
+    "@id": "https://niagarasymphony.com/genid/4e82480c17f9ce93",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50556,7 +53749,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/34c311b5be8abe44",
+    "@id": "https://niagarasymphony.com/genid/f21319cfb2fcb5ba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50746,7 +53939,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/bd2aeb9390db82fd",
+    "@id": "https://niagarasymphony.com/genid/ed5f52da63da2e4f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -50975,7 +54168,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/93b38652bf5dae5d",
+    "@id": "https://niagarasymphony.com/genid/64b88ed0945bf15c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51197,7 +54390,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/81622f63d27e6e50",
+    "@id": "https://niagarasymphony.com/genid/4e61eab9064b758b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51209,13 +54402,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:01-04:00"
+        "@value": "2026-09-01T12:35:13-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:01-04:00"
+        "@value": "2026-09-01T12:35:13-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -51382,7 +54575,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/947d719c115523f3",
+    "@id": "https://niagarasymphony.com/genid/a195f786be8d7a03",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51544,7 +54737,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/9f5d1df0574246d4",
+    "@id": "https://niagarasymphony.com/genid/3decde305bd533a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51761,7 +54954,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7049d142b3a6cf50",
+    "@id": "https://niagarasymphony.com/genid/63c0eb582450840f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51978,7 +55171,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/ed7f2ce93d5ec9bf",
+    "@id": "https://niagarasymphony.com/genid/33dd3a1bbe5c74f8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -51990,13 +55183,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:15-04:00"
+        "@value": "2026-09-01T12:35:35-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:15-04:00"
+        "@value": "2026-09-01T12:35:35-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -52157,7 +55350,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/5dfab713263209f9",
+    "@id": "https://niagarasymphony.com/genid/62842f565fc1dbbc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -52374,7 +55567,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/98ffe5188767cb76",
+    "@id": "https://niagarasymphony.com/genid/ef6d65923c703b27",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -52386,13 +55579,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:28-04:00"
+        "@value": "2026-09-01T12:35:51-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:28-04:00"
+        "@value": "2026-09-01T12:35:51-04:00"
       }
     ],
     "http://schema.org/location": [
@@ -52486,7 +55679,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/1a5f6ecee1d11418",
+    "@id": "https://niagarasymphony.com/genid/053fc282f49a982b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -52709,7 +55902,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/67fe94ed07795e44",
+    "@id": "https://niagarasymphony.com/genid/0eda33147ee7a1fc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -52859,7 +56052,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/27c3f19634279015",
+    "@id": "https://niagarasymphony.com/genid/0c9c6a23ef01acdb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -52930,7 +56123,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/fc652799f59a781d",
+    "@id": "https://niagarasymphony.com/genid/475e05dcc084af93",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -53074,7 +56267,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/cec526496daa5886",
+    "@id": "https://niagarasymphony.com/genid/4ef7ae976a4619d5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -53086,13 +56279,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:39-04:00"
+        "@value": "2026-09-01T12:36:04-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-25T07:50:39-04:00"
+        "@value": "2026-09-01T12:36:04-04:00"
       }
     ],
     "http://schema.org/location": [
