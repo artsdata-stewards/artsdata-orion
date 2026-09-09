@@ -1,0 +1,22 @@
+name: Fetch topo-art Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1'
+      
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "topo-art"
+          publisher: "https://github.com/fjjulien#this"
+          page-url: "https://topo.art/programmation/"
+          entity-identifier: "div.elementor-widget-container a"
+          is-paginated: "true"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
