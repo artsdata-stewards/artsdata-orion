@@ -35,12 +35,12 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/05/BSO-Baroque-Summer-event-image.webp"
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/05/BSO-Baroque-Summer-event-image.webp"
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
       }
     ],
     "http://schema.org/width": [
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/9a8d6d21b1359593",
+    "@id": "https://brantfordsymphony.ca/genid/da33e063b0b30618",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -168,29 +168,29 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "&#97;d&#109;inis&#116;r&#97;&#116;&#111;&#114;&#64;&#98;ra&#110;t&#102;&#111;&#114;ds&#121;m&#112;ho&#110;y.ca"
+        "@value": "administrator@brantfordsymphony.ca"
       }
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/d5cba1b24b136ba2",
+    "@id": "https://brantfordsymphony.ca/genid/d72b571d69c69272",
     "@type": [
-      "http://schema.org/Person"
+      "http://schema.org/Place"
     ],
-    "http://schema.org/url": [
+    "http://schema.org/address": [
       {
-        "@id": "https://brantfordsymphony.ca"
+        "@id": "https://brantfordsymphony.ca/genid/d2d3b0538691a047"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://brantfordsymphony.ca"
+        "@id": "https://glenhyrst.ca/coach-house-stage"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
+        "@value": "The Coach House at Glenhyrst Gardens"
       }
     ],
     "http://schema.org/description": [
@@ -202,75 +202,229 @@
     "http://schema.org/telephone": [
       {
         "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;ni&#115;t&#114;a&#116;&#111;r&#64;&#98;ra&#110;&#116;f&#111;rd&#115;&#121;mp&#104;&#111;&#110;&#121;.ca"
+        "@value": ""
       }
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/ec838f31e5c379ee",
+    "@id": "https://brantfordsymphony.ca/genid/d2d3b0538691a047",
     "@type": [
-      "http://schema.org/Person"
+      "http://schema.org/PostalAddress"
     ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
+    "http://schema.org/streetAddress": [
       {
         "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
+        "@value": "20 Ava Road"
       }
     ],
-    "http://schema.org/description": [
+    "http://schema.org/addressLocality": [
       {
         "@language": "en",
-        "@value": ""
+        "@value": "Brantford"
       }
     ],
-    "http://schema.org/telephone": [
+    "http://schema.org/addressRegion": [
       {
         "@language": "en",
-        "@value": "519-759-8781"
+        "@value": "ON"
       }
     ],
-    "http://schema.org/email": [
+    "http://schema.org/postalCode": [
       {
         "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;&#110;&#105;&#115;tr&#97;&#116;or&#64;&#98;&#114;&#97;&#110;tford&#115;&#121;&#109;ph&#111;ny.&#99;a"
+        "@value": "N3T 5G9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
       }
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/e9e09a11ab6b844c",
+    "@id": "https://brantfordsymphony.ca/genid/aeec78fdb1e6d49a",
     "@type": [
-      "http://schema.org/Person"
+      "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://brantfordsymphony.ca"
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
       }
     ],
-    "http://schema.org/sameAs": [
+    "http://schema.org/validFrom": [
       {
-        "@id": "https://brantfordsymphony.ca"
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Violin & Guitar Salon at Glenhyrst - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://brantfordsymphony.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T14:22:40+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/1851ae4c99e08a2f"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "BSO Prelude Concert I:\nSalon de Musique at Glenhyrst\nVIOLIN & GUITAR SALON\nFeaturing\nFrançois Koh, Artistic Director Candidate\nAysel Taghi-Zada, Guest Concertmaster\nCharming Melodies for Violin & Guitar\nRomantic Waltzes to French Chansons\nDoors Open: 7:00 p.m.\nConcert: 7:30 p.m.\nTickets for this event are only available on the Glenhyrst"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-json/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
+        "@value": "Violin & Guitar Salon at Glenhyrst - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/f32b410a83186d66",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/b355ef805dca3c68"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.lynnwoodarts.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lynwood Arts Centre"
       }
     ],
     "http://schema.org/description": [
@@ -282,13 +436,707 @@
     "http://schema.org/telephone": [
       {
         "@language": "en",
-        "@value": "519-759-8781"
+        "@value": ""
       }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/b355ef805dca3c68",
+    "@type": [
+      "http://schema.org/PostalAddress"
     ],
-    "http://schema.org/email": [
+    "http://schema.org/streetAddress": [
       {
         "@language": "en",
-        "@value": "&#97;&#100;&#109;i&#110;is&#116;r&#97;t&#111;r&#64;bra&#110;&#116;&#102;o&#114;&#100;&#115;y&#109;p&#104;o&#110;y&#46;&#99;a"
+        "@value": "22 Lynwood Avenue"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Simcoe"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "N3Y 2V7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/3dc5e657d631b69e",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Flute & Guitar Salon at Lynnwood Arts Centre - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://brantfordsymphony.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T14:31:50+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ede590c2ba05b1ee"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "BSO Prelude Concert II:\nSalon de Musique at Lynnwood Arts Centre\nFLUTE & GUITAR SALON\nFeaturing\nFrançois Koh, Artistic Director Candidate\nSarah Yunji Moon, Flute\nCharming Melodies for Flute & Guitar\nRomantic Waltzes to French Chansons\nConcert: 2:00 p.m.\nTickets for this event are only available at the link below.\nClick"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Flute & Guitar Salon at Lynnwood Arts Centre - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/4069846c2a55347f",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ddb93ae8c32de35d"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.graceunitedportdover.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Grace United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/ddb93ae8c32de35d",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "18 Chapman St. W."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Port Dover"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "N0A 1N0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/967279ebb106ebac",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Violin & Guitar Salon at Grace United Church - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-09-10T16:29:43+00:00"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "2026-09-10T16:29:43-04:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://brantfordsymphony.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T14:46:08+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T16:29:43+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/5027928f84d797b1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "BSO Prelude Concert III:\nSalon de Musique at Grace United Church\nVIOLIN & GUITAR SALON\nFeaturing\nFrançois Koh, Artistic Director Candidate\nAysel Taghi-Zada, Guest Concertmaster\nCharming Melodies for Violin & Guitar\nRomantic Waltzes to French Chansons\nDoors Open: 7:00 p.m.\nConcert: 7:30 p.m.\nTickets for this event are only available at"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Violin & Guitar Salon at Grace United Church - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/5ad347f4497907e6",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/4e53762677dbc598"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.forparis.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Paris Community Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/4e53762677dbc598",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "164 Grand River St. N."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Paris"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "N3L 1N4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/9c6012d2ff01c488",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Salon de Musique in Paris - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-09-10T14:50:24+00:00"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "2026-09-10T14:50:24-04:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://brantfordsymphony.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T14:46:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T14:50:24+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/d931948d3584f45e"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "BSO Prelude Concert IV:\nSalon de Musique at Paris Community Church\nFLUTE & GUITAR SALON\nFeaturing\nFrançois Koh, Conductor\nSarah Yunji Moon, Piccolo\nVirtuosic Classics for Piccolo & Orchestra\nRomantic Waltzes to French Chansons\nConcert:7:30 p.m.\nTickets for this event are only available at the link below.\nClick here to order"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salon de Musique in Paris - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
       }
     ]
   },
@@ -487,6 +1335,18 @@
       },
       {
         "@id": "https://brantfordsymphony.ca/event/his-and-hers-with-guest-conductors-sharon-lee-marcus-scholtes/"
+      },
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      },
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      },
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      },
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
       }
     ]
   },
@@ -8666,7 +9526,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/24fcb605bd39bf88"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -8742,7 +9602,7 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/24fcb605bd39bf88",
+    "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -8772,7 +9632,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "a&#100;&#109;i&#110;is&#116;r&#97;t&#111;&#114;&#64;b&#114;&#97;&#110;&#116;fo&#114;&#100;symphony.c&#97;"
+        "@value": "administrator@brantfordsymphony.ca"
       }
     ]
   },
@@ -8898,7 +9758,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/f3cc485135f191d5"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -8975,41 +9835,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/f3cc485135f191d5",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;d&#109;&#105;&#110;istr&#97;&#116;or&#64;&#98;ra&#110;t&#102;&#111;r&#100;s&#121;mph&#111;&#110;y&#46;&#99;&#97;"
       }
     ]
   },
@@ -9134,7 +9959,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/0297598618e3e120"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -9211,41 +10036,6 @@
       {
         "@language": "en",
         "@value": "519-753-0414"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/0297598618e3e120",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;d&#109;&#105;&#110;&#105;&#115;t&#114;at&#111;&#114;&#64;&#98;&#114;&#97;&#110;&#116;&#102;o&#114;&#100;sy&#109;&#112;&#104;&#111;ny&#46;c&#97;"
       }
     ]
   },
@@ -9406,7 +10196,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/76b0675c6b5300e3"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -9478,41 +10268,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/76b0675c6b5300e3",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;dmini&#115;&#116;&#114;&#97;tor&#64;&#98;&#114;&#97;&#110;&#116;&#102;or&#100;sy&#109;p&#104;ony.&#99;a"
       }
     ]
   },
@@ -9602,7 +10357,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/ab6b2d4107cb24ee"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -9674,41 +10429,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/ab6b2d4107cb24ee",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;mi&#110;is&#116;rat&#111;&#114;&#64;b&#114;an&#116;f&#111;&#114;ds&#121;&#109;pho&#110;y.ca"
       }
     ]
   },
@@ -9798,7 +10518,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/6c3ba8b7a8b6b474"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -9870,41 +10590,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/6c3ba8b7a8b6b474",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;&#110;&#105;&#115;&#116;ra&#116;o&#114;&#64;b&#114;a&#110;tf&#111;rds&#121;&#109;&#112;&#104;ony&#46;c&#97;"
       }
     ]
   },
@@ -9988,7 +10673,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/bd6c049fcfcc074b"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -10065,41 +10750,6 @@
       {
         "@language": "en",
         "@value": "519-753-0414"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/bd6c049fcfcc074b",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;dm&#105;n&#105;s&#116;ra&#116;o&#114;&#64;br&#97;ntfor&#100;&#115;ymp&#104;o&#110;&#121;.&#99;&#97;"
       }
     ]
   },
@@ -10224,7 +10874,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/3ead1f5f58cc2e38"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -10296,41 +10946,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/3ead1f5f58cc2e38",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;&#110;&#105;st&#114;&#97;tor&#64;&#98;r&#97;ntf&#111;r&#100;&#115;ym&#112;&#104;&#111;&#110;&#121;.&#99;a"
       }
     ]
   },
@@ -10414,7 +11029,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/f856d66bc62df4ad"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -10486,41 +11101,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/f856d66bc62df4ad",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;mi&#110;i&#115;tra&#116;o&#114;&#64;br&#97;&#110;&#116;for&#100;&#115;&#121;m&#112;h&#111;ny&#46;c&#97;"
       }
     ]
   },
@@ -10610,7 +11190,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/94691b0a91de2ec0"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -10626,7 +11206,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Mozart&#8217;s Concerto with Flute &#038; Harp"
+        "@value": "Mozart’s Concerto with Flute & Harp"
       }
     ],
     "http://schema.org/description": [
@@ -10682,41 +11262,6 @@
       {
         "@language": "en",
         "@value": "519-752-5823"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/94691b0a91de2ec0",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;&#110;&#105;st&#114;ator&#64;&#98;ra&#110;&#116;&#102;&#111;&#114;&#100;&#115;ymp&#104;o&#110;&#121;.c&#97;"
       }
     ]
   },
@@ -10842,7 +11387,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/f1005d74be9d22b6"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -10914,41 +11459,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/f1005d74be9d22b6",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;mi&#110;&#105;&#115;t&#114;&#97;&#116;o&#114;&#64;b&#114;a&#110;&#116;ford&#115;y&#109;&#112;h&#111;n&#121;.&#99;a"
       }
     ]
   },
@@ -11038,7 +11548,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/41f873610cbad795"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -11110,41 +11620,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/41f873610cbad795",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;mi&#110;&#105;&#115;t&#114;at&#111;r&#64;&#98;ran&#116;for&#100;&#115;&#121;m&#112;ho&#110;&#121;&#46;&#99;a"
       }
     ]
   },
@@ -11234,7 +11709,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/fbae2469aace8b22"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -11306,41 +11781,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/fbae2469aace8b22",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;ministr&#97;t&#111;&#114;&#64;b&#114;&#97;&#110;tf&#111;&#114;d&#115;&#121;mp&#104;o&#110;y&#46;ca"
       }
     ]
   },
@@ -11419,7 +11859,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/92ffaf5462051589"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -11457,41 +11897,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/92ffaf5462051589",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "admi&#110;i&#115;tra&#116;&#111;r&#64;b&#114;&#97;n&#116;for&#100;s&#121;&#109;&#112;&#104;o&#110;y&#46;ca"
       }
     ]
   },
@@ -11616,7 +12021,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/cc222ebf78cd449d"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -11688,41 +12093,6 @@
       {
         "@language": "en",
         "@value": "519-753-0414"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/cc222ebf78cd449d",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;i&#110;&#105;s&#116;&#114;&#97;t&#111;r&#64;&#98;&#114;&#97;&#110;t&#102;ords&#121;&#109;&#112;hon&#121;&#46;ca"
       }
     ]
   },
@@ -11812,7 +12182,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/83f5af443e6344fd"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -11884,41 +12254,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/83f5af443e6344fd",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;ini&#115;&#116;r&#97;&#116;o&#114;&#64;b&#114;a&#110;t&#102;o&#114;&#100;&#115;&#121;mpho&#110;&#121;.ca"
       }
     ]
   },
@@ -12038,7 +12373,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/9c9405626a92a543"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -12110,41 +12445,6 @@
       {
         "@language": "en",
         "@value": "519-752-5823"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/9c9405626a92a543",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adm&#105;&#110;i&#115;tr&#97;t&#111;r&#64;&#98;ra&#110;t&#102;&#111;&#114;d&#115;&#121;&#109;p&#104;ony&#46;&#99;a"
       }
     ]
   },
@@ -12228,7 +12528,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/fd19aa94aa4fc6a6"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -12249,7 +12549,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Culture Days &#8211; Free Backstage Event"
+        "@value": "Culture Days – Free Backstage Event"
       }
     ],
     "http://schema.org/description": [
@@ -12305,41 +12605,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/fd19aa94aa4fc6a6",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;mi&#110;&#105;&#115;trator&#64;br&#97;n&#116;f&#111;&#114;&#100;&#115;&#121;&#109;&#112;&#104;&#111;ny&#46;c&#97;"
       }
     ]
   },
@@ -12464,7 +12729,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/9a37e7ce54691bb5"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -12536,41 +12801,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/9a37e7ce54691bb5",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;&#105;&#110;is&#116;rat&#111;&#114;&#64;b&#114;an&#116;fo&#114;&#100;&#115;y&#109;&#112;ho&#110;&#121;&#46;&#99;&#97;"
       }
     ]
   },
@@ -12654,7 +12884,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/87e96558839c0b97"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -12726,41 +12956,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/87e96558839c0b97",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;in&#105;&#115;tra&#116;or&#64;b&#114;ant&#102;ords&#121;m&#112;&#104;&#111;ny.&#99;&#97;"
       }
     ]
   },
@@ -12844,7 +13039,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/80d7761e2cfd9416"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -12921,41 +13116,6 @@
       {
         "@language": "en",
         "@value": "519-753-0414"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/80d7761e2cfd9416",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;&#110;i&#115;&#116;&#114;at&#111;&#114;&#64;&#98;r&#97;&#110;tf&#111;r&#100;symp&#104;ony&#46;ca"
       }
     ]
   },
@@ -13080,7 +13240,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/d19838b9343fb0d4"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -13152,41 +13312,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/d19838b9343fb0d4",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adm&#105;nis&#116;r&#97;&#116;or&#64;&#98;&#114;a&#110;&#116;fo&#114;&#100;&#115;&#121;&#109;&#112;hony.&#99;&#97;"
       }
     ]
   },
@@ -13270,7 +13395,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/f0f4386a8aea5170"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -13342,41 +13467,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/f0f4386a8aea5170",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;ni&#115;tr&#97;&#116;&#111;r&#64;b&#114;a&#110;&#116;&#102;or&#100;s&#121;mph&#111;&#110;y&#46;&#99;a"
       }
     ]
   },
@@ -13460,7 +13550,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/faf38da9c199c075"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -13532,41 +13622,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/faf38da9c199c075",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;i&#110;i&#115;&#116;rator&#64;bra&#110;&#116;fo&#114;&#100;&#115;y&#109;&#112;ho&#110;&#121;.&#99;&#97;"
       }
     ]
   },
@@ -13650,7 +13705,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/9d9ea8fab49c64bf"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -13722,41 +13777,6 @@
       {
         "@language": "en",
         "@value": "519-752-5823"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/9d9ea8fab49c64bf",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "admin&#105;&#115;t&#114;at&#111;r&#64;b&#114;an&#116;fo&#114;&#100;&#115;&#121;mp&#104;&#111;&#110;y&#46;&#99;a"
       }
     ]
   },
@@ -13840,7 +13860,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/02711526a4a910af"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -13912,41 +13932,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/02711526a4a910af",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;&#109;&#105;&#110;istrat&#111;r&#64;&#98;ran&#116;&#102;&#111;rd&#115;&#121;&#109;ph&#111;ny&#46;&#99;a"
       }
     ]
   },
@@ -14030,7 +14015,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/720ac8ee25a81f33"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -14102,41 +14087,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/720ac8ee25a81f33",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;&#110;&#105;st&#114;&#97;t&#111;&#114;&#64;&#98;&#114;a&#110;t&#102;o&#114;&#100;s&#121;&#109;p&#104;ony&#46;ca"
       }
     ]
   },
@@ -14215,7 +14165,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/523fb1ac437b13ee"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -14248,41 +14198,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/523fb1ac437b13ee",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;&#110;&#105;stra&#116;or&#64;&#98;r&#97;&#110;&#116;f&#111;rd&#115;&#121;&#109;p&#104;&#111;&#110;&#121;.ca"
       }
     ]
   },
@@ -14366,7 +14281,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/3a2aa3372c6f87d6"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -14382,7 +14297,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "BAROQUE DANCE &#8211; LIVE! Cancelled"
+        "@value": "BAROQUE DANCE – LIVE! Cancelled"
       }
     ],
     "http://schema.org/description": [
@@ -14438,41 +14353,6 @@
       {
         "@language": "en",
         "@value": "519-752-5823"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/3a2aa3372c6f87d6",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;nist&#114;at&#111;r&#64;b&#114;&#97;&#110;t&#102;&#111;rdsym&#112;h&#111;ny.c&#97;"
       }
     ]
   },
@@ -14556,7 +14436,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/23c3fcf8df0e3e61"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -14633,41 +14513,6 @@
       {
         "@language": "en",
         "@value": "519-753-0414"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/23c3fcf8df0e3e61",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;&#110;&#105;s&#116;r&#97;t&#111;r&#64;&#98;r&#97;n&#116;ford&#115;ym&#112;&#104;o&#110;&#121;.c&#97;"
       }
     ]
   },
@@ -14792,7 +14637,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/87ffda36280cbcf5"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -14864,41 +14709,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/87ffda36280cbcf5",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;&#109;&#105;&#110;&#105;&#115;t&#114;a&#116;&#111;&#114;&#64;bran&#116;&#102;or&#100;sympho&#110;y.c&#97;"
       }
     ]
   },
@@ -14982,7 +14792,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/4f51652989094076"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -15054,41 +14864,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/4f51652989094076",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;d&#109;i&#110;&#105;&#115;&#116;&#114;&#97;&#116;&#111;&#114;&#64;&#98;&#114;&#97;n&#116;f&#111;r&#100;s&#121;&#109;&#112;&#104;&#111;ny.&#99;&#97;"
       }
     ]
   },
@@ -15172,7 +14947,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/20ad7e6c8f41ba36"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -15244,41 +15019,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/20ad7e6c8f41ba36",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adminis&#116;r&#97;&#116;or&#64;bra&#110;&#116;&#102;&#111;rds&#121;m&#112;&#104;o&#110;y&#46;&#99;a"
       }
     ]
   },
@@ -15362,7 +15102,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/0d3cab16dc562516"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -15434,41 +15174,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/0d3cab16dc562516",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;&#110;i&#115;tra&#116;&#111;r&#64;&#98;r&#97;n&#116;ford&#115;ym&#112;h&#111;n&#121;.ca"
       }
     ]
   },
@@ -15552,7 +15257,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/71ec41c7cfe7cdbe"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -15573,7 +15278,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Fire &#038; Water"
+        "@value": "Fire & Water"
       }
     ],
     "http://schema.org/description": [
@@ -15629,41 +15334,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/71ec41c7cfe7cdbe",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;m&#105;ni&#115;tr&#97;&#116;o&#114;&#64;&#98;r&#97;&#110;&#116;ford&#115;&#121;&#109;&#112;&#104;o&#110;&#121;&#46;&#99;&#97;"
       }
     ]
   },
@@ -15788,7 +15458,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/3171fd80320bfa36"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -15804,7 +15474,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Canadian Celtic Roots with Shane Cook &#038; The Woodchippers"
+        "@value": "Canadian Celtic Roots with Shane Cook & The Woodchippers"
       }
     ],
     "http://schema.org/description": [
@@ -15860,41 +15530,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/3171fd80320bfa36",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adm&#105;&#110;i&#115;&#116;&#114;&#97;t&#111;r&#64;&#98;&#114;antf&#111;r&#100;&#115;&#121;&#109;&#112;&#104;&#111;ny.&#99;a"
       }
     ]
   },
@@ -15978,7 +15613,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/7be2fcad43cc5f79"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -16050,41 +15685,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/7be2fcad43cc5f79",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;mi&#110;is&#116;r&#97;&#116;o&#114;&#64;b&#114;&#97;&#110;t&#102;&#111;rd&#115;&#121;m&#112;ho&#110;y&#46;&#99;&#97;"
       }
     ]
   },
@@ -16168,7 +15768,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/9daeee7940c42027"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -16240,41 +15840,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/9daeee7940c42027",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;&#109;i&#110;&#105;&#115;&#116;rat&#111;r&#64;&#98;rant&#102;&#111;r&#100;&#115;y&#109;&#112;h&#111;ny&#46;&#99;&#97;"
       }
     ]
   },
@@ -16358,7 +15923,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/46f0485a59838b47"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -16374,7 +15939,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Classical Sax &#038; Strings"
+        "@value": "Classical Sax & Strings"
       }
     ],
     "http://schema.org/description": [
@@ -16430,41 +15995,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/46f0485a59838b47",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;inistrat&#111;&#114;&#64;b&#114;&#97;&#110;t&#102;o&#114;&#100;sy&#109;&#112;&#104;&#111;&#110;&#121;.c&#97;"
       }
     ]
   },
@@ -16569,7 +16099,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Brantford&#8217;s Canada Day"
+        "@value": "Brantford’s Canada Day"
       }
     ],
     "http://schema.org/description": [
@@ -16820,7 +16350,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/cda0cd09ce045c0b"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -16892,41 +16422,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/cda0cd09ce045c0b",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;d&#109;i&#110;&#105;&#115;&#116;&#114;ato&#114;&#64;&#98;r&#97;nt&#102;or&#100;sym&#112;&#104;o&#110;&#121;.&#99;&#97;"
       }
     ]
   },
@@ -17010,7 +16505,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/895a418da671d911"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -17026,7 +16521,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Mendelssohn &#038; Saint-Saëns"
+        "@value": "Mendelssohn & Saint-Saëns"
       }
     ],
     "http://schema.org/description": [
@@ -17082,41 +16577,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/895a418da671d911",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;inist&#114;ator&#64;b&#114;antfo&#114;dsym&#112;&#104;o&#110;&#121;.&#99;&#97;"
       }
     ]
   },
@@ -17206,7 +16666,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/c86ac3794e84199b"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -17278,41 +16738,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/c86ac3794e84199b",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;&#109;&#105;&#110;is&#116;rato&#114;&#64;&#98;r&#97;&#110;tf&#111;r&#100;sympho&#110;y&#46;&#99;&#97;"
       }
     ]
   },
@@ -17432,7 +16857,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/fc26e92088598c76"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -17504,41 +16929,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/fc26e92088598c76",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;&#109;i&#110;&#105;st&#114;&#97;&#116;o&#114;&#64;b&#114;&#97;&#110;&#116;fo&#114;d&#115;ymp&#104;&#111;ny.c&#97;"
       }
     ]
   },
@@ -17638,7 +17028,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Brantford&#8217;s Canada Day 2025"
+        "@value": "Brantford’s Canada Day 2025"
       }
     ],
     "http://schema.org/description": [
@@ -17777,7 +17167,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/f0c28be1d1349c74"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -17849,41 +17239,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/f0c28be1d1349c74",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adm&#105;nist&#114;&#97;&#116;o&#114;&#64;&#98;&#114;ant&#102;&#111;rd&#115;y&#109;p&#104;&#111;&#110;y.ca"
       }
     ]
   },
@@ -17973,7 +17328,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/36fde223ee0be46d"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -18045,77 +17400,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/36fde223ee0be46d",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "admi&#110;i&#115;&#116;r&#97;to&#114;&#64;&#98;r&#97;&#110;&#116;fo&#114;d&#115;&#121;m&#112;ho&#110;y.c&#97;"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/d2d3b0538691a047",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "20 Ava Road"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Brantford"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "N3T 5G9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
       }
     ]
   },
@@ -18199,7 +17483,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/5db6f855312308a2"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -18215,7 +17499,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Handel&#8217;s “Messiah”"
+        "@value": "Handel’s “Messiah”"
       }
     ],
     "http://schema.org/description": [
@@ -18271,41 +17555,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/5db6f855312308a2",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;m&#105;&#110;&#105;s&#116;&#114;&#97;&#116;o&#114;&#64;&#98;&#114;&#97;&#110;tf&#111;&#114;&#100;&#115;y&#109;&#112;hony.ca"
       }
     ]
   },
@@ -18395,7 +17644,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/3f72d62d5a9ed680"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -18472,41 +17721,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/3f72d62d5a9ed680",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;mi&#110;is&#116;&#114;a&#116;o&#114;&#64;brant&#102;or&#100;&#115;&#121;mp&#104;on&#121;.&#99;a"
       }
     ]
   },
@@ -18631,7 +17845,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/51e229723ac092d0"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -18703,41 +17917,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/51e229723ac092d0",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;&#105;&#110;i&#115;&#116;&#114;&#97;tor&#64;b&#114;&#97;&#110;t&#102;&#111;&#114;&#100;s&#121;&#109;&#112;h&#111;ny.ca"
       }
     ]
   },
@@ -18821,7 +18000,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/7b41a11f5f2f06b9"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -18898,41 +18077,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/7b41a11f5f2f06b9",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;inist&#114;a&#116;&#111;r&#64;&#98;&#114;&#97;&#110;&#116;f&#111;r&#100;&#115;ymph&#111;n&#121;&#46;ca"
       }
     ]
   },
@@ -19057,7 +18201,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/309cc90ea9f1000b"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -19129,41 +18273,6 @@
       {
         "@language": "en",
         "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/309cc90ea9f1000b",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "ad&#109;&#105;n&#105;&#115;&#116;&#114;at&#111;&#114;&#64;&#98;&#114;&#97;&#110;t&#102;o&#114;dsy&#109;&#112;&#104;o&#110;&#121;&#46;&#99;a"
       }
     ]
   },
@@ -19247,7 +18356,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/a93145ec1968c495"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/offers": [
@@ -19324,41 +18433,6 @@
       {
         "@language": "en",
         "@value": "519-752-6814"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/a93145ec1968c495",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;mi&#110;ist&#114;&#97;to&#114;&#64;&#98;r&#97;n&#116;f&#111;&#114;&#100;sym&#112;&#104;&#111;&#110;y.ca"
       }
     ]
   },
@@ -19519,7 +18593,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/85d91a49115f0470"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -19535,7 +18609,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "“When All Other Lights Go Out: Beethoven &#038; Shore” with guest conductor Shawn Bennett"
+        "@value": "“When All Other Lights Go Out: Beethoven & Shore” with guest conductor Shawn Bennett"
       }
     ],
     "http://schema.org/description": [
@@ -19591,41 +18665,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/85d91a49115f0470",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "a&#100;m&#105;&#110;istrator&#64;&#98;&#114;&#97;ntf&#111;r&#100;&#115;&#121;&#109;pho&#110;y.&#99;a"
       }
     ]
   },
@@ -19709,7 +18748,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/bcdb670db69be070"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -19725,7 +18764,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "“Chocolates &#038; Christmas Classics” with guest conductor Francois Koh"
+        "@value": "“Chocolates & Christmas Classics” with guest conductor Francois Koh"
       }
     ],
     "http://schema.org/description": [
@@ -19781,41 +18820,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/bcdb670db69be070",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;dm&#105;n&#105;&#115;t&#114;at&#111;r&#64;b&#114;&#97;&#110;&#116;f&#111;rd&#115;&#121;&#109;&#112;hon&#121;&#46;c&#97;"
       }
     ]
   },
@@ -19899,7 +18903,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/83fc33b23e64e537"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -19971,41 +18975,6 @@
       {
         "@language": "en",
         "@value": "519-758-8090"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/83fc33b23e64e537",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://brantfordsymphony.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "519-759-8781"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#97;&#100;&#109;&#105;&#110;&#105;&#115;t&#114;&#97;&#116;or&#64;br&#97;nt&#102;ord&#115;ym&#112;ho&#110;y&#46;&#99;a"
       }
     ]
   },
@@ -20089,7 +19058,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/9f22653d4159eee5"
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -20105,7 +19074,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "“His and Hers” with guest conductors Sharon Lee &#038; Marcus Scholtes"
+        "@value": "“His and Hers” with guest conductors Sharon Lee & Marcus Scholtes"
       }
     ],
     "http://schema.org/description": [
@@ -20165,19 +19134,150 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/9f22653d4159eee5",
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/#primaryimage",
     "@type": [
-      "http://schema.org/Person"
+      "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "http://brantfordsymphony.ca"
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/1851ae4c99e08a2f",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-20T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-20T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/df90115693744a36"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/aeec78fdb1e6d49a"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
+        "@value": "Violin & Guitar Salon at Glenhyrst"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/df90115693744a36",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/d2d3b0538691a047"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://glenhyrst.ca/coach-house-stage"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Coach House at Glenhyrst Gardens"
       }
     ],
     "http://schema.org/description": [
@@ -20189,13 +19289,487 @@
     "http://schema.org/telephone": [
       {
         "@language": "en",
-        "@value": "519-759-8781"
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
       }
     ],
-    "http://schema.org/email": [
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "&#97;&#100;&#109;ini&#115;&#116;rat&#111;r&#64;br&#97;nt&#102;or&#100;&#115;y&#109;&#112;&#104;&#111;&#110;y.ca"
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/ede590c2ba05b1ee",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T15:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/17a4aaf4ca61aec8"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/3dc5e657d631b69e"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Flute & Guitar Salon at Lynnwood Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/17a4aaf4ca61aec8",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/b355ef805dca3c68"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.lynnwoodarts.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lynwood Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/d931948d3584f45e",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/1daa0b161b5515fe"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/9c6012d2ff01c488"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salon de Musique in Paris"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/1daa0b161b5515fe",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/4e53762677dbc598"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.forparis.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Paris Community Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Aysel-Taghi-Zada.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/5027928f84d797b1",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/3a379b4a9ed195da"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/967279ebb106ebac"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Violin & Guitar Salon at Grace United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/3a379b4a9ed195da",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-grace-united-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ddb93ae8c32de35d"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.graceunitedportdover.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Grace United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
       }
     ]
   }
