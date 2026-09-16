@@ -1,131 +1,5 @@
 [
   {
-    "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Theatre Safety Workshop | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Over the years, Brian Wainwright has worn just about every hat imaginable, including educator, director, performer, and technician. To this day, Brian conti ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.naccnt.ca/wp-content/uploads/2026/08/Theatre-Safety-Workshop.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-08-14T12:00:00"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Kacie Hall"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/brent-butt/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts &amp; Cultural Centre"
-      }
-    ]
-  },
-  {
     "@id": "https://www.naccnt.ca/event/james-ehnes/",
     "https://api.w.org/": [
       {
@@ -184,6 +58,70 @@
       {
         "@language": "en-ca",
         "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/james-ehnes/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts & Cultural Centre"
       }
     ]
   },
@@ -994,6 +932,68 @@
     ]
   },
   {
+    "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Lumber in Fort Simpson | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides to ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.naccnt.ca/wp-content/uploads/2026/08/lumberspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-08-14T12:00:00"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
     "@id": "https://www.naccnt.ca/#schema-website",
     "@type": [
       "http://schema.org/WebSite"
@@ -1004,9 +1004,6 @@
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      },
       {
         "@id": "https://www.naccnt.ca/event/james-ehnes/"
       },
@@ -1048,6 +1045,9 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
       }
     ],
     "http://schema.org/name": [
@@ -1075,9 +1075,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      },
-      {
         "@id": "https://www.naccnt.ca/event/james-ehnes/"
       },
       {
@@ -1118,6 +1115,9 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
       }
     ],
     "http://schema.org/name": [
@@ -1128,57 +1128,57 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/142c0f3411dde2d0",
+    "@id": "https://www.naccnt.ca/genid/73fc12894b4f9d5d",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/Theatre-Safety-Workshop.jpg"
+        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/Spektrix-Icon.jpg"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
+        "@id": "https://www.naccnt.ca/event/james-ehnes/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10T18:30:00-06:00"
+        "@value": "2026-09-18T19:30:00-06:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10T18:30:00-06:00"
+        "@value": "2026-09-18T19:30:00-06:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://www.naccnt.ca/genid/98eece78f39eb060"
+        "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
+        "@id": "https://www.naccnt.ca/event/james-ehnes/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Theatre Safety Workshop"
+        "@value": "James Ehnes"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Over the years, Brian Wainwright has worn just about every hat imaginable, including educator, director, performer, and technician. To this day, Brian continues to work with NACC as a fly...&lt;/p&gt;\\n"
+        "@value": "<p>James Ehnes has established himself as one of the most sought-after musicians on the international stage. Gifted with a rare combination of stunning virtuosity, serene lyricism and unfaltering musicality, Ehnes...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -1199,7 +1199,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/586c121154c98341",
+    "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1232,7 +1232,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.&lt;/p&gt;\\n"
+        "@value": "<p>The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.</p>\\n"
       }
     ],
     "http://schema.org/telephone": [
@@ -1243,13 +1243,13 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/98eece78f39eb060",
+    "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
+        "@id": "https://www.naccnt.ca/event/james-ehnes/"
       }
     ],
     "http://schema.org/validFrom": [
@@ -1261,7 +1261,7 @@
     "http://schema.org/price": [
       {
         "@language": "en",
-        "@value": "0"
+        "@value": "45"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1326,9 +1326,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      },
-      {
         "@id": "https://www.naccnt.ca/event/james-ehnes/"
       },
       {
@@ -1369,6 +1366,9 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
       }
     ]
   },
@@ -1379,9 +1379,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/theatre-safety-workshop/"
-      },
-      {
         "@id": "https://www.naccnt.ca/event/james-ehnes/"
       },
       {
@@ -1422,123 +1419,14 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
       }
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/c5b1a4202db3744c",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/Spektrix-Icon.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "James Ehnes"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;James Ehnes has established himself as one of the most sought-after musicians on the international stage. Gifted with a rare combination of stunning virtuosity, serene lyricism and unfaltering musicality, Ehnes...&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-14T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "45"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/9227de388c24db48",
+    "@id": "https://www.naccnt.ca/genid/47f252c194f0d2db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1588,7 +1476,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -1713,7 +1601,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/3b0e050a966ebc92",
+    "@id": "https://www.naccnt.ca/genid/48192a862bac8b7e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1763,7 +1651,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -1900,7 +1788,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/2cd496ce375785ef",
+    "@id": "https://www.naccnt.ca/genid/a0f3cabc49f4cb24",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1928,7 +1816,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/organizer": [
@@ -1955,7 +1843,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Wes Barker is the most famous magician who will still answer your DMs. He is a Winner on the hit show Penn &amp; Teller: Fool US, and star of Big...&lt;/p&gt;\\n"
+        "@value": "<p>Wes Barker is the most famous magician who will still answer your DMs. He is a Winner on the hit show Penn & Teller: Fool US, and star of Big...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2057,7 +1945,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/728b0d47f84691bc",
+    "@id": "https://www.naccnt.ca/genid/f7924d7a5d1cd2f4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2085,7 +1973,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/organizer": [
@@ -2112,7 +2000,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Housing Inc.: A Global Takeover and Our Fight for Home Under international human rights law, we’re all guaranteed the right to housing – not just a roof over our heads,...&lt;/p&gt;\\n"
+        "@value": "<p>Housing Inc.: A Global Takeover and Our Fight for Home Under international human rights law, we’re all guaranteed the right to housing – not just a roof over our heads,...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2214,7 +2102,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/86cba285c78ee172",
+    "@id": "https://www.naccnt.ca/genid/bc2b5d35fac60003",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2242,7 +2130,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/offers": [
@@ -2264,7 +2152,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2326,7 +2214,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/35fa3a7901a0eb49",
+    "@id": "https://www.naccnt.ca/genid/931504689f4349d1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2376,7 +2264,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2489,7 +2377,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/aa2d60e1f11397a6",
+    "@id": "https://www.naccnt.ca/genid/5b3582cc0aa8d5ad",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2539,7 +2427,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2664,7 +2552,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/e4dc62bed0c0ec85",
+    "@id": "https://www.naccnt.ca/genid/12b1f736acd86e8a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2692,7 +2580,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/cd8a045d77805149"
+        "@id": "https://www.naccnt.ca/genid/de60f34508802c5b"
       }
     ],
     "http://schema.org/offers": [
@@ -2714,7 +2602,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...&lt;/p&gt;\\n"
+        "@value": "<p>An international scholarship program for gifted artists aged 12–18, Morningside Music Bridge brings together the finest emerging artists to perform on an international stage and measure themselves against the absolute...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2735,7 +2623,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/cd8a045d77805149",
+    "@id": "https://www.naccnt.ca/genid/de60f34508802c5b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2757,7 +2645,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "St John&#8217;s Anglican Church"
+        "@value": "St John’s Anglican Church"
       }
     ],
     "http://schema.org/description": [
@@ -2851,7 +2739,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/d1c0eed2a77dbff4",
+    "@id": "https://www.naccnt.ca/genid/6ddfe31d83a25f92",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2879,12 +2767,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://www.naccnt.ca/genid/c179e9ac359466f4"
+        "@id": "https://www.naccnt.ca/genid/5f0ae06f3cb825e7"
       }
     ],
     "http://schema.org/offers": [
@@ -2906,7 +2794,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Pickle Jar Productions is thrilled to present its debut production, Charlotte Lucas is 27 and NOT Dead!, a 19-person pop-rock musical set in the romantic world of Jane Austen. Charlotte...&lt;/p&gt;\\n"
+        "@value": "<p>Pickle Jar Productions is thrilled to present its debut production, Charlotte Lucas is 27 and NOT Dead!, a 19-person pop-rock musical set in the romantic world of Jane Austen. Charlotte...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -2927,7 +2815,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/c179e9ac359466f4",
+    "@id": "https://www.naccnt.ca/genid/5f0ae06f3cb825e7",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2962,7 +2850,7 @@
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "pi&#99;k&#101;&#106;&#97;ry&#107;&#64;gmai&#108;.c&#111;&#109;"
+        "@value": "pickejaryk@gmail.com"
       }
     ]
   },
@@ -3008,7 +2896,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/73054a8388fbf2e0",
+    "@id": "https://www.naccnt.ca/genid/c6d6c786cf7f59b7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3036,12 +2924,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://www.naccnt.ca/genid/94834305953dde9d"
+        "@id": "https://www.naccnt.ca/genid/5f0ae06f3cb825e7"
       }
     ],
     "http://schema.org/offers": [
@@ -3063,7 +2951,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Pickle Jar Productions is thrilled to present its debut production, Charlotte Lucas is 27 and NOT Dead!, a 19-person pop-rock musical set in the romantic world of Jane Austen. Charlotte...&lt;/p&gt;\\n"
+        "@value": "<p>Pickle Jar Productions is thrilled to present its debut production, Charlotte Lucas is 27 and NOT Dead!, a 19-person pop-rock musical set in the romantic world of Jane Austen. Charlotte...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3080,46 +2968,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/94834305953dde9d",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.facebook.com/profile.php?id=61570814061787"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/profile.php?id=61570814061787"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Pickle Jar Productions"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "&#112;i&#99;&#107;&#101;&#106;ary&#107;&#64;&#103;&#109;a&#105;l&#46;&#99;o&#109;"
       }
     ]
   },
@@ -3165,7 +3013,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/dafcde93e507d579",
+    "@id": "https://www.naccnt.ca/genid/8b31b7b58e925ec4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3193,7 +3041,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://www.naccnt.ca/genid/586c121154c98341"
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
       }
     ],
     "http://schema.org/offers": [
@@ -3215,7 +3063,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;Born in Tisdale, Saskatchewan, Brent Butt discovered early that being funny was a good way to get attention. Brent honed his comedy in school and at the age of 20...&lt;/p&gt;\\n"
+        "@value": "<p>Born in Tisdale, Saskatchewan, Brent Butt discovered early that being funny was a good way to get attention. Brent honed his comedy in school and at the age of 20...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3277,7 +3125,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/c606da97090a3307",
+    "@id": "https://www.naccnt.ca/genid/1830e1c1ef9df6da",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3327,7 +3175,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides...&lt;/p&gt;\\n"
+        "@value": "<p>All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3428,7 +3276,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/006632686934f893",
+    "@id": "https://www.naccnt.ca/genid/f903a453dfcbb3df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3478,7 +3326,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "&lt;p&gt;All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides...&lt;/p&gt;\\n"
+        "@value": "<p>All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides...</p>\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -3611,6 +3459,157 @@
       {
         "@language": "en",
         "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/c89134403b021550",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/lumberspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-30T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-30T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.naccnt.ca/genid/e7249b2ef186c5b9"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.naccnt.ca/genid/f874a79a54ebbb57"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lumber in Fort Simpson"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>All at once, Jack Bennett got dumped, fired, and evicted, and, worst of all, his beloved dog died. All he’s got now is a truck and a chainsaw. He decides...</p>\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/e7249b2ef186c5b9",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/venue/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://www.naccnt.ca/genid/62c2602747215ff6"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sacred Heart Catholic Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/f874a79a54ebbb57",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
       }
     ]
   }
