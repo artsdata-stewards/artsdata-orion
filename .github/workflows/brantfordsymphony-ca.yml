@@ -18,4 +18,5 @@ jobs:
           page-url: "https://brantfordsymphony.ca/tribe_events-sitemap.xml"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
+          skolemization-exclude: '{"http://schema.org/Place":["http://schema.org/url"]}'
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
