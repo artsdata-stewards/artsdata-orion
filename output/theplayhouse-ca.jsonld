@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Joan%20Osborne%20image.png?itok=VGyvbrCN",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/First%20Signature_%20Great%20Romantics.png?itok=8l-F6Wwi",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -80,25 +80,51 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+        "@id": "https://theplayhouse.ca/fr"
       },
       {
-        "@id": "https://theplayhouse.ca/fr"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb",
+    "http://ogp.me/ns#site_name": [
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+        "@language": "en",
+        "@value": "Symphony NB | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Symphony NB"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
       }
     ]
   },
@@ -173,34 +199,28 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026",
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b",
     "http://ogp.me/ns#site_name": [
       {
-        "@language": "en",
-        "@value": "Harvest Music Festival 2026 | Fredericton Playhouse"
+        "@language": "fr",
+        "@value": "Symphonie N-B | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ],
     "http://ogp.me/ns#title": [
       {
-        "@language": "en",
-        "@value": "Harvest Music Festival 2026"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
+        "@language": "fr",
+        "@value": "Symphonie N-B"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ]
   },
@@ -275,240 +295,143 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/c70073fa-ef28-415f-bd37-0c791cd4ec4b.png?itok=Hy1P34gH",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/SDN%201900%20x%20600%20pixels%20%2872dpi%29.png?itok=xR07puWK",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=5JW2fT77",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=dEQNZ1D0",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.png?itok=zcX1EvTc",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
     "http://ogp.me/ns#site_name": [
       {
-        "@language": "fr",
-        "@value": "Harvest Music Festival 2026 | Le Fredericton Playhouse"
+        "@language": "en",
+        "@value": "Spotlight Series | Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       }
     ],
     "http://ogp.me/ns#title": [
       {
-        "@language": "fr",
-        "@value": "Harvest Music Festival 2026"
+        "@language": "en",
+        "@value": "Spotlight Series"
       }
     ],
     "http://ogp.me/ns#image": [
       {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Fredericton%20Playhouse%202026.png?itok=CUOwHOa4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Harvest%20Posters.png?itok=AjkJ2XD_",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Blue%20Moon%20Marquee.png?itok=iz4tOnWe",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Steph%20Strings%20image.png?itok=zO2gyYWU",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/First%20Signature_%20Great%20Romantics.png?itok=8l-F6Wwi",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb",
-    "http://ogp.me/ns#site_name": [
-      {
         "@language": "en",
-        "@value": "Symphony NB | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Symphony NB"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie N-B | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie N-B"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       }
     ]
   },
@@ -674,7 +597,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/18c1ae8ef04f2030"
+        "@id": "https://theplayhouse.ca/genid/b33bc1706cbad3a2"
       }
     ],
     "http://schema.org/organizer": [
@@ -700,11 +623,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Thursday, September 17 at 10am. Playhouse Member presale starts on Tuesday, September 15 at 10am.*Fredericton Symphony Orchestra packages also available on September 17 at 10am. Join the Fredericton Symphony Orchestra with Saint John’s own Before the Mast Sea-Shanty Folk Group for a unique collaboration that celebrates the rich musical history of sea shanties and other classical music inspired by the sea. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
+        "@value": "*Fredericton Symphony Orchestra packages also available now, click here. Join the Fredericton Symphony Orchestra with Saint John’s own Before the Mast Sea-Shanty Folk Group for a unique collaboration that celebrates the rich musical history of sea shanties and other classical music inspired by the sea. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le jeudi 17 septembre à 10 h. La prévente pour les membres du Playhouse commence le mardi 15 septembre à 10 h.Les abonnements de Fredericton Symphony Orchestra seront disponibles le 17 septembre à 10 h.Joignez-vous au l'Orchestre symphonique de Fredericton, et le groupe folk Before the Mast de Saint John, connu pour ses chants de mer, à une collaboration unique qui rend hommage à la riche tradition musicale des chants de mer et aux autres œuvres classiques inspirées par la mer. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $"
+        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.Joignez-vous au l'Orchestre symphonique de Fredericton, et le groupe folk Before the Mast de Saint John, connu pour ses chants de mer, à une collaboration unique qui rend hommage à la riche tradition musicale des chants de mer et aux autres œuvres classiques inspirées par la mer. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50+31 $(veuillez contacter la billetterie)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -749,7 +672,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/18c1ae8ef04f2030",
+    "@id": "https://theplayhouse.ca/genid/b33bc1706cbad3a2",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -761,7 +684,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1054,7 +977,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/ba80c6d00bbcab86"
+        "@id": "https://theplayhouse.ca/genid/c9e721af2f14d5d0"
       }
     ],
     "http://schema.org/organizer": [
@@ -1080,11 +1003,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets become available on Friday, September 18 at 10am. Playhouse Member presale starts on Tuesday, September 15 at 10am.Celebrate the warmth and wonder of the holiday season with the Stadacona Band of the Royal Canadian Navy and acclaimed Nova Scotian singer-songwriter Terra Spencer. This festive concert brings together the rich sound of one of Canada's premier military bands with Terra's heartfelt storytelling, wit, and distinctive folk-inspired artistry. Featuring Christmas classics, locally inspired originals, and unique collaborative performances, this heartwarming concert celebrates"
+        "@value": "Celebrate the warmth and wonder of the holiday season with the Stadacona Band of the Royal Canadian Navy and acclaimed Nova Scotian singer-songwriter Terra Spencer. This festive concert brings together the rich sound of one of Canada's premier military bands with Terra's heartfelt storytelling, wit, and distinctive folk-inspired artistry. Featuring Christmas classics, locally inspired originals, and unique collaborative performances, this heartwarming concert celebrates the joy, wonder, and spirit of the season."
       },
       {
         "@language": "fr",
-        "@value": "Les billets seront mis en vente le vendredi 18 septembre à 10 h. La prévente pour les membres du Playhouse commence le mardi 15 septembre à 10 h.Célébrez toute la magie et la chaleur du temps des Fêtes en compagnie de la Musique Stadacona de la Marine royale canadienne et de Terra Spencer, autrice-compositrice-interprète néo-écossaise acclamée. Ce concert festif réunit la sonorité riche de l’un des plus prestigieux ensembles militaires du Canada et l’univers folk bien distinctif de Terra Spencer, avec ses histoires touchantes et son humour bien à elle. Au programme : grands classiques de Noël"
+        "@value": "Célébrez toute la magie et la chaleur du temps des Fêtes en compagnie de la Musique Stadacona de la Marine royale canadienne et de Terra Spencer, autrice-compositrice-interprète néo-écossaise acclamée. Ce concert festif réunit la sonorité riche de l’un des plus prestigieux ensembles militaires du Canada et l’univers folk bien distinctif de Terra Spencer, avec ses histoires touchantes et son humour bien à elle. Au programme : grands classiques de Noël, compositions originales inspirées d’ici et collaborations inédites. Un concert chaleureux qui célèbre toute la joie, l’émerveillement et l"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1118,7 +1041,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/ba80c6d00bbcab86",
+    "@id": "https://theplayhouse.ca/genid/c9e721af2f14d5d0",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1130,7 +1053,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-14"
+        "@value": "2026-09-18"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1748,66 +1671,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/news/employment-opportunity-ticketing-operations-manager"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/c70073fa-ef28-415f-bd37-0c791cd4ec4b.png?itok=Hy1P34gH",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=5JW2fT77",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/SDN%201900%20x%20600%20pixels%20%2872dpi%29.png?itok=xR07puWK",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -4044,38 +3907,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/our-programs/school-field-trips"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Spotlight Series | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Spotlight Series"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       }
     ]
   },
@@ -10651,20 +10482,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.png?itok=zcX1EvTc",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/3.jpg?itok=jWEdMl9S",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -15758,17 +15575,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=dEQNZ1D0",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-07/The%20martin%20Boys%20new%20web%20pic.png?itok=4cQTaSa0",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -16469,50 +16275,6 @@
       {
         "@language": "en",
         "@value": "Fredericton Playhouse Inc. is currently seeking individuals interested in serving on its board of directors.About the organizationFredericton Playhouse Inc. is a charitable, non-profit company with a mandate to manage and develop a live performance venue in downtown Fredericton. The organization is currently constructing a new performing arts centre to replace the Playhouse (Hawkes Centre for the Arts) which will open in 2027.  Operating in an integrated partnership with the City of Fredericton, the company’s mission is to deliver relevant and sustainable programs, services, and facilities to provide meaningful live performance experiences. About the board of directorsThe board of directors is comprised of individuals who share the values of the organization, contribute to the board’s decision-making, and have a personal commitment to the organization’s vision and mission.The board’s primary role is to establish policies, undertake strategic planning, manage executive performance, develop resources and influence, and provide linkages to stakeholders and to the larger community.New board members begin their service on January 1st and serve a term of three years.General qualificationsBoard members must:Be an individual 19 years or older;Be able to meet the projected time commitment (6 regular meetings per year plus committee work, volunteering at special, events, etc.);Have the capacity for personal attention to the organization;Have the ability to function as a deliberative body (to participate in group decision making using pre-established principles of the group);Be willing to participate in board orientation and continuing education;Demonstrate objectivity, intelligence, integrity, and communication skills;Possess an ideology and values consistent with those of the organization; andMake a personal commitment to the organization’s mission and vision.SubmissionsIf you are interested in contributing to the community as a volunteer board member, please provide a written submission, including your CV, by July 28, 2026 to admin@theplayhouse.ca.  Please include “Attention Nominating Committee” in the subject line. "
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Employment Opportunity - Assistant Technical Services Manager"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/news"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Employment Opportunity - Assistant Technical Services Manager | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Employment Opportunity - Assistant Technical Services Manager"
-      }
-    ],
-    "http://schema.org/text": [
-      {
-        "@language": "en",
-        "@value": "Full-Time Permanent.Fredericton Playhouse Inc., a charitable non-profit organization that manages and develops a 709-seat performance venue, has an exciting opportunity for an experienced Assistant Technical Services Manager to join our team.Reporting to the Technical Services Manager, the Assistant Technical Services Manager plays a key role in the delivery of quality, effective technical services to users of the Fredericton Playhouse.Working directly with artists, user groups and other team members, the successful candidate will have a desire to meet and exceed expectations in a customer-centric role. A member of the organization’s management team, they embrace collaboration, innovation and continuous improvement in their approach to their work.Specifically, the Assistant Technical Services Manager’s duties include:Work directly with clients and artists to ascertain and meet their needs for technical servicesAct as the lead on site manager/supervisor for performances, rehearsal, and other activities Manage/Supervise the work of technical crews for each assigned event Attend management meetings and participate in management team efforts such as organizational planning, improvement and monitoring Other duties as may be prescribed by the Technical Services Manager QualificationsThe successful candidate will have a proven ability to supervise a diverse compliment of full-time and casual employees in a unionized (IATSE) working environment. They will have a good working knowledge of various areas of technical services and theatrical production equipment and operations.The ideal candidate:Demonstrates strong supervisory, organizational, problem-solving and interpersonal skills;Works well under pressure, is able to work in a flexible schedule (including evenings and weekends);Has a personal passion for the performing arts.We offer a competitive salary based on experience and training. In addition to a comprehensive benefits package, the starting salary range for this position is $40,000 to $58,000 annually.Interested applicants are asked to send their cv and cover letter to:Dave GarsonTechnical Services Managerdave@theplayhouse.caDeadline: Friday, July 3rd, 2026"
       }
     ]
   },
@@ -19812,6 +19574,38 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival 2026 | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival 2026"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/harvest-music-festival-2026"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Web%20event%20banners.png?itok=xtAfdPj_",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -19826,184 +19620,34 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sos-abba-experience",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "SOS - The ABBA Experience | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/sos-abba-experience"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "SOS - The ABBA Experience"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Fredericton%20Playhouse%202026.png?itok=doC2puut"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/876",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sos-abba-experience"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/fce9ba1e6ea8b398"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sos-abba-experience"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "SOS - The ABBA Experience"
-      },
-      {
-        "@language": "fr",
-        "@value": "SOS - The ABBA Experience"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "The buzz is real – and it’s coming your way! This isn’t just a show, but an ABBA-charged celebration unlike anything you’ve experienced before. SOS - The ABBA Experience takes the Fredericton Playhouse by storm on September 17, 2026, and you do not want to miss it!\n\nFrom the second the lights go up, it’s non-stop energy, iconic hits, stunning costumes, and the kind of connection that turns an evening out into an unforgettable memory. And the best part? You’re part of it. Sing. Dance. Celebrate. This is a night where the audience helps create the magic.\n\nDon’t take our word for it — just ask"
-      },
-      {
-        "@language": "fr",
-        "@value": "Le buzz est réel – et il arrive jusqu’à vous ! Ce n’est pas seulement un spectacle : c’est une véritable célébration d’ABBA comme vous n’en avez jamais vécue. SOS – The ABBA Experience débarque au Fredericton Playhouse le 17 septembre 2026, et vous ne voulez surtout pas manquer ça ! \n\nDès que les projecteurs s'allument, c’est une explosion d’énergie : chansons iconiques, costumes éblouissants, et une connexion unique qui transforme une simple soirée en un souvenir inoubliable. Et le meilleur dans tout ça ? Vous en faites partie. Chantez. Dansez. Célébrez. Le public est au cœur de la magie.\n\nNe"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-17T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-17T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/fce9ba1e6ea8b398",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=9E51BA59-BABB-467F-98B0-AF2178936FF5&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-24"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Fredericton%20Playhouse%202026.png?itok=jCe3YPAq",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sos-abba-experience"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sos-abba-experience"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sos-abba-experience",
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
-        "@value": "SOS - The ABBA Experience | Le Fredericton Playhouse"
+        "@value": "Harvest Music Festival 2026 | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/sos-abba-experience"
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "SOS - The ABBA Experience"
+        "@value": "Harvest Music Festival 2026"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Fredericton%20Playhouse%202026.png?itok=doC2puut"
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20event%20banners.png?itok=3NGXKZXX"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/harvest-music-festival-2026"
       }
     ]
   },
@@ -21106,751 +20750,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nouvelles/walter-learning"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/joan-osborne",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Joan Osborne | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/joan-osborne"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Joan Osborne"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Joan%20Osborne%20image.png?itok=wf-U5L-J"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/880",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/joan-osborne"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-15"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/1f208f415c681a2e"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/joan-osborne"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Joan Osborne"
-      },
-      {
-        "@language": "fr",
-        "@value": "Joan Osborne"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "“This is the most personal record I’ve ever made,” multi-Grammy-nominated singer-songwriter Joan Osborne says about her ravishing new studio album, Nobody Owns You. “These songs come from my feelings about people in my family, about people who I care about, and just what to do with this time that we have on the earth.  They come from a raw emotional place.  And I’m asking myself that question:  What am I here for?“ The result is a masterful collection of twelve contemplative songs offering hope and solace, while exploring Osborne’s own unique journey from small-town Kentucky to around the"
-      },
-      {
-        "@language": "fr",
-        "@value": "« C’est l’album le plus intime que j’aie jamais réalisé », confie Joan Osborne, chanteuse-autrice-compositrice multi-nommée aux Grammy Awards, à propos de son envoûtant nouvel opus, Nobody Owns You. « Ces chansons sont nées de ce que je ressens pour les gens de ma famille, pour ceux qui me sont chers, et de cette grande question : qu’est-ce qu’on fait du temps qui nous est donné sur terre? Elles viennent d’un endroit très brut, très vrai. Et je me demande : pourquoi suis-je ici? » Le résultat : un recueil magistral de douze chansons contemplatives, à la fois réconfortantes et porteuses d"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-15T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-15T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/1f208f415c681a2e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=CEB100D5-E7C9-4905-B5FF-91F16D5D30FA&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Joan%20Osborne%20image.png?itok=QeEVo2eP",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/joan-osborne"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/joan-osborne"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/joan-osborne",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Joan Osborne | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/joan-osborne"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Joan Osborne"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Joan%20Osborne%20image.png?itok=wf-U5L-J"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/blue-moon-marquee",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Blue Moon Marquee | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/blue-moon-marquee"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Blue Moon Marquee"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Blue%20Moon%20Marquee.png?itok=A8bUgb43"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/881",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/blue-moon-marquee"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-19"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/a4a28f6713ced27c"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/blue-moon-marquee"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Blue Moon Marquee"
-      },
-      {
-        "@language": "fr",
-        "@value": "Blue Moon Marquee"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Blue Moon Marquee write and perform original compositions influenced by anything that swings, jumps or grooves. A.W. Cardinal (vocals/guitar) and Jasmine Colette (Jasmine Ohlhauser) a.k.a. Badlands Jass (vocals/bass/drums) have played for a vast gamut of crowds at jazz clubs, lindy hop dance halls, folk venues, blues haunts, hospitals, prisons, markets, motorcycle joints, dive bars and prestigious festival stages.The result of 9 years of rigorous crisscrossing Europe and North America is a distinct energy & style from this acclaimed duo. Carving a path through blues, jazz, jump jive, folk"
-      },
-      {
-        "@language": "fr",
-        "@value": "Blue Moon Marquee écrit et interprète des compositions originales inspirées de tout ce qui swingue, pulse et groove. A.W. Cardinal (voix/guitare) et Jasmine Colette (Jasmine Ohlhauser), alias Badlands Jass (voix/basse/batterie), ont joué devant une incroyable diversité de publics : dans des clubs de jazz, des salles de danse lindy hop, des lieux folk, des repaires blues, mais aussi dans des hôpitaux, des prisons, des marchés, des bars de motards, des dives et sur des scènes de festivals prestigieux.Après neuf années à sillonner intensément l’Europe et l’Amérique du Nord, le duo s’est forgé une"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-19T14:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-19T16:00:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/a4a28f6713ced27c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8AD1770D-4826-4326-853D-519654D951FD&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Blue%20Moon%20Marquee.png?itok=VDvoPRM9",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/blue-moon-marquee"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/blue-moon-marquee"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/blue-moon-marquee",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Blue Moon Marquee | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/blue-moon-marquee"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Blue Moon Marquee"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Blue%20Moon%20Marquee.png?itok=A8bUgb43"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steph-strings",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Steph Strings | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/steph-strings"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Steph Strings"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Steph%20Strings%20image.png?itok=aK5Uj1_x"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/882",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steph-strings"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-20"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/e8a0528e47261652"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steph-strings"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Steph Strings"
-      },
-      {
-        "@language": "fr",
-        "@value": "Steph Strings"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Australian singer-songwriter and guitarist Steph Strings has just released her highly anticipated new album, Feel Alive (January 9). A collection that bridges the gap between the intimate and the expansive, the album serves as a reminder of music’s power to heal, connect, and ground us in the present moment. Known for her unique ability to tell stories through her instrument, Steph’s signature sound fuses intricate fingerstyle guitar, percussive rhythms, and earthy, organic textures with lyrics that balance vulnerability with strength. Emerging from the Australian music scene as a distinct"
-      },
-      {
-        "@language": "fr",
-        "@value": "La vente des billets commence le vendredi 27 mars à 11 h. La prévente pour les membres du Playhouse commence le mercredi 25 mars à 11 h.La chanteuse, autrice-compositrice et guitariste australienne Steph Strings vient tout juste de lancer son tout nouvel album très attendu, Feel Alive (9 janvier). À mi-chemin entre l’intime et le grandiose, cet opus rappelle à quel point la musique peut guérir, rassembler et nous ramener à l’instant présent.Reconnue pour son talent à raconter des histoires à travers sa guitare, Steph développe une signature sonore bien à elle, où se rencontrent un fingerstyle"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-20T14:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-20T16:00:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/e8a0528e47261652",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=6A1121D4-0277-4F0E-94C1-E9C3957DF882&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Steph%20Strings%20image.png?itok=-MPfxx6F",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steph-strings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steph-strings"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steph-strings",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Steph Strings | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/steph-strings"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Steph Strings"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Steph%20Strings%20image.png?itok=aK5Uj1_x"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/canefire",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "CaneFire | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/canefire"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "CaneFire"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Harvest%20Posters.png?itok=Ch7JjGmD"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/883",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/canefire"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/5eb09d37d9046773"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/CaneFire"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/canefire"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "CaneFire"
-      },
-      {
-        "@language": "fr",
-        "@value": "CaneFire"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "One of the most explosive Latin jazz ensembles on the planet.\n\nLed by Canadian pianist and composer Jeremy Ledbetter, this Toronto-based band takes the deep musicianship of jazz and throws it straight into the Caribbean.\n\nAt the centre of it all is a steelpan that sounds like sunshine on metal and will make you sway side to side in the hands of virtuoso Mark Mosca.\n\nWith performances across Canada, South America, and the Caribbean, including multiple appearances at the Trinidad & Tobago Jazz Festival, CaneFire has built a reputation for turning their concerts into full-body experiences.\n\nThink"
-      },
-      {
-        "@language": "fr",
-        "@value": "L’un des ensembles de jazz latin les plus explosifs de la planète.\n\nDirigé par le pianiste et compositeur canadien Jeremy Ledbetter, ce groupe torontois puise dans la richesse du jazz pour la propulser directement au cœur des Caraïbes.\n\nAu centre de tout, un steelpan au son éclatant, comme du soleil sur le métal, qui vous fera doucement vous balancer sous les mains du virtuose Mark Mosca.\n\nAvec des performances à travers le Canada, l’Amérique du Sud et les Caraïbes, dont plusieurs participations au Trinidad & Tobago Jazz Festival, CaneFire s’est taillé une réputation en transformant ses"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/5eb09d37d9046773",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=2560D416-51F1-44FB-93D5-F98BD439ADA6&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-01"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/CaneFire",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "CaneFire"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Harvest%20Posters.png?itok=vbjCnkj0",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/canefire"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/canefire"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/canefire",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "CaneFire | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/canefire"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "CaneFire"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Harvest%20Posters.png?itok=Ch7JjGmD"
       }
     ]
   },
@@ -29181,6 +28080,47 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Assistant Technical Services Manager | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Assistant Technical Services Manager"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Employment Opportunity - Assistant Technical Services Manager"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "Full-Time Permanent.Fredericton Playhouse Inc., a charitable non-profit organization that manages and develops a 709-seat performance venue, has an exciting opportunity for an experienced Assistant Technical Services Manager to join our team.Reporting to the Technical Services Manager, the Assistant Technical Services Manager plays a key role in the delivery of quality, effective technical services to users of the Fredericton Playhouse.Working directly with artists, user groups and other team members, the successful candidate will have a desire to meet and exceed expectations in a customer-centric role. A member of the organization’s management team, they embrace collaboration, innovation and continuous improvement in their approach to their work.Specifically, the Assistant Technical Services Manager’s duties include:Work directly with clients and artists to ascertain and meet their needs for technical servicesAct as the lead on site manager/supervisor for performances, rehearsal, and other activities Manage/Supervise the work of technical crews for each assigned event Attend management meetings and participate in management team efforts such as organizational planning, improvement and monitoring Other duties as may be prescribed by the Technical Services Manager QualificationsThe successful candidate will have a proven ability to supervise a diverse compliment of full-time and casual employees in a unionized (IATSE) working environment. They will have a good working knowledge of various areas of technical services and theatrical production equipment and operations.The ideal candidate:Demonstrates strong supervisory, organizational, problem-solving and interpersonal skills;Works well under pressure, is able to work in a flexible schedule (including evenings and weekends);Has a personal passion for the performing arts.We offer a competitive salary based on experience and training. In addition to a comprehensive benefits package, the starting salary range for this position is $40,000 to $58,000 annually.Interested applicants are asked to send their cv and cover letter to:Dave GarsonTechnical Services Managerdave@theplayhouse.caDeadline: Friday, July 3rd, 2026"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/news/employment-opportunity-assistant-technical-services-manager-1"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/seven-drunken-nights-story-dubliners",
     "http://ogp.me/ns#site_name": [
       {
@@ -33310,7 +32250,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/9261b16fa5d86d8b"
+        "@id": "https://theplayhouse.ca/genid/9b6392c22f9a7de1"
       }
     ],
     "http://schema.org/organizer": [
@@ -33336,11 +32276,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Thursday, September 17 at 10am. Playhouse Members presale starts on Tuesday, September 15 at 10am. Fredericton Symphony Orchestra packages available on September 17 at 10am. This Remembrance season, join the Fredericton Symphony Orchestra, under the direction of guest conductor Victor Vivas, for an inspiring evening of reflection, remembrance, and hope. Journey from tranquil beauty to exhilarating triumph through music that honours courage, sacrifice, and the enduring resilience of the human spirit. The program features Beethoven’s Symphony No. 5, Vaughan Williams’ The"
+        "@value": "*Fredericton Symphony Orchestra packages are available now. Click here.This Remembrance season, join the Fredericton Symphony Orchestra, under the direction of guest conductor Victor Vivas, for an inspiring evening of reflection, remembrance, and hope. Journey from tranquil beauty to exhilarating triumph through music that honours courage, sacrifice, and the enduring resilience of the human spirit. The program features Beethoven’s Symphony No. 5, Vaughan Williams’ The Lark Ascending, and the world premiere of Odell Park Overture by Samuel Arnold - a musical portrait of Fredericton’s beloved"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le jeudi 17 septembre à 10 h. La prévente pour les membres du Playhouse commence le mardi 15 septembre à 10 h.Les abonnements de Fredericton Symphony Orchestra seront disponibles le 17 septembre à 10 h.En cette période de souvenir, joignez-vous au l’Orchestre symphonique de Fredericton, dirigé par le chef d’orchestre invité Victor Vivas, pour une soirée inspirante de réflexion, du souvenir et de l’espoir. Laissez-vous emporter d’une beauté paisible à un triomphe exaltant à travers une musique qui rend hommage au courage, au sacrifice et à la formidable"
+        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.En cette période de souvenir, joignez-vous au l’Orchestre symphonique de Fredericton, dirigé par le chef d’orchestre invité Victor Vivas, pour une soirée inspirante de réflexion, du souvenir et de l’espoir. Laissez-vous emporter d’une beauté paisible à un triomphe exaltant à travers une musique qui rend hommage au courage, au sacrifice et à la formidable résilience de l’esprit humain. Au programme : la Symphonie n° 5 de Beethoven, The Lark Ascending de Vaughan Williams et la première mondiale de l"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -33374,7 +32314,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/9261b16fa5d86d8b",
+    "@id": "https://theplayhouse.ca/genid/9b6392c22f9a7de1",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33386,7 +32326,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -33424,7 +32364,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/00dd26848f709b65"
+        "@id": "https://theplayhouse.ca/genid/6273e6f4f5023ad4"
       }
     ],
     "http://schema.org/organizer": [
@@ -33450,11 +32390,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Thursday, September 17 at 10am. Playhouse Members presale starts on Tuesday, September 15 at 10am. Fredericton Symphony Orchestra packages available on September 17 at 10am. Join the Fredericton Symphony Orchestra, under the baton of FSO Musical Director Richard Hornsby for our annual Christmas seasonal concert.  Celebrate the season with a collection of classical pieces with relevant to the festive period.  Bring you singing voices as the concert will conclude with our traditional sing-along. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regula"
+        "@value": "*Fredericton Symphony Orchestra packages are available now. Click here.Join the Fredericton Symphony Orchestra, under the baton of FSO Musical Director Richard Hornsby for our annual Christmas seasonal concert.  Celebrate the season with a collection of classical pieces with relevant to the festive period.  Bring you singing voices as the concert will conclude with our traditional sing-along. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le jeudi 17 septembre à 10 h. La prévente pour les membres du Playhouse commence le mardi 15 septembre à 10 h.Les abonnements de Fredericton Symphony Orchestra seront disponibles le 17 septembre à 10 h.Joignez-vous au l'Orchestre symphonique de Fredericton, dirigé par le chef d'orchestre Richard Hornsby, lors du concert annuel de Noël. Vous pourrez célébrer cette période de fêtes en écoutant une sélection de morceaux classiques liés à cette belle saison. Faites-vous entendre, car le concert se terminera par notre traditionnel chant en chœur. CATÉGORIE DE"
+        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.Joignez-vous au l'Orchestre symphonique de Fredericton, dirigé par le chef d'orchestre Richard Hornsby, lors du concert annuel de Noël. Vous pourrez célébrer cette période de fêtes en écoutant une sélection de morceaux classiques liés à cette belle saison. Faites-vous entendre, car le concert se terminera par notre traditionnel chant en chœur. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -33488,7 +32428,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/00dd26848f709b65",
+    "@id": "https://theplayhouse.ca/genid/6273e6f4f5023ad4",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33500,7 +32440,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -33533,7 +32473,24 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/7cf3d6c73f8fcfe1",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.jpg?itok=MfdVBEp4",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/d51c26e1cb0618c7",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33545,7 +32502,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -33561,7 +32518,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/2879e24350367abd",
+    "@id": "https://theplayhouse.ca/genid/aacf87de06cbab38",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33573,7 +32530,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-14"
+        "@value": "2026-09-18"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -34045,20 +33002,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/le-playhouse-un-organisme-non-lucratif/raports-annuels"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.jpg?itok=MfdVBEp4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -34652,34 +33595,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/a79fb7d1fa7a8759",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=9E51BA59-BABB-467F-98B0-AF2178936FF5&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-24"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/genid/f9e7ddfada2ccf0e",
     "@type": [
       "http://schema.org/Offer"
@@ -34835,130 +33750,6 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/bdded90518ec92f0",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=CEB100D5-E7C9-4905-B5FF-91F16D5D30FA&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/bdf06034d4a773ba",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8AD1770D-4826-4326-853D-519654D951FD&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/e64240e7814f8117",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=6A1121D4-0277-4F0E-94C1-E9C3957DF882&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-04"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/90d5da63c4a5939f",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=2560D416-51F1-44FB-93D5-F98BD439ADA6&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-01"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/CaneFire",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "CaneFire"
       }
     ]
   },
@@ -36872,7 +35663,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/7828a03f34b5f44b",
+    "@id": "https://theplayhouse.ca/genid/9b180ed3198ff17b",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -36884,7 +35675,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -36900,7 +35691,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/c025640fac6087ee",
+    "@id": "https://theplayhouse.ca/genid/92642c6dade5a17f",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -36912,7 +35703,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-10"
+        "@value": "2026-09-17"
       }
     ],
     "http://schema.org/priceCurrency": [
