@@ -17,5 +17,5 @@ jobs:
           page-url: "https://niagarasymphony.com/"
           publisher: "${{ vars.CAPACOA_BOT }}"
           token: "${{ secrets.GITHUB_TOKEN }}"
-          skolemization-exclude: '{"http://schema.org/Place":["http://schema.org/sameAs"],"http://schema.org/Person":["http://schema.org/url"]}'
+          skolemization-exclude: '{"http://schema.org/Place":["http://schema.org/sameAs"],"http://schema.org/Person":["http://schema.org/url", "http://schema.org/sameAs"]}'
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
