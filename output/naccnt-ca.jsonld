@@ -1,131 +1,5 @@
 [
   {
-    "@id": "https://www.naccnt.ca/event/james-ehnes/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.naccnt.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "James Ehnes | Northern Arts & Cultural Centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "James Ehnes has established himself as one of the most sought-after musicians on the international stage. Gifted with a rare combination of stunning virtuos ..."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.naccnt.ca/wp-content/uploads/2026/08/Spektrix-Icon.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1056"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "480"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-08-14T12:00:00"
-      }
-    ],
-    "article:author": [
-      {
-        "@language": "en-ca",
-        "@value": "Kacie Hall"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/brent-butt/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts & Cultural Centre"
-      }
-    ]
-  },
-  {
     "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/",
     "https://api.w.org/": [
       {
@@ -184,6 +58,70 @@
       {
         "@language": "en-ca",
         "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts & Cultural Centre"
       }
     ]
   },
@@ -808,6 +746,68 @@
     ]
   },
   {
+    "@id": "https://www.naccnt.ca/event/brent-butt-2/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.naccnt.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.naccnt.ca/event/brent-butt-2/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Brent Butt | Northern Arts & Cultural Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Born in Tisdale, Saskatchewan, Brent Butt discovered early that being funny was a good way to get attention. Brent honed his comedy in school and at the age ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.naccnt.ca/wp-content/uploads/2026/08/BrentButtspektrix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1056"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "480"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-09-16T12:00:00"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Kacie Hall"
+      }
+    ]
+  },
+  {
     "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/",
     "https://api.w.org/": [
       {
@@ -1005,9 +1005,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
         "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
       },
       {
@@ -1039,6 +1036,9 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
@@ -1075,9 +1075,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
         "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
       },
       {
@@ -1109,6 +1106,9 @@
       },
       {
         "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
       },
       {
         "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
@@ -1128,305 +1128,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/73fc12894b4f9d5d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/Spektrix-Icon.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T19:30:00-06:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "James Ehnes"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "<p>James Ehnes has established himself as one of the most sought-after musicians on the international stage. Gifted with a rare combination of stunning virtuosity, serene lyricism and unfaltering musicality, Ehnes...</p>\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://www.naccnt.ca/genid/e51d4e237eecac50"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.naccnt.ca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Northern Arts and Cultural Centre (NACC)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "<p>The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.</p>\\n"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "(867) 766-6101"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/3a1cc9f85403162c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-14T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "45"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/e51d4e237eecac50",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "4701 52nd Ave"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Yellowknife"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "NT"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "X1A 2N7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/7dbce269732f695b",
-    "@type": [
-      "https://schema.org/Blog"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/brent-butt/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/4cc54e3d6d83528a",
-    "@type": [
-      "https://schema.org/WPHeader"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.naccnt.ca/event/james-ehnes/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/brent-butt/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
-      },
-      {
-        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.naccnt.ca/genid/47f252c194f0d2db",
+    "@id": "https://www.naccnt.ca/genid/fd3de0cefd9b132a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1601,7 +1303,113 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/48192a862bac8b7e",
+    "@id": "https://www.naccnt.ca/genid/7dbce269732f695b",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/4cc54e3d6d83528a",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/magic-is-funny-with-wes-barker/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/the-2026-cbc-massey-lectures/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-simpson/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-hay-river/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/morningside-music-bridge-in-fort-smith/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/charlotte-lucas-is-27-and-not-dead-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-inuvik/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-norman-wells/"
+      },
+      {
+        "@id": "https://www.naccnt.ca/event/lumber-in-fort-simpson/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/2cb10d467da1e46a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1788,7 +1596,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/a0f3cabc49f4cb24",
+    "@id": "https://www.naccnt.ca/genid/3f0e6922c21d36a9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1860,6 +1668,50 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.naccnt.ca/wp-content/uploads/2023/07/seating-plan.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/venue/northern-arts-and-cultural-centre-nacc/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://www.naccnt.ca/genid/e51d4e237eecac50"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.naccnt.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Northern Arts and Cultural Centre (NACC)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>The Northern Arts and Cultural Centre is located in Yellowknife, Northwest Territories, Canada. It is the only performing arts centre in the NWT. The 313 seat Centre opened May 3, 1984.</p>\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(867) 766-6101"
       }
     ]
   },
@@ -1945,7 +1797,43 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/f7924d7a5d1cd2f4",
+    "@id": "https://www.naccnt.ca/genid/e51d4e237eecac50",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4701 52nd Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Yellowknife"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NT"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "X1A 2N7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/0f5e1f99344a8e9b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2102,7 +1990,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/bc2b5d35fac60003",
+    "@id": "https://www.naccnt.ca/genid/437b5fdedd57df7d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2214,7 +2102,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/931504689f4349d1",
+    "@id": "https://www.naccnt.ca/genid/07564c8a0fac3f7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2377,7 +2265,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/5b3582cc0aa8d5ad",
+    "@id": "https://www.naccnt.ca/genid/fd8b2093ba4f129b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2552,7 +2440,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/12b1f736acd86e8a",
+    "@id": "https://www.naccnt.ca/genid/4164e7374b94f2c8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2739,7 +2627,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/6ddfe31d83a25f92",
+    "@id": "https://www.naccnt.ca/genid/ba3495365959aa42",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2896,7 +2784,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/c6d6c786cf7f59b7",
+    "@id": "https://www.naccnt.ca/genid/a93a07c7830b08fe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3013,7 +2901,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/8b31b7b58e925ec4",
+    "@id": "https://www.naccnt.ca/genid/4b77a17367047aa8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3125,7 +3013,119 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/1830e1c1ef9df6da",
+    "@id": "https://www.naccnt.ca/genid/c6c8916138dab0ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.naccnt.ca/wp-content/uploads/2026/08/BrentButtspektrix.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.naccnt.ca/genid/11e13c34ab96d922"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://www.naccnt.ca/genid/a7291f31682b40a2"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Brent Butt"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Born in Tisdale, Saskatchewan, Brent Butt discovered early that being funny was a good way to get attention. Brent honed his comedy in school and at the age of 20...</p>\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/a7291f31682b40a2",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.naccnt.ca/event/brent-butt-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-16T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "60"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.naccnt.ca/genid/db0d446a62153814",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3276,7 +3276,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/f903a453dfcbb3df",
+    "@id": "https://www.naccnt.ca/genid/2efca3bcea44be02",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3463,7 +3463,7 @@
     ]
   },
   {
-    "@id": "https://www.naccnt.ca/genid/c89134403b021550",
+    "@id": "https://www.naccnt.ca/genid/857e46c35ff13b5f",
     "@type": [
       "http://schema.org/Event"
     ],
