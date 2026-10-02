@@ -19,3 +19,4 @@ jobs:
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
+          skolemization-exclude: '{"http://schema.org/Person":["http://schema.org/url"]}'
