@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=5JW2fT77",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/3.jpg?itok=jWEdMl9S",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -83,6 +83,9 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
@@ -90,6 +93,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -128,6 +134,38 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       }
     ]
   },
@@ -202,6 +240,38 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -237,127 +307,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=dEQNZ1D0",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.png?itok=zcX1EvTc",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Spotlight Series | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Spotlight Series"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/3.jpg?itok=jWEdMl9S",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Série Pleins-Feux"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-07/The%20martin%20Boys%20new%20web%20pic.png?itok=4cQTaSa0",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -367,10 +316,16 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -387,10 +342,94 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/The%20Grand%20Tour%20web%20pic%20%281%29.png?itok=3ctpjaK3",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Flashback%201%20web%20pic.png?itok=qORpDdpK",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/GIASDQ%20-%20Spooky%201900x600.png?itok=gMYlsUsc",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -1254,6 +1293,531 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=ookPyM9Y"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1003",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/52444e1e7a33a1fa"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      },
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“Why see a show when you can BE the show!?”Choir! Choir! Choir! is the fully interactive, participatory show that turns audience into performer! So, get ready to laugh, dance and SING! your hearts out with hundreds of other music-lovers just like you. It’s like a big birthday party for the greatest songs of all time and you’re invited!So grab a friend (or ten) and come out ready to GIVE IT ALL YOU’VE GOT! - all voices welcome, no experience necessary. They Teach, You Sing! Everyone Wins!This time, Choir!Choir!Choir! Presents: Landslide: An EPIC Fleetwood Mac Sing-AlongNothing feels better than"
+      },
+      {
+        "@language": "fr",
+        "@value": "« Pourquoi regarder le spectacle quand vous pouvez ÊTRE le spectacle? »Avec Choir! Choir! Choir!, pas question de rester sagement dans son siège : ici, c’est le public qui fait le spectacle! Préparez-vous à rire, à danser et à CHANTER à pleins poumons avec des centaines d’autres mordus de musique. C’est une grande fête où l’on célèbre les meilleures chansons de tous les temps, et vous êtes invités!Amenez un ami (ou dix!) et venez VOUS DONNER À FOND! Toutes les voix sont bienvenues et aucune expérience n’est nécessaire. On vous apprend les chansons, vous chantez et tout le monde y gagne!Cette"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/52444e1e7a33a1fa",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=7FD9C557-3B9A-42FB-834F-5F801A459709&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=xMvu0T6O",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=ookPyM9Y"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=ookPyM9Y"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along-0",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/landslide-epic-fleetwood-mac-sing-along-0"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=ookPyM9Y"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1005",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along-0"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/f73b45eb98efba6d"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/landslide-epic-fleetwood-mac-sing-along-0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      },
+      {
+        "@language": "fr",
+        "@value": "Landslide: An EPIC Fleetwood Mac Sing-Along"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“Why see a show when you can BE the show!?”Choir! Choir! Choir! is the fully interactive, participatory show that turns audience into performer! So, get ready to laugh, dance and SING! your hearts out with hundreds of other music-lovers just like you. It’s like a big birthday party for the greatest songs of all time and you’re invited!So grab a friend (or ten) and come out ready to GIVE IT ALL YOU’VE GOT! - all voices welcome, no experience necessary. They Teach, You Sing! Everyone Wins!This time, Choir!Choir!Choir! Presents: Landslide: An EPIC Fleetwood Mac Sing-AlongNothing feels better than"
+      },
+      {
+        "@language": "fr",
+        "@value": "« Pourquoi regarder le spectacle quand vous pouvez ÊTRE le spectacle? »Avec Choir! Choir! Choir!, pas question de rester sagement dans son siège : ici, c’est le public qui fait le spectacle! Préparez-vous à rire, à danser et à CHANTER à pleins poumons avec des centaines d’autres mordus de musique. C’est une grande fête où l’on célèbre les meilleures chansons de tous les temps, et vous êtes invités!Amenez un ami (ou dix!) et venez VOUS DONNER À FOND! Toutes les voix sont bienvenues et aucune expérience n’est nécessaire. On vous apprend les chansons, vous chantez et tout le monde y gagne!Cette"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-28T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/f73b45eb98efba6d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=F351DF4C-46F6-4E7A-9EA0-F0342682C208&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations/impact-your-donations",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Impact of Your Donations | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations/impact-your-donations"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Impact of Your Donations"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20EN.png?itok=ZKLB58Z9"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Impact of Your Donations"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "2025–26 SeasonThe Playhouse is a registered charity. Donations help us open our doors to live performance for children, families, and community members who might otherwise not have the opportunity to attend.During the 2025–26 season, donor support helped make these experiences possible:\n  \n      \n  \n    \n      Image    \n                    \n\n\n\n              \n\n  \n  4,000 + students  attended a school field trip matinee performance 1,400 free tickets were given to individuals and families facing financial or social barriers through the Arts Are For Everyone program  1,255 Supported & Young Audience tickets issued at lower rates for those who need them  9 performancesoffered Pay What You Will pricing, ensuring anyone could attend. As we look ahead to the 2026–27 season, the final season at the Fredericton Playhouse, we invite you to take the next step in supporting the Playhouse by donating to our annual Friends Campaign. Donate Today  "
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations/impact-your-donations"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20EN.png?itok=z6i5ZzN3",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations/impact-your-donations"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Give the Gift of Live Performance | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Give the Gift of Live Performance"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20EN.png?itok=ZKLB58Z9"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Give the Gift of Live Performance"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "Become a Friend of the Fredericton Playhouse This season, you can give the joy of live performance to children, families and community members by donating as a new or returning Friend of the Playhouse. As a non-profit organization, we rely on our Friends to provide the additional support needed to make these special programs available to school children, local artists, and other deserving members of our community. Donate Today\n  \n      \n  \n    \n      Image    \n                    \n\n\n\n              \n\n  \nHow to Give:1. Online: use our secure website to make your donation2. Phone: contact Julie @ 506-459-6207 for monthly or one-time donations3. In-kind: Make a donation by gift of securities with this form.  All donations of $25 or more will receive a charitable tax receipt.  Your Gift, Your ImpactYou can give any amount that feels right for you. The examples below show just how far your generosity can go.$50Share the magic with two people through reduced-price Supported Tickets. $250Share the magic with 30 students at a School Field Trip performance $500Share the magic with 20 community members through Arts Are For Everyone access tickets $1000Share the magic with 50 families at Pay What You Will Kidstage performances *Donation amounts and specific activities are for illustrative purposes only. Donations will be directed to programs most needed to provide support to our community.   Thank you for your support!  "
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/2026-09/FotPH%20Assets%20-%20Letter%20%281%29.png",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations/impact-your-donations"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons/limpact-de-vos-dons"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons/limpact-de-vos-dons",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "L’impact de vos dons | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons/limpact-de-vos-dons"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "L’impact de vos dons"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20FR.png?itok=fZhJbt_1"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’impact de vos dons"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@language": "fr",
+        "@value": "Saison 2025–2026Le Playhouse est un organisme de bienfaisance enregistré. Grâce aux dons, nous pouvons permettre à des enfants, à des familles et à des membres de notre communauté d’assister à des spectacles auxquels ils n’auraient peut-être pas accès autrement. Au cours de la saison 2025–2026, le soutien de nos donateurs a rendu ces expériences possibles :\n  \n      \n  \n    \n      Image    \n                    \n\n\n\n              \n\n  \n Plus de 4 000 élèves ont assisté à une représentation en matinée dans le cadre des Sorties Scolaires. 1 400 billets gratuits ont été offerts à des personnes et à des familles faisant face à des obstacles financiers ou sociaux grâce à Les Arts Sont Pour Tous – Programme De Billets. 1 255 billets à tarif réduit ont été remis à de jeunes spectateurs et à des personnes qui en avaient besoin. 9 spectacles ont été offerts selon la formule « Vous décidez du prix », afin que tout le monde puisse y assister.À l’approche de la saison 2026–2027, la dernière au Fredericton Playhouse, nous vous invitons à poursuivre votre soutien en faisant un don à notre campagne annuelle des Amis du Playhouse. Faites un don aujourd’hui  "
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons/limpact-de-vos-dons"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/en/news/our-2021-holiday-gift-guide",
     "http://ogp.me/ns#site_name": [
       {
@@ -1655,10 +2219,16 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -1871,7 +2441,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/CFA%2026%20PH%201900x600%20%281%29.png?itok=tLL75Xgz",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-12/Playhouse.png?itok=wp9J5iGi",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -1880,18 +2450,263 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Martin%20%26%20McIntyre%20Vs.%20The%20Tech%20Crew%20%281%29.jpg?itok=dM00XaGZ",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-12/Loreena%20web%20pic.png?itok=hOGorGE3",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/Fredericton%20Playhouse%20Banner%20-%201900%20x%20600.png?itok=AzLhjN2T",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Web%20Banner.jpg?itok=mFkgzG09",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Jason%20Cyrus%20web%20pic.png?itok=jd9cFeGR",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/1900x600-Graphic%20%281%29.png?itok=vtU3rcrZ",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Tracy%26Martina_1900x600.png?itok=yAwL9wr_",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/2.jpg?itok=cB89gh7A",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Frankenstein.jpg?itok=ok8_K_M3",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Mysteries%20of%20the%20Keyhole%20House.jpg?itok=Avhbg30p",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/JB%20Smoove.jpg?itok=WGdfc8Qx",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Jimmy%20Rankin%20web%20pic.png?itok=vLNr1ZUN",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
       }
     ]
   },
@@ -3111,64 +3926,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/nouvelles/poste-prepose-au-bar"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Give the Gift of Live Performance | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Give the Gift of Live Performance"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20EN.png?itok=ZKLB58Z9"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Give the Gift of Live Performance"
-      }
-    ],
-    "http://schema.org/text": [
-      {
-        "@language": "en",
-        "@value": "Become a Friend of the Fredericton Playhouse This season, you can give the joy of live performance to children, families and community members by donating as a new or returning Friend of the Playhouse. As a non-profit organization, we rely on our Friends to provide the additional support needed to make these special programs available to school children, local artists, and other deserving members of our community. Donate Today\n  \n      \n  \n    \n      Image    \n                    \n\n\n\n              \n\n  \nHow to Give:1. Online: use our secure website to make your donation2. Phone: contact Julie @ 506-459-6207 for monthly or one-time donations3. In-kind: Make a donation by gift of securities with this form.  All donations of $25 or more will receive a charitable tax receipt.  Your Gift, Your ImpactYou can give any amount that feels right for you. The examples below show just how far your generosity can go.$50Share the magic with two people through reduced-price Supported Tickets. $250Share the magic with 30 students at a School Field Trip performance $500Share the magic with 20 community members through Arts Are For Everyone access tickets $1000Share the magic with 50 families at Pay What You Will Kidstage performances *Donation amounts and specific activities are for illustrative purposes only. Donations will be directed to programs most needed to provide support to our community.   Thank you for your support!  "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20EN.png?itok=z6i5ZzN3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/support-playhouse/gifts-and-donations"
       }
     ]
   },
@@ -5166,9 +5923,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -5251,9 +6005,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -5347,33 +6098,6 @@
       {
         "@language": "en",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20Banner.jpg?itok=JhUA2Xhz"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/Compangie%20Marie%20Chouinard.png?itok=mDD-BV3u"
       }
     ]
   },
@@ -5995,33 +6719,6 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Web%20Banner.jpg?itok=JhUA2Xhz"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/Compangie%20Marie%20Chouinard.jpg?itok=-zLepRYN"
       }
     ]
   },
@@ -7147,9 +7844,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -7235,9 +7929,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -7332,9 +8023,6 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -7414,9 +8102,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-kidstage"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -10460,106 +11145,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Web%20Banner.jpg?itok=mFkgzG09",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/2.jpg?itok=cB89gh7A",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Frankenstein.jpg?itok=ok8_K_M3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Mysteries%20of%20the%20Keyhole%20House.jpg?itok=Avhbg30p",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/JB%20Smoove.jpg?itok=WGdfc8Qx",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/4.jpg?itok=aHeKAHun",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -10947,9 +11532,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -11017,9 +11599,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -11105,9 +11684,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -11181,9 +11757,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -15533,146 +16106,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/The%20Grand%20Tour%20web%20pic%20%281%29.png?itok=3ctpjaK3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Flashback%201%20web%20pic.png?itok=qORpDdpK",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/GIASDQ%20-%20Spooky%201900x600.png?itok=gMYlsUsc",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-12/Loreena%20web%20pic.png?itok=hOGorGE3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-02/Fredericton%20Playhouse%20Banner%20-%201900%20x%20600.png?itok=AzLhjN2T",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Jason%20Cyrus%20web%20pic.png?itok=jd9cFeGR",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Jimmy%20Rankin%20web%20pic.png?itok=vLNr1ZUN",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/1900x600-Graphic%20%281%29.png?itok=vtU3rcrZ",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Tracy%26Martina_1900x600.png?itok=yAwL9wr_",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2025-12/Playhouse.png?itok=wp9J5iGi",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=D7dcJLrn",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -15895,6 +16328,20 @@
   },
   {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/Highwaymen%20Fredericton%20%281900%20x%20600%20px%29%5B22%5D.png?itok=3dvn8f_t",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/C%21C%21C%21%20-%20Landslide_Fleetwood_1900x600-fred.png?itok=FDI1dlyQ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -19953,9 +20400,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/frankenstein-1931"
       },
       {
@@ -19975,9 +20419,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/frankenstein-1931"
@@ -20013,9 +20454,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
@@ -20107,9 +20545,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -20189,9 +20624,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -20283,9 +20715,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/daniel-lanois"
       },
       {
@@ -20365,9 +20794,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
@@ -21024,158 +21450,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/take-it-limit-music-eagles",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Take It To The Limit: The Music Of The Eagles | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/take-it-limit-music-eagles"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Take It To The Limit: The Music Of The Eagles"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=YrCqItBN"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/890",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/take-it-limit-music-eagles"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-03"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/48e68b84a891bcde"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/take-it-limit-music-eagles"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Take It To The Limit: The Music Of The Eagles"
-      },
-      {
-        "@language": "fr",
-        "@value": "Take It To The Limit: The Music Of The Eagles"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Eagles fans! Get ready to celebrate the music & legacy of the Eagles on October 3, 2026 when acclaimed tribute Take it to the Limit makes a spectacular return to Fredericton!  \n\nRevisit all the timeless Eagles hits like Hotel California, Heartache Tonight, Desperado, all performed 100% live! \n \nWith rave reviews from coast to coast, the concert captures the essence, harmony and energy of an authentic Eagles performance. Even NHL Hall of Famer Glenn Anderson is a fan: “I saw Take It To The Limit tonight and they were fantastic! I highly recommend them. Good energy. Good people and lots of fun"
-      },
-      {
-        "@language": "fr",
-        "@value": "Fans des Eagles! Préparez-vous à célébrer la musique et l’héritage des Eagles le 3 octobre 2026, alors que le spectacle hommage acclamé Take It To The Limit fait un retour spectaculaire à Fredericton! \n\nRevivez tous les succès intemporels des Eagles, comme Hotel California, Heartache Tonight et Desperado, interprétés 100 % en direct! \n\nAvec des critiques élogieuses d’un océan à l’autre, ce concert saisit l’essence, l’harmonie et l’énergie d’une véritable performance des Eagles. Même le membre du Temple de la renommée de la LNH Glenn Anderson est fan : \n« J’ai vu Take It To The Limit ce soir et"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-03T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-03T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/48e68b84a891bcde",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=2FD05105-A260-4480-95D6-821DE1021EBB&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-27"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-03/Take%20it%20to%20the%20Limit%20web%20pic%20%281%29.png?itok=COvSvmkf",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/take-it-limit-music-eagles"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dance-fredericton-danse",
     "http://ogp.me/ns#site_name": [
       {
@@ -21303,7 +21577,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/32f28a7a9e57e333"
+        "@id": "https://theplayhouse.ca/genid/e8ecc20a1dba6059"
       }
     ],
     "http://schema.org/organizer": [
@@ -21329,11 +21603,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "In 1984, Johnny Cash invited Willie Nelson, Waylon Jennings and Kris Kristofferson to play on his Johnny Cash Christmas TV Special that was filmed in Switzerland.  When they got back to the hotel, they started jamming and hanging out and that was how the Highwaymen came to be.   \n\nThe Highwaymen Show pays tribute to the great American Outlaws of Country Music - Johnny Cash, Willie Nelson, Waylon Jennings and Kris Kristofferson. The Show covers all of the greatest hits including “Mama Don't Let Your Babies Grow up to be Cowboys”, “Always on My Mind”, “Me and Bobby McGee” and “Folsom Prison"
+        "@value": "In 1984, Johnny Cash invited Willie Nelson, Waylon Jennings and Kris Kristofferson to play on his Johnny Cash Christmas TV Special that was filmed in Switzerland.  When they got back to the hotel, they started jamming and hanging out and that was how the Highwaymen came to be.   The Highwaymen Show pays tribute to the great American Outlaws of Country Music - Johnny Cash, Willie Nelson, Waylon Jennings and Kris Kristofferson. The Show covers all of the greatest hits including “Mama Don't Let Your Babies Grow up to be Cowboys”, “Always on My Mind”, “Me and Bobby McGee” and “Folsom Prison Blues”"
       },
       {
         "@language": "fr",
-        "@value": "En 1984, Johnny Cash a invité Willie Nelson, Waylon Jennings et Kris Kristofferson à participer à son émission télévisée spéciale de Noël, The Johnny Cash Christmas Special, tournée en Suisse. De retour à l’hôtel, ils ont commencé à improviser, à jouer ensemble et à passer du temps ensemble — c’est ainsi que les Highwaymen sont nés.\n\nThe Highwaymen Show rend hommage aux grands hors-la-loi américains de la musique country — Johnny Cash, Willie Nelson, Waylon Jennings et Kris Kristofferson. Le spectacle présente tous les plus grands succès, notamment « Mama Don’t Let Your Babies Grow up to be"
+        "@value": "En 1984, Johnny Cash a invité Willie Nelson, Waylon Jennings et Kris Kristofferson à participer à son émission télévisée spéciale de Noël, The Johnny Cash Christmas Special, tournée en Suisse. De retour à l’hôtel, ils ont commencé à improviser, à jouer ensemble et à passer du temps ensemble — c’est ainsi que les Highwaymen sont nés.The Highwaymen Show rend hommage aux grands hors-la-loi américains de la musique country — Johnny Cash, Willie Nelson, Waylon Jennings et Kris Kristofferson. Le spectacle présente tous les plus grands succès, notamment « Mama Don’t Let Your Babies Grow up to be"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -21367,7 +21641,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/32f28a7a9e57e333",
+    "@id": "https://theplayhouse.ca/genid/e8ecc20a1dba6059",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21379,7 +21653,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-26"
+        "@value": "2026-10-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -22351,179 +22625,6 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/Tracy%26Martina_1900x600.png?itok=kKCg8kt_"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/918",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-05"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/80c8764370711df4"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT"
-      },
-      {
-        "@language": "fr",
-        "@value": "Compagnie Marie Chouinard - MAGNIFICAT"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Canada's most celebrated dance artist, Marie Chouinard, transforms Bach's MAGNIFICAT into a striking contemporary dance work.On stage, 12 dancers move with precision and intensity. Their movements respond to one of the most powerful scores ever written. This breathtaking performance can only come from the mind of one choreographer.Marie Chouinard has spent decades redefining contemporary dance. Her fearless originality has captivated audiences in Canada and around the world. MAGNIFICAT is Chouinard's most ambitious work yet. The performance represents her take on Bach's first large choral"
-      },
-      {
-        "@language": "fr",
-        "@value": "Grande figure de la danse au Canada, Marie Chouinard revisite le MAGNIFICAT de Bach dans une création contemporaine saisissante.Sur scène, douze interprètes d’une précision et d’une intensité remarquables donnent corps à l’une des partitions les plus puissantes jamais écrites. Une œuvre forte, habitée, profondément incarnée.Depuis des décennies, Marie Chouinard repousse les limites de la danse contemporaine. Son audace et son originalité marquent les esprits ici comme ailleurs dans le monde. MAGNIFICAT est sans doute son projet le plus ambitieux à ce jour : une relecture d’une œuvre chorale"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-05T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-05T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/80c8764370711df4",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=BA393C08-FC67-4E72-BF03-71D01CF73ED5&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-05/Compangie%20Marie%20Chouinard.png?itok=hTTsr0LO",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Untitled%20design.png?itok=Reejttu6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Untitled%20design%20%281%29.png?itok=B51Oos_i",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Youth%20Dance%20Fest%20East.jpg?itok=41krJtab",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/compagnie-marie-chouinard-magnificat"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
       }
     ]
   },
@@ -26542,6 +26643,20 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Youth%20Dance%20Fest%20East.jpg?itok=41krJtab",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/node/951",
     "@type": [
       "http://schema.org/Event"
@@ -27608,188 +27723,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hello-crows-3rd-annual-fundraiser",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/hello-crows-3rd-annual-fundraiser"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=JYYf64yp"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/961",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hello-crows-3rd-annual-fundraiser"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/678a6bf188af21b2"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hello-crows-3rd-annual-fundraiser"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser"
-      },
-      {
-        "@language": "fr",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Through storytelling, shared experience and music, The Hello Crows continue to uplift community voices and inspire the next generation of musicians and artists.  On the heels of a school tour The Hello Crows will take the stage at the Fredericton Playhouse for a special fundraising performance dedicated to supporting Indigenous youth and music initiatives.  Rooted in connection, the evening will celebrate the power of music to bring people together while creating opportunities for young people to access the arts.  Funds raised through this event will help support youth programming, music"
-      },
-      {
-        "@language": "fr",
-        "@value": "Par leurs chansons, leurs récits et les liens qu’ils tissent avec leur public, The Hello Crows font entendre les voix de leur communauté tout en inspirant une nouvelle génération d’artistes. Après une tournée dans les écoles, le groupe s’arrêtera au Fredericton Playhouse pour un spectacle-bénéfice spécial au profit des jeunes Autochtones et de programmes favorisant l’accès à la musique. Placée sous le signe du partage et du rassemblement, cette soirée mettra en lumière le pouvoir de la musique de rapprocher les gens, de créer des occasions et d’ouvrir de nouvelles perspectives aux jeunes. Les"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-30T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-30T21:30:00-03:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/678a6bf188af21b2",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=55C58305-C68D-41DE-82FB-343B6C0C5C88&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-21"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=2Tdel7XB",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hello-crows-3rd-annual-fundraiser"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hello-crows-3rd-annual-fundraiser"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hello-crows-3rd-annual-fundraiser",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/hello-crows-3rd-annual-fundraiser"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "The Hello Crows' 3rd Annual Fundraiser"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/The%20Hello%20Crows%201%20web%20pic.png?itok=JYYf64yp"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sandman-celebrating-music-metallica-0",
     "http://ogp.me/ns#site_name": [
       {
@@ -28522,7 +28455,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/11805a0334e88a4f"
+        "@id": "https://theplayhouse.ca/genid/eedd68c2d10bceec"
       }
     ],
     "http://schema.org/organizer": [
@@ -28552,7 +28485,7 @@
       },
       {
         "@language": "fr",
-        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.FHS Productions est fière de présenter une relecture haute en couleur de Joseph and the Amazing Technicolor Dreamcoat! Avec les chansons emblématiques d’Andrew Lloyd Webber et de Tim Rice, ce grand classique familial fait son retour au Théâtre Tom Morrison, où l’histoire biblique de Joseph prend vie dans une mise en scène aussi éclatante que son manteauCATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -28607,7 +28540,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/11805a0334e88a4f",
+    "@id": "https://theplayhouse.ca/genid/eedd68c2d10bceec",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28619,7 +28552,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -28924,7 +28857,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/4a4f57110ff4dafa"
+        "@id": "https://theplayhouse.ca/genid/b192da222bed78b0"
       }
     ],
     "http://schema.org/organizer": [
@@ -28954,7 +28887,7 @@
       },
       {
         "@language": "fr",
-        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.FHS Productions est fière de présenter une relecture haute en couleur de Joseph and the Amazing Technicolor Dreamcoat! Avec les chansons emblématiques d’Andrew Lloyd Webber et de Tim Rice, ce grand classique familial fait son retour au Théâtre Tom Morrison, où l’histoire biblique de Joseph prend vie dans une mise en scène aussi éclatante que son manteauCATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -28988,7 +28921,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/4a4f57110ff4dafa",
+    "@id": "https://theplayhouse.ca/genid/b192da222bed78b0",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29000,7 +28933,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -29038,7 +28971,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/decefd8ed35802d7"
+        "@id": "https://theplayhouse.ca/genid/9fafa7ffee0b66f8"
       }
     ],
     "http://schema.org/organizer": [
@@ -29068,7 +29001,7 @@
       },
       {
         "@language": "fr",
-        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions est fière de présenter une relecture haute en couleur de Joseph and the Amazing Technicolor Dreamcoat! Avec les chansons emblématiques d’Andrew Lloyd Webber et de Tim Rice, ce grand classique familial fait son retour au Théâtre Tom Morrison, où l’histoire biblique de Joseph prend vie dans une mise en scène aussi éclatante que son manteau.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -29102,7 +29035,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/decefd8ed35802d7",
+    "@id": "https://theplayhouse.ca/genid/9fafa7ffee0b66f8",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29114,7 +29047,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -29152,7 +29085,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/71c4d761ebeeb76e"
+        "@id": "https://theplayhouse.ca/genid/f8934893b8296203"
       }
     ],
     "http://schema.org/organizer": [
@@ -29182,7 +29115,7 @@
       },
       {
         "@language": "fr",
-        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.*La traduction en français sera bientôt disponible.FHS Productions is proud to present a vibrant reimagining of Joseph and the Amazing Technicolor Dreamcoat! Featuring the iconic music of Andrew Lloyd Webber and Tim Rice, this beloved family favorite returns to the Tom Morrison Theatre bringing the classic biblical tale of jealousy, betrayal, and triumph to kaleidoscopic life.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
+        "@value": "*Cette spectacle a lieu au théâtre Tom Morrison de l'école secondaire de Fredericton.FHS Productions est fière de présenter une relecture haute en couleur de Joseph and the Amazing Technicolor Dreamcoat! Avec les chansons emblématiques d’Andrew Lloyd Webber et de Tim Rice, ce grand classique familial fait son retour au Théâtre Tom Morrison, où l’histoire biblique de Joseph prend vie dans une mise en scène aussi éclatante que son manteau.CATÉGORIE DE PRIXTOUS LES DROITS SONT ASSUJETTIS À UNE TVH DE 15 %Régulier23,50 $Aîné20,50 $Étudiant.e20,50 $"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -29216,7 +29149,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/71c4d761ebeeb76e",
+    "@id": "https://theplayhouse.ca/genid/f8934893b8296203",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29228,7 +29161,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -32042,23 +31975,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/Compangie%20Marie%20Chouinard.jpg?itok=MfdVBEp4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/genid/d51c26e1cb0618c7",
     "@type": [
       "http://schema.org/Offer"
@@ -32139,6 +32055,76 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/2fdca384f03474e6",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=7FD9C557-3B9A-42FB-834F-5F801A459709&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/370e677df32227e0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=F351DF4C-46F6-4E7A-9EA0-F0342682C208&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20FR.png?itok=K0TYHz4F",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons/limpact-de-vos-dons"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons"
       }
     ]
   },
@@ -32344,17 +32330,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://theplayhouse.ca/fr/soutenez-la-playhouse/partenariats-corporatifs"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-09/Share%20the%20magic%20-%20Friends%20of%20the%20Fred%20Playhouse%20banner%20FR.png?itok=K0TYHz4F",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/appuyer-le-playhouse/cadeaux-et-dons"
       }
     ]
   },
@@ -33240,9 +33215,6 @@
         "@id": "https://theplayhouse.ca/fr/schedule-and-tickets/the-sheepdogs"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/daniel-lanois"
       },
       {
@@ -33407,56 +33379,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/take-it-limit-music-eagles",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Take It To The Limit: The Music Of The Eagles | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/take-it-limit-music-eagles"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Take It To The Limit: The Music Of The Eagles"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/4b0c8d886ba8707f",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=2FD05105-A260-4480-95D6-821DE1021EBB&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-27"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/34d2888160865bf0",
+    "@id": "https://theplayhouse.ca/genid/71431c729dc1da97",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33468,7 +33391,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-05-26"
+        "@value": "2026-10-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -33592,45 +33515,6 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/48738a46eb61c8ec",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=BA393C08-FC67-4E72-BF03-71D01CF73ED5&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-05/Compangie%20Marie%20Chouinard.jpg?itok=jj10TE9y",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/compagnie-marie-chouinard-magnificat"
       }
     ]
   },
@@ -34578,34 +34462,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/832fb40b6d31d226",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=55C58305-C68D-41DE-82FB-343B6C0C5C88&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-21"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/genid/eb904e0a610411e6",
     "@type": [
       "http://schema.org/Offer"
@@ -34690,7 +34546,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/8afbe55cc20c53cb",
+    "@id": "https://theplayhouse.ca/genid/612f07d155129386",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -34702,7 +34558,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -34718,7 +34574,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/45b3ba57fd986cab",
+    "@id": "https://theplayhouse.ca/genid/c71beb33c24c59cf",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -34730,7 +34586,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -34746,7 +34602,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/416b023e6d0cae3d",
+    "@id": "https://theplayhouse.ca/genid/2fdd5bd35d92a158",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -34758,7 +34614,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -34774,7 +34630,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/3acbb5364de25d42",
+    "@id": "https://theplayhouse.ca/genid/42717aad00afc40c",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -34786,7 +34642,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-07-30"
+        "@value": "2026-09-29"
       }
     ],
     "http://schema.org/priceCurrency": [
