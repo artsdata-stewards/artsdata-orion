@@ -487,6 +487,217 @@
     ]
   },
   {
+    "@id": "https://petittheatre.org/genid/be4747a9a7637019",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-17T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-17T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/71744cb55685fdc6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – octobre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!</p>\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "fr",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chic Shack - octobre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-07T14:47:12+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-07T14:47:12-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:03:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-07T14:47:12+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/0adff7562df2c362"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack - octobre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
     "@id": "https://petittheatre.org/genid/76e16cafe14e524e",
     "@type": [
       "http://schema.org/Offer"
@@ -1041,6 +1252,36 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/97331dd4cc859cc4",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival du film de montagne de Banff"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": ""
       }
     ]
   },
@@ -28885,289 +29126,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Chic Shack - octobre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:23:41+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:23:41-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2048"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1365"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:03:37+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:23:41+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/0adff7562df2c362"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack - octobre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2048"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1365"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/0adff7562df2c362",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-17T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-17T22:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – octobre 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – octobre 2026"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/evenement/improvisatorium-septembre-2026/",
     "http://ogp.me/ns#locale": [
       {
@@ -29493,289 +29451,6 @@
       {
         "@language": "fr",
         "@value": "Improvisatorium – septembre 2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:24:39+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:24:39-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2048"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1365"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-31T18:44:36+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:24:39+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2048"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1365"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T22:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
       }
     ]
   },
@@ -31342,289 +31017,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/shangri-la/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Shangri-La - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Découvrez Shangri-La, le spectacle vivant du Collectif Or Normes adapté du chef-d'œuvre de Mathieu Bablet. Sur cette scène à 360 degrés, plongez au cœur d'une immersion monumentale !"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Une immersion sensorielle unique pour redécouvrir une œuvre culte.\nDirectement arrivée de France, cette production monumentale débarque chez nous et redéfinit complètement les codes du spectacle vivant.\n\nOubliez la scène traditionnelle : ici, la performance se déploie tout autour de vous. Installez-vous au centre de la salle et laissez-vous transporter par un dispositif d'écrans géants à 360"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:50:24+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:50:24-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "1765"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1177"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:03:37+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:50:24+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/b115133f59da6855"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Shangri-La - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1765"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1177"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/b115133f59da6855",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/shangri-la/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-21T18:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-21T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Shangri-La"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Découvrez Shangri-La, le spectacle vivant du Collectif Or Normes adapté du chef-d'œuvre de Mathieu Bablet. Sur cette scène à 360 degrés, plongez au cœur d'une immersion monumentale !"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/shangri-la/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/shangri-la/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Shangri-La"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/",
     "http://ogp.me/ns#locale": [
       {
@@ -32047,6 +31439,710 @@
       {
         "@language": "fr",
         "@value": "Projection 100 ans de Cinéma,  Vivre dans la marge"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/shangri-la/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Shangri-La - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez Shangri-La, le spectacle vivant du Collectif Or Normes adapté du chef-d'œuvre de Mathieu Bablet. Sur cette scène à 360 degrés, plongez au cœur d'une immersion monumentale !"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Une immersion sensorielle unique pour redécouvrir une œuvre culte.\nDirectement arrivée de France, cette production monumentale débarque chez nous et redéfinit complètement les codes du spectacle vivant.\n\nOubliez la scène traditionnelle : ici, la performance se déploie tout autour de vous. Installez-vous au centre de la salle et laissez-vous transporter par un dispositif d'écrans géants à 360"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-06T13:38:39+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-06T13:38:39-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1765"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1177"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:03:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-06T13:38:39+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/b115133f59da6855"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Shangri-La - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1765"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1177"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/b115133f59da6855",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/shangri-la/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-21T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-21T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Shangri-La"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez Shangri-La, le spectacle vivant du Collectif Or Normes adapté du chef-d'œuvre de Mathieu Bablet. Sur cette scène à 360 degrés, plongez au cœur d'une immersion monumentale !"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/shangri-la/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/shangri-la/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Shangri-la-Site.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Shangri-La"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/0adff7562df2c362",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-17T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-17T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – octobre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-octobre-2026/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai2026-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – octobre 2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-07T14:46:16+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-07T14:46:16-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T18:44:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-07T14:46:16+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
       }
     ]
   }
