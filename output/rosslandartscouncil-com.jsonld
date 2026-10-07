@@ -862,6 +862,321 @@
     ]
   },
   {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Joe Hill Coffeehouse — Record Ridge Mixtape - Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us as we kick off the Joe Hill Coffeehouse season with performers from Record Ridge Mixtape! Enjoy an evening of local talent and community connection, with proceeds from the […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "924"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://rosslandartscouncil.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-05T23:28:22+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/f5e455dcb05e05fb"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Record Ridge Mixtape - Rossland Arts Council"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1640"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "924"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/f5e455dcb05e05fb",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-18T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-18T20:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/e9b3451ee2a472bb"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ec1a13ae5f810e6d"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Record Ridge Mixtape"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us as we kick off the Joe Hill Coffeehouse season with performers from Record Ridge Mixtape! Enjoy an evening of local talent and community connection, with proceeds from the [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/e9b3451ee2a472bb",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/venue/rossland-miners-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/a6cb13d098ca30a6"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-record-ridge-mixtape/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rossland Miners Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/a6cb13d098ca30a6",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1765 Columbia Avenue"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Rossland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V0G 1Y0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
     "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/",
     "http://ogp.me/ns#locale": [
       {
@@ -1265,6 +1580,486 @@
     "http://schema.org/sameAs": [
       {
         "@id": "https://rosslandartscouncil.com/event/all-the-madmen-stickbow/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performance Hall, Miners’ Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Joe Hill Coffeehouse — Christmas Special - Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Celebrate the season with the Joe Hill Coffeehouse Christmas Special! Gather with friends and neighbours for a festive evening of local talent and holiday spirit. Part of RCAC’s support for […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "924"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://rosslandartscouncil.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-05T23:38:06+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/90245e29f50e8085"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Christmas Special - Rossland Arts Council"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1640"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "924"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/90245e29f50e8085",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13T20:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/10e3bc09f9245f27"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ec1a13ae5f810e6d"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Christmas Special"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate the season with the Joe Hill Coffeehouse Christmas Special! Gather with friends and neighbours for a festive evening of local talent and holiday spirit. Part of RCAC’s support for [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/10e3bc09f9245f27",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/venue/the-miners-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/8bfcefda586a7ad1"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-christmas-special/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performance Hall, Miners’ Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Joe Hill Coffeehouse — Valentine’s Special - Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Spend Valentine’s Day with local talent and good company at the Joe Hill Coffeehouse! Bring a friend, someone special, or come on your own for a welcoming evening celebrating creativity […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Rossland Arts Council"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://rosslandartscouncil.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-05T23:39:48+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/423d8437b052a825"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Valentine’s Special - Rossland Arts Council"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/423d8437b052a825",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-14T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-14T20:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/b16ebf37ee506421"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ec1a13ae5f810e6d"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Valentine’s Special"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Spend Valentine’s Day with local talent and good company at the Joe Hill Coffeehouse! Bring a friend, someone special, or come on your own for a welcoming evening celebrating creativity [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/b16ebf37ee506421",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/venue/the-miners-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/8bfcefda586a7ad1"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-valentines-special/"
       }
     ],
     "http://schema.org/name": [
@@ -2115,6 +2910,564 @@
     "http://schema.org/sameAs": [
       {
         "@id": "https://rosslandartscouncil.com/event/the-wardens/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performance Hall, Miners’ Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Joe Hill Coffeehouse - Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us for an evening of local talent at Joe Hill Coffeehouse! Settle in, connect with friends and neighbours, and enjoy performances by artists from across the West Kootenays. This […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/wp-content/uploads/2025/01/Event-Feature-Image-2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "924"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://rosslandartscouncil.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/01/Event-Feature-Image-2.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-05T23:41:47+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/2fffb350e81eafaa"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse - Rossland Arts Council"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/01/Event-Feature-Image-2.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/01/Event-Feature-Image-2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1640"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "924"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/2fffb350e81eafaa",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-18T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-18T20:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/4e23353dac1f5d42"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ec1a13ae5f810e6d"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us for an evening of local talent at Joe Hill Coffeehouse! Settle in, connect with friends and neighbours, and enjoy performances by artists from across the West Kootenays. This [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/4e23353dac1f5d42",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/venue/the-miners-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/8bfcefda586a7ad1"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-5/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performance Hall, Miners’ Hall"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Joe Hill Coffeehouse — Follies Spectacular - Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Wrap up the Joe Hill Coffeehouse season with the Follies Spectacular! Enjoy performances by the 2027 Gold Fever Follies cast, alongside other performers from our community. Proceeds from the door […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Rossland Arts Council"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "924"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://rosslandartscouncil.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-05T23:51:41+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/a4c334630faeb9cf"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Follies Spectacular - Rossland Arts Council"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://rosslandartscouncil.com/wp-content/uploads/2025/07/Joe-Hill.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1640"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "924"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/a4c334630faeb9cf",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-06-13T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-06-13T20:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/d83bc5e5a6610f8b"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/ec1a13ae5f810e6d"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Joe Hill Coffeehouse — Follies Spectacular"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Wrap up the Joe Hill Coffeehouse season with the Follies Spectacular! Enjoy performances by the 2027 Gold Fever Follies cast, alongside other performers from our community. Proceeds from the door [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://rosslandartscouncil.com/genid/d83bc5e5a6610f8b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://rosslandartscouncil.com/venue/the-miners-hall/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://rosslandartscouncil.com/genid/8bfcefda586a7ad1"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rosslandartscouncil.com/event/joe-hill-coffeehouse-follies-spectacular/"
       }
     ],
     "http://schema.org/name": [
