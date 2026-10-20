@@ -19,3 +19,13 @@ jobs:
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
+          html-extract-config: |
+            {
+              "entity_type": "http://schema.org/Event",
+              "extract": {
+                "http://schema.org/additionalType": {
+                  "xpath": "normalize-space(//div[@class='c-single-event__category'])",
+                  "array": "true"
+                }
+              }
+            }
