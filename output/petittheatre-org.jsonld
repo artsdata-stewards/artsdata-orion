@@ -295,198 +295,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/genid/eccd7d615447de9b",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "1970-01-01T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "10"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "fr",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Projection 100 ans de Cinéma, Vivre dans la marge - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "100 ans de cinéma : soirée sur la vie dans la marge. Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique projettera des œuvres indépendantes des années 1970 portant un regard brut sur la marginalité et la réalité abitibienne."
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique mettra en lumière des œuvres rouyn-norandiennes des années 1970.\n\nAu programme de cette journée cinématographique : trois temps forts, trois œuvres majeures et trois séances"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-25T14:00:18+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-25T14:00:18-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/01/Soiree-14-Cinema-dans-la-marge-EventFB.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "1500"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "844"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/01/Soiree-14-Cinema-dans-la-marge-EventFB.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-13T20:44:03+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-25T14:00:18+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/809f1329e91850cf"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Projection 100 ans de Cinéma, Vivre dans la marge - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "100 ans de cinéma : soirée sur la vie dans la marge. Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique projettera des œuvres indépendantes des années 1970 portant un regard brut sur la marginalité et la réalité abitibienne."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/genid/76e16cafe14e524e",
     "@type": [
       "http://schema.org/Offer"
@@ -950,11 +758,11 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:42:55+00:00"
+        "@value": "2026-10-14T13:33:16+00:00"
       },
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:42:55-05:00"
+        "@value": "2026-10-14T13:33:16-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1018,7 +826,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:42:55+00:00"
+        "@value": "2026-10-14T13:33:16+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -3393,7 +3201,7 @@
       },
       {
         "@language": "fr-ca",
-        "@value": "Laissez-vous émerveiller par les images spectaculaires d'hommes et de femmes exceptionnels qui repoussent souvent leurs exploits aux limites du possible. Une expérience cinématographique incontournable qui célèbre la passion et l'audace."
+        "@value": "Avec sa 51e édition, la Tournée mondiale du Festival du film de montagne de Banff poursuit l’aventure!\nGrâce à une programmation exaltante, les mois de janvier et février insufflent à l’hiver québécois une dose massive d’adrénaline et d’inspiration. Avec 26 villes et 43 représentations à l’agenda, la tournée au Québec poursuit son"
       }
     ],
     "http://ogp.me/ns#url": [
@@ -3417,35 +3225,47 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:40:56+00:00"
+        "@value": "2026-10-14T20:51:47+00:00"
       },
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:40:56-05:00"
+        "@value": "2026-10-14T20:51:47-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2025/10/SaddlePeak_Zizka_RGB-16-9ratio-Compressed-scaled.jpg"
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie-1024x683.webp"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie.webp"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "fr-ca",
-        "@value": "2560"
+        "@value": "1024"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "7952"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "fr-ca",
-        "@value": "1440"
+        "@value": "683"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "5304"
       }
     ],
     "http://ogp.me/ns#image:type": [
       {
         "@language": "fr-ca",
-        "@value": "image/jpeg"
+        "@value": "image/webp"
       }
     ],
     "@type": [
@@ -3473,7 +3293,7 @@
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/10/SaddlePeak_Zizka_RGB-16-9ratio-Compressed-scaled.jpg"
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie.webp"
       }
     ],
     "http://schema.org/datePublished": [
@@ -3485,7 +3305,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:40:56+00:00"
+        "@value": "2026-10-14T20:51:47+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -28395,145 +28215,7 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/10/SaddlePeak_Zizka_RGB-16-9ratio-Compressed-scaled.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/10/SaddlePeak_Zizka_RGB-16-9ratio-Compressed-scaled.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1440"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/cd778e2c90ef382a",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/festival-banff-2027/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/festival-banff-2027/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-11T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-11T22:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/d2ad3d04ddc8a485"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La tournée mondiale du Festival du Film de Montagne de Banff au Québec"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Préparez-vous à être ébloui·es par des images spectaculaires d’expéditions à travers des paysages extraordinaires."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/10/SaddlePeak_Zizka_RGB-16-9ratio-Compressed-scaled.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La tournée mondiale du Festival du Film de Montagne de Banff au Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/",
+    "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "fr-ca",
@@ -28549,23 +28231,23 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr-ca",
-        "@value": "Jerry Tremblay | Searching for Love - Le Petit Théâtre du Vieux Noranda"
+        "@value": "Projection 100 ans de Cinéma, Vivre dans la marge - Le Petit Théâtre du Vieux Noranda"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "fr-ca",
-        "@value": "Jerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love."
+        "@value": "100 ans de cinéma : soirée sur la vie dans la marge. Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique projettera des œuvres indépendantes des années 1970 portant un regard brut sur la marginalité et la réalité abitibienne."
       },
       {
         "@language": "fr-ca",
-        "@value": "Après avoir fait  salle comble l'an dernier pour 2 représentations, nous n'avons pas pu résister et nous vous le représentons cette année !!\n\nJerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love.\n\nCultivateur de malaise expérimenté, mais involontaire, Jerry rayonne par son"
+        "@value": "Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique mettra en lumière des œuvres rouyn-norandiennes des années 1970.\n\nAu programme de cette journée cinématographique : trois temps forts, trois œuvres majeures et trois séances"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+        "@value": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -28583,35 +28265,35 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:41:36+00:00"
+        "@value": "2026-09-25T14:00:18+00:00"
       },
       {
         "@language": "fr-ca",
-        "@value": "2026-09-16T14:41:36-05:00"
+        "@value": "2026-09-25T14:00:18-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/01/Soiree-14-Cinema-dans-la-marge-EventFB.png"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "fr-ca",
-        "@value": "1920"
+        "@value": "1500"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "fr-ca",
-        "@value": "1080"
+        "@value": "844"
       }
     ],
     "http://ogp.me/ns#image:type": [
       {
         "@language": "fr-ca",
-        "@value": "image/webp"
+        "@value": "image/png"
       }
     ],
     "@type": [
@@ -28619,7 +28301,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
       }
     ],
     "http://schema.org/isPartOf": [
@@ -28629,34 +28311,34 @@
     ],
     "http://schema.org/primaryImageOfPage": [
       {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
+        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/#primaryimage"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
+        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/#primaryimage"
       }
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/01/Soiree-14-Cinema-dans-la-marge-EventFB.png"
       }
     ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:03:36+00:00"
+        "@value": "2026-01-13T20:44:03+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:41:36+00:00"
+        "@value": "2026-09-25T14:00:18+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "https://petittheatre.org/genid/5e53b8804d82ddfb"
+        "@id": "https://petittheatre.org/genid/809f1329e91850cf"
       }
     ],
     "https://api.w.org/": [
@@ -28667,1149 +28349,19 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Jerry Tremblay | Searching for Love - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/5e53b8804d82ddfb",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-30T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-30T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jerry Tremblay | Searching for Love"
+        "@value": "Projection 100 ans de Cinéma, Vivre dans la marge - Le Petit Théâtre du Vieux Noranda"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Jerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jerry Tremblay | Searching for Love"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1367"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1050"
+        "@value": "100 ans de cinéma : soirée sur la vie dans la marge. Organisé sous le thème « Vivre dans la marge », ce rendez-vous cinématographique projettera des œuvres indépendantes des années 1970 portant un regard brut sur la marginalité et la réalité abitibienne."
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
         "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/688a5ae54476033c",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-17T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-17T21:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://petittheatre.org/genid/88bbdffedeaacd18"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Improvisatorium – décembre 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Découvrez L’Improvisatorium, le rendez-vous mensuel d'improvisation survolté du Petit Théâtre du Vieux Noranda ! Un spectacle hilarant, spontané et sans limites orchestré par Louis-Jean Lebel et Christian Matte."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Improvisatorium – décembre 2026"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Mimi O'Bonsawin - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "À travers ses performances intimes et vibrantes, l'autrice-compositrice-interprète abénakise et franco-ontarienne Mimi O’Bonsawin propose, avec le batteur Ryan Schurman, un moment mêlant poésie, rythmes organiques et connexion à la nature."
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Cette autrice-compositrice-interprète abénakise (W8banaki) et franco-ontarienne vous plonge dans un univers musical unique, au croisement de ses origines autochtones et de la pop acoustique. Portée par des textes sensibles et des rythmes organiques, elle vous invite à vivre une profonde connexion à la nature et un moment suspendu en sa compagnie.\n\nSur scène, accompagnée du batteur"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:43:23+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:43:23-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2560"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1706"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:03:36+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:43:23+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/e6bd51ddfa6fa053"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Mimi O'Bonsawin - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1706"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/e6bd51ddfa6fa053",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-02-05T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-02-05T21:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Mimi O&rsquo;Bonsawin"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "À travers ses performances intimes et vibrantes, l'autrice-compositrice-interprète abénakise et franco-ontarienne Mimi O’Bonsawin propose, avec le batteur Ryan Schurman, un moment mêlant poésie, rythmes organiques et connexion à la nature."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Mimi O&rsquo;Bonsawin"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/diane-tell/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Diane Tell | 50 i'aime anniversaire - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda vous présente Diane Tell : Ma Tournée 50 i’aime anniversaire."
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "« Pour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles, dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Le répertoire — puisé dans quinze albums — choisi pour notre bonheur et le"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:43:58+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-16T14:43:58-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2446"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "2400"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-09-17T16:34:56+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-16T14:43:58+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/2fd395336b432df8"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Diane Tell | 50 i'aime anniversaire - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Petit Théâtre du Vieux Noranda vous présente Diane Tell : Ma Tournée 50 i’aime anniversaire."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2446"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2400"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/2fd395336b432df8",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/diane-tell/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-06T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-06T20:30:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Diane Tell | 50 i&rsquo;aime anniversaire"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Pour sa tournée \"50 i’aime anniversaire\", Diane Tell célèbre 50 ans de musique, de chansons et de rencontres. Un extraordinaire band québécois l'accompagnera pour fêter cet événement grandiose."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/diane-tell/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/diane-tell/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Diane Tell | 50 i&rsquo;aime anniversaire"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Les Charbonniers de l'enfer | F-I FI, N-I NI ! La tournée d'adieu - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "\"Depuis plus de 30 ans, Les Charbonniers enflamment les grandes scènes du Québec et d'Europe. Le moment est venu pour eux de tirer leur révérence avec cette ultime tournée d'adieu.\""
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Les Charbonniers de L'enfer: F-I FI, N-I NI ! la tournée d'adieu\n\nC'est dans le souffle de leurs voix que tout prend forme. Comme une machine à voyager dans le temps, une rafale nous transporte dans un passé riche de culture. Formation québécoise a capella spécialisée dans la recherche et l'interprétation du répertoire de"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-18T18:58:34+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-09-18T18:58:34-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2560"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1708"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:04:13+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-18T18:58:34+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/4660e2274cb090d4"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Charbonniers de l'enfer | F-I FI, N-I NI ! La tournée d'adieu - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1708"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/4660e2274cb090d4",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T21:30:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Charbonniers de l&rsquo;enfer | F-I FI, N-I NI ! La tournée d&rsquo;adieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "\"Depuis plus de 30 ans, Les Charbonniers enflamment les grandes scènes du Québec et d'Europe. Le moment est venu pour eux de tirer leur révérence avec cette ultime tournée d'adieu.\"\r\n"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Charbonniers de l&rsquo;enfer | F-I FI, N-I NI ! La tournée d&rsquo;adieu"
       }
     ]
   },
@@ -29935,6 +28487,47 @@
     ]
   },
   {
+    "@id": "https://petittheatre.org/genid/eccd7d615447de9b",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "10"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
     "@id": "https://petittheatre.org/evenement/100-ans-de-cinema-vivre-dans-la-marge/#webpage",
     "@type": [
       "http://schema.org/WebPage"
@@ -29953,289 +28546,6 @@
       {
         "@language": "fr",
         "@value": "Projection 100 ans de Cinéma,  Vivre dans la marge"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-07T14:46:16+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-07T14:46:16-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2048"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1365"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-31T18:44:36+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-07T14:46:16+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2048"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1365"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T22:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
       }
     ]
   },
@@ -31238,289 +29548,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "La Famille Vélociraptor | Les Petits Explorateurs - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Découvrez le ciné-conférence de la Famille Vélociraptor au Petit Théâtre de Rouyn-Noranda : un incroyable périple de 3 000 km à vélo en famille à travers l'Europe. Réservez vos places !"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "On se retrouve pour une nouvelle soirée de Petits Explorateurs!\nPrêts pour la grande aventure ? Rejoignez la famille Vélociraptor !\n\nEn 2024, Frédérique, Serge et leurs trois garçons (de 11, 9 et 5 ans) se sont lancé un défi un"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-09T17:09:33+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-09T17:09:33-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2404"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1603"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-28T21:03:36+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-09T17:09:33+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/497f074f356c3cc8"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Famille Vélociraptor | Les Petits Explorateurs - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2404"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1603"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/497f074f356c3cc8",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T21:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Famille Vélociraptor | Les Petits Explorateurs"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Découvrez le ciné-conférence de la Famille Vélociraptor au Petit Théâtre de Rouyn-Noranda : un incroyable périple de 3 000 km à vélo en famille à travers l'Europe. Réservez vos places !"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La Famille Vélociraptor | Les Petits Explorateurs"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/evenement/faf-dilate/",
     "http://ogp.me/ns#locale": [
       {
@@ -32366,6 +30393,2320 @@
       {
         "@language": "fr",
         "@value": "Espace Court | Festival du cinéma international de l’Abitibi-Témiscamingue"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Printemps des Volubiles - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Assistez à un spectacle d’improvisation-performance de haute voltige avec Les Volubiles ! Retrouvez la troupe Rouyn-Norandienne pour une soirée unique, sans filtre et remplie d'humour."
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Les Volubiles – Humour spontané\n\nAprès avoir fait salle comble pendant près de dix ans au Petit Théâtre du Vieux-Noranda, et à la demande générale, Les Volubiles sont enfin de retour!\n\nPour cette nouvelle saison, Pascal Binette reprend les commandes et lance une série d’épreuves théâtrales complètement déjantées à son fidèle escadron du rire : Luc Drolet, Virgil"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:15:25+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:15:25-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Les-Volubiles-photo-officielle-copie-scaled.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1707"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Les-Volubiles-photo-officielle-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-09T15:43:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:15:25+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/824b18abfdc0d164"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Printemps des Volubiles - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Les-Volubiles-photo-officielle-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Les-Volubiles-photo-officielle-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1707"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/824b18abfdc0d164",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-09T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-09T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://petittheatre.org/genid/cbe3380ab119ab3a"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Printemps des Volubiles"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Assistez à un spectacle d’improvisation-performance de haute voltige avec Les Volubiles ! Retrouvez la troupe Rouyn-Norandienne pour une soirée unique, sans filtre et remplie d'humour."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/cbe3380ab119ab3a",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/le-printemps-des-volubiles/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Les-Volubiles-photo-officielle-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Printemps des Volubiles"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/diane-tell/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Diane Tell | 50 i'aime anniversaire - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda vous présente Diane Tell : Ma Tournée 50 i’aime anniversaire."
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "« Pour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles, dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Le répertoire — puisé dans quinze albums — choisi pour notre bonheur et le"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:16:44+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:16:44-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2446"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-17T16:34:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:16:44+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/2fd395336b432df8"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diane Tell | 50 i'aime anniversaire - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda vous présente Diane Tell : Ma Tournée 50 i’aime anniversaire."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2446"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/2fd395336b432df8",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/diane-tell/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-06T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-06T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diane Tell | 50 i&rsquo;aime anniversaire"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pour sa tournée \"50 i’aime anniversaire\", Diane Tell célèbre 50 ans de musique, de chansons et de rencontres. Un extraordinaire band québécois l'accompagnera pour fêter cet événement grandiose."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/diane-tell/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/diane-tell/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2025/09/Visuel_Officiel_Tournee-50-iaime.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diane Tell | 50 i&rsquo;aime anniversaire"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Mimi O'Bonsawin - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "À travers ses performances intimes et vibrantes, l'autrice-compositrice-interprète abénakise et franco-ontarienne Mimi O’Bonsawin propose, avec le batteur Ryan Schurman, un moment mêlant poésie, rythmes organiques et connexion à la nature."
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Cette autrice-compositrice-interprète abénakise (W8banaki) et franco-ontarienne vous plonge dans un univers musical unique, au croisement de ses origines autochtones et de la pop acoustique. Portée par des textes sensibles et des rythmes organiques, elle vous invite à vivre une profonde connexion à la nature et un moment suspendu en sa compagnie.\n\nSur scène, accompagnée du batteur"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:31:05+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:31:05-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1706"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:03:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:31:05+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/e6bd51ddfa6fa053"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mimi O'Bonsawin - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1706"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/e6bd51ddfa6fa053",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-05T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-05T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mimi O&rsquo;Bonsawin"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "À travers ses performances intimes et vibrantes, l'autrice-compositrice-interprète abénakise et franco-ontarienne Mimi O’Bonsawin propose, avec le batteur Ryan Schurman, un moment mêlant poésie, rythmes organiques et connexion à la nature."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/mimi-obonsawin/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/mimi-obonsawin/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Mimi2025_006-Photo-Credit-Jen-Squires-copie-scaled.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mimi O&rsquo;Bonsawin"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Jerry Tremblay | Searching for Love - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Jerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love."
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Après avoir fait  salle comble l'an dernier pour 2 représentations, nous n'avons pas pu résister et nous vous le représentons cette année !!\n\nJerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love.\n\nCultivateur de malaise expérimenté, mais involontaire, Jerry rayonne par son"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:31:53+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:31:53-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:03:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:31:53+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/5e53b8804d82ddfb"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jerry Tremblay | Searching for Love - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/5e53b8804d82ddfb",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-30T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-30T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jerry Tremblay | Searching for Love"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Jerry Tremblay, grand gagnant de l’édition 2025 de Quel Talent!, nous présentera une version unique et inédite de son nouveau spectacle Searching for Love."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/jerry-tremblay-searching-for-love/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/16-9-Jerry-Tremblay-SFL-sans-titre-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jerry Tremblay | Searching for Love"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1367"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1050"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/688a5ae54476033c",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://petittheatre.org/genid/88bbdffedeaacd18"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Improvisatorium – décembre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez L’Improvisatorium, le rendez-vous mensuel d'improvisation survolté du Petit Théâtre du Vieux Noranda ! Un spectacle hilarant, spontané et sans limites orchestré par Louis-Jean Lebel et Christian Matte."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/improvisatorium-decembre-2026/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/improvisatorium02.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Improvisatorium – décembre 2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:34:20+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:34:20-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T18:44:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:34:20+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "La Famille Vélociraptor | Les Petits Explorateurs - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez le ciné-conférence de la Famille Vélociraptor au Petit Théâtre de Rouyn-Noranda : un incroyable périple de 3 000 km à vélo en famille à travers l'Europe. Réservez vos places !"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "On se retrouve pour une nouvelle soirée de Petits Explorateurs!\nPrêts pour la grande aventure ? Rejoignez la famille Vélociraptor !\n\nEn 2024, Frédérique, Serge et leurs trois garçons (de 11, 9 et 5 ans) se sont lancé un défi un"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:34:55+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T13:34:55-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2404"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1603"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:03:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T13:34:55+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/497f074f356c3cc8"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Famille Vélociraptor | Les Petits Explorateurs - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2404"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1603"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/497f074f356c3cc8",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Famille Vélociraptor | Les Petits Explorateurs"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez le ciné-conférence de la Famille Vélociraptor au Petit Théâtre de Rouyn-Noranda : un incroyable périple de 3 000 km à vélo en famille à travers l'Europe. Réservez vos places !"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Velociraptor_Livre-120-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Famille Vélociraptor | Les Petits Explorateurs"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les Charbonniers de l'enfer | F-I FI, N-I NI ! La tournée d'adieu - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "\"Depuis plus de 30 ans, Les Charbonniers enflamment les grandes scènes du Québec et d'Europe. Le moment est venu pour eux de tirer leur révérence avec cette ultime tournée d'adieu.\""
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Les Charbonniers de L'enfer: F-I FI, N-I NI ! la tournée d'adieu\n\nC'est dans le souffle de leurs voix que tout prend forme. Comme une machine à voyager dans le temps, une rafale nous transporte dans un passé riche de culture. Formation québécoise a capella spécialisée dans la recherche et l'interprétation du répertoire de"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T16:16:40+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-10-14T16:16:40-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1708"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-28T21:04:13+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T16:16:40+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/4660e2274cb090d4"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer | F-I FI, N-I NI ! La tournée d'adieu - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1708"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/4660e2274cb090d4",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-07T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-07T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l&rsquo;enfer | F-I FI, N-I NI ! La tournée d&rsquo;adieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "\"Depuis plus de 30 ans, Les Charbonniers enflamment les grandes scènes du Québec et d'Europe. Le moment est venu pour eux de tirer leur révérence avec cette ultime tournée d'adieu.\"\r\n"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/les-charbonniers-de-lenfer/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/Credit-Vitor-Munhoz_20250202-charbonniers-045-scaled.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l&rsquo;enfer | F-I FI, N-I NI ! La tournée d&rsquo;adieu"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "7952"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5304"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/cd778e2c90ef382a",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/festival-banff-2027/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/festival-banff-2027/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-11T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-11T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/d2ad3d04ddc8a485"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La tournée mondiale du Festival du Film de Montagne de Banff au Québec"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Préparez-vous à être ébloui·es par des images spectaculaires d’expéditions à travers des paysages extraordinaires."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/festival-banff-2027/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/festival-banff-2027/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/JLJ9131_CLEAN_adj_RGB_LOW-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La tournée mondiale du Festival du Film de Montagne de Banff au Québec"
       }
     ]
   }
