@@ -1,0 +1,21 @@
+name: Fetch evergreentheatre-ca Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 15 * * 5'
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "evergreentheatre-ca"
+          publisher: "https://github.com/fjjulien#this"
+          page-url: "https://evergreentheatre.ca/sitemap_index.xml"
+          entity-identifier: "loc"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
