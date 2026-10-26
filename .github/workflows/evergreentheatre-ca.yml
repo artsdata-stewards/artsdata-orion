@@ -17,7 +17,7 @@ jobs:
           mode: "fetch-push"
           artifact: "evergreentheatre-ca"
           publisher: "https://github.com/fjjulien#this"
-          page-url: "https://evergreentheatre.ca/sitemap_index.xml"
+          page-url: "https://evergreentheatre.ca/tribe_events-sitemap.xml"
           entity-identifier: "loc"
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
