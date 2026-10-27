@@ -624,7 +624,7 @@
     "https://ogp.me/ns#updated_time": [
       {
         "@language": "en-us",
-        "@value": "2026-10-02T14:54:03-03:00"
+        "@value": "2026-10-26T19:13:51-03:00"
       }
     ],
     "https://ogp.me/ns#image": [
@@ -1248,6 +1248,9 @@
         "@id": "https://evergreentheatre.ca/shows/"
       },
       {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+      },
+      {
         "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
       },
       {
@@ -1261,9 +1264,6 @@
       },
       {
         "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
-      },
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
       }
     ]
   },
@@ -1369,6 +1369,9 @@
         "@id": "https://evergreentheatre.ca/shows/"
       },
       {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+      },
+      {
         "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
       },
       {
@@ -1382,9 +1385,6 @@
       },
       {
         "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
-      },
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
       }
     ],
     "https://schema.org/headline": [
@@ -1395,7 +1395,126 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/f827cf621ba320c3",
+    "@id": "https://evergreentheatre.ca/genid/2c53555624bd1691",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Donald-Aac-scaled-e1790873068487.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/d18fab690c748dec"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/5f0a39fe17931d98"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/e54011cc20ef0ade"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/1562c62a1a5d7298"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-07T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-07T22:00:00-03:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hot Club of Dartmouth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Dartmouth\\'s beloved gypsy jazz quintet pays homage to Django Reinhardt with irresistible Parisian swing fused with New Orleans brass. Foot-stomping, soul-warming acoustic jazz on the North Mountain.</p>\\n"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/e54011cc20ef0ade",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/5ceba370d4d9c706"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "902-825-6834"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/d0e6528bce3cb290",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1514,7 +1633,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/ea697d66a87d7f46",
+    "@id": "https://evergreentheatre.ca/genid/2b10c5f40accebb1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1589,7 +1708,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/c8a59abe7ee9ef19",
+    "@id": "https://evergreentheatre.ca/genid/3f2b5e9b2c80f877",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1664,7 +1783,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/fe03014b699510cf",
+    "@id": "https://evergreentheatre.ca/genid/069639bb0f9a69f5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1783,7 +1902,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/1afc2ffd9253c99e",
+    "@id": "https://evergreentheatre.ca/genid/2d69b00c47f1d3e1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1956,125 +2075,6 @@
       {
         "@language": "en",
         "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/a97bc853aed196aa",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Donald-Aac-scaled-e1790873068487.jpeg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/d18fab690c748dec"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/5f0a39fe17931d98"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/e54011cc20ef0ade"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1562c62a1a5d7298"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T22:00:00-03:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Hot Club of Dartmouth"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "<p>Dartmouth\\'s beloved gypsy jazz quintet pays homage to Django Reinhardt with irresistible Parisian swing fused with New Orleans brass. Foot-stomping, soul-warming acoustic jazz on the North Mountain.</p>\\n"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/e54011cc20ef0ade",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/5ceba370d4d9c706"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
       }
     ]
   }
