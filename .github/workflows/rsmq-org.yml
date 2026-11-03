@@ -1,0 +1,21 @@
+name: Fetch rsmq-org Events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '50 04 * * 2'
+  
+jobs:
+  artsdata-fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v4
+        with:
+          mode: "fetch-push"
+          artifact: "rsmq-org"
+          publisher: "https://github.com/fjjulien#this"
+          page-url: "https://www.rsmq.org/dynamic-concerts_p_96c1a322_da27_4740_8eae_136cec2ae31e_0_5000-sitemap.xml"
+          entity-identifier: "loc"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
