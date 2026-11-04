@@ -31441,289 +31441,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-14T13:34:20+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-14T13:34:20-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2048"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1365"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-31T18:44:36+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-14T13:34:20+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2048"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1365"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-10T22:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chic Shack – décembre 2026"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/evenement/les-petits-explorateurs-famille-velociraptor/",
     "http://ogp.me/ns#locale": [
       {
@@ -32707,6 +32424,289 @@
       {
         "@language": "fr",
         "@value": "Shangri-La"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda est extrêmement fier d’accueillir le duo de drag queens le plus adoré de la région : Les Bitches de bois !\nPréparez-vous pour une soirée éclatée, haute"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-11-02T19:48:51+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-11-02T19:48:51-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T18:44:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-02T19:48:51+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/8b700bac9a9fde87"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack - décembre 2026 - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/8b700bac9a9fde87",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda est fier de recevoir le duo de drag queens le plus adoré de la région!"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/chic-shack-decembre-2026/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/08/mai20263-copie.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chic Shack – décembre 2026"
       }
     ]
   }
