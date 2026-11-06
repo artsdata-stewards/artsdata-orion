@@ -16,7 +16,7 @@
     "https://ogp.me/ns#title": [
       {
         "@language": "en-us",
-        "@value": "Upcoming Concerts & Live Shows | Evergreen Theatre | Annapolis Valley, NS"
+        "@value": "Upcoming Shows | Evergreen Theatre | Annapolis Valley, NS"
       }
     ],
     "https://ogp.me/ns#description": [
@@ -92,7 +92,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "https://evergreentheatre.ca/genid/19898c0479afd1d6"
+        "@id": "https://evergreentheatre.ca/genid/c51df47d603b6072"
       }
     ],
     "http://schema.org/sameAs": [
@@ -106,11 +106,42 @@
     "http://schema.org/geo": [
       {
         "@id": "https://evergreentheatre.ca/genid/0ad596c452594f1a"
+      },
+      {
+        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatreBuilding"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://schema.org/maximumAttendeeCapacity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "115"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "902-825-6834"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/19898c0479afd1d6",
+    "@id": "https://evergreentheatre.ca/genid/c51df47d603b6072",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -129,7 +160,7 @@
     "http://schema.org/addressRegion": [
       {
         "@language": "en",
-        "@value": "Nova Scotia"
+        "@value": "NS"
       }
     ],
     "http://schema.org/postalCode": [
@@ -164,9 +195,28 @@
     ]
   },
   {
+    "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.505298E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-6.501939E1"
+      }
+    ]
+  },
+  {
     "@id": "https://evergreentheatre.ca/#organization",
     "@type": [
-      "http://schema.org/TheaterGroup"
+      "http://schema.org/TheaterGroup",
+      "http://schema.org/Organization"
     ],
     "http://schema.org/url": [
       {
@@ -189,7 +239,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "https://evergreentheatre.ca/genid/19898c0479afd1d6"
+        "@id": "https://evergreentheatre.ca/genid/e97803339730998e"
       }
     ],
     "http://schema.org/logo": [
@@ -202,15 +252,30 @@
         "@id": "https://evergreentheatre.ca/genid/3fb2bcaf0cbf86e0"
       }
     ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Evergreen Theatre is the sole project of the Fundy Folk Association; founded in 1991 as a not-for-profit, volunteer-run organization with a committed Board of Directors.\nOur Mandate is: \nTo offer quality professional performing arts with an emphasis on music.\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      },
+      {
+        "@language": "en",
+        "@value": "Premier intimate live performance listening room venue on the North Mountain of the Annapolis Valley."
+      }
+    ],
     "http://schema.org/location": [
       {
         "@id": "https://evergreentheatre.ca/#place"
       }
     ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PresentingOrganization"
+      }
+    ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Fundy Folk Association"
+        "@value": "Evergreen Theatre"
       }
     ],
     "http://schema.org/email": [
@@ -219,10 +284,52 @@
         "@value": "manager@evergreentheatre.ca"
       }
     ],
-    "http://schema.org/description": [
+    "http://schema.org/legalName": [
       {
         "@language": "en",
-        "@value": "The Evergreen Theatre is the sole project of the Fundy Folk Association; founded in 1991 as a not-for-profit, volunteer-run organization with a committed Board of Directors.\nOur Mandate is: \nTo offer quality professional performing arts with an emphasis on music.\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+        "@value": "Fundy Folk Association"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "902-825-6834"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/e97803339730998e",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "40 Nictaux Falls Road"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Nictaux Falls"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NS"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0S 1P0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
       }
     ]
   },
@@ -313,231 +420,91 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/71ae0045acf55c0f",
+    "@id": "https://evergreentheatre.ca/show/#2316",
     "@type": [
-      "http://schema.org/Organization"
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Donald-Aac-scaled-e1790873068487.jpeg"
+      }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca"
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
       }
     ],
-    "http://schema.org/sameAs": [
+    "http://schema.org/additionalType": [
       {
-        "@id": "http://www.wikidata.org/entity/Q130156651"
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5311"
-      },
-      {
-        "@id": "https://www.facebook.com/evergreentheatre"
-      },
-      {
-        "@id": "https://www.instagram.com/evergreen_theatre"
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
       }
     ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "manager@evergreentheatre.ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/23bb0c0bb453511d",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Bob Wiseman"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/8c049f95de1a9ae8",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Mike Boguski"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/6ad2738c25226b9e",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/shows/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "1941 Stronach Mountain Road"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "East Margaretsville"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Nova Scotia"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "B0S 1N0"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#double",
-        "@value": "4.505298E1"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#double",
-        "@value": "-6.501939E1"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/72658a588db40a30",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=237&cboEvent=251"
-      }
-    ],
-    "http://schema.org/validFrom": [
+    "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-01T00:00:00+00:00"
+        "@value": "2026-11-07T20:00:00-04:00"
       }
     ],
-    "http://schema.org/price": [
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-07T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/#organization"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/31e7a30c65f1ed5c"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/#place"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/6e283ddf4d2e08ad"
+      }
+    ],
+    "http://schema.org/keywords": [
       {
         "@language": "en",
-        "@value": "35"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/31e7a30c65f1ed5c",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/hotclubofdartmouth/"
+        "@value": "Jazz"
       },
       {
-        "@id": "https://www.youtube.com/@HotClubofDartmouth"
+        "@language": "en",
+        "@value": "Gypsy Jazz"
+      },
+      {
+        "@language": "en",
+        "@value": "Parisian Swing"
+      },
+      {
+        "@language": "en",
+        "@value": "Manouche"
+      }
+    ],
+    "http://schema.org/workPerformed": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/9bd07cab75722bca"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/shows/"
       }
     ],
     "http://schema.org/name": [
@@ -545,506 +512,29 @@
         "@language": "en",
         "@value": "Hot Club of Dartmouth"
       }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/1562c62a1a5d7298",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboperformances=238&cboevent=252"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-01T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "35"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/9bf7f041eeab4bb7",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://harrymanx.com"
-      },
-      {
-        "@id": "https://open.spotify.com/artist/7JIDretlR52LyL3yvqr2kX"
-      },
-      {
-        "@id": "https://music.apple.com/ca/artist/harry-manx/4317925"
-      },
-      {
-        "@id": "https://www.facebook.com/HarryManx"
-      },
-      {
-        "@id": "https://www.instagram.com/harrymanxmusic"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UC4QDeqgIKRBYTuCnwpLd00Q"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Harry Manx"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/718973fbfcb05ce3",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=236&cboEvent=250"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-01T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "50"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/09d99f8ca2165f55",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q130156651"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K2-5311"
-      },
-      {
-        "@id": "https://www.facebook.com/evergreentheatre"
-      },
-      {
-        "@id": "https://www.instagram.com/evergreen_theatre"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Premier intimate live performance listening room venue on the North Mountain of the Annapolis Valley."
+        "@value": "Dartmouth's beloved gypsy jazz quintet pays homage to Django Reinhardt with irresistible Parisian swing fused with New Orleans brass. Foot-stomping, soul-warming acoustic jazz on the North Mountain."
       }
     ],
-    "http://schema.org/telephone": [
+    "http://schema.org/doorTime": [
       {
         "@language": "en",
-        "@value": "902-825-6834"
+        "@value": "2026-11-07T19:00:00-04:00"
       }
     ],
-    "http://schema.org/email": [
+    "http://schema.org/duration": [
       {
         "@language": "en",
-        "@value": "manager@evergreentheatre.ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/9c2342cef87543f4",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://gunningandcormier.com"
-      },
-      {
-        "@id": "https://music.apple.com/ca/artist/gunning-cormier/1247653606"
-      },
-      {
-        "@id": "https://www.facebook.com/p/Gunning-Cormier-100063531393666/"
+        "@value": "PT2H"
       }
     ],
-    "http://schema.org/name": [
+    "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "Gunning & Cormier Christmas"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/70bf4d685f4fd01e",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/24008e04af101b09",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=239&cboEvent=253"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-08T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "45"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/60cf000f64e81d28",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://coig.ca"
-      },
-      {
-        "@id": "https://open.spotify.com/artist/14wzbXrXfprztP82yWdetC"
-      },
-      {
-        "@id": "https://music.apple.com/ca/artist/c%C3%B2ig/896879551"
-      },
-      {
-        "@id": "https://coigmusic.bandcamp.com"
-      },
-      {
-        "@id": "https://www.facebook.com/coigmusic"
-      },
-      {
-        "@id": "https://www.instagram.com/coigmusic"
-      },
-      {
-        "@id": "https://www.youtube.com/@coigmusic/videos"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Coig Christmas"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/0ed12c7f8fe5f553",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=240&cboEvent=254"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-08T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "40"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Gunning & Cormier Christmas | Live in Concert | Evergreen Theatre"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "See Gunning & Cormier Christmas live in concert at Evergreen Theatre in East Margaretsville, NS. Intimate 115-seat listening room with pristine acoustics."
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/show/gunning-cormier-xmas/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.facebook.com/evergreentheatre"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2026-10-28T18:54:15-03:00"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
-      }
-    ],
-    "https://ogp.me/ns#image:secure_url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
-      }
-    ],
-    "https://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1723"
-      }
-    ],
-    "https://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "1538"
-      }
-    ],
-    "https://ogp.me/ns#image:alt": [
-      {
-        "@language": "en-us",
-        "@value": "Gunning & Cormier Christmas"
-      }
-    ],
-    "https://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/png"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/db2858354c5efb94",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas/"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/09d99f8ca2165f55"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/9c2342cef87543f4"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/70bf4d685f4fd01e"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/24008e04af101b09"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-06T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-06T22:00:00-03:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gunning & Cormier Christmas"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "<p>Two of Atlantic Canada\\'s most celebrated performers, Dave Gunning and J.P. Cormier, return to the stage this holiday season with A Gunning & Cormier Christmas - an evening of music, ... <a title=\"Gunning & Cormier Christmas\" class=\"read-more\" href=\"https://evergreentheatre.ca/show/gunning-cormier-xmas/\" aria-label=\"Read more about Gunning & Cormier Christmas\">Read more</a></p>\\n"
+        "@value": "en"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1105,7 +595,7 @@
     "https://ogp.me/ns#updated_time": [
       {
         "@language": "en-us",
-        "@value": "2026-10-28T18:34:18-03:00"
+        "@value": "2026-11-01T11:19:00-03:00"
       }
     ],
     "https://ogp.me/ns#image": [
@@ -1151,13 +641,73 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/892b29256a170ae6",
+    "@id": "https://evergreentheatre.ca/genid/31e7a30c65f1ed5c",
     "@type": [
-      "http://schema.org/Event"
+      "http://schema.org/MusicGroup"
     ],
-    "http://schema.org/image": [
+    "http://schema.org/sameAs": [
       {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Donald-Aac-scaled-e1790873068487.jpeg"
+        "@id": "https://www.youtube.com/@HotClubofDartmouth"
+      },
+      {
+        "@id": "https://www.instagram.com/hotclubofdartmouth/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hot Club of Dartmouth"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/6e283ddf4d2e08ad",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboperformances=238&cboevent=252"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/9bd07cab75722bca",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
       }
     ],
     "http://schema.org/url": [
@@ -1165,41 +715,22 @@
         "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
       }
     ],
-    "http://schema.org/organizer": [
+    "http://schema.org/genre": [
       {
-        "@id": "https://evergreentheatre.ca/genid/71ae0045acf55c0f"
-      }
-    ],
-    "http://schema.org/performer": [
+        "@language": "en",
+        "@value": "Jazz"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/31e7a30c65f1ed5c"
-      }
-    ],
-    "http://schema.org/location": [
+        "@language": "en",
+        "@value": "Gypsy Jazz"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/d9e62dab59d8f3d5"
-      }
-    ],
-    "http://schema.org/offers": [
+        "@language": "en",
+        "@value": "Parisian Swing"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/1562c62a1a5d7298"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T22:00:00-03:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
+        "@language": "en",
+        "@value": "Manouche"
       }
     ],
     "http://schema.org/name": [
@@ -1208,441 +739,164 @@
         "@value": "Hot Club of Dartmouth"
       }
     ],
-    "http://schema.org/description": [
+    "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "<p>Dartmouth\\'s beloved gypsy jazz quintet pays homage to Django Reinhardt with irresistible Parisian swing fused with New Orleans brass. Foot-stomping, soul-warming acoustic jazz on the North Mountain.</p>\\n"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@value": "en"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/d9e62dab59d8f3d5",
+    "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/#webpage",
     "@type": [
-      "http://schema.org/Place"
+      "http://schema.org/WebPage"
     ],
     "http://schema.org/url": [
       {
         "@id": "https://evergreentheatre.ca/show/hot-club-of-dartmouth-2026/"
       }
     ],
-    "http://schema.org/address": [
+    "http://schema.org/lastReviewed": [
       {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-01T14:19:00+00:00"
       }
     ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
-      }
-    ],
-    "http://schema.org/name": [
+    "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
+        "@value": "en"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "2 Pianos No Rodeo | Live in Concert | Evergreen Theatre"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Bob Wiseman (original Blue Rodeo) and Mike Boguski (current Blue Rodeo pianist) — two of Canada's most unpredictable keyboard minds — take turns dismantling what a piano set can be. A Halloween night unlike any other."
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.facebook.com/evergreentheatre"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2026-10-16T18:54:37-03:00"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
-      }
-    ],
-    "https://ogp.me/ns#image:secure_url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
-      }
-    ],
-    "https://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1641"
-      }
-    ],
-    "https://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "1005"
-      }
-    ],
-    "https://ogp.me/ns#image:alt": [
-      {
-        "@language": "en-us",
-        "@value": "2 Pianos No Rodeo"
-      }
-    ],
-    "https://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/png"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/67c24218b6c1daa7",
+    "@id": "https://evergreentheatre.ca/show/#2309",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/09/harry-Manx-webbanner-scaled.jpg"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+        "@id": "https://evergreentheatre.ca/show/harry-manx-2026/"
       }
     ],
-    "http://schema.org/organizer": [
+    "http://schema.org/additionalType": [
       {
-        "@id": "https://evergreentheatre.ca/genid/71ae0045acf55c0f"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/23bb0c0bb453511d"
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       },
       {
-        "@id": "https://evergreentheatre.ca/genid/8c049f95de1a9ae8"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/467d0143fa153234"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/72658a588db40a30"
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-31T20:00:00-03:00"
+        "@value": "2026-11-21T20:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-31T22:00:00-03:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "2 Pianos No Rodeo"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "<p>Bob Wiseman (original Blue Rodeo) and Mike Boguski (current Blue Rodeo pianist) — two of Canada\\'s most unpredictable keyboard minds — take turns dismantling what a piano set can be. A Halloween night unlike any other.</p>\\n"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/467d0143fa153234",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/show/coig-christmas/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Coig Christmas | Live in Concert | Evergreen Theatre"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "See Coig Christmas live in concert at Evergreen Theatre in East Margaretsville, NS. Intimate 115-seat listening room with pristine acoustics. Reserve tickets"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/show/coig-christmas/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.facebook.com/evergreentheatre"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2026-10-10T18:16:29-03:00"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-1024x683.png"
-      }
-    ],
-    "https://ogp.me/ns#image:secure_url": [
-      {
-        "@language": "en-us",
-        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-1024x683.png"
-      }
-    ],
-    "https://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1024"
-      }
-    ],
-    "https://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "683"
-      }
-    ],
-    "https://ogp.me/ns#image:alt": [
-      {
-        "@language": "en-us",
-        "@value": "Coig Christmas"
-      }
-    ],
-    "https://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/png"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/a839fd12d088a540",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-scaled.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/coig-christmas/"
+        "@value": "2026-11-21T22:00:00-04:00"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://evergreentheatre.ca/genid/09d99f8ca2165f55"
+        "@id": "https://evergreentheatre.ca/#organization"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://evergreentheatre.ca/genid/60cf000f64e81d28"
+        "@id": "https://evergreentheatre.ca/genid/6cbd409a72f0effa"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://evergreentheatre.ca/genid/70bf4d685f4fd01e"
+        "@id": "https://evergreentheatre.ca/#place"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://evergreentheatre.ca/genid/0ed12c7f8fe5f553"
+        "@id": "https://evergreentheatre.ca/genid/ea42abadf38b3d35"
       }
     ],
-    "http://schema.org/startDate": [
+    "http://schema.org/keywords": [
       {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-19T20:00:00-03:00"
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
+      {
+        "@language": "en",
+        "@value": "Blues"
+      },
+      {
+        "@language": "en",
+        "@value": "World / Global Music"
+      },
+      {
+        "@language": "en",
+        "@value": "Mohan Veena"
+      },
+      {
+        "@language": "en",
+        "@value": "Indo-Blues"
+      },
+      {
+        "@language": "en",
+        "@value": "Slide Guitar"
+      },
+      {
+        "@language": "en",
+        "@value": "Raga"
       }
     ],
-    "http://schema.org/endDate": [
+    "http://schema.org/workPerformed": [
       {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-19T22:00:00-03:00"
+        "@id": "https://evergreentheatre.ca/genid/005b93bae531e651"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/harry-manx-2026/#webpage"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://evergreentheatre.ca/show/coig-christmas/"
+        "@id": "https://evergreentheatre.ca/shows/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Coig Christmas"
+        "@value": "Harry Manx"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "<p>Coig is one of Atlantic Canada\\'s most exciting traditional Celtic groups made up of accomplished multi-instrumentalists. With a fiery Celtic high-energy style as its musical core, Coig easily shifts between ... <a title=\"Coig Christmas\" class=\"read-more\" href=\"https://evergreentheatre.ca/show/coig-christmas/\" aria-label=\"Read more about Coig Christmas\">Read more</a></p>\\n"
+        "@value": "Blues legend Harry Manx weaves East Indian raga scales into North American roots and blues on his signature Mohan veena — a singular, haunting sound unlike anything else in live music."
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "en",
+        "@value": "2026-11-21T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "PT2H"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1703,7 +957,7 @@
     "https://ogp.me/ns#updated_time": [
       {
         "@language": "en-us",
-        "@value": "2026-10-08T14:22:41-03:00"
+        "@value": "2026-11-01T11:20:07-03:00"
       }
     ],
     "https://ogp.me/ns#image": [
@@ -1749,13 +1003,87 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/81303c0606a1f67f",
+    "@id": "https://evergreentheatre.ca/genid/6cbd409a72f0effa",
     "@type": [
-      "http://schema.org/Event"
+      "http://schema.org/Person"
     ],
-    "http://schema.org/image": [
+    "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/09/harry-Manx-webbanner-scaled.jpg"
+        "@id": "https://harrymanx.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://open.spotify.com/artist/7JIDretlR52LyL3yvqr2kX"
+      },
+      {
+        "@id": "https://music.apple.com/ca/artist/harry-manx/4317925"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC4QDeqgIKRBYTuCnwpLd00Q"
+      },
+      {
+        "@id": "https://www.facebook.com/HarryManx"
+      },
+      {
+        "@id": "https://www.instagram.com/harrymanxmusic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Harry Manx"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/ea42abadf38b3d35",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=236&cboEvent=250"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/005b93bae531e651",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
       }
     ],
     "http://schema.org/url": [
@@ -1763,41 +1091,34 @@
         "@id": "https://evergreentheatre.ca/show/harry-manx-2026/"
       }
     ],
-    "http://schema.org/organizer": [
+    "http://schema.org/genre": [
       {
-        "@id": "https://evergreentheatre.ca/genid/71ae0045acf55c0f"
-      }
-    ],
-    "http://schema.org/performer": [
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/9bf7f041eeab4bb7"
-      }
-    ],
-    "http://schema.org/location": [
+        "@language": "en",
+        "@value": "Blues"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/8887c7344cf9504d"
-      }
-    ],
-    "http://schema.org/offers": [
+        "@language": "en",
+        "@value": "World / Global Music"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/718973fbfcb05ce3"
-      }
-    ],
-    "http://schema.org/startDate": [
+        "@language": "en",
+        "@value": "Mohan Veena"
+      },
       {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-21T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
+        "@language": "en",
+        "@value": "Indo-Blues"
+      },
       {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-21T22:00:00-03:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        "@language": "en",
+        "@value": "Slide Guitar"
+      },
       {
-        "@id": "https://evergreentheatre.ca/show/harry-manx-2026/"
+        "@language": "en",
+        "@value": "Raga"
       }
     ],
     "http://schema.org/name": [
@@ -1806,10 +1127,168 @@
         "@value": "Harry Manx"
       }
     ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/harry-manx-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/harry-manx-2026/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-01T14:20:07+00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/#2508",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/#organization"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/703edc75a2bf2791"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/#place"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/72b1bf831b7d95d8"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
+      {
+        "@language": "en",
+        "@value": "Roots / Americana / Bluegrass"
+      },
+      {
+        "@language": "en",
+        "@value": "Singer-Songwriter"
+      },
+      {
+        "@language": "en",
+        "@value": "Holiday"
+      },
+      {
+        "@language": "en",
+        "@value": "Celtic"
+      },
+      {
+        "@language": "en",
+        "@value": "Acoustic Flatpicking"
+      },
+      {
+        "@language": "en",
+        "@value": "Maritime"
+      }
+    ],
+    "http://schema.org/workPerformed": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/9200f5f983cfd99f"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/shows/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gunning & Cormier Christmas"
+      }
+    ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "<p>Blues legend Harry Manx weaves East Indian raga scales into North American roots and blues on his signature Mohan veena — a singular, haunting sound unlike anything else in live music.</p>\\n"
+        "@value": "Two of Atlantic Canada's most celebrated performers, Dave Gunning and J.P. Cormier, return to the stage this holiday season with A Gunning & Cormier Christmas - an evening of music, stories, laughter, and festive spirit. Blending masterful musicianship with quick wit and genuine friendship, these longtime friends deliver a Christmas concert that feels as much ... n"
+      },
+      {
+        "@language": "en",
+        "@value": "Two of Atlantic Canada's most celebrated performers, Dave Gunning and J.P. Cormier, return to the stage this holiday season with A Gunning & Cormier Christmas - an evening of music, ... n"
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "en",
+        "@value": "2026-12-06T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "PT2H"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1824,49 +1303,964 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/8887c7344cf9504d",
+    "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Gunning & Cormier Christmas | Live in Concert | Evergreen Theatre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "See Gunning & Cormier Christmas live in concert at Evergreen Theatre in East Margaretsville, NS. Intimate 115-seat listening room with pristine acoustics."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/evergreentheatre"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-11-06T12:49:38-03:00"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/tt-1.png"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1723"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1538"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "Gunning & Cormier Christmas"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/703edc75a2bf2791",
     "@type": [
-      "http://schema.org/Place"
+      "http://schema.org/MusicGroup"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca/show/harry-manx-2026/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
+        "@id": "https://gunningandcormier.com"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
+        "@id": "https://music.apple.com/ca/artist/gunning-cormier/1247653606"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
+        "@id": "https://www.facebook.com/p/Gunning-Cormier-100063531393666/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Evergreen Theatre"
+        "@value": "Gunning & Cormier"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/72b1bf831b7d95d8",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=239&cboEvent=253"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/9200f5f983cfd99f",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
+      {
+        "@language": "en",
+        "@value": "Roots / Americana / Bluegrass"
+      },
+      {
+        "@language": "en",
+        "@value": "Singer-Songwriter"
+      },
+      {
+        "@language": "en",
+        "@value": "Holiday"
+      },
+      {
+        "@language": "en",
+        "@value": "Celtic"
+      },
+      {
+        "@language": "en",
+        "@value": "Acoustic Flatpicking"
+      },
+      {
+        "@language": "en",
+        "@value": "Maritime"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gunning & Cormier Christmas"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/gunning-cormier-xmas-2026/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-06T15:49:38+00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/#2505",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-scaled.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-19T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/#organization"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/3e1289c4c6722e6e"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/#place"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/3ad5c2c95b03aace"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
+      {
+        "@language": "en",
+        "@value": "Roots / Americana / Bluegrass"
+      },
+      {
+        "@language": "en",
+        "@value": "World / Global Music"
+      },
+      {
+        "@language": "en",
+        "@value": "Celtic"
+      },
+      {
+        "@language": "en",
+        "@value": "Cape Breton"
+      },
+      {
+        "@language": "en",
+        "@value": "Fiddle"
+      },
+      {
+        "@language": "en",
+        "@value": "Holiday"
+      },
+      {
+        "@language": "en",
+        "@value": "Step Dancing"
+      }
+    ],
+    "http://schema.org/workPerformed": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/abb830f5222253f0"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/shows/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Coig Christmas"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
+        "@value": "Coig is one of Atlantic Canada's most exciting traditional Celtic groups made up of accomplished multi-instrumentalists. With a fiery Celtic high-energy style as its musical core, Coig easily shifts between century-old tunes of past generations to original and upbeat compositions featuring the band's range of over a dozen instruments (vocals, fiddles, piano, guitars, banjo, mandolin, ... n"
+      },
       {
         "@language": "en",
-        "@value": "902-825-6834"
+        "@value": "Coig is one of Atlantic Canada's most exciting traditional Celtic groups made up of accomplished multi-instrumentalists. With a fiery Celtic high-energy style as its musical core, Coig easily shifts between ... n"
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "en",
+        "@value": "2026-12-19T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "PT2H"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Coig Christmas | Live in Concert | Evergreen Theatre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "See Coig Christmas live in concert at Evergreen Theatre in East Margaretsville, NS. Intimate 115-seat listening room with pristine acoustics. Reserve tickets"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/show/coig-christmas-2026/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/evergreentheatre"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-11-06T12:49:52-03:00"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-1024x683.png"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/Coig-Christmas-Photo-5-Cropped-1024x683.png"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1024"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "683"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "Coig Christmas"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/3e1289c4c6722e6e",
+    "@type": [
+      "http://schema.org/MusicGroup"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://coig.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://open.spotify.com/artist/14wzbXrXfprztP82yWdetC"
+      },
+      {
+        "@id": "https://music.apple.com/ca/artist/c%C3%B2ig/896879551"
+      },
+      {
+        "@id": "https://coigmusic.bandcamp.com"
+      },
+      {
+        "@id": "https://www.youtube.com/@coigmusic/videos"
+      },
+      {
+        "@id": "https://www.facebook.com/coigmusic"
+      },
+      {
+        "@id": "https://www.instagram.com/coigmusic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Còig"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/3ad5c2c95b03aace",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=240&cboEvent=254"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-08T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/abb830f5222253f0",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@language": "en",
+        "@value": "Folk / Traditional"
+      },
+      {
+        "@language": "en",
+        "@value": "Roots / Americana / Bluegrass"
+      },
+      {
+        "@language": "en",
+        "@value": "World / Global Music"
+      },
+      {
+        "@language": "en",
+        "@value": "Celtic"
+      },
+      {
+        "@language": "en",
+        "@value": "Cape Breton"
+      },
+      {
+        "@language": "en",
+        "@value": "Fiddle"
+      },
+      {
+        "@language": "en",
+        "@value": "Holiday"
+      },
+      {
+        "@language": "en",
+        "@value": "Step Dancing"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Coig Christmas"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/coig-christmas-2026/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-06T15:49:52+00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "2 Pianos No Rodeo | Live in Concert | Evergreen Theatre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Bob Wiseman (original Blue Rodeo) and Mike Boguski (current Blue Rodeo pianist) — two of Canada's most unpredictable keyboard minds — take turns dismantling what a piano set can be. A Halloween night unlike any other."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/evergreentheatre"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-11-01T12:15:40-03:00"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1641"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1005"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "2 Pianos No Rodeo"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/#2308",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2026/10/2-pianos-no-rodeo.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-31T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-31T22:00:00-03:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/#organization"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/23bb0c0bb453511d"
+      },
+      {
+        "@id": "https://evergreentheatre.ca/genid/8c049f95de1a9ae8"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/#place"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/ff202d202ffa9b09"
+      }
+    ],
+    "http://schema.org/workPerformed": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/02b87b2462497c5f"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2 Pianos No Rodeo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Bob Wiseman (original Blue Rodeo) and Mike Boguski (current Blue Rodeo pianist) — two of Canada's most unpredictable keyboard minds — take turns dismantling what a piano set can be. A Halloween night unlike any other."
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "en",
+        "@value": "2026-10-31T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "PT2H"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/23bb0c0bb453511d",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bob Wiseman"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/8c049f95de1a9ae8",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mike Boguski"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/ff202d202ffa9b09",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/evergreentheatre/online/b_otix.asp?cboPerformances=237&cboEvent=251"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/02b87b2462497c5f",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2 Pianos No Rodeo"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/2-pianos-no-rodeo-2026/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-01T15:15:40+00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
       }
     ]
   },
@@ -1963,7 +2357,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/72f5ab2ecfa4ef9a",
+    "@id": "https://evergreentheatre.ca/show/#2307",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1977,24 +2371,12 @@
         "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
       }
     ],
-    "http://schema.org/organizer": [
+    "http://schema.org/additionalType": [
       {
-        "@id": "https://evergreentheatre.ca/genid/71ae0045acf55c0f"
-      }
-    ],
-    "http://schema.org/performer": [
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      },
       {
-        "@id": "https://evergreentheatre.ca/genid/3ee33eb8e7394789"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/77e0a3fd26105c60"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/ff2ede74afbdf2e4"
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
       }
     ],
     "http://schema.org/startDate": [
@@ -2007,6 +2389,36 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2026-10-03T22:00:00-03:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://evergreentheatre.ca/#organization"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/943a141cb082a22a"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://evergreentheatre.ca/#place"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/75db646a561e15d9"
+      }
+    ],
+    "http://schema.org/workPerformed": [
+      {
+        "@id": "https://evergreentheatre.ca/genid/8f84cd164294f660"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/#webpage"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2023,7 +2435,25 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "<p>Multiple Music Nova Scotia award winner Daniel James McFadyen brings his road-worn lyrics and magnetic stage presence to the North Mountain — an intimate evening of songwriting that feels like catching up with an old friend.</p>\\n"
+        "@value": "Multiple Music Nova Scotia award winner Daniel James McFadyen brings his road-worn lyrics and magnetic stage presence to the North Mountain — an intimate evening of songwriting that feels like catching up with an old friend."
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "en",
+        "@value": "2026-10-03T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "PT2H"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2038,14 +2468,16 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/3ee33eb8e7394789",
+    "@id": "https://evergreentheatre.ca/genid/943a141cb082a22a",
     "@type": [
-      "http://schema.org/MusicGroup"
+      "http://schema.org/Person"
     ],
-    "http://schema.org/sameAs": [
+    "http://schema.org/url": [
       {
         "@id": "https://danieljamesmcfadyen.com/"
-      },
+      }
+    ],
+    "http://schema.org/sameAs": [
       {
         "@id": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
       },
@@ -2056,13 +2488,16 @@
         "@id": "https://danieljamesmcfadyen.bandcamp.com"
       },
       {
+        "@id": "https://www.youtube.com/@danieljamesmcfadyen4633"
+      },
+      {
         "@id": "https://www.facebook.com/danieljamesmcfadyen"
       },
       {
         "@id": "https://www.instagram.com/danieljamesmcfadyen"
       },
       {
-        "@id": "https://www.youtube.com/@danieljamesmcfadyen4633"
+        "@id": "https://www.tiktok.com/@danieljamesmcfadyen"
       }
     ],
     "http://schema.org/name": [
@@ -2073,54 +2508,7 @@
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca/genid/77e0a3fd26105c60",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/0e0565df8be07db1"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q72183375"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-157"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://evergreentheatre.ca/genid/1da20effbebe6724"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Evergreen Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "902-825-6834"
-      }
-    ]
-  },
-  {
-    "@id": "https://evergreentheatre.ca/genid/ff2ede74afbdf2e4",
+    "@id": "https://evergreentheatre.ca/genid/75db646a561e15d9",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2155,8 +2543,58 @@
     ],
     "http://schema.org/availability": [
       {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/genid/8f84cd164294f660",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/ontology/LivePerformanceWork"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
         "@language": "en",
-        "@value": "inStock"
+        "@value": "Daniel James McFadyen"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/show/daniel-james-mcfadyen-2026/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02T18:55:19+00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
       }
     ]
   }
