@@ -71,7 +71,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=D7dcJLrn",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Third%20Signature_%20HeartStrings.png?itok=WU64dxSZ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -80,10 +80,51 @@
         "@id": "https://theplayhouse.ca/en"
       },
       {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Symphony NB | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Symphony NB"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
       }
     ]
   },
@@ -158,66 +199,28 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/4.jpg?itok=aHeKAHun",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b",
     "http://ogp.me/ns#site_name": [
       {
-        "@language": "en",
-        "@value": "Spotlight Series | Fredericton Playhouse"
+        "@language": "fr",
+        "@value": "Symphonie N-B | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ],
     "http://ogp.me/ns#title": [
       {
-        "@language": "en",
-        "@value": "Spotlight Series"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
+        "@language": "fr",
+        "@value": "Symphonie N-B"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
       }
     ]
   },
@@ -257,38 +260,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Série Pleins-Feux"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets",
     "http://ogp.me/ns#site_name": [
       {
@@ -324,7 +295,173 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/HELLS%20BELLS%20%20-%201900%20X%20600new.png?itok=0jBBmxrm",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/5.jpg?itok=nzYbh_cS",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Spotlight Series"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Pay What You Will | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Pay What You Will"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/lobby3.png?itok=OA5rwwcw"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Série Pleins-Feux"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-07/Untitled%20design%20%2813%29.jpg?itok=erxyQkDg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Vous décidez du prix | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Vous décidez du prix"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/lobby3.png?itok=OA5rwwcw"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Bakersfield%20Sound%20Tribute%20web%20pic.png?itok=VB41GwrK",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -350,7 +487,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Men%20of%20the%20Deeps%20web%20pic.png?itok=TSLA6dXW",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/George%20Canyon%20%26%20Aaron%20Pritchett%20web%20pic.png?itok=7lZ4_bAT",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -376,7 +513,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-10/Silver%20Wave%20banner%20web%20pic.png?itok=xgeCGrRD",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/HYPROV_1900x600.png?itok=wJTYqU4N",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -402,7 +539,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-10/Silver%20Wave%20Awards%20banner%20web%20pic.png?itok=Q7sG_pO9",
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/6.jpg?itok=BZ4kCYf-",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -414,6 +551,9 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
       },
       {
+        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
+      },
+      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
       },
       {
@@ -421,6 +561,9 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -589,7 +732,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/b33bc1706cbad3a2"
+        "@id": "https://theplayhouse.ca/genid/aa55402d1697c9bc"
       }
     ],
     "http://schema.org/organizer": [
@@ -615,11 +758,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "*Fredericton Symphony Orchestra packages also available now, click here. Join the Fredericton Symphony Orchestra with Saint John’s own Before the Mast Sea-Shanty Folk Group for a unique collaboration that celebrates the rich musical history of sea shanties and other classical music inspired by the sea. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
+        "@value": "Join the Fredericton Symphony Orchestra with Saint John’s own Before the Mast Sea-Shanty Folk Group for a unique collaboration that celebrates the rich musical history of sea shanties and other classical music inspired by the sea. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
       },
       {
         "@language": "fr",
-        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.Joignez-vous au l'Orchestre symphonique de Fredericton, et le groupe folk Before the Mast de Saint John, connu pour ses chants de mer, à une collaboration unique qui rend hommage à la riche tradition musicale des chants de mer et aux autres œuvres classiques inspirées par la mer. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50+31 $(veuillez contacter la billetterie)"
+        "@value": "Joignez-vous au l'Orchestre symphonique de Fredericton, et le groupe folk Before the Mast de Saint John, connu pour ses chants de mer, à une collaboration unique qui rend hommage à la riche tradition musicale des chants de mer et aux autres œuvres classiques inspirées par la mer. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50+31 $(veuillez contacter la billetterie)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -664,7 +807,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/b33bc1706cbad3a2",
+    "@id": "https://theplayhouse.ca/genid/aa55402d1697c9bc",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -676,7 +819,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -768,46 +911,13 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sea-shanties-and-symphonies"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/triumph-and-tribute"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/annual-christmas-seasonal-concert"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sea-shanties-and-symphonies"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/triumph-and-tribute"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/annual-christmas-seasonal-concert"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/triumph-and-tribute",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Triumph and Tribute | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/triumph-and-tribute"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Triumph and Tribute"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/FSO%20Playhouse%20header.png?itok=Vvsie3q6"
       }
     ]
   },
@@ -866,33 +976,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/triumph-and-tribute",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Triumph and Tribute | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/triumph-and-tribute"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Triumph and Tribute"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-09/FSO%20Playhouse%20header.png?itok=Vvsie3q6"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/fr/horaire-et-billets/annual-christmas-seasonal-concert",
     "http://ogp.me/ns#site_name": [
       {
@@ -920,23 +1003,23 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/stadacona-band-holiday-concert-terra-spencer",
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/longest-night-stadacona-band-holiday-concert-terra-spencer",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer | Fredericton Playhouse"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer | Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/stadacona-band-holiday-concert-terra-spencer"
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -953,7 +1036,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/stadacona-band-holiday-concert-terra-spencer"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       }
     ],
     "http://schema.org/previousStartDate": [
@@ -969,7 +1052,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/c9e721af2f14d5d0"
+        "@id": "https://theplayhouse.ca/genid/ef255325ed1f71da"
       }
     ],
     "http://schema.org/organizer": [
@@ -979,17 +1062,17 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/stadacona-band-holiday-concert-terra-spencer"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer"
       },
       {
         "@language": "fr",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer"
       }
     ],
     "http://schema.org/description": [
@@ -1033,7 +1116,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/c9e721af2f14d5d0",
+    "@id": "https://theplayhouse.ca/genid/ef255325ed1f71da",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1045,7 +1128,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-18"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1067,31 +1150,31 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/stadacona-band-holiday-concert-terra-spencer"
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/stadacona-band-holiday-concert-terra-spencer"
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       }
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/stadacona-band-holiday-concert-terra-spencer",
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/longest-night-stadacona-band-holiday-concert-terra-spencer",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "fr",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer | Le Fredericton Playhouse"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer | Le Fredericton Playhouse"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/stadacona-band-holiday-concert-terra-spencer"
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/longest-night-stadacona-band-holiday-concert-terra-spencer"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Stadacona Band Holiday Concert With Terra Spencer"
+        "@value": "The Longest Night: Stadacona Band Holiday Concert With Terra Spencer"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -3495,368 +3578,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-shorts-ii-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "New Brunswick Shorts II | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-shorts-ii-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "New Brunswick Shorts II"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-10/Silver%20Wave%20banner%20web%20pic.png?itok=HlQRp8ht"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/1017",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-shorts-ii-0"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/14ac4d8b88230ca9"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-shorts-ii-0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "New Brunswick Shorts II"
-      },
-      {
-        "@language": "fr",
-        "@value": "New Brunswick Shorts II"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Tickets: $15.00 General Admission, available in advance or at the doorFestival passes accepted for this event, available now.Venue: Fredericton PlayhouseThe New Brunswick shorts screenings at Silver Wave Film Festival are a perennial audience favourite. Experience a selection of excellent short films produced right here in New Brunswick this year. This gala presentation celebrating homegrown talent has something for everyone, from heartfelt drama to comedy of the absurd. The filmmakers will be in attendance to introduce their films. New Brunswick Shorts II Lineup:The Job InterviewDirector"
-      },
-      {
-        "@language": "fr",
-        "@value": "Billets: $15.00 General Admission, disponible à l'avance. ou à l'entréeLes pass du festival sont acceptés pour cet événement, Disponible dès maintenant.Lieu: Fredericton Playhouse*La traduction en français sera bientôt disponible.The New Brunswick shorts screenings at Silver Wave Film Festival are a perennial audience favourite. Experience a selection of excellent short films produced right here in New Brunswick this year. This gala presentation celebrating homegrown talent has something for everyone, from heartfelt drama to comedy of the absurd. The filmmakers will be in attendance to"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T21:00:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/14ac4d8b88230ca9",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-27"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      },
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-10/Silver%20Wave%20banner%20web%20pic.png?itok=eUtSrmcg",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-shorts-ii-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/new-brunswick-shorts-ii-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/new-brunswick-shorts-ii-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "New Brunswick Shorts II | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/new-brunswick-shorts-ii-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "New Brunswick Shorts II"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-10/Silver%20Wave%20banner%20web%20pic.png?itok=HlQRp8ht"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/silver-wave-awards-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "The Silver Wave Awards | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/silver-wave-awards-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "The Silver Wave Awards"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-10/Silver%20Wave%20Awards%20banner%20web%20pic.png?itok=6foSS3Cu"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/1018",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/silver-wave-awards-0"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/6304a484d7f90e6c"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/silver-wave-awards-0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Silver Wave Awards"
-      },
-      {
-        "@language": "fr",
-        "@value": "Silver Wave Awards"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Presented by: NB Film Co-op, Stephen MacGillivray Photography, fibe tv1, CBC, IATSE 667, IATSE 849, Picaroons, Jane LeBlanc Legacy Fund, DOC Atlantic, and WIFT-ATSaturday, November 7, 20269:00pmTickets: FREEVenue: The Fredericton PlayhouseParty: Picaroons Roundhouse - 10:30 PMAfter the NB Shorts II screening, you are invited to stick around for the Silver Wave Awards at 9:00pm. Hosted by Ryan “Crash” Barton and Sarah Betts, the Silver Wave Awards is a highly anticipated event that promises to be entertaining and full of surprises. Join us as we celebrate and reward the filmmakers of the 2026"
-      },
-      {
-        "@language": "fr",
-        "@value": "Présenté par: NB Film Co-op, Stephen MacGillivray Photography, fibe tv1, CBC, IATSE 667, IATSE 849, Picaroons, Jane LeBlanc Legacy Fund, DOC Atlantic, and WIFT-ATSamedi 7 novembre 2026, 21 hBillets: GratuitLieu: The Fredericton PlayhouseFête: Picaroons Roundhouse - 22 h 30La traduction en français sera bientôt disponible.After the NB Shorts II screening, you are invited to stick around for the Silver Wave Awards at 9:00pm. Hosted by Ryan “Crash” Barton and Sarah Betts, the Silver Wave Awards is a highly anticipated event that promises to be entertaining and full of surprises. Join us as we"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T21:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-07T22:30:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/6304a484d7f90e6c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-26"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      },
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-10/Silver%20Wave%20Awards%20banner%20web%20pic.png?itok=FKSmv6V6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/silver-wave-awards-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/silver-wave-awards-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/silver-wave-awards-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Silver Wave Awards | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/silver-wave-awards-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Silver Wave Awards"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-10/Silver%20Wave%20Awards%20banner%20web%20pic.png?itok=6foSS3Cu"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/core-dance-winter-wonderland-episode-1",
     "http://ogp.me/ns#site_name": [
       {
@@ -3906,7 +3627,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/01b924d50767c4c1"
+        "@id": "https://theplayhouse.ca/genid/0f13b3a300f6dbe8"
       }
     ],
     "http://schema.org/organizer": [
@@ -3932,11 +3653,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, November 4 at 10am. Playhouse Member presale starts on Monday, November 2 at 10am.It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
+        "@value": "It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 4 novembre à 10 h. La prévente pour les membres du Playhouse commence le lundi 2 novembre à 10 h.C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
+        "@value": "C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -3970,7 +3691,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/01b924d50767c4c1",
+    "@id": "https://theplayhouse.ca/genid/0f13b3a300f6dbe8",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3982,7 +3703,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4311,7 +4032,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/be34c6d47faca5fa"
+        "@id": "https://theplayhouse.ca/genid/8d8a22b4c306a5ee"
       }
     ],
     "http://schema.org/organizer": [
@@ -4337,11 +4058,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, November 4 at 10am. Playhouse Member presale starts on Monday, November 2 at 10am.It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
+        "@value": "It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 4 novembre à 10 h. La prévente pour les membres du Playhouse commence le lundi 2 novembre à 10 h.C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
+        "@value": "C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4375,7 +4096,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/be34c6d47faca5fa",
+    "@id": "https://theplayhouse.ca/genid/8d8a22b4c306a5ee",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4387,7 +4108,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4425,7 +4146,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/10dacccfda5cc8e4"
+        "@id": "https://theplayhouse.ca/genid/89a95b526cb5050c"
       }
     ],
     "http://schema.org/organizer": [
@@ -4451,11 +4172,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, November 4 at 10am. Playhouse Member presale starts on Monday, November 2 at 10am.It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
+        "@value": "It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 4 novembre à 10 h. La prévente pour les membres du Playhouse commence le lundi 2 novembre à 10 h.C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
+        "@value": "C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4489,7 +4210,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/10dacccfda5cc8e4",
+    "@id": "https://theplayhouse.ca/genid/89a95b526cb5050c",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4501,7 +4222,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4539,7 +4260,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/058226a199e18994"
+        "@id": "https://theplayhouse.ca/genid/9100a5ef40a43820"
       }
     ],
     "http://schema.org/organizer": [
@@ -4565,11 +4286,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Wednesday, November 4 at 10am. Playhouse Member presale starts on Monday, November 2 at 10am.It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
+        "@value": "It’s time to hit the stage! Join us in celebrating our Season Five recreational Club dancers as they showcase their hard work on the big stage. With special guest performances from our competitive Company, Winter Wonderland will be a show you don’t want to miss!"
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le mercredi 4 novembre à 10 h. La prévente pour les membres du Playhouse commence le lundi 2 novembre à 10 h.C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
+        "@value": "C'est l'heure de monter sur scène ! Venez célébrer avec nous les danseurs de notre club de loisirs de la saison 5, qui vont présenter le fruit de leur travail sur la grande scène. Avec des prestations exceptionnelles de notre compagnie de compétition, « Winter Wonderland » sera un spectacle à ne pas manquer !"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4603,7 +4324,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/058226a199e18994",
+    "@id": "https://theplayhouse.ca/genid/9100a5ef40a43820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4615,7 +4336,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4680,7 +4401,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/ea2511f348250574"
+        "@id": "https://theplayhouse.ca/genid/46c87f09e5d53bc8"
       }
     ],
     "http://schema.org/organizer": [
@@ -4711,11 +4432,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Tickets go on sale on Friday, November 6 at 10am. Playhouse Member presale starts on Wednesday, November 4 at 10am.Don’t miss GYPSY: Premiere Fleetwood Mac Tribute band. Vocals by Sharon Resky, Jon Cornwall (Keyboards & guitar) and Sheila Lamplugh (keyboards) blend like Stevie Nicks, Lindsay Buckingham and the late great Christine McVie. Don Morash’s guitar playing makes you feel like Lindsay Buckingham is in the songs. Aran Hill plays a fretless bass that John McVie would be proud to listen to. Maurice Nadeau, drummer for GYPSY, lays down an excellent beat and even looks a bit like Mick"
+        "@value": "Don’t miss GYPSY: Premiere Fleetwood Mac Tribute band. Vocals by Sharon Resky, Jon Cornwall (Keyboards & guitar) and Sheila Lamplugh (keyboards) blend like Stevie Nicks, Lindsay Buckingham and the late great Christine McVie. Don Morash’s guitar playing makes you feel like Lindsay Buckingham is in the songs. Aran Hill plays a fretless bass that John McVie would be proud to listen to. Maurice Nadeau, drummer for GYPSY, lays down an excellent beat and even looks a bit like Mick Fleetwood."
       },
       {
         "@language": "fr",
-        "@value": "La mise en vente des billets commence le vendredi 6 novembre à 10 h. La prévente pour les membres du Playhouse commence le mercredi 4 novembre à 10 h.Ne manquez pas GYPSY, un groupe hommage exceptionnel au légendaire Fleetwood Mac!Les voix de Sharon Resky, Jon Cornwall (clavier et guitare) et Sheila Lamplugh (claviers) s’harmonisent à merveille, rappelant celles de Stevie Nicks, Lindsay Buckingham et de la regrettée Christine McVie. À la guitare, Don Morash recrée avec brio le son si particulier de Lindsay Buckingham, tandis qu’Aran Hill fait honneur à John McVie avec sa basse sans frettes. À"
+        "@value": "Ne manquez pas GYPSY, un groupe hommage exceptionnel au légendaire Fleetwood Mac!Les voix de Sharon Resky, Jon Cornwall (clavier et guitare) et Sheila Lamplugh (claviers) s’harmonisent à merveille, rappelant celles de Stevie Nicks, Lindsay Buckingham et de la regrettée Christine McVie. À la guitare, Don Morash recrée avec brio le son si particulier de Lindsay Buckingham, tandis qu’Aran Hill fait honneur à John McVie avec sa basse sans frettes. À la batterie, Maurice Nadeau donne le rythme avec une énergie contagieuse et ressemble même un peu à Mick Fleetwood."
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4749,7 +4470,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/ea2511f348250574",
+    "@id": "https://theplayhouse.ca/genid/46c87f09e5d53bc8",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4761,7 +4482,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-29"
+        "@value": "2026-11-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4826,6 +4547,734 @@
       {
         "@language": "fr",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-10/Gypsy%20web%20pic.png?itok=6p-o1d0J"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/HELLS%20BELLS%20%20-%201900%20X%20600%20%281%29.png?itok=NAC9eBaj"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1024",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-1"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-10-15"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/1a0eb381e75f7934"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC"
+      },
+      {
+        "@language": "fr",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Friday, November 13 at 10am. Playhouse Member presale starts on Wednesday, November 11 at 10am.Since their electrifying inception in 1994 in the heart of Toronto, Hells Bells has soared to become the World’s Longest Touring Tribute to the legendary AC/DC, lighting up stages across Canada, United States, Mexico and as far as Dubai , United Emirates. Don’t miss your chance to experience the sound, look and attitude, from the wall of Marshall Amps, the Thundering Cannons, the Giant Bell, and the signature schoolboy outfit. Join us to celebrate the spirit of AC/DC. Where the"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le vendredi 13 novembre à 10 h. La prévente pour les membres du Playhouse commence le mercredi 11 novembre à 10 h.Depuis leur création électrisante en 1994 au coeur de Toronto, Hells Bells est devenu le plus long hommage en tournée au monde au légendaire AC/DC, illuminant des scènes à travers le Canada, les États-Unis, le Mexique et jusqu'à Dubaï, aux Émirats Unis.  Ne manquez pas votre chance de découvrir le son, l'apparence et l'attitude, depuis le mur de Marshall Amps, les Thundering Cannons, la Giant Bell et le costume emblématique des écoliers.  Joign"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-10-15T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-10-15T21:30:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/1a0eb381e75f7934",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=00F4C90F-2DFC-49D4-AEA9-E1B06ADF5E94&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-06"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-11/HELLS%20BELLS%20%20-%201900%20X%20600%20%281%29.png?itok=izm9Kc2H",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-1"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-1"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Hells Bells: Celebrating the Music of AC/DC"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/HELLS%20BELLS%20%20-%201900%20X%20600%20%281%29.png?itok=NAC9eBaj"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/illusion-effect-starring-anthony-street",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Illusion Effect: Starring Anthony Street | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/illusion-effect-starring-anthony-street"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Illusion Effect: Starring Anthony Street"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/Illusion%20Effect%20banner%20web%20pic.png?itok=3HWWOKqL"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1025",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/illusion-effect-starring-anthony-street"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-18"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/8ca1fc63c46b69c9"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/illusion-effect-starring-anthony-street"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Illusion Effect: Starring Anthony Street"
+      },
+      {
+        "@language": "fr",
+        "@value": "The Illusion Effect: Starring Anthony Street"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Thursday, November 12 at 10am. Playhouse Member presale starts on Tuesday, November 10 at 10am.DIRECT FROM AUSTRALIA – from the producers of Celtic Illusion, illusionist Anthony Street returns to Canada with his new blockbuster magic spectacular – The Illusion Effect. Witness the impossible, live on stage. The Illusion Effect is a brand-new touring illusion spectacular where nothing is quite what it seems. Packed with grand illusions, mind reading and close-up sleight of hand, it's a show that will leave you asking one question: what is The Illusion Effect? Combining"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le jeudi 12 novembre à 10 h. La prévente pour les membres du Playhouse commence le mardi 10 novembre à 10 h.TOUT DROIT D’AUSTRALIE! L’illusionniste Anthony Street est de retour au Canada avec The Illusion Effect, un tout nouveau spectacle de magie à grand déploiement signé par les producteurs de Celtic Illusion!Venez voir l’impossible se réaliser sous vos yeux!Avec The Illusion Effect, entrez dans un univers où les apparences sont trompeuses. Grandes illusions, lecture de pensées et tours de passe-passe spectaculaires se succèdent dans un spectacle qui"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-18T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-18T21:00:00-03:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/8ca1fc63c46b69c9",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3F606EDE-AB5D-45F9-9412-B5BFBEF1B001&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-09"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-11/Illusion%20Effect%20banner%20web%20pic.png?itok=IeEMrv_X",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/illusion-effect-starring-anthony-street"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/illusion-effect-starring-anthony-street"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/illusion-effect-starring-anthony-street",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "The Illusion Effect: Starring Anthony Street | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/illusion-effect-starring-anthony-street"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "The Illusion Effect: Starring Anthony Street"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/Illusion%20Effect%20banner%20web%20pic.png?itok=3HWWOKqL"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jenn-grants-cradled-waves",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Jenn Grant's Cradled By The Waves | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/jenn-grants-cradled-waves"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Jenn Grant's Cradled By The Waves"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/Jenn%20Grant%20banner%20web%20pic.png?itok=X5bQ8SKk"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1026",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jenn-grants-cradled-waves"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/9022886dadd79154"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jenn-grants-cradled-waves"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jenn Grant's Cradled By The Waves"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jenn Grant's Cradled By The Waves"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Friday, November 13 at 10am. Playhouse Member presale starts on Wednesday, November 11 at 10am.Jenn Grant's Cradled By The WavesA multimedia performance of Queen of the StraitJenn Grant is a three-time Juno-nominated singer, songwriter, and internationally acclaimed recording artist whose music has been described as “the aural equivalent of a warm embrace” (Pop Matters), “majestic vocals” (Consequence of Sound), and “dreamy, harp-and-woodwinds folk, the work of a painter born in paradise” (The Age, AU). With eight studio albums to date, she has become one of Canada’s most"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le vendredi 13 novembre à 10 h. La prévente pour les membres du Playhouse commence le mercredi 11 novembre à 10 h.Jenn Grant's Cradled By The WavesA multimedia performance of Queen of the StraitTrois fois finaliste aux prix Junos, Jenn Grant est une autrice-compositrice-interprète de renommée internationale. Sa musique a été décrite comme « l’équivalent sonore d’une étreinte chaleureuse » (PopMatters) et saluée pour sa « voix majestueuse » (Consequence of Sound). The Age (Australie) y a entendu « un folk onirique porté par la harpe et les bois, l’œuvre d"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-21T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-21T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/9022886dadd79154",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=D4F99BCB-CAED-4D20-9FEF-7135EE7F3BD1&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-09"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-11/Jenn%20Grant%20banner%20web%20pic.png?itok=hVAovrFd",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jenn-grants-cradled-waves"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jenn-grants-cradled-waves"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jenn-grants-cradled-waves",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Jenn Grant's Cradled By The Waves | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/jenn-grants-cradled-waves"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Jenn Grant's Cradled By The Waves"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/Jenn%20Grant%20banner%20web%20pic.png?itok=X5bQ8SKk"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-youth-orchestra-excellence-ignited",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "New Brunswick Youth Orchestra: Excellence Ignited | Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-youth-orchestra-excellence-ignited"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "New Brunswick Youth Orchestra: Excellence Ignited"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/NBYO%20banner%20web%20pic.png?itok=LwLocjkD"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/node/1027",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-youth-orchestra-excellence-ignited"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-07"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://theplayhouse.ca/genid/b701831bfdbb8080"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.theplayhouse.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-youth-orchestra-excellence-ignited"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New Brunswick Youth Orchestra: Excellence Ignited"
+      },
+      {
+        "@language": "fr",
+        "@value": "Orchestre des jeunes du Nouveau-Brunswick: L'excellence s'enflamme"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Tickets go on sale on Tuesday, November 17 at 10am. Playhouse Member presale goes on sale on Sunday, November 15 at 10am. The New Brunswick Youth Orchestra is proud to announce its 62nd concert season, Excellence Ignited, featuring works including Stravinsky’s Firebird Suite, Tchaikovsky’s Romeo and Juliet, and Rimsky-Korsakov’s Russian Easter Overture.Nearly 100 young musicians from communities across New Brunswick come together in the NBYO, many after years of learning and performing through Sistema NB and regional youth orchestras. Each concert brings those individual journeys together on"
+      },
+      {
+        "@language": "fr",
+        "@value": "La mise en vente des billets commence le mardi 17 novembre à 10 h. La prévente pour les membres du Playhouse commence le dimanche 15 novembre à 10 h.OJNB présente L’excellence s’enflammeL’Orchestre des jeunes du Nouveau-Brunswick est fier de présenter sa 62e saison de concerts, L’excellence s’enflamme, mettant notamment au programme la Suite de L’Oiseau de feu de Stravinsky, Roméo et Juliette de Tchaïkovski et l’Ouverture de la Grande Pâque russe de Rimski-Korsakov.Près de 100 jeunes musiciens provenant de communautés de partout au Nouveau-Brunswick se réunissent au sein de l’OJNB, plusieurs d"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": "EventScheduled"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@language": "en",
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-07T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-07T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/b701831bfdbb8080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=C084BEB0-7DCB-4F42-B8CA-93AAC2F601EA&sessionlanguage=EN"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-10"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-11/NBYO%20banner%20web%20pic.png?itok=qkePkFc5",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/new-brunswick-youth-orchestra-excellence-ignited"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/orchestre-des-jeunes-du-nouveau-brunswick-lexcellence-senflamme"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/orchestre-des-jeunes-du-nouveau-brunswick-lexcellence-senflamme",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre des jeunes du Nouveau-Brunswick: L'excellence s'enflamme | Le Fredericton Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/orchestre-des-jeunes-du-nouveau-brunswick-lexcellence-senflamme"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre des jeunes du Nouveau-Brunswick: L'excellence s'enflamme"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-11/NBYO%20banner%20web%20pic.png?itok=LwLocjkD"
       }
     ]
   },
@@ -5196,84 +5645,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Symphony NB | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Symphony NB"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Third%20Signature_%20HeartStrings.png?itok=WU64dxSZ",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/symphony-nb"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie N-B | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Symphonie N-B"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/symphonie-n-b"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Fourth%20Signature_%20Verdi%20Requiem.png?itok=uk4xSKN2",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -5433,6 +5804,20 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Men%20of%20the%20Deeps%20web%20pic.png?itok=TSLA6dXW",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/Web%20event%20banners%20%282%29.png?itok=cMlZp1rL",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -5446,148 +5831,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/0da3b511-a0f3-4cc0-acd9-8824bf79d426.png?itok=FdlDK_M6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/5.jpg?itok=nzYbh_cS",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Pay What You Will | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Pay What You Will"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/lobby3.png?itok=OA5rwwcw"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/pay-what-you-will"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Vous décidez du prix | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Vous décidez du prix"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/lobby3.png?itok=OA5rwwcw"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/vous-decidez-du-prix"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/6.jpg?itok=BZ4kCYf-",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -5640,46 +5883,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-05/HYPROV_1900x600.png?itok=wJTYqU4N",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Bakersfield%20Sound%20Tribute%20web%20pic.png?itok=VB41GwrK",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
@@ -5765,47 +5968,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/George%20Canyon%20%26%20Aaron%20Pritchett%20web%20pic.png?itok=7lZ4_bAT",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/Christmas%20in%20Cape%20Breton%20web%20pic.png?itok=VLb_o8HH",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets-calendar"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/FSO%20Playhouse%20header.png?itok=RFjtv5M7",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -9132,9 +9295,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/spotlight-series-cloned"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
       },
       {
@@ -9198,9 +9358,6 @@
         "@id": "https://theplayhouse.ca/fr/node/877"
       },
       {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
       },
       {
@@ -9247,33 +9404,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Sophie’s Surprise 29th | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Sophie’s Surprise 29th"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/4.jpg?itok=9odOxPPo"
       }
     ]
   },
@@ -9706,33 +9836,6 @@
       {
         "@language": "en",
         "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/17.jpg?itok=My4rDuJ_"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Sophie’s Surprise 29th | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Sophie’s Surprise 29th"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-06/4.jpg?itok=9odOxPPo"
       }
     ]
   },
@@ -10629,9 +10732,6 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
       },
       {
@@ -10696,9 +10796,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-spotlight"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
@@ -10775,9 +10872,6 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
       },
       {
@@ -10839,9 +10933,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nos-programmes/series-kidstage"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
@@ -14073,9 +14164,6 @@
         "@id": "https://theplayhouse.ca/en/our-programs/spotlight-series"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
       },
       {
@@ -14122,9 +14210,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
@@ -14189,9 +14274,6 @@
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/spotlight-series-cloned"
       },
       {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
         "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
       },
       {
@@ -14244,9 +14326,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/node/877"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
@@ -18614,6 +18693,20 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-09/FSO%20Playhouse%20header.png?itok=RFjtv5M7",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-03/Sons%20of%20Maxwell%20web%20pic.png?itok=zGELLpHk",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -18642,6 +18735,20 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-11/Jenn%20Grant%20banner%20web%20pic.png?itok=uLmHFdhb",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-06/Tenille%20Townes%20web%20pic%20%283%29.png?itok=pyXgCgzX",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -18657,6 +18764,20 @@
   },
   {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-04/Highwaymen%20Fredericton%20%281900%20x%20600%20px%29%5B22%5D.png?itok=3dvn8f_t",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-11/NBYO%20banner%20web%20pic.png?itok=Ff9oIDto",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -18768,7 +18889,35 @@
     ]
   },
   {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-11/Illusion%20Effect%20banner%20web%20pic.png?itok=aHHFKya4",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-10/Gypsy%20web%20pic.png?itok=zJTJdzvl",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-11/HELLS%20BELLS%20%20-%201900%20X%20600%20%281%29.png?itok=UHUVq7kZ",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -20079,188 +20228,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nouvelles/leslee-dell"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Hells Bells: Celebrating the music of AC/DC | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Hells Bells: Celebrating the music of AC/DC"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/HELLS%20BELLS%20%20-%201900%20X%20600new.png?itok=1_nYXkGw"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/844",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-05"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/21b2494983297240"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Hells Bells: Celebrating the music of AC/DC"
-      },
-      {
-        "@language": "fr",
-        "@value": "Hells Bells: Celebrating the music of AC/DC"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Since their electrifying inception in 1994 in the heart of Toronto, Hells Bells has soared to become the World’s Longest Touring Tribute to the legendary AC/DC, lighting up stages across Canada, United States, Mexico and as far as Dubai, United Emirates. Don’t miss your chance to experience the sound, look and attitude, from the wall of Marshall Amps, the Thundering Cannons, the Giant Bell, and the signature schoolboy outfit. Join us to celebrate the spirit of AC/DC. Where the music is contagious, and the memories are unforgettable. All Ages! Family friendly! Get ready to rock like never"
-      },
-      {
-        "@language": "fr",
-        "@value": "Depuis leur création électrisante en 1994 au coeur de Toronto, Hells Bells est devenu le plus long hommage en tournée au monde au légendaire AC/DC, illuminant des scènes à travers le Canada, les États-Unis, le Mexique et jusqu'à Dubaï, aux Émirats Unis.  Ne manquez pas votre chance de découvrir le son, l'apparence et l'attitude, depuis le mur de Marshall Amps, les Thundering Cannons, la Giant Bell et le costume emblématique des écoliers.  Joignez-vous à nous pour célébrer l'esprit d'AC/DC.  Où la musique est contagieuse et les souvenirs sont inoubliables.Tous âges! Adapté aux familles!  Prépar"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-05T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-05T21:30:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/21b2494983297240",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3A577677-C832-465A-BDF3-5588A204C96E&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-17"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-08/HELLS%20BELLS%20%20-%201900%20X%20600new.png?itok=gk-NVPb1",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/hells-bells-celebrating-music-acdc-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-0",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Hells Bells: Celebrating the music of AC/DC | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/hells-bells-celebrating-music-acdc-0"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Hells Bells: Celebrating the music of AC/DC"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/HELLS%20BELLS%20%20-%201900%20X%20600new.png?itok=1_nYXkGw"
       }
     ]
   },
@@ -22578,188 +22545,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/trent-mcclellans-be-nice-comedy-tour",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Trent McClellan's Be Nice Comedy Tour | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/trent-mcclellans-be-nice-comedy-tour"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Trent McClellan's Be Nice Comedy Tour"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/0da3b511-a0f3-4cc0-acd9-8824bf79d426.png?itok=CSURECMR"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/916",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/trent-mcclellans-be-nice-comedy-tour"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-08"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/fbaf464834ff14da"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/trent-mcclellans-be-nice-comedy-tour"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Trent McClellan's Be Nice Comedy Tour"
-      },
-      {
-        "@language": "fr",
-        "@value": "Trent McClellan's Be Nice Comedy Tour"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Trent McClellan, stand-up veteran, star of This Hour Has 22 Minutes, and host of the Halifax Comedy Fest, is touring Canada with The Be Nice Tour, a brand new hour of material. Fresh off the success of last year’s special Worry Muffins, Trent returns with new stories, sharp observations, and the signature warmth that has made him one of the country’s most beloved comedians. \n\nPlease be advised this performance contains occasional use of strong language.\n\n "
-      },
-      {
-        "@language": "fr",
-        "@value": "Trent McClellan, figure bien connue de la scène humoristique canadienne, vedette de This Hour Has 22 Minutes et animateur de Halifax Comedy Fest,parcourt le Canada avec The Be Nice Tour, un tout nouveau spectacle d’une heure. Après le succès de Worry Muffins l’an dernier, Trent revient avec de nouvelles anecdotes, des observations toujours aussi justes et ce mélange d’humour et de chaleur humaine qui fait de lui l’un des humoristes les plus aimés au pays. \n\nVeuillez noter que ce spectacle contient de temps à autre un langage explicite.\n\n "
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-08T18:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-08T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/fbaf464834ff14da",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=62B6A7E9-E3DD-483A-8B25-84D7E06B2807&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-13"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-05/0da3b511-a0f3-4cc0-acd9-8824bf79d426.png?itok=cZsrQpdQ",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/trent-mcclellans-be-nice-comedy-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/trent-mcclellans-be-nice-comedy-tour"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/trent-mcclellans-be-nice-comedy-tour",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Trent McClellan's Be Nice Comedy Tour | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/trent-mcclellans-be-nice-comedy-tour"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Trent McClellan's Be Nice Comedy Tour"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-05/0da3b511-a0f3-4cc0-acd9-8824bf79d426.png?itok=CSURECMR"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/sites/default/files/2022-01/Aida%20and%20Hrvoje%20Tisler.JPG",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
@@ -22770,599 +22555,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/nouvelles/aida-and-hrvoje-tisler"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/924",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-04"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/4b69b49672998aca"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sophie’s Surprise 29th"
-      },
-      {
-        "@language": "fr",
-        "@value": "Sophie’s Surprise 29th"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Immersive circus & cabaret.Dear guest,You’re invited to Sophie’s 29th birthday.It's circus, comedy and chaos disguised as a house party. You'll never stop laughing or know exactly what’s going on.The line between audience and performer disappears the moment you walk in.UK company, Three Legged Race, brings a high-energy circus and cabaret show set to your favourite 90s hits. The night unfolds like the best party you’ve ever been to—if your friends happened to be world-class circus artists. Performers from Cirque du Soleil, The 7 Fingers, and La Clique take over the room with jaw-dropping"
-      },
-      {
-        "@language": "fr",
-        "@value": "Cirque et cabaret immersifs.Cher·e invité·e,Vous êtes convié·e à la fête du 29e anniversaire de Sophie.Au programme : cirque, comédie et chaos… le tout déguisé en soirée entre amis. Impossible de savoir exactement ce qui va se passer, mais une chose est sûr : vous allez rire.Dès votre arrivée, la frontière entre public et artistes disparaît.La compagnie britannique Three Legged Race propose un spectacle de cirque et cabaret à haute énergie, sur fond de hits des années 90. La soirée se déploie comme la meilleure fête à laquelle vous avez jamais assisté – si vos amis étaient aussi des artistes"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-04T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-04T21:30:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/4b69b49672998aca",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=CCB5A938-10DD-4BC1-A4E4-B17F1D5FFBC2&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-06/4.jpg?itok=2ZFGJVeU",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Atlantic%20mediaworks%20vertical.jpg?itok=IypDY2UC",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Untitled%20design%20%286%29.png?itok=Ttfcg1Ld",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-06/Downtown%20Fredericton.png?itok=1M5fBvZH",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/Untitled%20design%20%288%29.png?itok=1__G262W",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/logo_canada.png?itok=c9bbccWn",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/one-fell-swoop-circus-thread"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/logo_fredericton%20%281%29.png?itok=nKiExt7G",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/one-fell-swoop-circus-thread"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
       }
     ]
   },
@@ -23491,6 +22683,422 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-06/Downtown%20Fredericton.png?itok=1M5fBvZH",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/Untitled%20design%20%288%29.png?itok=1__G262W",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/logo_canada.png?itok=c9bbccWn",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/one-fell-swoop-circus-thread"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-03/logo_fredericton%20%281%29.png?itok=nKiExt7G",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/ridge-fugitives-special-remembrance-day-presentation"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/espionage-orchestra-music-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/one-fell-swoop-circus-thread"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/kathleen-edwards"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/glob-les-foutoukours"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/jean-michel-blais"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/leif-vollebekk-revelation-tour"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/tafelmusik-staircases"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/puuluup"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/little-red-warrior-and-his-lawyer"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/o-celli-goes-movies"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/debaters-live-holiday-special"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/dufflebag-theatre-three-musketeers-0"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/flip-fabrique-catch-me-again"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/espionage-orchestra-la-musique-de-james-bond"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/mermaid-theatre-nova-scotia-billy-goats-gruff-other-tales"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/can-you-sing-canada-fredericton-sings"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/one-fell-swoop-circus-thread"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/steven-page-trio-featuring-elm-city-string-quartet"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/kathleen-edwards"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/glob-les-foutoukours"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/swan-lake-ballet-jorgen"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
       }
     ]
   },
@@ -23832,7 +23440,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/cdb5d0c5b01ee134"
+        "@id": "https://theplayhouse.ca/genid/398b90a0f2143e2d"
       }
     ],
     "http://schema.org/organizer": [
@@ -23896,7 +23504,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/cdb5d0c5b01ee134",
+    "@id": "https://theplayhouse.ca/genid/398b90a0f2143e2d",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23908,7 +23516,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
+        "@value": "2026-11-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -23939,6 +23547,20 @@
   },
   {
     "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-05/Untitled%20design%20%2813%29.png?itok=BxW3Zt9D",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      },
+      {
+        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/j-anthony-granelli-trio-tales-charlie-brown-christmas"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/sites/default/files/styles/logo/public/2026-11/Untitled%20Design%20%2833%29.png?itok=HubFe6qk",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ],
@@ -29485,158 +29107,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en",
-        "@value": "Phantom of the Opera - The Ballet | Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Phantom of the Opera - The Ballet"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=MuQZ6wMv"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/node/986",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-03"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/4dafb190baeee668"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Phantom of the Opera - The Ballet"
-      },
-      {
-        "@language": "fr",
-        "@value": "Phantom of the Opera - The Ballet"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "This November, don’t miss Igor Dobrovolskiy’s captivating reimagining of the legendary Phantom of the Opera. Set to the brilliant music of Francis Poulenc, this haunting production brings together beautiful choreography, suspense, love and heartbreak.  PHANTOM OF THE OPERA – THE BALLET, features lush costumes created by Paul Daigle and an intriguing set design by Brian Perchaluk. Pierre Lavoie’s ethereal mix of light and shadows perfectly captures the eerie world where a love triangle ensnares Erik, the phantom in exile, the beautiful  ingénue whom he loves, and the dashing young viscount who"
-      },
-      {
-        "@language": "fr",
-        "@value": "En novembre, ne manquez pas la captivante réinterprétation du légendaire Fantôme de l’Opéra par Igor Dobrovolskiy. Sur la brillante musique de Francis Poulenc, cette production envoûtante réunit une chorégraphie magnifique, du suspense, de l’amour et des peines de cœur. LE FANTÔME DE L’OPÉRA – LE BALLET présente de somptueux costumes créés par Paul Daigle ainsi qu’une scénographie fascinante de Brian Perchaluk. Le mélange éthéré d’ombre et de lumière créé par Pierre Lavoie évoque parfaitement cet univers mystérieux. Exilé, rejeté par le seul milieu qu’il connaît, le Fantôme est un personnage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-03T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-03T21:30:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/4dafb190baeee668",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=203032DA-FA5B-48F8-BEEA-51208B2E69A4&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-01"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-08/Phantom%20of%20the%20Opera%20EN%20web%20pic.png?itok=baeYvxd_",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/phantom-opera-ballet"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/en/schedule-and-tickets/george-canyon-aaron-pritchett-cowboy-christmas",
     "http://ogp.me/ns#site_name": [
       {
@@ -30511,120 +29981,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/node/998",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/triumph-and-tribute"
-      }
-    ],
-    "http://schema.org/previousStartDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-09"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://theplayhouse.ca/genid/de845120def7432c"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://theplayhouse.ca/genid/9b6392c22f9a7de1"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.theplayhouse.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/en/schedule-and-tickets/triumph-and-tribute"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Triumph and Tribute"
-      },
-      {
-        "@language": "fr",
-        "@value": "Triumph and Tribute"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "*Fredericton Symphony Orchestra packages are available now. Click here.This Remembrance season, join the Fredericton Symphony Orchestra, under the direction of guest conductor Victor Vivas, for an inspiring evening of reflection, remembrance, and hope. Journey from tranquil beauty to exhilarating triumph through music that honours courage, sacrifice, and the enduring resilience of the human spirit. The program features Beethoven’s Symphony No. 5, Vaughan Williams’ The Lark Ascending, and the world premiere of Odell Park Overture by Samuel Arnold - a musical portrait of Fredericton’s beloved"
-      },
-      {
-        "@language": "fr",
-        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.En cette période de souvenir, joignez-vous au l’Orchestre symphonique de Fredericton, dirigé par le chef d’orchestre invité Victor Vivas, pour une soirée inspirante de réflexion, du souvenir et de l’espoir. Laissez-vous emporter d’une beauté paisible à un triomphe exaltant à travers une musique qui rend hommage au courage, au sacrifice et à la formidable résilience de l’esprit humain. Au programme : la Symphonie n° 5 de Beethoven, The Lark Ascending de Vaughan Williams et la première mondiale de l"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@language": "en",
-        "@value": "EventScheduled"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@language": "en",
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-09T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-09T21:30:00-04:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/9b6392c22f9a7de1",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3DDB685B-EDBB-44C7-A452-7862038F5370&sessionlanguage=EN"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/node/999",
     "@type": [
       "http://schema.org/Event"
@@ -30647,7 +30003,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://theplayhouse.ca/genid/6273e6f4f5023ad4"
+        "@id": "https://theplayhouse.ca/genid/0fbcccfd65c1117f"
       }
     ],
     "http://schema.org/organizer": [
@@ -30673,11 +30029,11 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "*Fredericton Symphony Orchestra packages are available now. Click here.Join the Fredericton Symphony Orchestra, under the baton of FSO Musical Director Richard Hornsby for our annual Christmas seasonal concert.  Celebrate the season with a collection of classical pieces with relevant to the festive period.  Bring you singing voices as the concert will conclude with our traditional sing-along. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
+        "@value": "Join the Fredericton Symphony Orchestra, under the baton of FSO Musical Director Richard Hornsby for our annual Christmas seasonal concert.  Celebrate the season with a collection of classical pieces with relevant to the festive period.  Bring you singing voices as the concert will conclude with our traditional sing-along. PRICE TYPEALL PRICES SUBJECT TO 15% HSTRegular Pkg$97.50Student Pkg$49.50Regular$37.50Student$19.50Member$34.50Group 50+$31(please contact the Box Office)"
       },
       {
         "@language": "fr",
-        "@value": "Les abonnements de Fredericton Symphony Orchestra seront disponibles dès maintenant. Cliquez ici.Joignez-vous au l'Orchestre symphonique de Fredericton, dirigé par le chef d'orchestre Richard Hornsby, lors du concert annuel de Noël. Vous pourrez célébrer cette période de fêtes en écoutant une sélection de morceaux classiques liés à cette belle saison. Faites-vous entendre, car le concert se terminera par notre traditionnel chant en chœur. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50"
+        "@value": "Joignez-vous au l'Orchestre symphonique de Fredericton, dirigé par le chef d'orchestre Richard Hornsby, lors du concert annuel de Noël. Vous pourrez célébrer cette période de fêtes en écoutant une sélection de morceaux classiques liés à cette belle saison. Faites-vous entendre, car le concert se terminera par notre traditionnel chant en chœur. CATÉGORIE DE PRIXTOUS LES PRIX SONT SUJETS À UNE TVH DE 15 %Régulier Pkg97,50 $Étudiant.e Pkg49.50 $Régulier37,50 $Étudiant.e19,50 $Membre34,50 $Groupe de 50+31 $(veuillez contacter la billetterie)"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -30711,7 +30067,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/6273e6f4f5023ad4",
+    "@id": "https://theplayhouse.ca/genid/0fbcccfd65c1117f",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30723,7 +30079,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -30756,24 +30112,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/featured_event_image/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=-gQtPaN_",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets-calendrier"
-      },
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/d51c26e1cb0618c7",
+    "@id": "https://theplayhouse.ca/genid/2a0b000c91af11ee",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30785,7 +30124,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -30801,7 +30140,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/aacf87de06cbab38",
+    "@id": "https://theplayhouse.ca/genid/3e03b05e2210b874",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30813,7 +30152,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-18"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31151,7 +30490,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/4c5bff7b784060dc",
+    "@id": "https://theplayhouse.ca/genid/d539e30c27b5a16b",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31163,7 +30502,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31179,7 +30518,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/4253d39bc7740ad2",
+    "@id": "https://theplayhouse.ca/genid/f5e375e3a0ab4e2e",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31191,7 +30530,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31207,7 +30546,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/5068230db6d97742",
+    "@id": "https://theplayhouse.ca/genid/29f4b0dc9bd786d9",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31219,7 +30558,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31235,7 +30574,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/8a451429194db099",
+    "@id": "https://theplayhouse.ca/genid/fc9dadf507a008d7",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31247,7 +30586,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-28"
+        "@value": "2026-11-04"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31263,7 +30602,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/124c1c968d8f737d",
+    "@id": "https://theplayhouse.ca/genid/f28072f95f623733",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31275,7 +30614,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-10-29"
+        "@value": "2026-11-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -31299,6 +30638,118 @@
       {
         "@language": "fr",
         "@value": "Gypsy"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/7cd18ec9314b05b7",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=00F4C90F-2DFC-49D4-AEA9-E1B06ADF5E94&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-06"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/a8560f8b17111873",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3F606EDE-AB5D-45F9-9412-B5BFBEF1B001&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-09"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/248c6ad8e3f84512",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=D4F99BCB-CAED-4D20-9FEF-7135EE7F3BD1&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-09"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
+      }
+    ]
+  },
+  {
+    "@id": "https://theplayhouse.ca/genid/d43513c7fb335179",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=C084BEB0-7DCB-4F42-B8CA-93AAC2F601EA&sessionlanguage=FR"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-10"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/LimitedAvailability"
       }
     ]
   },
@@ -31983,34 +31434,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/16719550260daf20",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3A577677-C832-465A-BDF3-5588A204C96E&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-17"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/fr/conditions-de-vente",
     "http://ogp.me/ns#site_name": [
       {
@@ -32276,41 +31699,13 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/7b9184551589c4b8",
+    "@id": "https://theplayhouse.ca/genid/912ed132c41f070e",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=62B6A7E9-E3DD-483A-8B25-84D7E06B2807&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-13"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/0e3dfd08289e44fa",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=CCB5A938-10DD-4BC1-A4E4-B17F1D5FFBC2&sessionlanguage=FR"
+        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0067CA1D-8CAA-4434-A17A-AFC07D656B0B&sessionlanguage=FR"
       }
     ],
     "http://schema.org/validFrom": [
@@ -32337,9 +31732,6 @@
       "http://xmlns.com/foaf/0.1/Image"
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/sophies-surprise-29th"
-      },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/ridge-fugitives-une-ceremonie-speciale-loccasion-du-jour-du-souvenir"
       },
@@ -32399,34 +31791,6 @@
       },
       {
         "@id": "https://theplayhouse.ca/fr/horaire-et-billets/jean-michel-blais"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/912ed132c41f070e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0067CA1D-8CAA-4434-A17A-AFC07D656B0B&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
       }
     ]
   },
@@ -32499,7 +31863,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/68f8d9440b1f22ad",
+    "@id": "https://theplayhouse.ca/genid/b2a347d57ea389cb",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -32511,7 +31875,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-23"
+        "@value": "2026-11-06"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -33441,72 +32805,6 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Phantom of the Opera - The Ballet | Le Fredericton Playhouse"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Phantom of the Opera - The Ballet"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://theplayhouse.ca/sites/default/files/styles/large/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=WaJOWMe2"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/5f79bc76b220169e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=203032DA-FA5B-48F8-BEEA-51208B2E69A4&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-01"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/sites/default/files/styles/hero_image/public/2026-08/Phantom%20of%20the%20Opera%20FR%20web%20pic.png?itok=aqHUw06a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://theplayhouse.ca/fr/horaire-et-billets/phantom-opera-ballet"
-      }
-    ]
-  },
-  {
     "@id": "https://theplayhouse.ca/genid/120715dbd032e59f",
     "@type": [
       "http://schema.org/Offer"
@@ -33647,35 +32945,7 @@
     ]
   },
   {
-    "@id": "https://theplayhouse.ca/genid/9b180ed3198ff17b",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.theplayhouse.ca/online/mapSelect.asp?doWork::WSmap::loadMap=Load&createBO::WSmap=1&BOparam::WSmap::loadMap::performance_ids=3DDB685B-EDBB-44C7-A452-7862038F5370&sessionlanguage=FR"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/LimitedAvailability"
-      }
-    ]
-  },
-  {
-    "@id": "https://theplayhouse.ca/genid/92642c6dade5a17f",
+    "@id": "https://theplayhouse.ca/genid/e05cc277a197559e",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33687,7 +32957,7 @@
     "http://schema.org/validFrom": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-17"
+        "@value": "2026-11-09"
       }
     ],
     "http://schema.org/priceCurrency": [
