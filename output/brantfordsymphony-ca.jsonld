@@ -766,13 +766,13 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/a97ccd0d7d1dc48f",
+    "@id": "https://brantfordsymphony.ca/genid/c3cfdf32ee59001b",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "https://brantfordsymphony.ca/genid/b355ef805dca3c68"
+        "@id": "https://brantfordsymphony.ca/genid/5fe0b955a44b2179"
       }
     ],
     "http://schema.org/sameAs": [
@@ -805,14 +805,14 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/genid/b355ef805dca3c68",
+    "@id": "https://brantfordsymphony.ca/genid/5fe0b955a44b2179",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "en",
-        "@value": "22 Lynwood Avenue"
+        "@value": "21 Lynwood Avenue"
       }
     ],
     "http://schema.org/addressLocality": [
@@ -876,6 +876,16 @@
         "@value": "Brantford Symphony Orchestra"
       }
     ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-11-04T20:29:35+00:00"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "2026-11-04T20:29:35-05:00"
+      }
+    ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en-ca",
@@ -932,6 +942,12 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2026-09-10T14:31:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-04T20:29:35+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -1778,7 +1794,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2016-10-11T15:41:55-04:00"
+        "@value": "2016-10-11T15:41:55-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4155,7 +4171,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2022-10-12T19:23:29-04:00"
+        "@value": "2022-10-12T19:23:29-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4294,7 +4310,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2022-10-12T19:24:02-04:00"
+        "@value": "2022-10-12T19:24:02-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -5827,7 +5843,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2026-03-05T13:10:54-04:00"
+        "@value": "2026-03-05T13:10:54-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -5966,7 +5982,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2026-07-08T15:00:19-04:00"
+        "@value": "2026-07-08T15:00:19-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6244,7 +6260,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2026-10-19T14:43:37-04:00"
+        "@value": "2026-10-19T14:43:37-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6383,7 +6399,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2026-10-26T11:49:30-04:00"
+        "@value": "2026-10-26T11:49:30-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6673,9 +6689,6 @@
         "@id": "https://brantfordsymphony.ca/event/violin-guitar-salon-at-glenhyrst/"
       },
       {
-        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
-      },
-      {
         "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/"
       },
       {
@@ -6683,6 +6696,9 @@
       },
       {
         "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
+      },
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
       }
     ]
   },
@@ -8808,7 +8824,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2025-03-12T16:47:47-04:00"
+        "@value": "2025-03-12T16:47:47-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -9086,7 +9102,7 @@
       },
       {
         "@language": "en-ca",
-        "@value": "2026-04-21T18:09:26-04:00"
+        "@value": "2026-04-21T18:09:26-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -17131,127 +17147,6 @@
     ]
   },
   {
-    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1200"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "800"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/genid/ede590c2ba05b1ee",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-21T14:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-21T15:30:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://brantfordsymphony.ca/genid/a97ccd0d7d1dc48f"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://brantfordsymphony.ca/genid/3dc5e657d631b69e"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Flute & Guitar Salon at Lynnwood Arts Centre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://brantfordsymphony.ca/event/salon-de-musique-in-paris/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
@@ -17585,6 +17480,127 @@
       {
         "@language": "en",
         "@value": "“Golden Chocolate Symphony” with guest conductor Francois Koh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/09/BSO-Prelude-Concert-Dr-Francois-Koh-and-Sarah-Yunji-Moon.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/ede590c2ba05b1ee",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T15:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/c3cfdf32ee59001b"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/ee6802d4d1d243bb"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/3dc5e657d631b69e"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/flute-guitar-salon-at-lynnwood-arts-centre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Flute & Guitar Salon at Lynnwood Arts Centre"
       }
     ],
     "http://schema.org/description": [
