@@ -1,0 +1,87 @@
+# Custom transform for the casadelpopolo.com website crawl
+# (.github/workflows/casadelpopolo-com.yml), applied per event page.
+# Full IRIs are used throughout (no PREFIX) so each operation stands alone.
+#
+# The ticket pages (venuepilot.co) give schema:location as one text string,
+# "<venue>, <street>, <city>, <province>", e.g.
+# "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC".
+#
+# 1. Known venues: replace the text with a Place (fixed IRI, so every event at
+#    the venue shares it) that has a PostalAddress and, when there is one, a
+#    schema:sameAs to the venue's Artsdata or Wikidata ID so it reconciles
+#    instead of minting a new place. Matching is on the venue name (the text
+#    before the first comma, trimmed, lower case).
+#      - La Sala Rossa, 4848 boul. Saint-Laurent: Artsdata K5-1024
+#      - La Sotterenea (basement of La Sala Rossa), 4848 boul. Saint-Laurent
+#      - Casa del Popolo, 4873 boul. Saint-Laurent: Wikidata Q3538292
+#      - P'tit Ours, 5589 av. du Parc: Artsdata K2-6645
+#      - La Toscadura, 4388 boul. Saint-Laurent
+# 2. Any other venue: split the text on commas into a Place with a name and a
+#    PostalAddress (street, city, province, country CA). "All venues" (festival
+#    passes) is left as text, since it is not one place.
+
+DELETE {
+  ?event <http://schema.org/location> ?location .
+}
+INSERT {
+  ?event <http://schema.org/location> ?place .
+  ?place a <http://schema.org/Place> ;
+    <http://schema.org/name> ?venueName ;
+    <http://schema.org/sameAs> ?sameAs ;
+    <http://schema.org/address> ?address .
+  ?address a <http://schema.org/PostalAddress> ;
+    <http://schema.org/streetAddress> ?street ;
+    <http://schema.org/addressLocality> "Montréal" ;
+    <http://schema.org/addressRegion> "QC" ;
+    <http://schema.org/addressCountry> "CA" .
+}
+WHERE {
+  VALUES (?key ?slug ?venueName ?street ?sameAs) {
+    ("la sala rossa" "la-sala-rossa" "La Sala Rossa" "4848 boul. Saint-Laurent" <http://kg.artsdata.ca/resource/K5-1024>)
+    ("la sotterenea" "la-sotterenea" "La Sotterenea" "4848 boul. Saint-Laurent" UNDEF)
+    ("casa del popolo" "casa-del-popolo" "Casa del Popolo" "4873 boul. Saint-Laurent" <http://www.wikidata.org/entity/Q3538292>)
+    ("p'tit ours" "ptit-ours" "P'tit Ours" "5589 av. du Parc" <http://kg.artsdata.ca/resource/K2-6645>)
+    ("la toscadura" "la-toscadura" "La Toscadura" "4388 boul. Saint-Laurent" UNDEF)
+  }
+  ?event a <http://schema.org/Event> ;
+    <http://schema.org/location> ?location .
+  FILTER(isLiteral(?location))
+  BIND(LCASE(REPLACE(STRBEFORE(CONCAT(STR(?location), ","), ","), "^\\s+|\\s+$", "")) AS ?locationName)
+  FILTER(?locationName = ?key)
+  BIND(IRI(CONCAT("https://casadelpopolo.com/#place-", ?slug)) AS ?place)
+  BIND(IRI(CONCAT("https://casadelpopolo.com/#address-", ?slug)) AS ?address)
+} ;
+
+DELETE {
+  ?event <http://schema.org/location> ?location .
+}
+INSERT {
+  ?event <http://schema.org/location> ?place .
+  ?place a <http://schema.org/Place> ;
+    <http://schema.org/name> ?venueName ;
+    <http://schema.org/address> ?address .
+  ?address a <http://schema.org/PostalAddress> ;
+    <http://schema.org/streetAddress> ?street ;
+    <http://schema.org/addressLocality> ?locality ;
+    <http://schema.org/addressRegion> ?region ;
+    <http://schema.org/addressCountry> "CA" .
+}
+WHERE {
+  ?event a <http://schema.org/Event> ;
+    <http://schema.org/location> ?location .
+  FILTER(isLiteral(?location) && CONTAINS(STR(?location), ","))
+  BIND(STR(?location) AS ?text)
+  BIND(REPLACE(STRBEFORE(?text, ","), "^\\s+|\\s+$", "") AS ?venueName)
+  BIND(STRAFTER(?text, ",") AS ?rest1)
+  BIND(IF(CONTAINS(?rest1, ","), STRBEFORE(?rest1, ","), ?rest1) AS ?streetRaw)
+  BIND(STRAFTER(?rest1, ",") AS ?rest2)
+  BIND(IF(CONTAINS(?rest2, ","), STRBEFORE(?rest2, ","), ?rest2) AS ?localityRaw)
+  BIND(STRAFTER(?rest2, ",") AS ?regionRaw)
+  BIND(REPLACE(?streetRaw, "^\\s+|\\s+$", "") AS ?street)
+  BIND(IF(STRLEN(REPLACE(?localityRaw, "^\\s+|\\s+$", "")) > 0, REPLACE(?localityRaw, "^\\s+|\\s+$", ""), ?unbound) AS ?locality)
+  BIND(IF(STRLEN(REPLACE(?regionRaw, "^\\s+|\\s+$", "")) > 0, REPLACE(?regionRaw, "^\\s+|\\s+$", ""), ?unbound) AS ?region)
+  FILTER(STRLEN(?venueName) > 0 && LCASE(?venueName) != "all venues")
+  BIND(REPLACE(REPLACE(LCASE(?venueName), "[^a-z0-9]+", "-"), "^-|-$", "") AS ?slug)
+  BIND(IRI(CONCAT("https://casadelpopolo.com/#place-", ?slug)) AS ?place)
+  BIND(IRI(CONCAT("https://casadelpopolo.com/#address-", ?slug)) AS ?address)
+}
