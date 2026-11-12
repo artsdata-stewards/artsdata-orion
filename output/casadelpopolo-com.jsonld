@@ -26,6 +26,104 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/genid/539a244fc0df0ddb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193502/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193502/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOG LAKE + MAGE TEARS + MOLLY DRAG "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/fog-lake-mage-tears-molly-drag-2026-11-12-la-sotterenea-montreal-3fdd2e"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-la-sotterenea",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Sotterenea"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-la-sotterenea",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "4848 boul. Saint-Laurent"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
     "@id": "https://lepointdevente.com/billets/duu-nanaquinn-ccf26",
     "http://ogp.me/ns#title": [
       {
@@ -64,7 +162,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/dc16999b20ec5769",
+    "@id": "https://www.venuepilot.co/genid/7080ffe95b689fe4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -210,6 +308,104 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/genid/f7a2d8e467074ad5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T23:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199702/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199702/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Underpass + Inodi + eLm "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/underpass-inodi-elm-2026-11-12-la-toscadura-montreal-bd06a5"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "03:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-la-toscadura",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Toscadura"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-la-toscadura",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "4388 boul. Saint-Laurent"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/186366/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -280,15 +476,61 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-casa-del-popolo",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Casa del Popolo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3538292"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-casa-del-popolo"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-casa-del-popolo",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "4873 boul. Saint-Laurent"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
       }
     ]
   },
@@ -315,6 +557,109 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/193915/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/17eecf8d87501863",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-12T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193915/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193915/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sunday Missile + Big Snit + Hallowell"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/sunday-missile-big-snit-hallowell-2026-11-12-p-tit-ours-montreal-15a82b"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-ptit-ours",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "P'tit Ours"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K2-6645"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-ptit-ours",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "5589 av. du Parc"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
       }
     ]
   },
@@ -389,15 +734,14 @@
         "@value": "03:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -472,41 +816,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get clay pigeon Tickets • La Sala Rossa , Montreal, QC • Fri, Nov 13"
-      }
     ],
-    "http://ogp.me/ns#type": [
+    "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_99370f0d99b7c2996f97ef6aa5d78d9ad40b08a7717672994f15f1686adbc4d6.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b"
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -581,15 +898,143 @@
         "@value": "03:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
+        "@value": "Get clay pigeon Tickets • La Sala Rossa , Montreal, QC • Fri, Nov 13"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_99370f0d99b7c2996f97ef6aa5d78d9ad40b08a7717672994f15f1686adbc4d6.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/357033829d0f94ae",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T23:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " clay pigeon & Fruit Snack Double Album Release Show"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/clay-pigeon-fruit-snack-double-album-release-show-2026-11-13-la-sala-rossa-montreal-2d266b"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "03:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-la-sala-rossa",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Sala Rossa"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K5-1024"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-la-sala-rossa"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-la-sala-rossa",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "4848 boul. Saint-Laurent"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
       }
     ]
   },
@@ -664,98 +1109,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/200414/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Video Vamp Tickets • P'tit Ours, Montreal, QC • Sat, Nov 14"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_06757a4bcd99430d6100f25678df1c57c89fef6a383698df43d29a0dbd48b9a9.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/5f0cdd11493ae821",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-14T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-15T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Video Vamp - Martin Saint - The Mirrors"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/video-vamp-martin-saint-the-mirrors-2026-11-14-p-tit-ours-montreal-47f42b"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "16:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -830,15 +1191,96 @@
         "@value": "06:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/200414/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get Video Vamp Tickets • P'tit Ours, Montreal, QC • Sat, Nov 14"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_06757a4bcd99430d6100f25678df1c57c89fef6a383698df43d29a0dbd48b9a9.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/5f0cdd11493ae821",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-14T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-15T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200414/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Video Vamp - Martin Saint - The Mirrors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/video-vamp-martin-saint-the-mirrors-2026-11-14-p-tit-ours-montreal-47f42b"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "16:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -913,15 +1355,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -996,15 +1437,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -1079,15 +1519,58 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvmhttps://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvm",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Zeffy"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Zeffy"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Zeffy"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.zeffy.com/404"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvmhttps://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvm"
       }
     ]
   },
@@ -1162,59 +1645,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvmhttps://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvm",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Zeffy"
-      }
     ],
-    "http://ogp.me/ns#site_name": [
+    "http://schema.org/location": [
       {
-        "@language": "en-ca",
-        "@value": "Zeffy"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Zeffy"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.zeffy.com/404"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_CA"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvmhttps://www.zeffy.com/en-CA/ticketing/concert-benefice-pour-un-groupe-dactivistes-pro-palestine-portant-un-recours-collectif-contre-le-spvm-benefit-concert-for-pro-palestine-activists-filing-a-lawsuit-against-the-spvm"
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -1245,6 +1683,62 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/genid/ea2ccc6bf981593d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-15T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-15T23:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193571/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193571/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "UKRAINE ANARCHISTS SOLIDARITY SHOW"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/ukraine-anarchists-solidarity-show-2026-11-15-la-sotterenea-montreal-5f3e1c"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/200729/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -1267,6 +1761,62 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/200729/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/df464facaad25b4b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-16T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-17T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200729/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200729/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hockey Impro #2 Canadiens-Rangers"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/hockey-impro-2-canadiens-rangers-2026-11-16-p-tit-ours-montreal-ca2019"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -1341,15 +1891,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -1376,6 +1925,62 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://tickets.venuepilot.com/e/6h-james-ivy-david-blueskiesturnblack-com-2026-11-16-la-sotterenea-montreal-d71544"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/9ee76ead74adfde7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-16T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-17T00:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/6h-james-ivy-david-blueskiesturnblack-com-2026-11-16-la-sotterenea-montreal-d71544"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/6h-james-ivy-david-blueskiesturnblack-com-2026-11-16-la-sotterenea-montreal-d71544"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BLUE SKIES TURN BLACK PRÉSENTE: JAMES IVY +HARRY TEARDROP"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/blue-skies-turn-black-presente-james-ivy-harry-teardrop-2026-11-16-la-sotterenea-montreal-d71544"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -1450,98 +2055,14 @@
         "@value": "16:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/204878/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Le Culte Got Talent Tickets • P'tit Ours, Montreal, QC • Tue, Nov 17"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_921fbb2f1d03b2e4e7ac3a586149be0a93d1c17887fb322e74ba0effe217d1d5.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/31924745e1925f02",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-18T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Le Culte Got Talent"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/le-culte-got-talent-2026-11-17-p-tit-ours-montreal-a369c2"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:00"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -1616,15 +2137,14 @@
         "@value": "15:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -1699,98 +2219,14 @@
         "@value": "03:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/192457/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Lizzy Bindon Tickets • La Sotterenea, Montreal, QC • Thu, Nov 19"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b1d185caa01363785772230b34ee3dd9cef7d2819fb040e2b36a9edbe8f4b6ad.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/33da87a1b2423036",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-19T21:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-20T02:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "good shows & M Pour Montréal présentent: MARCI avec invités spéciaux"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/good-shows-m-pour-montreal-presentent-marci-avec-invites-speciaux-2026-11-19-la-sotterenea-montreal-94d673"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:00"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -1865,15 +2301,96 @@
         "@value": "02:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/192457/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
+        "@value": "Get Lizzy Bindon Tickets • La Sotterenea, Montreal, QC • Thu, Nov 19"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b1d185caa01363785772230b34ee3dd9cef7d2819fb040e2b36a9edbe8f4b6ad.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/33da87a1b2423036",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-19T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-20T02:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/192457/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "good shows & M Pour Montréal présentent: MARCI avec invités spéciaux"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/good-shows-m-pour-montreal-presentent-marci-avec-invites-speciaux-2026-11-19-la-sotterenea-montreal-94d673"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:00"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -1948,15 +2465,14 @@
         "@value": "03:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -2031,15 +2547,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -2114,98 +2629,14 @@
         "@value": "06:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/195108/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get ANYMA ORA' Tickets • Casa Del Popolo, Montreal, QC • Fri, Nov 20"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a9cd4ddfa1d59e893316576f4ab548e6b1256273acb645c5737ca1d52a72eb17.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/0ef79ef605e39b5e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-20T21:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-21T00:45:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": " ANYMA ORA', Merina Gris & papaya noon"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/anyma-ora-merina-gris-papaya-noon-2026-11-20-casa-del-popolo-montreal-b82fcb"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "03:15"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -2280,15 +2711,96 @@
         "@value": "04:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/195108/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get ANYMA ORA' Tickets • Casa Del Popolo, Montreal, QC • Fri, Nov 20"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a9cd4ddfa1d59e893316576f4ab548e6b1256273acb645c5737ca1d52a72eb17.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/0ef79ef605e39b5e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-20T21:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T00:45:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195108/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " ANYMA ORA', Merina Gris & papaya noon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/anyma-ora-merina-gris-papaya-noon-2026-11-20-casa-del-popolo-montreal-b82fcb"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "03:15"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -2363,15 +2875,96 @@
         "@value": "03:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/203370/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
+        "@value": "Get Sable Tickets • Casa Del Popolo, Montreal, QC • Sat, Nov 21"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cdcea23153e820a22392da33f41454d35bc1b6d460fafa340e787a784abaaa12.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/203370/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/d2310911753dcac0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/203370/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/203370/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "LIBBY EMBER, SABLE, UNDERPASS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/libby-ember-sable-underpass-2026-11-21-casa-del-popolo-montreal-9e833d"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -2446,41 +3039,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/203370/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Sable Tickets • Casa Del Popolo, Montreal, QC • Sat, Nov 21"
-      }
     ],
-    "http://ogp.me/ns#type": [
+    "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cdcea23153e820a22392da33f41454d35bc1b6d460fafa340e787a784abaaa12.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/203370/orders/new"
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -2555,15 +3121,14 @@
         "@value": "03:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -2638,15 +3203,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -2721,15 +3285,96 @@
         "@value": "15:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/194994/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
+        "@value": "Get SPURS  Tickets • La Toscadura, Montreal, QC • Sun, Nov 22"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_93b698f144b945a3a85b5bf5161952ba733af50146cf2c01694715c4a1f5f07b.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/194994/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/082f6da81776a451",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T18:45:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T23:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/194994/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/194994/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SPURS "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/spurs-2026-11-22-la-toscadura-montreal-bdf9f0"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:15"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -2804,15 +3449,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -2887,15 +3531,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -2970,15 +3613,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -3053,181 +3695,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/195821/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Simon Delage Tickets • P'tit Ours, Montreal, QC • Tue, Nov 24"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_33d567d9bc1f1b2900cdfb5a5883162d95aa64b8c46f32dd19bc01619a85a977.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/4bdb2b57f8470ece",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-24T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-25T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Festival Triste: « Les larmes de terre » : musique et texte inspirés par la terre nourricière avec Lia Kuri et Mon doux Saigneur (solo) "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/festival-triste-les-larmes-de-terre-musique-et-texte-inspires-par-la-terre-nourriciere-avec-lia-kuri--9f2c0a"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:00"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/200705/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get MARBLE ASS (1995) - Exposures Trans Film Festival Fundraiser  Tickets • La Sala Rossa , Montreal, QC • Tue, Nov 24"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_59fdd30492a3b8117245060df814cbc36d45c4b6853ea8a57f6fc965c8830761.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/8af5ad234942bfd9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-24T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-25T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "MARBLE ASS (1995) - Exposures Trans Film Festival Fundraiser "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/marble-ass-1995-exposures-trans-film-festival-fundraiser-2026-11-24-la-sala-rossa-montreal-ebdb0d"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -3302,15 +3777,178 @@
         "@value": "05:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/195821/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
+        "@value": "Get Simon Delage Tickets • P'tit Ours, Montreal, QC • Tue, Nov 24"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_33d567d9bc1f1b2900cdfb5a5883162d95aa64b8c46f32dd19bc01619a85a977.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/4bdb2b57f8470ece",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-24T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-25T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/195821/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festival Triste: « Les larmes de terre » : musique et texte inspirés par la terre nourricière avec Lia Kuri et Mon doux Saigneur (solo) "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/festival-triste-les-larmes-de-terre-musique-et-texte-inspires-par-la-terre-nourriciere-avec-lia-kuri--9f2c0a"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:00"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/200705/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Get MARBLE ASS (1995) - Exposures Trans Film Festival Fundraiser  Tickets • La Sala Rossa , Montreal, QC • Tue, Nov 24"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_59fdd30492a3b8117245060df814cbc36d45c4b6853ea8a57f6fc965c8830761.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/8af5ad234942bfd9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-24T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-25T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/200705/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MARBLE ASS (1995) - Exposures Trans Film Festival Fundraiser "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/marble-ass-1995-exposures-trans-film-festival-fundraiser-2026-11-24-la-sala-rossa-montreal-ebdb0d"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -3385,15 +4023,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -3468,15 +4105,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -3551,15 +4187,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -3634,41 +4269,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/203206/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Westelaken Tickets • Casa Del Popolo, Montreal, QC • Thu, Nov 26"
-      }
     ],
-    "http://ogp.me/ns#type": [
+    "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_fc50827887be09aff55f719e0d224b1d0dce6db8ed905b04728c85ae10a9e712.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/203206/orders/new"
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -3743,98 +4351,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Om-Nom Fest 2026 Pass du Festival Tickets • La Sotterenea, Montreal, QC • Fri, Nov 27"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_953388d43f45663d32915c61232a403a270c4a2990da64ceb7363cf1ad4da455.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/a5a69b3c07090c0d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-27T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-28T12:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Om-Nom Fest 2026 Pass du Festival"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "17:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -3909,15 +4433,96 @@
         "@value": "05:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get Om-Nom Fest 2026 Pass du Festival Tickets • La Sotterenea, Montreal, QC • Fri, Nov 27"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_953388d43f45663d32915c61232a403a270c4a2990da64ceb7363cf1ad4da455.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/a5a69b3c07090c0d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T12:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Om-Nom Fest 2026 Pass du Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/om-nom-fest-2026-pass-du-festival-2026-11-27-la-sotterenea-montreal-06af1a"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "17:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -3992,15 +4597,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -4075,124 +4679,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/179056/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get \" C - Wooden Band <woodentheband@gmail.com> POSTLUVEN + WOODEN + BLOODSTONE\" Tickets • La Toscadura, Montreal, QC • Sat, Nov 28"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_f6b88d0987e8d883233559c655115981ca86d80f97d938f858609e5568bb7889.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/21b0fa93fb92e434",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-28T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-29T00:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "STREGONERIA + BLOODSTONE + WOODEN + BRAINDOWN + SLAMMED INTO RUINS"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/stregoneria-bloodstone-wooden-braindown-slammed-into-ruins-2026-11-28-la-toscadura-montreal-656217"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "04:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/175888/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get JULIEN HOGUE <julienhogue80@gmail.com> Tickets • La Sotterenea, Montreal, QC • Sat, Nov 28"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_16538936cf0e538c95ef9ced0f6ec2204f7063a1bfd4b8a7b31c1032c2de8b6a.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/175888/orders/new"
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -4267,15 +4761,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -4350,15 +4843,178 @@
         "@value": "03:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/175888/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get JULIEN HOGUE <julienhogue80@gmail.com> Tickets • La Sotterenea, Montreal, QC • Sat, Nov 28"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_16538936cf0e538c95ef9ced0f6ec2204f7063a1bfd4b8a7b31c1032c2de8b6a.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/175888/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/7bca716a242f3eda",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-29T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/175888/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/175888/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Om-Nom Fest 2026 Nuit 2"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/om-nom-fest-2026-nuit-2-2026-11-28-la-sotterenea-montreal-183f96"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/179056/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Get \" C - Wooden Band <woodentheband@gmail.com> POSTLUVEN + WOODEN + BLOODSTONE\" Tickets • La Toscadura, Montreal, QC • Sat, Nov 28"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_f6b88d0987e8d883233559c655115981ca86d80f97d938f858609e5568bb7889.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/21b0fa93fb92e434",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-28T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-29T00:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/179056/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "STREGONERIA + BLOODSTONE + WOODEN + BRAINDOWN + SLAMMED INTO RUINS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/stregoneria-bloodstone-wooden-braindown-slammed-into-ruins-2026-11-28-la-toscadura-montreal-656217"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -4433,15 +5089,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -4516,15 +5171,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -4599,15 +5253,14 @@
         "@value": "04:45"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -4682,15 +5335,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -4765,15 +5417,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -4804,68 +5455,42 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/193896/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get T Tucker Tickets • Casa Del Popolo, Montreal, QC • Wed, Dec 2"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d8ddcfba412394d88809f65feee6223a32e50e4a9e352eba3789a9b18a187665.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/7f3bcf64dad43e77",
+    "@id": "https://www.venuepilot.co/genid/df5be17f005c812e",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-12-02T19:30:00-05:00"
+        "@value": "2026-12-01T19:30:00-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-12-03T00:30:00-05:00"
+        "@value": "2026-12-02T00:30:00-05:00"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
+        "@id": "https://www.venuepilot.co/en/events/200864/orders/new"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
+        "@id": "https://www.venuepilot.co/en/events/200864/orders/new"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Rachella Wred, Couvo & Kerri"
+        "@value": "Margaux Deveze présente Vague à l'âme : l'aube d'un album"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/rachella-wred-couvo-kerri-2026-12-02-casa-del-popolo-montreal-203b20"
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/margaux-deveze-presente-vague-a-l-ame-l-aube-d-un-album-2026-12-01-p-tit-ours-montreal-df4ab9"
       }
     ],
     "http://schema.org/duration": [
@@ -4874,15 +5499,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -4957,15 +5581,96 @@
         "@value": "03:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/193896/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
+        "@value": "Get T Tucker Tickets • Casa Del Popolo, Montreal, QC • Wed, Dec 2"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d8ddcfba412394d88809f65feee6223a32e50e4a9e352eba3789a9b18a187665.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/7f3bcf64dad43e77",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-02T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-03T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/193896/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rachella Wred, Couvo & Kerri"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/rachella-wred-couvo-kerri-2026-12-02-casa-del-popolo-montreal-203b20"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:00"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -5040,15 +5745,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -5123,98 +5827,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/170903/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get <slamontreal.org@gmail.com> Tickets • La Sala Rossa , Montreal, QC • Fri, Dec 4"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e533956b0ed4cdfef0b71cb5adc79cf2a70cb33d502af8fee82f0b85ef12e5c6.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/6b777f4bbab1cb6b",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-04T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-05T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "GS DE LA LIQS"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/gs-de-la-liqs-2026-12-04-la-sala-rossa-montreal-01ee5d"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -5302,6 +5922,88 @@
     ]
   },
   {
+    "@id": "https://www.venuepilot.co/en/events/170903/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Get <slamontreal.org@gmail.com> Tickets • La Sala Rossa , Montreal, QC • Fri, Dec 4"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e533956b0ed4cdfef0b71cb5adc79cf2a70cb33d502af8fee82f0b85ef12e5c6.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/6b777f4bbab1cb6b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-04T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/170903/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "GS DE LA LIQS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/gs-de-la-liqs-2026-12-04-la-sala-rossa-montreal-01ee5d"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ]
+  },
+  {
     "@id": "https://www.venuepilot.co/en/events/191939/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -5324,63 +6026,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/7779be0079b5c072",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-04T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-05T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Antenna93 / Fresh Wax / No Muzzle"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/antenna93-fresh-wax-no-muzzle-2026-12-04-p-tit-ours-montreal-65fb6e"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "04:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
       }
     ]
   },
@@ -5455,15 +6100,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -5538,15 +6182,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -5621,15 +6264,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -5704,15 +6346,14 @@
         "@value": "03:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -5787,24 +6428,23 @@
         "@value": "24:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
     ]
   },
   {
-    "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3",
+    "@id": "https://www.venuepilot.co/en/events/190615/orders/new",
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "Get Blue Skies Turn Black présente: MICHAEL BERNARD FITZGERALD + PAESLER Tickets • Casa Del Popolo, Montreal, QC • Sun, Dec 6"
+        "@value": "Get ahren Tickets • La Sotterenea, Montreal, QC • Sun, Dec 6"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -5816,69 +6456,12 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_49dc964cfe16fae855745f609bf7b64f46c7b75efeeefb9933ddbe5107623642.png"
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4a72305aeace175e49e25e2a64df4fdf326ca6e2d2e952ec81fef0c6880435b0.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/26538a054a201a84",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-06T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-07T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Blue Skies Turn Black présente: MICHAEL BERNARD FITZGERALD + PAESLER"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/blue-skies-turn-black-presente-michael-bernard-fitzgerald-paesler-2026-12-06-casa-del-popolo-montreal-04c7a3"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
       }
     ]
   },
@@ -5953,24 +6536,23 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/en/events/190615/orders/new",
+    "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3",
     "http://ogp.me/ns#title": [
       {
         "@language": "en",
-        "@value": "Get ahren Tickets • La Sotterenea, Montreal, QC • Sun, Dec 6"
+        "@value": "Get Blue Skies Turn Black présente: MICHAEL BERNARD FITZGERALD + PAESLER Tickets • Casa Del Popolo, Montreal, QC • Sun, Dec 6"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -5982,17 +6564,17 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4a72305aeace175e49e25e2a64df4fdf326ca6e2d2e952ec81fef0c6880435b0.png"
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_49dc964cfe16fae855745f609bf7b64f46c7b75efeeefb9933ddbe5107623642.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
       }
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/b6611e33656fce4a",
+    "@id": "https://www.venuepilot.co/genid/26538a054a201a84",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6010,24 +6592,24 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+        "@id": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Pascale Pascale/Hank's Dream/Ahren Strange @ Sotterenea Dec 6th"
+        "@value": "Blue Skies Turn Black présente: MICHAEL BERNARD FITZGERALD + PAESLER"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/pascale-pascale-hank-s-dream-ahren-strange-sotterenea-dec-6th-2026-12-06-la-sotterenea-montreal-5d72ac"
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/blue-skies-turn-black-presente-michael-bernard-fitzgerald-paesler-2026-12-06-casa-del-popolo-montreal-04c7a3"
       }
     ],
     "http://schema.org/duration": [
@@ -6036,15 +6618,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -6119,15 +6700,96 @@
         "@value": "05:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/199838/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get girl with dream, alex walsh , mikee Tickets • P'tit Ours, Montreal, QC • Mon, Dec 7"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d8ea9807fcc9f3b618da32b0b1f6e5a9a3a65c0b942c9212ed817be97d7edda8.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199838/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/336ebf7315b59883",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-07T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-08T20:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199838/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199838/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "girl with dream, a.d. walsh , mikee "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/girl-with-dream-a-d-walsh-mikee-2026-12-07-p-tit-ours-montreal-5e2875"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "24:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -6202,15 +6864,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -6285,15 +6946,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -6368,15 +7028,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -6451,15 +7110,14 @@
         "@value": "05:15"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -6534,15 +7192,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -6617,15 +7274,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -6700,15 +7356,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -6783,15 +7438,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -6866,98 +7520,14 @@
         "@value": "06:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/183877/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Francbatards Tickets • Casa Del Popolo, Montreal, QC • Sat, Dec 12"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_41e2244ef9560658a07354928ff45fa81b9be76ecd84baab1f3e27309df5e715.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/bb091ef2932439b7",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-12T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-13T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Francbâtards @ Montréal Casa Del Popolo"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/francbatards-montreal-casa-del-popolo-2026-12-12-casa-del-popolo-montreal-e27e3d"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -7032,15 +7602,96 @@
         "@value": "09:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/183877/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get Francbatards Tickets • Casa Del Popolo, Montreal, QC • Sat, Dec 12"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_41e2244ef9560658a07354928ff45fa81b9be76ecd84baab1f3e27309df5e715.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/bb091ef2932439b7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-13T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/183877/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Francbâtards @ Montréal Casa Del Popolo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/francbatards-montreal-casa-del-popolo-2026-12-12-casa-del-popolo-montreal-e27e3d"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -7115,15 +7766,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -7198,15 +7848,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -7281,15 +7930,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -7364,98 +8012,14 @@
         "@value": "04:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/191296/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get PHLIP Tickets • P'tit Ours, Montreal, QC • Wed, Dec 16"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a6683727e1495324d56996989a57be9b7faf8005bd7983e2da5a67410c48f4ba.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/5dda55397907210a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-16T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-17T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PHLIP - Première mondiale"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/phlip-premiere-mondiale-2026-12-16-p-tit-ours-montreal-9eadfc"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -7530,15 +8094,96 @@
         "@value": "17:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/191296/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
+        "@value": "Get PHLIP Tickets • P'tit Ours, Montreal, QC • Wed, Dec 16"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a6683727e1495324d56996989a57be9b7faf8005bd7983e2da5a67410c48f4ba.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/5dda55397907210a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-16T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-17T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/191296/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "PHLIP - Première mondiale"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/phlip-premiere-mondiale-2026-12-16-p-tit-ours-montreal-9eadfc"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -7613,15 +8258,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -7696,15 +8340,14 @@
         "@value": "04:15"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -7779,15 +8422,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -7862,15 +8504,14 @@
         "@value": "17:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -7945,15 +8586,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8028,15 +8668,96 @@
         "@value": "03:30"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ]
+  },
+  {
+    "@id": "https://tickets.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
+        "@value": "Get Keenan Trevon: Flowers After Dark Tour Tickets • La Sotterenea, Montreal, QC • Sun, Jan 10"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_9b55b6b288fddc4050dbe62dfb3efbeb46c45407b558eaa26eadb9dc2408a428.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/8c4013cccba1b7fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-10T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-10T23:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Keenan Trevon: Flowers After Dark Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/keenan-trevon-flowers-after-dark-tour-2027-01-10-la-sotterenea-montreal-bcc1f9"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:00"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -8111,98 +8832,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/en/events/199780/orders/new",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Get Hayden Tickets • La Sala Rossa , Montreal, QC • Thu, Jan 28"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/8c15f67574778739",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-28T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-01-29T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Hayden  +  Invité(e)s"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/hayden-invite-e-s-2027-01-28-la-sala-rossa-montreal-f7e470"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:30"
-      }
     ],
     "http://schema.org/location": [
       {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8277,15 +8914,96 @@
         "@value": "05:00"
       }
     ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
     "http://schema.org/location": [
       {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/199780/orders/new",
+    "http://ogp.me/ns#title": [
+      {
         "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
+        "@value": "Get Hayden Tickets • La Sala Rossa , Montreal, QC • Thu, Jan 28"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/8c15f67574778739",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-28T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-29T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/199780/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hayden  +  Invité(e)s"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/hayden-invite-e-s-2027-01-28-la-sala-rossa-montreal-f7e470"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8360,15 +9078,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8443,15 +9160,14 @@
         "@value": "14:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -8526,15 +9242,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8609,15 +9324,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -8692,15 +9406,14 @@
         "@value": "02:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "P'tit Ours, 5589 Ave du Park , Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
     ]
   },
@@ -8775,15 +9488,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8858,15 +9570,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -8941,15 +9652,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -9024,15 +9734,14 @@
         "@value": "04:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Toscadura, 4388 St- Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -9107,15 +9816,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   },
@@ -9190,15 +9898,14 @@
         "@value": "05:00"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -9273,15 +9980,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "Casa Del Popolo, 4873 St Laurent Blvd, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
     ]
   },
@@ -9356,15 +10062,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sotterenea, 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
     ]
   },
@@ -9439,15 +10144,14 @@
         "@value": "05:30"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@language": "en",
-        "@value": "La Sala Rossa , 4848 boul St-Laurent, Montreal, QC"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
     ]
   }
