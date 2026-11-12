@@ -19,6 +19,11 @@
 # 2. Any other venue: split the text on commas into a Place with a name and a
 #    PostalAddress (street, city, province, country CA). "All venues" (festival
 #    passes) is left as text, since it is not one place.
+# 3. The html-extract-config puts the ticket page's og:image on the event
+#    under a temporary predicate. Use it as schema:image when the JSON-LD has
+#    no image (venuepilot pages don't), then delete the temporary triple.
+# 4. The site gives no event categories and hosts performances (mostly
+#    concerts), so type every event as an Artsdata PerformingArtsEvent.
 
 DELETE {
   ?event <http://schema.org/location> ?location .
@@ -84,4 +89,26 @@ WHERE {
   BIND(REPLACE(REPLACE(LCASE(?venueName), "[^a-z0-9]+", "-"), "^-|-$", "") AS ?slug)
   BIND(IRI(CONCAT("https://casadelpopolo.com/#place-", ?slug)) AS ?place)
   BIND(IRI(CONCAT("https://casadelpopolo.com/#address-", ?slug)) AS ?address)
+} ;
+
+INSERT {
+  ?event <http://schema.org/image> ?imageUrl .
+}
+WHERE {
+  ?event <https://github.com/artsdata-stewards/artsdata-orion#imageUrl> ?imageUrl .
+  FILTER NOT EXISTS { ?event <http://schema.org/image> ?existingImage }
+} ;
+
+DELETE {
+  ?event <https://github.com/artsdata-stewards/artsdata-orion#imageUrl> ?imageUrl .
+}
+WHERE {
+  ?event <https://github.com/artsdata-stewards/artsdata-orion#imageUrl> ?imageUrl .
+} ;
+
+INSERT {
+  ?event <http://schema.org/additionalType> <http://kg.artsdata.ca/resource/PerformingArtsEvent> .
+}
+WHERE {
+  ?event a <http://schema.org/Event> .
 }
