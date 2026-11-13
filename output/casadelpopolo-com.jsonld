@@ -26,7 +26,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/539a244fc0df0ddb",
+    "@id": "https://www.venuepilot.co/genid/cebcbf005d1ba26a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -78,6 +78,16 @@
     "http://schema.org/location": [
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_bdac1ceb59dcb470ef90d27db4fd32334f29f33c6412b60bc92fb1f9280b0b22.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -162,7 +172,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/7080ffe95b689fe4",
+    "@id": "https://www.venuepilot.co/genid/ba53d83d95b3d2db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -226,6 +236,11 @@
       {
         "@language": "en",
         "@value": "2026-11-13T03:30:00Z"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -308,104 +323,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/f7a2d8e467074ad5",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T23:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/199702/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/199702/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Underpass + Inodi + eLm "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/underpass-inodi-elm-2026-11-12-la-toscadura-montreal-bd06a5"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "03:30"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://casadelpopolo.com/#place-la-toscadura"
-      }
-    ]
-  },
-  {
-    "@id": "https://casadelpopolo.com/#place-la-toscadura",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "La Toscadura"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://casadelpopolo.com/#address-la-toscadura"
-      }
-    ]
-  },
-  {
-    "@id": "https://casadelpopolo.com/#address-la-toscadura",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "4388 boul. Saint-Laurent"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/186366/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -432,7 +349,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4b5e36403e983718",
+    "@id": "https://www.venuepilot.co/genid/29f23f9dc455a031",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -484,6 +401,16 @@
     "http://schema.org/location": [
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_fdd0811165be57fdecbbe88c733cd3f89f750fdecaa21fc893ed8e4484f0fa8c.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -561,109 +488,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/17eecf8d87501863",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-13T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/193915/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/193915/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sunday Missile + Big Snit + Hallowell"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/sunday-missile-big-snit-hallowell-2026-11-12-p-tit-ours-montreal-15a82b"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "04:30"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://casadelpopolo.com/#place-ptit-ours"
-      }
-    ]
-  },
-  {
-    "@id": "https://casadelpopolo.com/#place-ptit-ours",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "P'tit Ours"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K2-6645"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://casadelpopolo.com/#address-ptit-ours"
-      }
-    ]
-  },
-  {
-    "@id": "https://casadelpopolo.com/#address-ptit-ours",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "5589 av. du Parc"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/177001/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -690,7 +514,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/800e6cea2664f525",
+    "@id": "https://www.venuepilot.co/genid/56c6ff5394d6cb1d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -743,6 +567,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d5c3edfbae4325d7fbd6176930885de00f98197c5bf2704b8118b7298eb46163.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -772,7 +606,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/cc249145cb66c823",
+    "@id": "https://www.venuepilot.co/genid/fabd30b674094fc0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -825,6 +659,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3d1994ce8a32ff75798925d8bb6122d3dc2bac53f94005506f6d60962f839cab.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -850,62 +694,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/196239/orders/new"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.venuepilot.co/genid/ab6f88d98ce5a61e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-13T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-13T23:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/196239/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/196239/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Twin Brother  w/ Karneef & Tommy Creighton Group"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/twin-brother-w-karneef-tommy-creighton-group-2026-11-13-la-toscadura-montreal-db840e"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "03:30"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
     ]
   },
@@ -936,7 +724,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/357033829d0f94ae",
+    "@id": "https://www.venuepilot.co/genid/4e0c451a4ffc31fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -988,6 +776,16 @@
     "http://schema.org/location": [
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_99370f0d99b7c2996f97ef6aa5d78d9ad40b08a7717672994f15f1686adbc4d6.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -1065,7 +863,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/95b3066ed82794ff",
+    "@id": "https://www.venuepilot.co/genid/72b14fea991c6019",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1118,6 +916,58 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_766e0ffa750225a59e89db3670410d2f3d0fa38541ff569ada39ce14e207e056.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-la-toscadura",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Toscadura"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-la-toscadura"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-la-toscadura",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "4388 boul. Saint-Laurent"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
     ]
   },
   {
@@ -1147,7 +997,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/99b02068edcbe732",
+    "@id": "https://www.venuepilot.co/genid/c1f32f9d80182c86",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1200,6 +1050,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_36b77d8e1bd2ce5f7d2118872bdb236d1689ce42bbb14385d4adb7bb08a69805.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1229,7 +1089,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/5f0cdd11493ae821",
+    "@id": "https://www.venuepilot.co/genid/16ba7a842283a92f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1282,6 +1142,63 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_06757a4bcd99430d6100f25678df1c57c89fef6a383698df43d29a0dbd48b9a9.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#place-ptit-ours",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "P'tit Ours"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K2-6645"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://casadelpopolo.com/#address-ptit-ours"
+      }
+    ]
+  },
+  {
+    "@id": "https://casadelpopolo.com/#address-ptit-ours",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "5589 av. du Parc"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
     ]
   },
   {
@@ -1311,7 +1228,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/61a949dae65a0101",
+    "@id": "https://www.venuepilot.co/genid/1c4129d466fd6f99",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1364,6 +1281,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_584742df4edc794a2d1b27c4f0f924e200f7de6ccfe6e0a03a59f37be729658c.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1393,7 +1320,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a4be80f6298d6d59",
+    "@id": "https://www.venuepilot.co/genid/84686d4e6f7f97c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1446,6 +1373,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d7729da76b50541e07d30b0c2fda7d3a2284901c0574292ca226db0cc05d52c1.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1475,7 +1412,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/8211b58e29768096",
+    "@id": "https://www.venuepilot.co/genid/fa5bbf1538f08ce3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1527,6 +1464,16 @@
     "http://schema.org/location": [
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_649ff3800b05c285ce2645b4200b63afa21876578de165c9980dee07b3eaa362.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -1601,62 +1548,6 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4559f8f9505826b9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-15T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-16T00:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/193159/orders/new"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.venuepilot.co/en/events/193159/orders/new"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Devon Gillingham Duo + Gabe Newman Quintet"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/devon-gillingham-duo-gabe-newman-quintet-2026-11-15-casa-del-popolo-montreal-797451"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "05:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
-      }
-    ]
-  },
-  {
     "@id": "https://www.venuepilot.co/en/events/193571/orders/new",
     "http://ogp.me/ns#title": [
       {
@@ -1683,7 +1574,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ea2ccc6bf981593d",
+    "@id": "https://www.venuepilot.co/genid/a53637990debfcc8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1736,6 +1627,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3dd8260f46d2cbef512a22ea6b5b7823732daaa5409d1a0a0a5faf0de7c07d99.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1765,7 +1666,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/df464facaad25b4b",
+    "@id": "https://www.venuepilot.co/genid/b3654d9e2d185ec6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1818,6 +1719,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_f87ba826fd5aa8f960fff773b76bdede8b6a65f3d791c2f9f685d25e29bc9d08.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1847,7 +1758,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/bfeaef918a9808a3",
+    "@id": "https://www.venuepilot.co/genid/bf9434581792dc05",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1900,6 +1811,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_491f53a068f506ffea6b810c42d02816af1cca0d067fb923ae328eb486ce86df.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -1929,7 +1850,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/9ee76ead74adfde7",
+    "@id": "https://www.venuepilot.co/genid/35f5510ac280c361",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1982,6 +1903,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_97ccd1c9eda1030ac5ce846afa03e7767dd5165da05ce6de7cb2c9586040706b.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2011,7 +1942,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/2d52c8f3592e0ce9",
+    "@id": "https://www.venuepilot.co/genid/80154db620f7ad7c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2064,6 +1995,108 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_1beb1d3c05bf83f83cef7ac0dd0813c1615d4bdd9a17b3a63adc9b1c27405881.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/en/events/204878/orders/new",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Get Le Culte Got Talent Tickets • P'tit Ours, Montreal, QC • Tue, Nov 17"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_921fbb2f1d03b2e4e7ac3a586149be0a93d1c17887fb322e74ba0effe217d1d5.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/a0a1f99bdbe81256",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-17T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-18T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/204878/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Le Culte Got Talent"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/le-culte-got-talent-2026-11-17-p-tit-ours-montreal-a369c2"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_921fbb2f1d03b2e4e7ac3a586149be0a93d1c17887fb322e74ba0effe217d1d5.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2093,7 +2126,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ad6a68bd4568c6ac",
+    "@id": "https://www.venuepilot.co/genid/23ba38d81e28742d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2146,6 +2179,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_f32e5735b041da33b7e8b192ffef93755d44f62451683ae9a86279749f69e01d.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2175,7 +2218,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/32ca5c8c640725f0",
+    "@id": "https://www.venuepilot.co/genid/1320682d928c6db3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2228,6 +2271,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_5e6688b5235eb5c219a3ca0b9baa0f26c8c1a60a286c4f068afc8615c1f06ca9.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2257,7 +2310,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1bf74fedf4a9b7ca",
+    "@id": "https://www.venuepilot.co/genid/880dfb97ecde02de",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2310,6 +2363,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d05dfd9285371415e194e3d36df2a2f79f9e3d43693b65c6ed1fd95725750f40.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2339,7 +2402,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/33da87a1b2423036",
+    "@id": "https://www.venuepilot.co/genid/dc7869a4136d680b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2392,6 +2455,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b1d185caa01363785772230b34ee3dd9cef7d2819fb040e2b36a9edbe8f4b6ad.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2421,7 +2494,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/81efb124679c1b17",
+    "@id": "https://www.venuepilot.co/genid/6cd792036c652d90",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2474,6 +2547,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e5ef25fc4f7206aae68847bb359e545e6e618684721677475553155494449a92.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2503,7 +2586,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ed94af50aeef8d6a",
+    "@id": "https://www.venuepilot.co/genid/1b33a92e86c23ef1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2556,6 +2639,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_8a0319f314b8cbaa78e6817e8875022886d5201241493bfa370c17f67e53239c.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2585,7 +2678,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1eb4a4fe30c4caf2",
+    "@id": "https://www.venuepilot.co/genid/52ed3fec3e4ee5e1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2638,6 +2731,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_43837afcdafdb279fe0833847975b378d20fd3d7f88e91922078e83b5ba457cb.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2667,7 +2770,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/40542fefa2b5bdfa",
+    "@id": "https://www.venuepilot.co/genid/32e87e54dbceb226",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2720,6 +2823,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_57a69099c0489821ffaf8571e67a401f3560d2e55c4ec8dddc0965982567d552.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2749,7 +2862,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/0ef79ef605e39b5e",
+    "@id": "https://www.venuepilot.co/genid/1a05fcdbf28bd1d5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2802,6 +2915,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a9cd4ddfa1d59e893316576f4ab548e6b1256273acb645c5737ca1d52a72eb17.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2831,7 +2954,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/afeeea604b4e55d6",
+    "@id": "https://www.venuepilot.co/genid/daeb4ecd70c0002e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2884,6 +3007,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_60c32fa8856c2f4f3a97cdd318a69dc6158f95da5c7b11032dbd693a4146a18d.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2913,7 +3046,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/d2310911753dcac0",
+    "@id": "https://www.venuepilot.co/genid/453b860b1b016e38",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2966,6 +3099,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cdcea23153e820a22392da33f41454d35bc1b6d460fafa340e787a784abaaa12.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -2995,7 +3138,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/6a38f9923d7162fc",
+    "@id": "https://www.venuepilot.co/genid/9bb885b22ef7d63b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3048,6 +3191,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cf4360b5e80d6ee40d5e1a24c67cb84d8a5c4c3365cb334b20cf657558842017.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3077,7 +3230,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/e7e2b70307526c39",
+    "@id": "https://www.venuepilot.co/genid/5eeae3e9763e9ad6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3130,6 +3283,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3c6168f17e8193c58d1c23523870589d80ed552ad0010dbe2ac89ecc49619e9c.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3159,7 +3322,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a4293a4e6d56a4c3",
+    "@id": "https://www.venuepilot.co/genid/bd0052868db8d337",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3212,6 +3375,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4a72305aeace175e49e25e2a64df4fdf326ca6e2d2e952ec81fef0c6880435b0.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3241,7 +3414,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/2945f37eff6d71bf",
+    "@id": "https://www.venuepilot.co/genid/62b8bbcce60c6012",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3294,6 +3467,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3a63d8eb60c7297da04ec6c3f56bdaa4d8328b18c67cec8a2762f5261843de8d.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3323,7 +3506,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/082f6da81776a451",
+    "@id": "https://www.venuepilot.co/genid/14d9daa12b005c02",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3376,6 +3559,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_93b698f144b945a3a85b5bf5161952ba733af50146cf2c01694715c4a1f5f07b.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3405,7 +3598,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/0bf5230a8e08b6a9",
+    "@id": "https://www.venuepilot.co/genid/85930eef1b19e91e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3458,6 +3651,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_74a2611f386cfd10ffa898ac2b4c0ff89371e067ba45e3181233ba5dc4ff05be.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3487,7 +3690,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/79980a5e4fe209bc",
+    "@id": "https://www.venuepilot.co/genid/c571a1c40eaf38b0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3540,6 +3743,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d1d3f0e9ef6f77ebdcd54d8246600cff99e955940833cd6d84efdca684bf8431.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3569,7 +3782,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/efead792061d0a8d",
+    "@id": "https://www.venuepilot.co/genid/1ac68cf6a00c6559",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3622,6 +3835,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c61ed4293e70537df1f0682e416e4fd4a0002cd6a042c698b43f4e457bc343e3.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3651,7 +3874,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/014f3b659e178eba",
+    "@id": "https://www.venuepilot.co/genid/5481d65a6ac557f8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3704,6 +3927,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_69807783b1183e48e535a366819f4faa987ac46a247ca4e96540d8949c64105d.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3733,7 +3966,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/0c89c62eb051b150",
+    "@id": "https://www.venuepilot.co/genid/01bad85259de9f58",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3786,6 +4019,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d088fe587beef9fa8e384f7a5acabf8a0942bc3d8ee519d6d9dc9d391d7c4075.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3815,7 +4058,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4bdb2b57f8470ece",
+    "@id": "https://www.venuepilot.co/genid/a377fa1a438ea8b6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3868,6 +4111,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_33d567d9bc1f1b2900cdfb5a5883162d95aa64b8c46f32dd19bc01619a85a977.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3897,7 +4150,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/8af5ad234942bfd9",
+    "@id": "https://www.venuepilot.co/genid/15f2c149a2ff0947",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3950,6 +4203,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_59fdd30492a3b8117245060df814cbc36d45c4b6853ea8a57f6fc965c8830761.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -3979,7 +4242,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/9e3149e564e624fe",
+    "@id": "https://www.venuepilot.co/genid/e7f41e3584c93453",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4032,6 +4295,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_1e237ca8721b2c4281f62e50bb4286e2f6168b563eeb769cf98452a30fda6eb8.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4061,7 +4334,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/721b41278bdcd9d5",
+    "@id": "https://www.venuepilot.co/genid/ef3c0ca84826fc92",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4114,6 +4387,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_1bdf4e8295355de8b1af8833a3cfb8b19e07c7adce07886e066311c12dd72b73.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4143,7 +4426,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a34830dfc113e2e1",
+    "@id": "https://www.venuepilot.co/genid/79b4daca675dfc71",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4196,6 +4479,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_91b821b8540720b92096695b630b9ebca376b6c85f18949426c9401093059a6d.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4225,7 +4518,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/f1aff2e528591d79",
+    "@id": "https://www.venuepilot.co/genid/a109ac4fa9bfca30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4278,6 +4571,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_53684977ce77883bd4f4eee38d657d4359adc238eb6f27a1e9afa4bf7259e2bf.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4307,7 +4610,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a37054f16d4dfc43",
+    "@id": "https://www.venuepilot.co/genid/ae2e1400619d09b8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4360,6 +4663,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_8b1cde449632cb7c2d4ff88f8b59a3b8a6c9594a74de9bf7658eb29b455faf25.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4389,7 +4702,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/f7a0c557db067b3c",
+    "@id": "https://www.venuepilot.co/genid/d289f7f2cf15cac3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4442,6 +4755,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_71baa85f7cafa3ee8078b3ca3848adbf4df766a2702951c7b45ac287363531bd.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4471,7 +4794,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a5a69b3c07090c0d",
+    "@id": "https://www.venuepilot.co/genid/e9c3904868953187",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4524,6 +4847,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_953388d43f45663d32915c61232a403a270c4a2990da64ceb7363cf1ad4da455.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4553,7 +4886,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ff5f42bf54ab7964",
+    "@id": "https://www.venuepilot.co/genid/7091942fb9f4d527",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4606,6 +4939,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_fb4e274382db0b8ba32f2f313af371228f50ddd65b2fddad338d71e0848f1edf.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4635,7 +4978,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/f3dc4bbfffc77bc9",
+    "@id": "https://www.venuepilot.co/genid/496e713c007abf7b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4688,6 +5031,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_3c5a9ac15055c5e9fc26946e668f7780f4348d217e6c01db12e9406f4d42ac42.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4717,7 +5070,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/13cd6b6e7b925d26",
+    "@id": "https://www.venuepilot.co/genid/1dfd333cc07d031b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4770,6 +5123,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_af92fd8e5ebe58d2b80afa35b73cb55c564a12370ae81cc282f90c184f9b5ce6.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4799,7 +5162,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/5a7145c618d818a4",
+    "@id": "https://www.venuepilot.co/genid/7009292f6313a06c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4852,6 +5215,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_0188ee1bc76ddc5451c8a6f31174ec3143e0f43565dcf5fa5a30bd8efc91ea85.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4881,7 +5254,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/7bca716a242f3eda",
+    "@id": "https://www.venuepilot.co/genid/70740c0773ba1f31",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4934,6 +5307,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_16538936cf0e538c95ef9ced0f6ec2204f7063a1bfd4b8a7b31c1032c2de8b6a.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -4963,7 +5346,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/21b0fa93fb92e434",
+    "@id": "https://www.venuepilot.co/genid/cf1b17d2897a9ee6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5016,6 +5399,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_f6b88d0987e8d883233559c655115981ca86d80f97d938f858609e5568bb7889.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5045,7 +5438,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/9391c950b47fd3e0",
+    "@id": "https://www.venuepilot.co/genid/4de611b155489c09",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5098,6 +5491,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_5d52b0660f669b418bc45fb061740975f42b71b33a05eabfd8bf1cc22382d1ab.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5127,7 +5530,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/924d5d34edf338a8",
+    "@id": "https://www.venuepilot.co/genid/946c055eb50dca33",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5180,6 +5583,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_5165b67085c4994081685231bdc1a43787d331505ec5f0e96ce5613235defee8.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5209,7 +5622,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1e410ae63ab67fee",
+    "@id": "https://www.venuepilot.co/genid/ef92852ad21b6a7d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5262,6 +5675,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_2e14962c11d2a50da2aea027aedd3d2e87344a27ceb934169472f5a8859e79b4.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5291,7 +5714,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/516d53244c2b641b",
+    "@id": "https://www.venuepilot.co/genid/c19f120f746deebe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5344,6 +5767,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_ca03af0c8236dbd9ac3e94ab2091f25dbf1a40200698365ce267b6306fd17d80.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5373,7 +5806,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ebadcdceffc7a6f1",
+    "@id": "https://www.venuepilot.co/genid/6d510e9e6c5b2bd1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5426,6 +5859,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e40fefebd0c77dc7a9fbba4b2db4018df8a9e582008edb4db1f524aaca0ff344.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5455,7 +5898,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/df5be17f005c812e",
+    "@id": "https://www.venuepilot.co/genid/8d153bc2ad76dbbd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5508,6 +5951,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c542a80bf1464d0087cdd65e5a05477eaa8cbe368f6356a6ed20ee0a8952f093.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5537,7 +5990,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/3f9ba3da24b3f90c",
+    "@id": "https://www.venuepilot.co/genid/fef5a91bd03d316d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5590,6 +6043,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d85ca227b4e0bd2904ef55a76c3ee433a4bfc30cad4d9048c526f1efa330c577.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5619,7 +6082,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/7f3bcf64dad43e77",
+    "@id": "https://www.venuepilot.co/genid/788851a9ec352f19",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5672,6 +6135,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d8ddcfba412394d88809f65feee6223a32e50e4a9e352eba3789a9b18a187665.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5701,7 +6174,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/eeda9e092caff617",
+    "@id": "https://www.venuepilot.co/genid/2d77184e45b7f239",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5754,6 +6227,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b3b76a439567c2be1e733598f845331534c4ffcbcd8816606fe70ac8e3bd8e20.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5783,7 +6266,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/c5597fd03a0e6f41",
+    "@id": "https://www.venuepilot.co/genid/3e5f2f875d96c63e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5836,6 +6319,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_6c37c628c035a3662e49d1e6d3fed6ba0d2ce5f5b10520d0c164b0eb91019e3b.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5865,7 +6358,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/dd79675ec2e62931",
+    "@id": "https://www.venuepilot.co/genid/a9c7d5e34bc16ed9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5919,6 +6412,16 @@
       {
         "@id": "http://schema.org/EventScheduled"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_6960863f436e000c80ddb7ac24c18a44310d90d64754507fb25677cd98f50adb.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -5948,7 +6451,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/6b777f4bbab1cb6b",
+    "@id": "https://www.venuepilot.co/genid/a06a3e153f153bf6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6001,6 +6504,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e533956b0ed4cdfef0b71cb5adc79cf2a70cb33d502af8fee82f0b85ef12e5c6.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6026,6 +6539,72 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/c622d41fa8965848",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-04T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-05T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/191939/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Antenna93 / Fresh Wax / No Muzzle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/antenna93-fresh-wax-no-muzzle-2026-12-04-p-tit-ours-montreal-65fb6e"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "04:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-ptit-ours"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_2e14962c11d2a50da2aea027aedd3d2e87344a27ceb934169472f5a8859e79b4.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -6056,7 +6635,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/a571d201d4ef6544",
+    "@id": "https://www.venuepilot.co/genid/a609cb1bbb225b12",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6109,6 +6688,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b661e7f8a8bb1fa74325b7c4c36152d81153c6764d3147b80d809d0eb8cd3281.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6138,7 +6727,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/45f03213f7f4e54b",
+    "@id": "https://www.venuepilot.co/genid/c0863a0d86083c41",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6191,6 +6780,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4afc27d170614bf08b52134747c1721dfe7684fd35dc241e73c72a9234aef034.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6220,7 +6819,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/e3ab067d94b95dc0",
+    "@id": "https://www.venuepilot.co/genid/0620d415424f7980",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6273,6 +6872,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b03cbe1aed2e4fe7ff2ce5fe9c9bf6d1ed94e9e42b05a540d1e141205c6b6942.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6302,7 +6911,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4ae965b17818cff0",
+    "@id": "https://www.venuepilot.co/genid/d5737a4ffec0d576",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6355,6 +6964,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cb8aaa5b68c7e1e006a22ede9c5206e8a70f3a9a03e2bc3387ca810c5aa4da15.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6384,7 +7003,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/6ee7f6eb9c612426",
+    "@id": "https://www.venuepilot.co/genid/376a3dd43e99271b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6437,6 +7056,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_52b70807e6925fe03f0b83b05a99a84f18ce8c98e8eb8b0a047d5bc6929e7b7b.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6462,6 +7091,72 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.venuepilot.co/genid/adc9c86c097ebb46",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-06T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-07T00:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.venuepilot.co/en/events/190615/orders/new"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pascale Pascale/Hank's Dream/Ahren Strange @ Sotterenea Dec 6th"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Achetez vos billets ou consultez les détails de l'événement ici : https://tickets.venuepilot.com/e/pascale-pascale-hank-s-dream-ahren-strange-sotterenea-dec-6th-2026-12-06-la-sotterenea-montreal-5d72ac"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "05:30"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://casadelpopolo.com/#place-la-sotterenea"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4a72305aeace175e49e25e2a64df4fdf326ca6e2d2e952ec81fef0c6880435b0.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   },
@@ -6492,7 +7187,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/c196db1820760f0e",
+    "@id": "https://www.venuepilot.co/genid/f6749962979d3cb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6545,6 +7240,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_77c4ef290c5ff320c3913eec497c4ad8f953f05608607da9f536745886a6cd94.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6574,7 +7279,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/26538a054a201a84",
+    "@id": "https://www.venuepilot.co/genid/2f915686a9026edb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6627,6 +7332,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_49dc964cfe16fae855745f609bf7b64f46c7b75efeeefb9933ddbe5107623642.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6656,7 +7371,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/254ec562b29801c9",
+    "@id": "https://www.venuepilot.co/genid/c30d8f7068649672",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6709,6 +7424,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_9bb34cf5f68a203d88f400ab634f86148258192e383a3c642f294335354de103.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6738,7 +7463,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/336ebf7315b59883",
+    "@id": "https://www.venuepilot.co/genid/ccdf337b78cfcdba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6791,6 +7516,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d8ea9807fcc9f3b618da32b0b1f6e5a9a3a65c0b942c9212ed817be97d7edda8.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6820,7 +7555,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/d9bc91469ab26a9f",
+    "@id": "https://www.venuepilot.co/genid/8b0f67ae13637805",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6873,6 +7608,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4a72305aeace175e49e25e2a64df4fdf326ca6e2d2e952ec81fef0c6880435b0.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6902,7 +7647,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/e09bc83daff17a2a",
+    "@id": "https://www.venuepilot.co/genid/11f95f9102db18e7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6955,6 +7700,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cb6f3bcd1cad7ea664e45b3ed34b649d128c361bc22323e02e816c6e4ee204ac.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -6984,7 +7739,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/bd6941dd547c310d",
+    "@id": "https://www.venuepilot.co/genid/2dd4bff0ad5eabae",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7037,6 +7792,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_838f5319030e11f32c15039f7912b15c8359978b17f3cff50562340a79f0d758.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7066,7 +7831,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/02fe3f0d6e44e334",
+    "@id": "https://www.venuepilot.co/genid/2e017e57abba3e04",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7119,6 +7884,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_960c50f4ecb8ffefc5c7c9471ceec542db4d743b3a0bd5d0dc23a78712c94b54.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7148,7 +7923,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4181c20a2d22f099",
+    "@id": "https://www.venuepilot.co/genid/021ae8661f4c4e22",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7201,6 +7976,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_e445ff52bee4bff690a10595f89923ad3c4314d2862604277a174b265f763bd3.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7230,7 +8015,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/60bc24c2ec30c271",
+    "@id": "https://www.venuepilot.co/genid/002e669cabc04ed0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7283,6 +8068,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_aaf3730bda81315bb51bbe8c38f12284e8bedb712d7f79c292da8d23663e3dd5.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7312,7 +8107,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/97abfb6a5862a187",
+    "@id": "https://www.venuepilot.co/genid/4669910360b5d076",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7365,6 +8160,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c837140ebaef148b0a80ae9afc4c6638944cb9d181e59b91e582b7c451cf18c2.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7394,7 +8199,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/fa3900b5c894bde2",
+    "@id": "https://www.venuepilot.co/genid/3e93a7bf03f48caf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7447,6 +8252,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_4ee6d446ec7eb10419d6024a102426fd44a83a2211449a578aea98cab060f2d9.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7476,7 +8291,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/793bb876a19a7aa9",
+    "@id": "https://www.venuepilot.co/genid/c114292c6b04e625",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7529,6 +8344,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c6f3bdc08469f5f154b3e57c008f2767b9670f275e0ef8043b076439e263ad41.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7558,7 +8383,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/8f8bcdeec66b03f1",
+    "@id": "https://www.venuepilot.co/genid/ca218be38fa8c93a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7611,6 +8436,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7640,7 +8475,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/bb091ef2932439b7",
+    "@id": "https://www.venuepilot.co/genid/d455fae75888bec2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7693,6 +8528,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_41e2244ef9560658a07354928ff45fa81b9be76ecd84baab1f3e27309df5e715.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7722,7 +8567,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/26b4f5cfa5763d03",
+    "@id": "https://www.venuepilot.co/genid/effd1d965e8088ca",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7775,6 +8620,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_aaf3730bda81315bb51bbe8c38f12284e8bedb712d7f79c292da8d23663e3dd5.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7804,7 +8659,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4983f3dcd9d4f66a",
+    "@id": "https://www.venuepilot.co/genid/33faa754e3cef732",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7857,6 +8712,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a78fa90db96ff031eab7cb8895b422f9fb545547d3506653e4cbb3844f15c98c.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7886,7 +8751,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/cd93818d44754243",
+    "@id": "https://www.venuepilot.co/genid/38c062d7b0776eeb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7939,6 +8804,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_fa533bfaba38012703ac0e142dafd7b4c36d48ecdbfe6789e36561bc242cf977.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -7968,7 +8843,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1cc2bdeb286657be",
+    "@id": "https://www.venuepilot.co/genid/aa8a3248e7ea3e19",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8021,6 +8896,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_12311baa12c0985300cc70091b949eedeba85f101a00190ebaf3ce5e1886572b.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8050,7 +8935,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/34a6e02d134e0a0b",
+    "@id": "https://www.venuepilot.co/genid/d43c58c1b97636f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8103,6 +8988,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c59f13de529dc81094d97fd0ea0e3345c33367ade67863bb720755d5db375b57.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8132,7 +9027,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/5dda55397907210a",
+    "@id": "https://www.venuepilot.co/genid/339d56d7f41004e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8185,6 +9080,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_a6683727e1495324d56996989a57be9b7faf8005bd7983e2da5a67410c48f4ba.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8214,7 +9119,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4c35e216906e8e3f",
+    "@id": "https://www.venuepilot.co/genid/b4be9e6dd3685097",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8267,6 +9172,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_cf6928285751014214e3103398f6ead3205f1723cf7ad59be7b2938542cea3bf.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8296,7 +9211,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ae1d4490dc4ced60",
+    "@id": "https://www.venuepilot.co/genid/00bfd9d464baa531",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8349,6 +9264,37 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c57f2647a3ef6c08395574abe41c6c85d708e79980be359fdfbaf249173fe030.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ]
+  },
+  {
+    "@id": "https://tickets.venuepilot.com/e/ashley-macisaac-matthew-large-mattlargepresents-gmail-com-2026-12-18-la-toscadura-montreal-022568#Event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/ashley-macisaac-matthew-large-mattlargepresents-gmail-com-2026-12-18-la-toscadura-montreal-022568"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.venuepilot.com/e/ashley-macisaac-matthew-large-mattlargepresents-gmail-com-2026-12-18-la-toscadura-montreal-022568"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8378,7 +9324,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/c37fc07bad331cda",
+    "@id": "https://www.venuepilot.co/genid/c3b0db05ae2745ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8431,6 +9377,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8460,7 +9416,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/ea04fe16e9c3c455",
+    "@id": "https://www.venuepilot.co/genid/d3a520673690dc13",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8513,6 +9469,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_fc930cfabd6f95051e5b7365f943836b03d03aba07db72f87d57054dbec167cf.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8542,7 +9508,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1f9a7ddf306c8b96",
+    "@id": "https://www.venuepilot.co/genid/a6ef27d0ccd6d842",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8595,6 +9561,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_be0f08bb33e1ee74696c703badb87f42d6ed918449a54954346ea2a3b148e59b.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8624,7 +9600,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/5ec6f9d35dc1b7c1",
+    "@id": "https://www.venuepilot.co/genid/af6a93d7893e32c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8677,6 +9653,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_9f5e052f85bbbd5d93d6360fb0a657e2d3074e03b474f05e5ac18c96521c8196.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8706,7 +9692,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/8c4013cccba1b7fc",
+    "@id": "https://www.venuepilot.co/genid/d043a00d7e79e313",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8759,6 +9745,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_9b55b6b288fddc4050dbe62dfb3efbeb46c45407b558eaa26eadb9dc2408a428.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8788,7 +9784,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/316dfd9b16186520",
+    "@id": "https://www.venuepilot.co/genid/d0d9408bffade76a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8841,6 +9837,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d0ea7d197dc28969d2fa7548b0cb46155d4283339ff284bf61c9ef71396142cb.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8870,7 +9876,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/713d00b6ada6071a",
+    "@id": "https://www.venuepilot.co/genid/60ec447b03240012",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8923,6 +9929,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_d40ae4f60c924d49526e946217c82df321c56654c392e5d221eca6d5cfd80b25.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -8952,7 +9968,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/8c15f67574778739",
+    "@id": "https://www.venuepilot.co/genid/eeb01441e280b609",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9005,6 +10021,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9034,7 +10060,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/5b371af1164a1495",
+    "@id": "https://www.venuepilot.co/genid/f65150453f56763d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9087,6 +10113,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b8cca142846dab0175066c316a08c645713b46fa4061d4599bd6c44602cf9539.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9116,7 +10152,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/de6cd76386284d24",
+    "@id": "https://www.venuepilot.co/genid/cf4b2c26157dfd4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9169,6 +10205,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c3867de9cdea3f3990d5b0e4b24b5a77f772daced9d8b33db0b8afb1c45ddd90.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9198,7 +10244,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4d82900b6a9071c5",
+    "@id": "https://www.venuepilot.co/genid/8cdd9541534ec753",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9251,6 +10297,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_72c0eb3862ca390cfaec4b930465ee8bab9a888f395bc6b9f6b7c390158ec582.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9280,7 +10336,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/90d7038d192abd0d",
+    "@id": "https://www.venuepilot.co/genid/9be1723b3af4f4f4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9333,6 +10389,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_c66ecfcb1901cadcee2c94afb8c8c5dfd27be3f27317b777fea09fd34d86ccab.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9362,7 +10428,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/4c3679c803455e91",
+    "@id": "https://www.venuepilot.co/genid/7623b42c1efa5a61",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9415,6 +10481,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-ptit-ours"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_10384124709e6af94cdb175c6499459f0026536b81e43ddda3744afa5bba5623.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9444,7 +10520,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/18091caf9522e74c",
+    "@id": "https://www.venuepilot.co/genid/f2198e693368dc91",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9497,6 +10573,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_290277ce232791aeff5ffa4d84b2e55a0b56f826f67bfb1d696f8c239ba8885d.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9526,7 +10612,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/1bf3b515b3fab95c",
+    "@id": "https://www.venuepilot.co/genid/0d4667e6ce16d0d9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9579,6 +10665,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_7451c723552046d9d48114bcf3bf7053e988391e173800cf0d81d1e9feb78c68.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9608,7 +10704,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/e1a229b29eaa438a",
+    "@id": "https://www.venuepilot.co/genid/bfa25ea9058b1ba9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9661,6 +10757,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_2a5ad4919ff425a3a2c3ba14358a4e37792f6a0fa5bb8ae29b78adf6242a028f.png"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9690,7 +10796,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/c9acab44766e3ec8",
+    "@id": "https://www.venuepilot.co/genid/0336c5d04c31a07a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9743,6 +10849,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-toscadura"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_7c581323405ddd5a310cfa3545e58a865d4d62dd1b8e330d9e64e4690fbfe128.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9772,7 +10888,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/29c7da1208fdcd8c",
+    "@id": "https://www.venuepilot.co/genid/4ab0b435c7bae66c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9825,6 +10941,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_79b5274537269624d07e56805cf88588b1d3dcf6bf204a24fb42a6488e9dcf95.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9854,7 +10980,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/e41bb74687b59d71",
+    "@id": "https://www.venuepilot.co/genid/691ea18f1c7c4d99",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9907,6 +11033,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_084b5bb2a5b60163274dcc9e0359223e83fe4f56e07fe96ce0e131e50a3ba2e7.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -9936,7 +11072,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/94634c8e97fd81f5",
+    "@id": "https://www.venuepilot.co/genid/a71b1a1a799b1c18",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9989,6 +11125,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-casa-del-popolo"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_b291b0841bb422d54555c45392ad7545ff3c83c510e6a5bf21cfa9f52bfc6182.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -10018,7 +11164,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/da762bc8204ef542",
+    "@id": "https://www.venuepilot.co/genid/652d380fa772a41f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10071,6 +11217,16 @@
       {
         "@id": "https://casadelpopolo.com/#place-la-sotterenea"
       }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_08f53f5a463576556b6ae5683424a69082e9bc60abdefe0113855c007707c4cd.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
     ]
   },
   {
@@ -10100,7 +11256,7 @@
     ]
   },
   {
-    "@id": "https://www.venuepilot.co/genid/f7127a259357db81",
+    "@id": "https://www.venuepilot.co/genid/c1d0f85d1e23f564",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10152,6 +11308,16 @@
     "http://schema.org/location": [
       {
         "@id": "https://casadelpopolo.com/#place-la-sala-rossa"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_small_6aea9b0cadd28f9d769005c2771aebf28ed2b471e46bb1ea2222ba16893cd97b.jpg"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
       }
     ]
   }
