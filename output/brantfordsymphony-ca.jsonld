@@ -1134,11 +1134,11 @@
     "article:modified_time": [
       {
         "@language": "en-ca",
-        "@value": "2026-09-28T12:28:13+00:00"
+        "@value": "2026-11-17T13:13:32+00:00"
       },
       {
         "@language": "en-ca",
-        "@value": "2026-09-28T12:28:13-05:00"
+        "@value": "2026-11-17T13:13:32-05:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1202,7 +1202,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-28T12:28:13+00:00"
+        "@value": "2026-11-17T13:13:32+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -1272,6 +1272,211 @@
       {
         "@language": "en",
         "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/genid/bd6aecf7e82135ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/03/Francois-Koh.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/21d8b073b114a6ad"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/da33e063b0b30618"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "“Golden Chocolate Symphony” with guest conductor Francois Koh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "en_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "“Golden Chocolate Symphony” with guest conductor François Koh - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-11-17T13:10:32+00:00"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "2026-11-17T13:10:32-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/03/Francois-Koh.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://brantfordsymphony.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/03/Francois-Koh.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-23T12:55:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-17T13:10:32+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://brantfordsymphony.ca/genid/948d991310a6d658"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join the BSO for “Golden Chocolate Symphony” with guest conductor François Koh.\n\nClick here to order tickets \n\nMore details of this concert to follow. To stay up to date please click here to subscribe to our newsletter and follow us on Facebook.\nConductor Bio: Dr. François Koh\nDr. François Koh is an"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://brantfordsymphony.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "“Golden Chocolate Symphony” with guest conductor François Koh - Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
       }
     ]
   },
@@ -6347,145 +6552,6 @@
       {
         "@language": "en",
         "@value": "“When All Other Lights Go Out: Beethoven & Shore” with guest conductor Shawn Bennett - Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      },
-      {
-        "@language": "en-ca",
-        "@value": "en_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "“Golden Chocolate Symphony” with guest conductor Francois Koh - Brantford Symphony Orchestra"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-10-26T11:49:30+00:00"
-      },
-      {
-        "@language": "en-ca",
-        "@value": "2026-10-26T11:49:30-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://brantfordsymphony.ca/wp-content/uploads/2026/03/Francois-Koh.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1200"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "800"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://brantfordsymphony.ca/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://brantfordsymphony.ca/event/golden-chocolate-symphony-with-guest-conductor-francois-koh/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://brantfordsymphony.ca/wp-content/uploads/2026/03/Francois-Koh.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-23T12:55:56+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-26T11:49:30+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://brantfordsymphony.ca/genid/948d991310a6d658"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Join the BSO for “Golden Chocolate Symphony” with guest conductor Francois Koh.\n\nClick here to order tickets \n\nMore details of this concert to follow. To stay up to date please click here to subscribe to our newsletter and follow us on Facebook.\nConductor Bio: Dr. François Koh\nDr. François Koh is an"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://brantfordsymphony.ca/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "“Golden Chocolate Symphony” with guest conductor Francois Koh - Brantford Symphony Orchestra"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -17479,7 +17545,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "“Golden Chocolate Symphony” with guest conductor Francois Koh"
+        "@value": "“Golden Chocolate Symphony” with guest conductor François Koh"
       }
     ],
     "http://schema.org/description": [
