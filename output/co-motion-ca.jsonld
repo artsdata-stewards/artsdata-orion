@@ -315,1523 +315,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3bbec519a06e642c",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/5441a7f7c4142a3f"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-12T19:30:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/de8c37c966b11981"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/1c4a15fb09620dfc"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p><strong>François Bellefeuille </strong>est de retour sur scène avec son troisième spectacle : Sauvage. Hilarant, incisif et imprévisible, il livre une performance de stand-up à la fois intelligente et éclatée, repoussant les limites de son style inimitable. L’humoriste, dont la maîtrise du ridicule est à son apogée, porte un regard tout aussi mordant sur le monde, et vous entraîne dans un univers où la réalité côtoie l’absurde. Préparez-vous à avoir mal aux abdos; François Bellefeuille est au sommet de son art! Jusqu’au prochain spectacle… on l’espère!</p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sauvage"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Humour"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Hilarant, incisif et imprévisible, il livre une performance de stand-up à la fois intelligente et éclatée, repoussant les limites de son style inimitable."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Spectacles/_1200x630_crop_center-center_82_none/FBellefeuille_Sauvage_sanstexte_756x1100.png?mtime=1744202492"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/5441a7f7c4142a3f",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Spectacles/_1920x9999_fit_center-center_99_none/FBellefeuille_Sauvage_sanstexte_756x1100.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "756"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1100"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://co-motion.ca/genid/e6290db947630c0c"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle André-Mathieu"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/de8c37c966b11981",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15387?eventdateid=61151"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "53"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-09T04:01:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/1c4a15fb09620dfc",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "François Bellefeuille"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e6290db947630c0c",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "475, boulevard de l'Avenir"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Laval"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/ad3a002a6dffd30c",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/5441a7f7c4142a3f"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-10T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/e26fdfa8d6b39a69"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/1c4a15fb09620dfc"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p><strong>François Bellefeuille </strong>est de retour sur scène avec son troisième spectacle : Sauvage. Hilarant, incisif et imprévisible, il livre une performance de stand-up à la fois intelligente et éclatée, repoussant les limites de son style inimitable. L’humoriste, dont la maîtrise du ridicule est à son apogée, porte un regard tout aussi mordant sur le monde, et vous entraîne dans un univers où la réalité côtoie l’absurde. Préparez-vous à avoir mal aux abdos; François Bellefeuille est au sommet de son art! Jusqu’au prochain spectacle… on l’espère!</p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sauvage"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Humour"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e26fdfa8d6b39a69",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15930?eventdateid=62036"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "53"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-09T04:01:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/9fd5bc54c0f69a84",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/the-watching-machine/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/8f0d32ed1212796d"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/the-watching-machine/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-13T19:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/17b0bf9e8c2a07c8"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Jeune public"
-      },
-      {
-        "@language": "fr",
-        "@value": "Théâtre"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/83e2f64664c3b881"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/e19270e9b177e462"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/the-watching-machine/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p>Ce spectacle de théâtre d’images est une production de la compagnie espagnole Macarena Recuerda Shepherd. </p>\n\n<p>Plongez dans un théâtre futuriste avec une performeuse illusionniste des temps modernes. Ici, tout l’espace sert de terrain de jeu Macarena Recuerda créé sous nos yeux émerveillés des illusions d’optique avec la lumière, des effets d’apparition, des jeux d’ombres et de reflets avec une simplicité fascinante. On prend plaisir à se laisser surprendre par ces effets magiques qui séduiront tous les publics. </p>\n\n<p>Ce spectacle est présenté en collaboration avec le festival LA MÈCHE COURTE.</p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "The Watching Machine"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/the-watching-machine/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Ici, tout l’espace sert de terrain de jeu Macarena Recuerda créé sous nos yeux émerveillés des illusions d’optique avec la lumière, des effets…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Spectacles/_1200x630_crop_center-center_82_none/Watching-Machine-7.jpg?mtime=1786715093"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/8f0d32ed1212796d",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Spectacles/_1920x9999_fit_center-center_99_none/Watching-Machine-7.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2400"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/17b0bf9e8c2a07c8",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://co-motion.ca/genid/eee394f48c5409b3"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Théâtre des Muses"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/83e2f64664c3b881",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15516?eventdateid=61307"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "20"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-12T04:01:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e19270e9b177e462",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "The Watching Machine"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/eee394f48c5409b3",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1395, boulevard de la Concorde Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Laval"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/0101a1de23a861b9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/la-revue-finale-des-ballets-jazz-de-montreal/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/cd945f6d72d3fa15"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/la-revue-finale-des-ballets-jazz-de-montreal/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-14T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/c8cb463081ce46a0"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/ec00c0818b125a83"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/la-revue-finale-des-ballets-jazz-de-montreal/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p><sup>Durée : 65 minutes</sup></p>\n<p>Quand la vie vacille, il reste la beauté rugissante du mouvement.</p>\n<p>Ballets Jazz Montréal revient avec une création signée Jo Strømgren, maître des contrastes et des déchirures tendres. Dans cette fresque éclatée, 13 interprètes traversent l’ombre de la fin de vie pour célébrer la lumière des rencontres qui nous façonnent. Sur scène, une communauté se tisse, se défait, se retrouve. Sous le regard d’un fantôme sensible, les gestes deviennent des souvenirs en suspens, des élans qui racontent l’amour, l’amitié, la perte, et ces silences qui disent tout. Dans la voix comme dans les corps, tout vacille, tout vibre : la fête embrasse la mélancolie, la nostalgie flirte avec l’urgence de vivre, les au revoir sont tonitruants de renouveau. Les tableaux s’enchaînent dans des musiques imbibées de symboles, comme autant de battements de cœur : intimes, fougueux, vertigineux. <em>La revue finale</em> est une mer de lumière, un hommage cathartique à ce qui survit à l’oubli. Une traversée troublante et viscérale, où la danse devient un refuge, un rituel, une résistance, une joie finale sans compromis. </p>\n<p>Spectacle présenté avec la collaboration de La danse sur les routes du Québec,<br />et en codiffusion avec Co-Motion.</p>\n<p><strong><em>Pour vous! Une rencontre en bord de scène avec les artistes suivra la représentation.</em></strong></p>\n<p><sub><a href=\"https://www.bjmdanse.ca\" target=\"_blank\" rel=\"noreferrer noopener\">Site Web de la compagnie<br /></a><a href=\"http://facebook.com/BALLETSJAZZMONTREAL/\" target=\"_blank\" rel=\"noreferrer noopener\">facebook</a></sub><br /></p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "La revue finale"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Danse"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/la-revue-finale-des-ballets-jazz-de-montreal/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "La revue finale est une mer de lumière, un hommage cathartique à ce qui survit à l’oubli. Une traversée troublante et viscérale, où la danse devient un…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Spectacles/_1200x630_crop_center-center_82_none/BJM_-revue-finale-06.jpg?mtime=1786642405"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/cd945f6d72d3fa15",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Spectacles/_1920x9999_fit_center-center_99_none/BJM_-revue-finale-06.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "3000"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "4498"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/c8cb463081ce46a0",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15481?eventdateid=61267"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "55"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-30T04:01:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/ec00c0818b125a83",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Ballets Jazz Montréal"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/c729255612a0b7ef",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/vahe-berberian/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/5094a392c58c28ab"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/vahe-berberian/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-14T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/e2efc99920ec0691"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/b3b501a97cddb827"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/feeb543167c3eb44"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/vahe-berberian/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p>Vahé Berberian: Un artiste, acteur, peintre et monologuiste, comédien de renommée nationale. Une performance ''One man show'' de plus d’une heure et demie, remplie de joie et de rires. Vahé Berberian est un communicateur exemplaire, très convoité et populaire. Ses nombreuses prestations bénéficient d’une popularité en constante progression. Les communautés arméniennes à travers le monde dévorent ses performances comiques. Sa prestation sera présentée une seule fois et en arménien.<sup><br /></sup></p>\n<p><sup>Spectacle présenté en contenu original arménien</sup></p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "PAYTS (3 dari hédo)"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Variétés"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/vahe-berberian/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Vahé Berberian: Un artiste, acteur, peintre et monologuiste, comédien de renommée nationale."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Locations-TMC/_1200x630_crop_center-center_82_none/Nouv-siteweb_poster_Spectacle-756-x-1100-px-39.jpg?mtime=1790175345"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/5094a392c58c28ab",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Locations-TMC/_1920x9999_fit_center-center_99_none/Nouv-siteweb_poster_Spectacle-756-x-1100-px-39.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "756"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1100"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e2efc99920ec0691",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://co-motion.ca/genid/887ba05a2dd844d5"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Théâtre Marcellin-Champagnat"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/b3b501a97cddb827",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15867?eventdateid=61937"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "55"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-23T04:02:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/feeb543167c3eb44",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "VAHÉ BERBERIAN"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/887ba05a2dd844d5",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1275, avenue du Collège"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Laval"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/9fcf6efa9bff3bef",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/95f9071e8f48d2f4"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-15T09:30:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/d807056899cadf66"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Jeune public"
-      },
-      {
-        "@language": "fr",
-        "@value": "Marionnettes"
-      },
-      {
-        "@language": "fr",
-        "@value": "Théâtre"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/f244ea87e5602232"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/e094ea9e0537043b"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p><sup>Motus, marionnettes et théâtre<br />Durée : 35 minutes</sup></p>\n<p>Installez-vous confortablement dans votre nid douillet avec la maman oiseau qui couve ses œufs lumineux. Le monde magique de l’arbre s’ouvrira à vous avec ses insectes et ses animaux accompagnés de musiques douces ou rythmées. La lune se lèvera pour vous bercer avec ses étoiles et sa voie lactée pour vous donner la force de prendre votre envol comme un oisillon de lumière.<br /></p>\n<p><em>ARBRE</em> permet d’entrer dans un univers multisensoriel, pleinement interactif, enveloppé de lumière douce, de musique et aussi de silence, où cinq personnages interagissent avec les tout-petits.​</p>\n<p>Ce projet est possible grâce au soutien financier du gouvernement du Québec et de la Ville de Laval dans le cadre de l’Entente de développement culturel.</p>\n\n\n<p><a href=\"http://www.laval.ca/diffusart\" target=\"_blank\" class=\"button btn-primary\" rel=\"noreferrer noopener\">Diffusart</a></p>\n<p><sub>Suivre la production<br /><a href=\"http://theatremotus.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Site web</a><br /><a href=\"http://facebook.com/THEATREMOTUS/\" target=\"_blank\" rel=\"noreferrer noopener\">Facebook</a><br /><a href=\"https://www.instagram.com/theatremotus/\" target=\"_blank\" rel=\"noreferrer noopener\">Instagram</a></sub><sup><br /></sup></p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Arbre"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/arbre/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Motus, marionnettes et théâtre Durée : 35 minutes Installez-vous confortablement dans votre nid douillet avec la maman oiseau qui couve ses œufs lumineux."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/MDA/Jeune-Public-2026/_1200x630_crop_center-center_82_none/Arbre.jpg?mtime=1778009439"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/95f9071e8f48d2f4",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/MDA/Jeune-Public-2026/_1920x9999_fit_center-center_99_none/Arbre.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "756"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1100"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/d807056899cadf66",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://co-motion.ca/genid/bbb95822a9b825cd"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Espace citoyen des Confluents"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/f244ea87e5602232",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15517?eventdateid=61308"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "12"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-29T04:02:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/SoldOut"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e094ea9e0537043b",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Arbre"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/bbb95822a9b825cd",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1000, rue Marie-Uguay"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Laval"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/f3c4e3db3ea5f8af",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/95f9071e8f48d2f4"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-15T11:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/d807056899cadf66"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Jeune public"
-      },
-      {
-        "@language": "fr",
-        "@value": "Marionnettes"
-      },
-      {
-        "@language": "fr",
-        "@value": "Théâtre"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/a9aee10c8352facd"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/e094ea9e0537043b"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/arbre/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p><sup>Motus, marionnettes et théâtre<br />Durée : 35 minutes</sup></p>\n<p>Installez-vous confortablement dans votre nid douillet avec la maman oiseau qui couve ses œufs lumineux. Le monde magique de l’arbre s’ouvrira à vous avec ses insectes et ses animaux accompagnés de musiques douces ou rythmées. La lune se lèvera pour vous bercer avec ses étoiles et sa voie lactée pour vous donner la force de prendre votre envol comme un oisillon de lumière.<br /></p>\n<p><em>ARBRE</em> permet d’entrer dans un univers multisensoriel, pleinement interactif, enveloppé de lumière douce, de musique et aussi de silence, où cinq personnages interagissent avec les tout-petits.​</p>\n<p>Ce projet est possible grâce au soutien financier du gouvernement du Québec et de la Ville de Laval dans le cadre de l’Entente de développement culturel.</p>\n\n\n<p><a href=\"http://www.laval.ca/diffusart\" target=\"_blank\" class=\"button btn-primary\" rel=\"noreferrer noopener\">Diffusart</a></p>\n<p><sub>Suivre la production<br /><a href=\"http://theatremotus.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Site web</a><br /><a href=\"http://facebook.com/THEATREMOTUS/\" target=\"_blank\" rel=\"noreferrer noopener\">Facebook</a><br /><a href=\"https://www.instagram.com/theatremotus/\" target=\"_blank\" rel=\"noreferrer noopener\">Instagram</a></sub><sup><br /></sup></p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Arbre"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/a9aee10c8352facd",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15517?eventdateid=61309"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "12"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-29T04:02:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/SoldOut"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/e165b06600ea1ebb",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/les-grands-explorateurs-colombie/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/47c1c33a40feeebd"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/les-grands-explorateurs-colombie/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-15T13:30:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/48fcee0f1b571c9a"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/fc8067ca8c627aca"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/les-grands-explorateurs-colombie/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p>Rencontre avec <strong>Julie Corbeil </strong></p>\n<p>Longtemps associée à l’instabilité sociale et politique, la Colombie porte encore les cicatrices d’un passé tourmenté. Pourtant, derrière cette réputation ternie, un autre pays s’affirme. Un pays qui se relève et qui souhaite se raconter autrement. </p>\n<p>Inspirée par de riches échanges avec des membres de la communauté colombienne du Québec, la réalisatrice Julie Corbeil dirige sa caméra vers le pays qui les a vus naître. Que se passe-t-il aujourd’hui en Colombie? Comment une nation marquée par des décennies de violence redéfinit-elle son identité et son rapport au monde? </p>\n<p>De Bogotá à la région du café, en passant par les Andes et les quartiers créatifs de Medellín, partez à la rencontre d’artistes, d’entrepreneurs, de cultivateurs de café et de cacao, de jeunes engagés et de citoyens qui ont choisi de participer au changement. Certains ont traversé les années les plus sombres. D’autres incarnent une génération qui transforme le récit collectif. </p>\n<p>À travers ces voix multiples se dessine une Colombie vibrante, colorée, festive et fière de son héritage culturel. Ce pays magnifique mise sur son patrimoine naturel exceptionnel, sur la richesse de ses ressources et sur la force de sa créativité pour se redéfinir. </p>\n<p>Ce film est une invitation à dépasser les clichés et à redonner ses lettres de noblesse à une nation en mouvement. Un voyage lumineux qui célèbre l’identité et l’énergie d’un peuple résilient. </p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Colombie, tout en couleur"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Documentaire"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/les-grands-explorateurs-colombie/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Rencontre avec Julie Corbeil Longtemps associée à l’instabilité sociale et politique, la Colombie porte encore les cicatrices d’un passé tourmenté.…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Les-Grands-Explorateurs/2027-2027/_1200x630_crop_center-center_82_none/LGE_2627_Colombie_756x1100.jpg?mtime=1779371120"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/47c1c33a40feeebd",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Les-Grands-Explorateurs/2027-2027/_1920x9999_fit_center-center_99_none/LGE_2627_Colombie_756x1100.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "756"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1100"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/48fcee0f1b571c9a",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15645?eventdateid=61461"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#double",
-        "@value": "3.75E1"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-21T04:02:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/fc8067ca8c627aca",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Grands Explorateurs"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/9f1aa7b636527377",
+    "@id": "https://co-motion.ca/genid/59c97115720541bb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1967,6 +451,23 @@
     ]
   },
   {
+    "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://co-motion.ca/genid/e6290db947630c0c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle André-Mathieu"
+      }
+    ]
+  },
+  {
     "@id": "https://co-motion.ca/genid/f4af2137b71125c2",
     "@type": [
       "http://schema.org/Offer"
@@ -2013,7 +514,31 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/0b7d47caa9c22c08",
+    "@id": "https://co-motion.ca/genid/e6290db947630c0c",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "475, boulevard de l'Avenir"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/c6c2aa2ab0480c9a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2045,7 +570,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://co-motion.ca/genid/1d9b1ac86d6dcc72"
+        "@id": "https://co-motion.ca/genid/47f506d47b6a6923"
       }
     ],
     "http://schema.org/performer": [
@@ -2149,7 +674,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1d9b1ac86d6dcc72",
+    "@id": "https://co-motion.ca/genid/47f506d47b6a6923",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2178,7 +703,7 @@
     ],
     "http://schema.org/availability": [
       {
-        "@id": "http://schema.org/InStock"
+        "@id": "http://schema.org/SoldOut"
       }
     ]
   },
@@ -2195,7 +720,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/575c5a9266cf7110",
+    "@id": "https://co-motion.ca/genid/8bc9791010aff42d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2315,7 +840,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9a2327d39043fa5f",
+    "@id": "https://co-motion.ca/genid/5f3c30ed71db8efb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2451,6 +976,23 @@
     ]
   },
   {
+    "@id": "https://co-motion.ca/genid/17b0bf9e8c2a07c8",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://co-motion.ca/genid/eee394f48c5409b3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Théâtre des Muses"
+      }
+    ]
+  },
+  {
     "@id": "https://co-motion.ca/genid/e153db6c1c87e3eb",
     "@type": [
       "http://schema.org/Offer"
@@ -2497,7 +1039,31 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e92c6c6ffd42b1d4",
+    "@id": "https://co-motion.ca/genid/eee394f48c5409b3",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1395, boulevard de la Concorde Ouest"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/46cb2c049c8ab5ca",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2633,6 +1199,23 @@
     ]
   },
   {
+    "@id": "https://co-motion.ca/genid/e2efc99920ec0691",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://co-motion.ca/genid/887ba05a2dd844d5"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Théâtre Marcellin-Champagnat"
+      }
+    ]
+  },
+  {
     "@id": "https://co-motion.ca/genid/8cdb91bcd591c4d5",
     "@type": [
       "http://schema.org/Offer"
@@ -2679,7 +1262,31 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/59c0f1da7d8797ce",
+    "@id": "https://co-motion.ca/genid/887ba05a2dd844d5",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1275, avenue du Collège"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/433f9720c2c99ada",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2861,7 +1468,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7220c5a21eb98332",
+    "@id": "https://co-motion.ca/genid/305ebec27f02ed0f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2981,7 +1588,189 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/68d6cea77682e21f",
+    "@id": "https://co-motion.ca/genid/bedfd6c167b702b5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://co-motion.ca/spectacles/show-sisters/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://co-motion.ca/genid/5c99ad4c05a8cbf0"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/spectacles/show-sisters/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-21T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://co-motion.ca/genid/e2efc99920ec0691"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://co-motion.ca/genid/9f924c46b3092833"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://co-motion.ca/genid/c8b70fbd0bd885a8"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://co-motion.ca/#identity"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://co-motion.ca/spectacles/show-sisters/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<table><tbody><tr><td colspan=\"2\" width=\"490\" height=\"188\"><p><strong>Show Sisters — Quand l'art devient mouvement</strong><br /><br />Imaginez une soirée où la photographie, la poésie et la musique s'unissent pour raconter ce que trop de femmes taisent encore. Show Sisters n'est pas qu'un spectacle : c'est une expérience immersive où danse, image et voix se rencontrent pour célébrer la force, la résilience et la beauté du féminin sous toutes ses formes.<br /><br />Imaginé et produit par Sophie Chainel, accompagnée des artistes Marie-Lyne Baker aka Oséo Lumière et Anne Julien, ce spectacle donne vie à une dizaine d'œuvres visuelles inédites, portées par des chansons originales et des haïkus qui traversent les thèmes de l'origine, du corps, de la maternité, de la résilience et de la liberté. Une œuvre tissée à trois mains, trois cœurs, trois voix, née d'un désir profond de transformer les blessures en beauté.<br /><br />Ce que le public en dit :<br /><br />« Wow… Sophie, je suis sans mots. Je suis encore toute en émotions après avoir assisté à ce spectacle. J'ai les larmes aux yeux devant tant de beauté et de force venant de belles femmes. » — Annick Leblanc<br /><br />« C'est un des événements de sororité entre femmes les plus puissants et émouvants auquel j'ai pu assister. » — Caroline Lavoie<br /><br />« Encore bravo Sophie de mettre en lumière cette vibration grandiose que tu portes en toi ! Je te célèbre ainsi que toutes les personnes impliquées avec toi ! » — Annie Comtois<br /><br />Venez vivre une soirée où chaque image porte un mot, chaque chanson élève, et chaque haïku rassemble. Une soirée pour rire, pleurer, se reconnaître — et repartir transformée.<br /><br />Réservez votre billet et faites partie du mouvement Sisters.</p></td></tr></tbody></table>"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Show Sisters"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "Variétés"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/spectacles/show-sisters/",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Show Sisters — Quand l'art devient mouvement Imaginez une soirée où la photographie, la poésie et la musique s'unissent pour raconter ce que trop de…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://co-motion.ca/uploads/Locations-TMC/_1200x630_crop_center-center_82_none/Affiche-SHOW-SISTERS-2026-V2.jpg?mtime=1787680972"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/5c99ad4c05a8cbf0",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/uploads/Locations-TMC/_1920x9999_fit_center-center_99_none/Affiche-SHOW-SISTERS-2026-V2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "756"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1100"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/9f924c46b3092833",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15808?eventdateid=61845"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.95E1"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-25T04:01:00.000Z"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/c8b70fbd0bd885a8",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sophie Chainel"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/f2faaf79d2505f23",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3163,7 +1952,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/10f91a8a0700777f",
+    "@id": "https://co-motion.ca/genid/329e0f0317510bcc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3349,7 +2138,189 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b30d120824d0b423",
+    "@id": "https://co-motion.ca/genid/88e1d0b3fe75d4ac",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://co-motion.ca/spectacles/cinema-space-cadet/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://co-motion.ca/genid/e4edee523783d622"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/spectacles/cinema-space-cadet/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T15:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://co-motion.ca/genid/0f8cda15d128ebda"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://co-motion.ca/genid/8cde8777978764ab"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://co-motion.ca/#identity"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://co-motion.ca/spectacles/cinema-space-cadet/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><sup>Canada (Québec). 2025. 86 min. Animation. (G)</sup></p>\n<p><strong>Dj MightyKat à partir de 14 h</strong><br />Suivi d’une rencontre avec Ginette Petit, productrice</p>\n<p>Robot a toujours veillé sur Céleste, jusqu’à ce qu’elle devienne une brillante scientifique et astronaute. Lorsqu’elle part en mission interstellaire, Robot doit affronter la solitude et le vieillissement de son système. Dans l’immensité de l’espace, Céleste fait face à de grands dangers. Alors qu’elle lutte pour surmonter ces obstacles, les souvenirs de son enfance refont surface, illuminant son chemin dans l’obscurité.</p>\n<p><em>« Beau et déchirant comme la vie, SPACE CADET est une animation lumineuse, peuplée de personnages irrésistibles et d’un univers si attachant qu’on souhaiterait qu’il dure éternellement. »</em> (Martin Gignac, Ciné-Bulles)</p>\n<p><strong>Un film de Kid Koala</strong></p>"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Space Cadet"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "Cinéma"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/spectacles/cinema-space-cadet/",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "(G) Dj MightyKat à partir de 14 h Suivi d’une rencontre avec Ginette Petit, productrice Robot a toujours veillé sur Céleste, jusqu’à ce qu’elle devienne…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://co-motion.ca/uploads/Cinéma/_1200x630_crop_center-center_82_none/AFF_Space_Cadet-–-grande-taille.jpeg?mtime=1787240060"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/e4edee523783d622",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/uploads/Cinéma/_1920x9999_fit_center-center_99_none/AFF_Space_Cadet-–-grande-taille.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "889"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/0f8cda15d128ebda",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15806?eventdateid=61843"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-18T04:01:00.000Z"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/8cde8777978764ab",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le pop-up cinéma"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/d7f5869a7480c52a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3531,7 +2502,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a5f3091c4c5b17b7",
+    "@id": "https://co-motion.ca/genid/f298c8eaec9d339d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3667,6 +2638,23 @@
     ]
   },
   {
+    "@id": "https://co-motion.ca/genid/d807056899cadf66",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://co-motion.ca/genid/bbb95822a9b825cd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace citoyen des Confluents"
+      }
+    ]
+  },
+  {
     "@id": "https://co-motion.ca/genid/aaffa97194b07f03",
     "@type": [
       "http://schema.org/Offer"
@@ -3713,7 +2701,31 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/cd303aaa73f41c41",
+    "@id": "https://co-motion.ca/genid/bbb95822a9b825cd",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1000, rue Marie-Uguay"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/289f72a4d98fefef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3895,189 +2907,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c6266d2fbb17701f",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://co-motion.ca/spectacles/jose-gaudet-nouveau-spectacle/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://co-motion.ca/genid/576c2047419ca5ca"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/spectacles/jose-gaudet-nouveau-spectacle/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-27T20:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://co-motion.ca/genid/4042b855ccbb8c1e"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://co-motion.ca/genid/2b061c3b92b3be81"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://co-motion.ca/#identity"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://co-motion.ca/spectacles/jose-gaudet-nouveau-spectacle/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "<p>Humoriste, <strong>José Gaudet</strong> nous fait rire depuis déjà très longtemps ! Il a à son actif plus de 25 ans d’animation radio, deux tournées de spectacles bien récompensées, animation de galas et 10 ans à la barre de talks-shows dont Ça finit bien la semaine. </p>\n<p>José n’arrivera pas sur la pointe des pieds, il prépare un spectacle de stand up pur et dur. Il abordera sa vision des choses sur la vie d’aujourd’hui et ses réflexions sur la société avec son humour authentique, son franc parlé et son énergie éclatante que nous connaissons bien. </p>\n<p>À 53 ans, il arrive avec son premier one man-show. </p>\n<p>C’est le cas de le dire… Y’était temps! </p>"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Y'était temps"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "Humour"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/spectacles/jose-gaudet-nouveau-spectacle/",
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Il a à son actif plus de 25 ans d’animation radio, deux tournées de spectacles bien récompensées, animation de galas et 10 ans à la barre de talks-shows…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://co-motion.ca/uploads/Spectacles/_1200x630_crop_center-center_82_none/José-Gaudet_2025.jpg?mtime=1721834017"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_ca"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/576c2047419ca5ca",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://co-motion.ca/uploads/Spectacles/_1920x9999_fit_center-center_99_none/José-Gaudet_2025.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "756"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1100"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/4042b855ccbb8c1e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15158?eventdateid=60802"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "54"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-22T19:08:00.000Z"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/2b061c3b92b3be81",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "José Gaudet"
-      }
-    ]
-  },
-  {
-    "@id": "https://co-motion.ca/genid/8fb302a721d2db43",
+    "@id": "https://co-motion.ca/genid/240d089f1f77d0df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4263,7 +3093,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/bb7683f5ad9c3871",
+    "@id": "https://co-motion.ca/genid/f1fa76c3039c423a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4449,7 +3279,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/8297ed441a72e314",
+    "@id": "https://co-motion.ca/genid/43d42a4e05846d3e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4647,7 +3477,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9049c32fa766be64",
+    "@id": "https://co-motion.ca/genid/af6249b9885cb99c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4829,7 +3659,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/fe2ab95e34ac2b85",
+    "@id": "https://co-motion.ca/genid/dfa7f4a54d3e227e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5011,7 +3841,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/33c431cd4bd44e7a",
+    "@id": "https://co-motion.ca/genid/7c5608b6350f639b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5193,7 +4023,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/fa68b6a0fa55f64e",
+    "@id": "https://co-motion.ca/genid/ea84c99ca0e078f2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5375,7 +4205,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3ff53d4606b13a8a",
+    "@id": "https://co-motion.ca/genid/fbd0de725c5941e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5561,7 +4391,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/151d440b58c45696",
+    "@id": "https://co-motion.ca/genid/ff943b76a004380a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5747,7 +4577,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e450e7b87b20a9d2",
+    "@id": "https://co-motion.ca/genid/6178213a2c9aaa55",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5779,7 +4609,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://co-motion.ca/genid/16ae06180c3eb7aa"
+        "@id": "https://co-motion.ca/genid/4cbcd1aa650b7756"
       }
     ],
     "http://schema.org/performer": [
@@ -5883,7 +4713,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/16ae06180c3eb7aa",
+    "@id": "https://co-motion.ca/genid/4cbcd1aa650b7756",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5894,8 +4724,8 @@
     ],
     "http://schema.org/price": [
       {
-        "@type": "http://www.w3.org/2001/XMLSchema#double",
-        "@value": "2.75E1"
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
       }
     ],
     "http://schema.org/validFrom": [
@@ -5929,7 +4759,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3f27d5742ff3c504",
+    "@id": "https://co-motion.ca/genid/001a112cbdc35512",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6111,7 +4941,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/0fc4a6e8fd5e4133",
+    "@id": "https://co-motion.ca/genid/c5facf242fedc3ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6293,7 +5123,127 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/6a8a7468f7c4d3ad",
+    "@id": "https://co-motion.ca/genid/7d93077d8eb25742",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://co-motion.ca/spectacles/adib-alkhalidey-comme-les-mongols-a-baghdad/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://co-motion.ca/genid/a12e43305b50b5df"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/spectacles/adib-alkhalidey-comme-les-mongols-a-baghdad/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-03-12T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://co-motion.ca/genid/424e883424ab821d"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://co-motion.ca/genid/32feff2927682ebd"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://co-motion.ca/#identity"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://co-motion.ca/spectacles/adib-alkhalidey-comme-les-mongols-a-baghdad/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Après <em>Québécois Tabarnak </em>et <em>Des putes et des voleurs </em>— tous deux gagnants du prix Spectacle d’humour de l’année au Gala de l’ADISQ, une première deux années de suite en 45 ans — Adib Alkhalidey revient avec <em>Comme les Mongols à </em>Baghdad. <br /> <br />Dans ce nouveau spectacle, il est question de transmission. Transmission du sens, du savoir, des blessures, des peurs, des contradictions et des élans qui traversent une époque ayant parfois l’impression d’avoir perdu confiance en sa propre capacité à transmettre quoi que ce soit. <br /> <br />À l’image de sa pensée arborescente, le spectacle se déploie à travers des thèmes aussi variés que la fraude fiscale, la corruption politique, l’enfer d’endormir des enfants, la Maison de la sagesse de Baghdad, Jésus ou encore la réalité des familles mixtes. En se frottant aux sujets les plus sensibles, intimes ou tabous de notre époque, Adib Alkhalidey cherche moins à donner des réponses qu’à révéler ce qui apparaît lorsqu’on ose regarder certaines vérités en face. Porté par une liberté de ton rare — probablement amplifiée par le manque de sommeil et l’honnêteté douteuse des jeunes parents épuisés —, le spectacle finit par transformer ce chaos en quelque chose d’étrangement limpide, comme si toutes ces branches dispersées provenaient secrètement du même arbre. <br /> <br /><em>Comme les Mongols à </em>Baghdad est un spectacle profondément drôle, parfois brutal, parfois inquiet, mais toujours porté par une volonté sincère de rapprocher ce que l’époque s’acharne à séparer.</p>"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comme les Mongols à Baghdad"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "Humour"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/424e883424ab821d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15968?eventdateid=62097"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "48"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-19T20:31:00.000Z"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/9d4e22404abce814",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6475,7 +5425,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/75cd4c434e08bbb5",
+    "@id": "https://co-motion.ca/genid/dbf871353ef6fb28",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6645,7 +5595,19 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/44f531385fa2d597",
+    "@id": "https://co-motion.ca/genid/fc8067ca8c627aca",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Grands Explorateurs"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/03c82f752cc83847",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6868,7 +5830,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/21abf6ec559cc8b1",
+    "@id": "https://co-motion.ca/genid/78acbb85741faa66",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7054,7 +6016,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/758491afcc679e32",
+    "@id": "https://co-motion.ca/genid/db26c483c213b23e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7224,7 +6186,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2cb8243b1ffc778f",
+    "@id": "https://co-motion.ca/genid/b2e4611d05ba6e54",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7406,7 +6368,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1c69f75fb92d500d",
+    "@id": "https://co-motion.ca/genid/6d77a7c29fb96494",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7588,7 +6550,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ec5991821f5b9454",
+    "@id": "https://co-motion.ca/genid/a9b60494da68ef97",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7770,7 +6732,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f4a79824938dbd43",
+    "@id": "https://co-motion.ca/genid/6aa83f2de7f9382c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7890,7 +6852,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e4a2fcfa5176b2eb",
+    "@id": "https://co-motion.ca/genid/c0511f2aa310d087",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8072,7 +7034,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/aa9ec90fb1f16bcf",
+    "@id": "https://co-motion.ca/genid/a6ad6d555d109661",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8192,7 +7154,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/0ebf3605412487d8",
+    "@id": "https://co-motion.ca/genid/6d54612c99f7f385",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8382,7 +7344,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/36e0d1de9d37ebaf",
+    "@id": "https://co-motion.ca/genid/91b5103cdbdf1022",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8568,7 +7530,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f9ba34a1ec759e20",
+    "@id": "https://co-motion.ca/genid/e254a73b5e5e9e0f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8692,7 +7654,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7d4c2a62552a3896",
+    "@id": "https://co-motion.ca/genid/f128776818900963",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8874,7 +7836,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5fe65d217533102d",
+    "@id": "https://co-motion.ca/genid/43d090d241a5791d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9056,7 +8018,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/590371c881361687",
+    "@id": "https://co-motion.ca/genid/164bdd663e35f175",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9238,7 +8200,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5fdc201efb82ef1a",
+    "@id": "https://co-motion.ca/genid/de50d3430f6d9552",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9420,7 +8382,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7046ae853c703e91",
+    "@id": "https://co-motion.ca/genid/ed4fdcadfe7a8075",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9606,7 +8568,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/32be13fdce717d3b",
+    "@id": "https://co-motion.ca/genid/45b25b6b3295c921",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9788,7 +8750,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d070d0c95b22f8e6",
+    "@id": "https://co-motion.ca/genid/a9b38be30038c67c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9970,7 +8932,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/8ed3651f8c1a8e3b",
+    "@id": "https://co-motion.ca/genid/53f2890ec041d0c1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10152,7 +9114,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b22d3b3f8ee448f8",
+    "@id": "https://co-motion.ca/genid/c4062d8c9e8c8091",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10272,7 +9234,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/35ae150b2f386279",
+    "@id": "https://co-motion.ca/genid/fb49a3bad97dd876",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10392,7 +9354,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/51804b8b6f34c59f",
+    "@id": "https://co-motion.ca/genid/70e2707efa73c6e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10582,7 +9544,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/334d53cb82081965",
+    "@id": "https://co-motion.ca/genid/f66a83f6724aa27d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10764,7 +9726,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b747e44af5e9ab6f",
+    "@id": "https://co-motion.ca/genid/e93a4f112a5c1ac7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10946,7 +9908,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1f80405faf0a5d2e",
+    "@id": "https://co-motion.ca/genid/568ae5221347604e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11128,7 +10090,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f2134b5e0839b4e0",
+    "@id": "https://co-motion.ca/genid/4d145153c67d159a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11314,7 +10276,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d38b6cee35a04b50",
+    "@id": "https://co-motion.ca/genid/320a9693e8c25753",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11496,7 +10458,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/6f9c3983ab9cb0b4",
+    "@id": "https://co-motion.ca/genid/2b58797f18abe290",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11701,7 +10663,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2d3cb05bb341857a",
+    "@id": "https://co-motion.ca/genid/2893cbc6700db2d3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11821,7 +10783,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b34e2643094cfa14",
+    "@id": "https://co-motion.ca/genid/08e3fc2d59f961a9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11941,7 +10903,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a1bfcd335a860984",
+    "@id": "https://co-motion.ca/genid/46dabb62b5f93659",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12111,7 +11073,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/afa0b31d156cbf13",
+    "@id": "https://co-motion.ca/genid/548ac4c8575161d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12293,7 +11255,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/25940277c1eb50fb",
+    "@id": "https://co-motion.ca/genid/df375b0e0374b525",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12413,7 +11375,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/fbc9f3c290fa1874",
+    "@id": "https://co-motion.ca/genid/ffe68179ccdd04a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12603,7 +11565,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/885e168f6b8b0f62",
+    "@id": "https://co-motion.ca/genid/d3c033749a9e0c17",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12785,7 +11747,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e83229748e5743a3",
+    "@id": "https://co-motion.ca/genid/45a0689b096ed559",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12967,7 +11929,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/459d1159a9a52eaa",
+    "@id": "https://co-motion.ca/genid/ba29a70783f40985",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13149,7 +12111,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/97bb612297ccda8a",
+    "@id": "https://co-motion.ca/genid/757371c029f3e5db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13331,7 +12293,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/444fceea73c99381",
+    "@id": "https://co-motion.ca/genid/5f8de34fe9724010",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13513,7 +12475,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/455728045ec83927",
+    "@id": "https://co-motion.ca/genid/c79bcd90aa5dc627",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13695,7 +12657,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b8d7b6edd34b2fbe",
+    "@id": "https://co-motion.ca/genid/d04f62daec1a416f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13877,7 +12839,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9acd88dfe882e787",
+    "@id": "https://co-motion.ca/genid/a5333489062a5479",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14059,7 +13021,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/289b40e5515996f4",
+    "@id": "https://co-motion.ca/genid/1303a0c80953a79d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14241,7 +13203,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1841fb721a3e9b18",
+    "@id": "https://co-motion.ca/genid/d5f285febf214031",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14423,7 +13385,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5cc18db3938d1432",
+    "@id": "https://co-motion.ca/genid/176313d594e3f974",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14609,7 +13571,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b99740497e2e6d3f",
+    "@id": "https://co-motion.ca/genid/a1ddc71e689e16d4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14733,7 +13695,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c2f6c00dd935116f",
+    "@id": "https://co-motion.ca/genid/0198212f264aa16a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14903,7 +13865,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3b0aa1c23ed9975d",
+    "@id": "https://co-motion.ca/genid/2861cb0de6f307ed",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15085,7 +14047,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/da03fc3b09fd63dc",
+    "@id": "https://co-motion.ca/genid/6c65bed7e0c36aec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15259,7 +14221,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/33c2de90574b7f69",
+    "@id": "https://co-motion.ca/genid/d08496c79fa3d3de",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15441,7 +14403,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3c5d76dc05626932",
+    "@id": "https://co-motion.ca/genid/2b8acfd933827318",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15623,7 +14585,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/611d6a49ab099bd7",
+    "@id": "https://co-motion.ca/genid/8e897f3f18b52fd0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15805,7 +14767,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/62f060463bbdc55f",
+    "@id": "https://co-motion.ca/genid/de7ffb5b52693253",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15987,7 +14949,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/29e50a24d93ad869",
+    "@id": "https://co-motion.ca/genid/25e062fb201fa1ff",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16173,7 +15135,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/8826545e8b063664",
+    "@id": "https://co-motion.ca/genid/49de91a7891afd0a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16355,7 +15317,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/00996373ea9139d6",
+    "@id": "https://co-motion.ca/genid/83c01a5c17fd2c6d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16525,7 +15487,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/940ede3f5dd5a902",
+    "@id": "https://co-motion.ca/genid/d6f68d09d1235392",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16645,7 +15607,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f3c37f5865569333",
+    "@id": "https://co-motion.ca/genid/74147c5e8f380ee9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16765,7 +15727,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/fa05bf8e272b40f2",
+    "@id": "https://co-motion.ca/genid/c775c2cfbcc2b73c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16951,7 +15913,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/4225dc83864b8dbd",
+    "@id": "https://co-motion.ca/genid/2dd0ad0ad25ccd70",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17133,7 +16095,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3c81a4baa3c42b1d",
+    "@id": "https://co-motion.ca/genid/fbb83caf04e20b5e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17253,7 +16215,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e8e793b5f1d02c31",
+    "@id": "https://co-motion.ca/genid/64629f9ffec50826",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17435,7 +16397,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/092bc5b6a02a0734",
+    "@id": "https://co-motion.ca/genid/aa0694849782551a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17498,7 +16460,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "<p><a href=\"https://co-motion.ca/prescriptions-culturelles/\" target=\"_blank\" class=\"button btn-primary\" rel=\"noreferrer noopener\">🩺 Prescription culturelle de Malika</a></p>\n<p>Considérée comme l’une des voix incontournables du jazz vocal actuel, l’autrice compositrice interprète Montréalaise Dominique Fils-Aimé, double lauréate d’un prix JUNO, puise au cœur des traditions afro-américaines pour nourrir une œuvre à la fois sensible et engagée.</p>\n<p>Sur scène, elle offre une expérience immersive où sa voix lumineuse et ses explorations musicales révèlent toute la force de sa présence. Dominique Fils-Aimé captive par sa capacité à tisser un lien intime avec le public, l’invitant à partager un espace d’émotions profondes et de résonance intérieure.</p>\n<p>Que ce soit au Canada (en tête d’affiche du Festival international de jazz de Montréal), en Europe (en première partie de Melody Gardot, de Diana Krall et de Jamie Cullum) ou aux États-Unis (avec des concerts acclamés au Blue Note de New York et de Los Angeles), Dominique Fils-Aimé captive ses spectateurs et les entraîne dans un voyage transcendant.</p>"
+        "@value": "<p><a href=\"https://co-motion.ca/prescriptions-culturelles/\" target=\"_blank\" class=\"button btn-primary\" rel=\"noreferrer noopener\">🩺 Prescription culturelle de Malika</a></p>\nConsidérée comme l’une des voix incontournables du jazz vocal actuel, l’autrice-compositrice-interprète Montréalaise Dominique Fils-Aimé, double lauréate d’un prix JUNO et du Félix d’Album Jazz de l'année à l’ADISQ 2026, puise au cœur des traditions afro-américaines pour nourrir une œuvre à la fois sensible et engagée.<br /><br />Sur scène, elle offre une expérience immersive où sa voix lumineuse et ses explorations musicales révèlent toute la force de sa présence. Dominique Fils-Aimé captive par sa capacité à tisser un lien intime avec le public, l’invitant à partager un espace d’émotions profondes et de résonance intérieure.<br /><br />Que ce soit au Canada (en tête d’affiche du Festival international de jazz de Montréal), en Europe (en première partie de Melody Gardot, de Diana Krall et de Jamie Cullum) ou aux États-Unis (avec des concerts acclamés au Blue Note de New York et de Los Angeles), Dominique Fils-Aimé captive ses spectateurs et les entraîne dans un voyage transcendant.<p><br /></p>"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -17529,7 +16491,7 @@
     "http://ogp.me/ns#description": [
       {
         "@language": "fr",
-        "@value": "🩺 Prescription culturelle de Malika  Considérée comme l’une des voix incontournables du jazz vocal actuel, l’autrice compositrice interprète Montréalaise…"
+        "@value": "🩺 Prescription culturelle de Malika Considérée comme l’une des voix incontournables du jazz vocal actuel, l’autrice-compositrice-interprète Montréalaise…"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -17621,7 +16583,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d3ceb5b205ef2ef9",
+    "@id": "https://co-motion.ca/genid/65b0f9c3249c6754",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17803,7 +16765,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2d79f4d93bb965e7",
+    "@id": "https://co-motion.ca/genid/d94e7d84121af9a5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17985,7 +16947,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b2b8b8d3e0c9f5c2",
+    "@id": "https://co-motion.ca/genid/695bd8beef3f97c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18171,7 +17133,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a7080697e6e5ff66",
+    "@id": "https://co-motion.ca/genid/65c578f861cedd34",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18353,7 +17315,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e0e3f5e872b158f7",
+    "@id": "https://co-motion.ca/genid/76ba01634d83dfcd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18535,7 +17497,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f7969dfd79a3cd71",
+    "@id": "https://co-motion.ca/genid/ad1d8f388a153155",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18705,7 +17667,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7e59341e97650ed6",
+    "@id": "https://co-motion.ca/genid/448faf68770a5408",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18887,7 +17849,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a0482005f8a969c9",
+    "@id": "https://co-motion.ca/genid/ba14416d83263f2c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19069,7 +18031,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b80ea5f80b999531",
+    "@id": "https://co-motion.ca/genid/2c4c741f124220d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19251,7 +18213,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7237bf10dddee53a",
+    "@id": "https://co-motion.ca/genid/cfb8b50e2404d4c8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19433,7 +18395,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1b88636405b13f2b",
+    "@id": "https://co-motion.ca/genid/89c35ca56e7c3b78",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19615,7 +18577,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1b7956317f363e87",
+    "@id": "https://co-motion.ca/genid/56d4900a32b63521",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19657,7 +18619,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://co-motion.ca/genid/20f9721668461611"
+        "@id": "https://co-motion.ca/genid/8f97f4196299f71c"
       }
     ],
     "http://schema.org/performer": [
@@ -19755,7 +18717,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/20f9721668461611",
+    "@id": "https://co-motion.ca/genid/8f97f4196299f71c",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19784,7 +18746,7 @@
     ],
     "http://schema.org/availability": [
       {
-        "@id": "http://schema.org/InStock"
+        "@id": "http://schema.org/SoldOut"
       }
     ]
   },
@@ -19801,7 +18763,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/6eca4f8886b0713f",
+    "@id": "https://co-motion.ca/genid/ac8e8dd4b14e8ef4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19987,7 +18949,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/404d227c5e7b59c7",
+    "@id": "https://co-motion.ca/genid/a473bac894c8a478",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20169,7 +19131,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/97a64f5378534443",
+    "@id": "https://co-motion.ca/genid/b1e57763a7ab3d98",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20351,7 +19313,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b347296487036bda",
+    "@id": "https://co-motion.ca/genid/ecf0906d81df0587",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20537,7 +19499,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ea3f1ca800c15306",
+    "@id": "https://co-motion.ca/genid/ac1c7881535438c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20719,7 +19681,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a43b629f94aa2525",
+    "@id": "https://co-motion.ca/genid/212805462e890b31",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20909,7 +19871,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3679231cc80d753c",
+    "@id": "https://co-motion.ca/genid/369ee91d28f2d6d3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21091,7 +20053,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f9a6285451b1e01e",
+    "@id": "https://co-motion.ca/genid/59c6fc872b4517ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21211,7 +20173,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7ce51debe7038718",
+    "@id": "https://co-motion.ca/genid/1e94769a2a019474",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21405,7 +20367,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c3262307a5210638",
+    "@id": "https://co-motion.ca/genid/265fd9ea926820df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21591,7 +20553,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/4473fad656ced872",
+    "@id": "https://co-motion.ca/genid/31df7b137c059b6b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21773,7 +20735,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e147ad170f21454f",
+    "@id": "https://co-motion.ca/genid/2c6a515277c9aad3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21955,7 +20917,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5eecd585f514f76f",
+    "@id": "https://co-motion.ca/genid/9e56d5fef9a1fe4b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22141,7 +21103,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e5cc4c4a22eed63f",
+    "@id": "https://co-motion.ca/genid/04638303d2e9790f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22323,7 +21285,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/8a74ab486e4c6a9c",
+    "@id": "https://co-motion.ca/genid/90f06d15d2beb596",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22505,7 +21467,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/aefe1dcb48d31b60",
+    "@id": "https://co-motion.ca/genid/f938ff43a86e385d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22691,7 +21653,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a53c53d405fcb663",
+    "@id": "https://co-motion.ca/genid/38af722063c21ef3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22873,7 +21835,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/11bdd12440c45daa",
+    "@id": "https://co-motion.ca/genid/bcc785deec9d14e6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23043,7 +22005,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/0164fbe4f30a02fc",
+    "@id": "https://co-motion.ca/genid/c5551cf60d5267fc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23225,7 +22187,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9b142848c217af3b",
+    "@id": "https://co-motion.ca/genid/3e37a08b940dbf50",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23415,7 +22377,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ecb41d6027205e1f",
+    "@id": "https://co-motion.ca/genid/52f487f670dadc0e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23597,7 +22559,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ffb912389897887c",
+    "@id": "https://co-motion.ca/genid/12f5e5912af90f8e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23808,7 +22770,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/cec703203f59afb6",
+    "@id": "https://co-motion.ca/genid/986ddc6441688c93",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23990,7 +22952,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ae206c380329a343",
+    "@id": "https://co-motion.ca/genid/b890ef5eae54bbd6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24176,7 +23138,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d71c128d2eabacd2",
+    "@id": "https://co-motion.ca/genid/6365e67002a4af11",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24375,7 +23337,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9eda1e347da0d0bb",
+    "@id": "https://co-motion.ca/genid/378ec18f2b7c9ae3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24557,7 +23519,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3818835105c4884b",
+    "@id": "https://co-motion.ca/genid/adc2c85fbf5bb123",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24739,7 +23701,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d62dec752ef79c92",
+    "@id": "https://co-motion.ca/genid/117610072e9cc672",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24925,7 +23887,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/736e21c6207bfcba",
+    "@id": "https://co-motion.ca/genid/45a636877716f3d4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25119,7 +24081,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3813d7c0dee5ea24",
+    "@id": "https://co-motion.ca/genid/e6c35f180080abce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25301,7 +24263,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/a4b5fb22991426f2",
+    "@id": "https://co-motion.ca/genid/17e3c5cb5463f43b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25483,7 +24445,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/003d6e9630d8c79a",
+    "@id": "https://co-motion.ca/genid/102c84e878d9630e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25665,7 +24627,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b5aaa5328cc1fdcd",
+    "@id": "https://co-motion.ca/genid/5cfe20aa74a2a3ba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25847,7 +24809,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/bdc3d754f5371795",
+    "@id": "https://co-motion.ca/genid/d0bd419cebb168d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26029,7 +24991,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5be5d3f7b7e474a8",
+    "@id": "https://co-motion.ca/genid/683983daab69559c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26215,7 +25177,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7ad75643b2d67b3d",
+    "@id": "https://co-motion.ca/genid/0e9fd3f778c2fac3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26397,7 +25359,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/6d78f3e800b4626c",
+    "@id": "https://co-motion.ca/genid/f918ed12fa6a4000",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26587,7 +25549,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ef9c96e40c67dd30",
+    "@id": "https://co-motion.ca/genid/ea66528d99e71642",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26777,7 +25739,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3fe37ea3b54a25f6",
+    "@id": "https://co-motion.ca/genid/d53c598bf32c1384",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26959,7 +25921,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/12dbd3d61c6df921",
+    "@id": "https://co-motion.ca/genid/59277f5f1a1e06a0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27141,7 +26103,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2ac77981956bbec7",
+    "@id": "https://co-motion.ca/genid/a722431712d41c34",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27323,7 +26285,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1993037ee0e1984a",
+    "@id": "https://co-motion.ca/genid/b8a1615a777d0311",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27390,7 +26352,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "<p>Après le succès retentissant de sa première tournée Créature, qui a conquis plus de 75 000 spectateurs, et de son dernier spectacle Spraynet, <strong>Rita Baga </strong>repartira sur les routes du Québec à l’hiver 2027. Plus éclatante, extravagante et électrisante que jamais, l’icône promet une célébration haute en couleur où plusieurs invités viendront tour à tour embraser la scène à ses côtés…</p>\n<p>Avec ce tout nouveau spectacle, <strong>Rita Baga </strong>ouvre les portes d’un univers forain complètement déjanté, où se côtoieront <strong>humour, performances musicales, drag, personnifications et artistes invités</strong> pour créer une fête grandiose! Chaque numéro devient une attraction en soi, entre cabaret éclaté et cirque glamour. Comme dans un mystérieux Cabaret des curiosités dont elle serait la reine flamboyante, le spectacle prend vie dans un décor aussi surprenant qu’enivrant : arcade lumineuse, Palais des glaces, néons et paillettes!</p>\n<p>Véritable reine de cette fête foraine, Rita Baga promet une soirée exubérante, festive et totalement assumée.  Bref, 100% Rita! Un véritable tourbillon de musique, de rires et de démesure pour célébrer en grand le <strong>20e anniversaire de sa carrière</strong>!</p>"
+        "@value": "<p dir=\"ltr\">Après le succès retentissant de sa première tournée Créature, qui a conquis plus de 75 000 spectateurs, et de son dernier spectacle Spraynet, Rita Baga repartira sur les routes du Québec à l’hiver 2027. Plus éclatante, extravagante et électrisante que jamais, l’icône promet une célébration haute en couleur où plusieurs invités viendront tour à tour embraser la scène à ses côtés…<br /></p>\n\n<p dir=\"ltr\">Avec ce tout nouveau spectacle, Rita Baga ouvre les portes d’un univers forain complètement déjanté, où se côtoieront humour, performances musicales, drag, personnifications et artistes invités pour créer une fête grandiose! Chaque numéro devient une attraction en soi, entre cabaret éclaté et cirque glamour. Comme dans un mystérieux Cabaret des curiosités dont elle serait la reine flamboyante, le spectacle prend vie dans un décor aussi surprenant qu’enivrant : arcade lumineuse, Palais des glaces, néons et paillettes! <br /></p>\n\n<p dir=\"ltr\">Rita Baga promet une soirée exubérante, festive et totalement assumée.  Bref, 100% Rita! Un véritable tourbillon de musique, de rires et de démesure pour célébrer en grand le 20e anniversaire de sa carrière! <br /></p>\n\n<p dir=\"ltr\">Chaque représentation réunit trois artistes aux univers complémentaires : un artiste drag, un artiste musical et un artiste du cirque. Les invités spéciaux de cette représentation : <strong>Barbada</strong> et <strong>King Melrose</strong><br /></p>"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -27421,7 +26383,7 @@
     "http://ogp.me/ns#description": [
       {
         "@language": "fr",
-        "@value": "Après le succès retentissant de sa première tournée Créature, qui a conquis plus de 75 000 spectateurs, et de son dernier spectacle Spraynet, Rita Baga…"
+        "@value": "Plus éclatante, extravagante et électrisante que jamais, l’icône promet une célébration haute en couleur où plusieurs invités viendront tour à tour…"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -27513,7 +26475,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f127acdde4ebf26b",
+    "@id": "https://co-motion.ca/genid/06f73f3f13500a26",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27683,7 +26645,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/ac3e65a2e70b5eab",
+    "@id": "https://co-motion.ca/genid/a7ec978184e7960c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27873,7 +26835,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/0b15393756f9e29e",
+    "@id": "https://co-motion.ca/genid/c50cd6b640417d56",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28055,7 +27017,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/63761d1d0e0da6ab",
+    "@id": "https://co-motion.ca/genid/8a8e5c475959b3aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28245,7 +27207,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/72806f2206f08e16",
+    "@id": "https://co-motion.ca/genid/47255c25921ee2a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28427,7 +27389,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5d32ecf9f2b26698",
+    "@id": "https://co-motion.ca/genid/c7d508ac696c55d5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28609,7 +27571,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/96933f907641b7f7",
+    "@id": "https://co-motion.ca/genid/c09b26ea7ecea6b0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28779,7 +27741,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/6e6784ab875ab6ce",
+    "@id": "https://co-motion.ca/genid/ee8fdba629ebffea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28961,7 +27923,189 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/4a9744e562449763",
+    "@id": "https://co-motion.ca/genid/235677f17af9e842",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://co-motion.ca/genid/5441a7f7c4142a3f"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-10T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://co-motion.ca/genid/2d06e7cbb66ab54d"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://co-motion.ca/genid/e26fdfa8d6b39a69"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://co-motion.ca/genid/1c4a15fb09620dfc"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://co-motion.ca/#identity"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><strong>François Bellefeuille </strong>est de retour sur scène avec son troisième spectacle : Sauvage. Hilarant, incisif et imprévisible, il livre une performance de stand-up à la fois intelligente et éclatée, repoussant les limites de son style inimitable. L’humoriste, dont la maîtrise du ridicule est à son apogée, porte un regard tout aussi mordant sur le monde, et vous entraîne dans un univers où la réalité côtoie l’absurde. Préparez-vous à avoir mal aux abdos; François Bellefeuille est au sommet de son art! Jusqu’au prochain spectacle… on l’espère!</p>"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sauvage"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "Humour"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/spectacles/francois-bellefeuille-sauvage/",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Hilarant, incisif et imprévisible, il livre une performance de stand-up à la fois intelligente et éclatée, repoussant les limites de son style inimitable."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://co-motion.ca/uploads/Spectacles/_1200x630_crop_center-center_82_none/FBellefeuille_Sauvage_sanstexte_756x1100.png?mtime=1744202492"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/5441a7f7c4142a3f",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://co-motion.ca/uploads/Spectacles/_1920x9999_fit_center-center_99_none/FBellefeuille_Sauvage_sanstexte_756x1100.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "756"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1100"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/e26fdfa8d6b39a69",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterie.co-motion.ca/ls/buyticket/15930?eventdateid=62036"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "53"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-09T04:01:00.000Z"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/1c4a15fb09620dfc",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "François Bellefeuille"
+      }
+    ]
+  },
+  {
+    "@id": "https://co-motion.ca/genid/09732e9744ecb503",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29147,7 +28291,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/013a7d18ab4443e9",
+    "@id": "https://co-motion.ca/genid/a4edb2909c697249",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29333,7 +28477,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/44b12f62494aeee5",
+    "@id": "https://co-motion.ca/genid/4eb874a13822863c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29515,7 +28659,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/388e9edb147acf7d",
+    "@id": "https://co-motion.ca/genid/3f205ce6aeebe30d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29697,7 +28841,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c08e708c4ad2f4c5",
+    "@id": "https://co-motion.ca/genid/a5e7cf2f27363ff0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29879,7 +29023,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f2c35185da5cc178",
+    "@id": "https://co-motion.ca/genid/742c850c27e5059d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30065,7 +29209,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/aee926a34579977f",
+    "@id": "https://co-motion.ca/genid/e75d34891cc380fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30247,7 +29391,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/70cded5bdf440e43",
+    "@id": "https://co-motion.ca/genid/e2f223b368afc2a1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30437,7 +29581,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d0ed14c9ac94a5e5",
+    "@id": "https://co-motion.ca/genid/9aecfe57b1dc9fa4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30619,7 +29763,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/3c76c3184cc8ed05",
+    "@id": "https://co-motion.ca/genid/2834c2696f5c55f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30801,7 +29945,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d02f2bdff1d2beda",
+    "@id": "https://co-motion.ca/genid/eb178e4cc1cb83ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30983,7 +30127,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/36d7666ec7d5788e",
+    "@id": "https://co-motion.ca/genid/475296fe89147136",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31165,7 +30309,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7fe0239250293f6e",
+    "@id": "https://co-motion.ca/genid/b15e66eba00f4576",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31335,7 +30479,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7d20f70836f5c743",
+    "@id": "https://co-motion.ca/genid/85c2ea565b00899a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31455,7 +30599,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/625f7949b79d0cf4",
+    "@id": "https://co-motion.ca/genid/36fada76c90c1973",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31575,7 +30719,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b3081fd70ac1f61a",
+    "@id": "https://co-motion.ca/genid/0d858485ff934b90",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31757,7 +30901,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/36b72de8cd862cd9",
+    "@id": "https://co-motion.ca/genid/7c1a9d05819950e2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31939,7 +31083,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/66ae811644a5429a",
+    "@id": "https://co-motion.ca/genid/6332ee91b926af65",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32125,7 +31269,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f173ddb8cd6c4169",
+    "@id": "https://co-motion.ca/genid/7b3707f9bd8dc6d5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32311,7 +31455,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2d6a4ac1bc849051",
+    "@id": "https://co-motion.ca/genid/ea67cabf62727d07",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32481,7 +31625,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/76211190b8839b62",
+    "@id": "https://co-motion.ca/genid/bf5097892335dd2a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32667,7 +31811,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/02e202855bbfd469",
+    "@id": "https://co-motion.ca/genid/eddd2f7fe8f7a5fc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32841,7 +31985,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/aee7bf4d023d89a9",
+    "@id": "https://co-motion.ca/genid/6211cc90dc7706b7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33011,7 +32155,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/e04b0aaf9766e708",
+    "@id": "https://co-motion.ca/genid/7d064d46f744b22d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33193,7 +32337,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/f3b1975f976b3161",
+    "@id": "https://co-motion.ca/genid/d4b412164be79664",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33313,7 +32457,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2693ff981da59b78",
+    "@id": "https://co-motion.ca/genid/956b297a0185b763",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33499,7 +32643,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9a800a2652d7c56d",
+    "@id": "https://co-motion.ca/genid/5a84d2ed3af3fe99",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33681,7 +32825,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/db91997d90709b4b",
+    "@id": "https://co-motion.ca/genid/b70690f628108c03",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33863,7 +33007,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5bd4146b77a21342",
+    "@id": "https://co-motion.ca/genid/15b26bfae4bd6d0a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34045,7 +33189,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/d3e8279ced2dd135",
+    "@id": "https://co-motion.ca/genid/4edd58c3516c8f89",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34227,7 +33371,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/8b552d3312802a32",
+    "@id": "https://co-motion.ca/genid/7da79f8066b5bdb2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34409,7 +33553,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/cc21f5a8f042146f",
+    "@id": "https://co-motion.ca/genid/cb7ed463ce1a0985",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34529,7 +33673,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7297f3bd84ab1c66",
+    "@id": "https://co-motion.ca/genid/0db6f47312305dee",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34711,7 +33855,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/53421c8d8f76f1c0",
+    "@id": "https://co-motion.ca/genid/2fa92b3f3d47fa12",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34831,7 +33975,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/49201b210b5ad277",
+    "@id": "https://co-motion.ca/genid/bbe0194def4f347e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35017,7 +34161,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/bbae3ebef62571bc",
+    "@id": "https://co-motion.ca/genid/e1750e2d394047e7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35207,7 +34351,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/bc8aea349901ef23",
+    "@id": "https://co-motion.ca/genid/bc51207bb552339e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35389,7 +34533,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/7f269bf3f231572e",
+    "@id": "https://co-motion.ca/genid/395942482c51b29e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35571,7 +34715,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/23fc5ad1e8497734",
+    "@id": "https://co-motion.ca/genid/fe63f64fc0c224bf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35691,7 +34835,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b35e6b534186fc92",
+    "@id": "https://co-motion.ca/genid/7c081d0ea24757e7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -35877,7 +35021,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c08e0b4509cfbada",
+    "@id": "https://co-motion.ca/genid/af94c186e8e793fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36071,7 +35215,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/eb1217bde6bc4520",
+    "@id": "https://co-motion.ca/genid/64c7641b57fef828",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36257,7 +35401,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c951e219d44da912",
+    "@id": "https://co-motion.ca/genid/32b07bb3efbdd87d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36439,7 +35583,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/68464219392b104d",
+    "@id": "https://co-motion.ca/genid/1d1c119fcf0f7094",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36625,7 +35769,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/08f7c9281992d167",
+    "@id": "https://co-motion.ca/genid/cfc2a5693c09710b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36811,7 +35955,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/81a82570d0270e51",
+    "@id": "https://co-motion.ca/genid/6448e514ec4149ee",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -36993,7 +36137,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/47c9ee6638966d98",
+    "@id": "https://co-motion.ca/genid/59c21276896013bf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37179,7 +36323,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/2ca54de109bc45b2",
+    "@id": "https://co-motion.ca/genid/e6bb64dce6612295",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37361,7 +36505,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/5679a431e1b95848",
+    "@id": "https://co-motion.ca/genid/f8464cf44adafef3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37543,7 +36687,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/1aed67d43649ff43",
+    "@id": "https://co-motion.ca/genid/1df34f6fb8a5f1b0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37725,7 +36869,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/c7cdb10fe9f9fe93",
+    "@id": "https://co-motion.ca/genid/a745b8a1aad140de",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37911,7 +37055,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/39d021e7652533b9",
+    "@id": "https://co-motion.ca/genid/1e41f458407c3e32",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38097,7 +37241,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b9837200af3303e5",
+    "@id": "https://co-motion.ca/genid/b2805ee57e3a2393",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38221,7 +37365,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/b87a530b6cbc1dbd",
+    "@id": "https://co-motion.ca/genid/b0eb8d5ed49ac2dd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38397,7 +37541,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/bb0589c0075eeb75",
+    "@id": "https://co-motion.ca/genid/9d112a80e9ad85ba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38579,7 +37723,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/12cc2011a567cdf1",
+    "@id": "https://co-motion.ca/genid/800a883e9951a38a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38761,7 +37905,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/58185fb23a38ab2f",
+    "@id": "https://co-motion.ca/genid/51172649f53db8f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38951,7 +38095,7 @@
     ]
   },
   {
-    "@id": "https://co-motion.ca/genid/9b082f1bfcd170ed",
+    "@id": "https://co-motion.ca/genid/53b4330b84427f58",
     "@type": [
       "http://schema.org/Event"
     ],
