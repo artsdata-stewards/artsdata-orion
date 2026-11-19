@@ -940,11 +940,6 @@
     "@type": [
       "http://schema.org/VirtualLocation"
     ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://topo.art/genid/8ea0ef8d551eee45"
-      }
-    ],
     "http://schema.org/name": [
       {
         "@language": "fr",
@@ -983,42 +978,6 @@
       {
         "@language": "fr",
         "@value": "fr"
-      }
-    ]
-  },
-  {
-    "@id": "https://topo.art/genid/8ea0ef8d551eee45",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "608-5445 avenue de Gaspé"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H2T 3B2"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "Canada"
       }
     ]
   },
@@ -1254,6 +1213,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10163"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/4b66b1b39926a691"
@@ -1312,6 +1276,42 @@
       {
         "@language": "fr",
         "@value": "TOPO studio"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10163",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/texuvie/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t8508"
+      },
+      {
+        "@id": "http://topo.art/r/t8511"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "texuvie"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -1382,6 +1382,30 @@
       {
         "@language": "fr",
         "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8508",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Léonie Bélanger"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8511",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Éloi Angers-Roy"
       }
     ]
   },
@@ -1617,6 +1641,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10161"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/a59c3ae741e2e2cb"
@@ -1657,6 +1686,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10161",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/nos-chateaux-de-sable/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t679"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Nos châteaux de sable"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/a59c3ae741e2e2cb",
     "@type": [
       "http://schema.org/ImageObject"
@@ -1687,6 +1749,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t679",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://michelhuneault.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michel Huneault"
       }
     ]
   },
@@ -1925,6 +2004,11 @@
         "@id": "http://topo.art/r/t10238"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10159"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/662a6394b354bc0e"
@@ -1987,6 +2071,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10159",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/portales-a-pasados-por-venir/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t8064"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Portales a Pasados por Venir"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/662a6394b354bc0e",
     "@type": [
       "http://schema.org/ImageObject"
@@ -2017,6 +2134,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8064",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://portalesapasadosporvenir.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mel Izanami"
       }
     ]
   },
@@ -2261,6 +2395,14 @@
         "@id": "http://topo.art/r/t10235"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10157"
+      },
+      {
+        "@id": "http://topo.art/r/t10155"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/fba8d888c802968d"
@@ -2323,6 +2465,72 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10157",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/le-jeu-du-oui/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t7382"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le jeu du oui"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10155",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/gober-tout/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t7385"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Gober tout"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/fba8d888c802968d",
     "@type": [
       "http://schema.org/ImageObject"
@@ -2347,6 +2555,40 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t7382",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/maudevv/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maude Veilleux"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t7385",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/maudjoiret/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maud Joiret"
       }
     ]
   },
@@ -3050,6 +3292,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10148"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/937242899dda1943"
@@ -3090,6 +3337,42 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10148",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/dream-state/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5795"
+      },
+      {
+        "@id": "http://topo.art/r/t6617"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dream State"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/937242899dda1943",
     "@type": [
       "http://schema.org/ImageObject"
@@ -3120,6 +3403,38 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5795",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://micksand.art/"
+      },
+      {
+        "@id": "https://www.instagram.com/micksand.art/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mick Sand"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t6617",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Demetrio Barreca"
       }
     ]
   },
@@ -3974,6 +4289,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t950"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/143cad755295a873"
@@ -4014,6 +4334,49 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t950",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/ilinu-ilidi"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/ilinu-incubateur-de-litterature-numerique/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t10151"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/6215fbde1f439fef"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ILINU | Incubateur de littérature numérique"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/143cad755295a873",
     "@type": [
       "http://schema.org/ImageObject"
@@ -4044,6 +4407,35 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10151",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Roxane Michel"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/6215fbde1f439fef",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/04/ilinu_prod_1-3-scaled-e1716916400325.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-02T18:45:40+00:00"
       }
     ]
   },
@@ -4285,6 +4677,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10135"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/4117b46214c42023"
@@ -4325,6 +4722,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10135",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/pinch-to-awaken/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3597"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pinch to Awaken"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/4117b46214c42023",
     "@type": [
       "http://schema.org/ImageObject"
@@ -4355,6 +4785,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3597",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://yesicaduarte.wixsite.com/website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yesica Duarte"
       }
     ]
   },
@@ -5302,6 +5749,11 @@
         "@id": "http://topo.art/r/t4685"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2382"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/a93a9efcf5970038"
@@ -5359,6 +5811,55 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2382",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://mesmots.ca"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/mes-mots-mon-quartier-caroline-barber/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3402"
+      },
+      {
+        "@id": "http://topo.art/r/t4954"
+      },
+      {
+        "@id": "http://topo.art/r/t5222"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/8f20d53bec047422"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mes mots, mon quartier"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/a93a9efcf5970038",
     "@type": [
       "http://schema.org/ImageObject"
@@ -5389,6 +5890,80 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3402",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://empoetineuse.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Caroline Barber"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t4954",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.yannickgueguen.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yannick Guéguen"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5222",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://yecto.github.io/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Rodrigo Velasco"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Yecto"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/8f20d53bec047422",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2020/09/MesMots_web-1-scaled-1.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-28T17:38:12+00:00"
       }
     ]
   },
@@ -5919,6 +6494,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t9865"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/c0035f17e9210fa5"
@@ -5978,6 +6558,39 @@
       {
         "@language": "fr",
         "@value": "La Vitrine de TOPO"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9865",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/infinite-games/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t9729"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Infinite Games"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -6048,6 +6661,26 @@
       {
         "@language": "fr",
         "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9729",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://alfredmuszynski.net/"
+      },
+      {
+        "@id": "https://www.instagram.com/alfredmusz/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Alfred Muszynski"
       }
     ]
   },
@@ -6283,6 +6916,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10172"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/67580e52a00dcf3f"
@@ -6323,6 +6961,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10172",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/au-revoir-au-quotidien-ii-the-dailies-ii/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t9609"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Au revoir au quotidien!, II • The Dailies, II"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/67580e52a00dcf3f",
     "@type": [
       "http://schema.org/ImageObject"
@@ -6353,6 +7024,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9609",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.stephaniecreaghan.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Stephanie E. Creaghan"
       }
     ]
   },
@@ -6588,6 +7276,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10169"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/eddb232a5174f469"
@@ -6628,6 +7321,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10169",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/un-jardin-la-nuit/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t9407"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un Jardin la nuit"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/eddb232a5174f469",
     "@type": [
       "http://schema.org/ImageObject"
@@ -6658,6 +7384,26 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9407",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://art.carolinehayeur.com/"
+      },
+      {
+        "@id": "https://electriques.ca/filles/fr/artiste/kimm_d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Caroline Hayeur et D. Kimm"
       }
     ]
   },
@@ -6893,6 +7639,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10167"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/966e929165c5cb3e"
@@ -6933,6 +7684,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10167",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/mirages/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t9234"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mirages"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/966e929165c5cb3e",
     "@type": [
       "http://schema.org/ImageObject"
@@ -6963,6 +7747,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9234",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://emmanueljouthe.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Emmanuel Jouthe"
       }
     ]
   },
@@ -7213,6 +8014,11 @@
         "@id": "http://topo.art/r/t10245"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10165"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/d6262a6dd1e0d30b"
@@ -7331,6 +8137,54 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10165",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/cio%cc%88_echos/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t8615"
+      },
+      {
+        "@id": "http://topo.art/r/t8589"
+      },
+      {
+        "@id": "http://topo.art/r/t8599"
+      },
+      {
+        "@id": "http://topo.art/r/t8595"
+      },
+      {
+        "@id": "http://topo.art/r/t8597"
+      },
+      {
+        "@id": "http://topo.art/r/t8601"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "CiÖ_Echos"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/d6262a6dd1e0d30b",
     "@type": [
       "http://schema.org/ImageObject"
@@ -7433,6 +8287,111 @@
       {
         "@language": "fr",
         "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8615",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/_cio_official_/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Collectif CiÖ"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8589",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ganesh Baron Aloir"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8599",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Hamie Robitaille"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8595",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Anaëlle Lacoste"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8597",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "oLivier Landry-Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t8601",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.experiencecio.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Alexandre Pariseau"
       }
     ]
   },
@@ -7674,6 +8633,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t9778"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/073dafc9f5564b50"
@@ -7714,6 +8678,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t9778",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/marcel-pascale-tetrault/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t7895"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marcel"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/073dafc9f5564b50",
     "@type": [
       "http://schema.org/ImageObject"
@@ -7738,6 +8735,26 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t7895",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.pascaletetrault.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/passecables/?hl=en.html"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Tétrault"
       }
     ]
   },
@@ -7979,6 +8996,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10153"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/c01b306c88921a32"
@@ -8019,6 +9041,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10153",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/unusual-critters-a-remarkable-journey-through-life-as-we-think-it-is/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t7077"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Unusual Critters: A Remarkable Journey Through Life as We Think It Is"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/c01b306c88921a32",
     "@type": [
       "http://schema.org/ImageObject"
@@ -8049,6 +9104,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t7077",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://leaboudreau.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Léa Boudreau"
       }
     ]
   },
@@ -8293,6 +9365,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10150"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/f9acc5620c067db0"
@@ -8333,6 +9410,47 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10150",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/sobascorner/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/sobas-corner-a-chinese-canadian-cooking-show/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t6752"
+      },
+      {
+        "@id": "http://topo.art/r/t10151"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Soba’s corner: A Chinese-Canadian Cooking Show"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/f9acc5620c067db0",
     "@type": [
       "http://schema.org/ImageObject"
@@ -8363,6 +9481,29 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t6752",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://snackwitch.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Snack Witch Joni Cheung"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Joni Cheung"
       }
     ]
   },
@@ -8598,6 +9739,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10146"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/00dd4564de50df5e"
@@ -8638,6 +9784,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10146",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/ecosysteme-alpha/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t2123"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Écosystème Alpha"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/00dd4564de50df5e",
     "@type": [
       "http://schema.org/ImageObject"
@@ -8662,6 +9841,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t2123",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://guivar.ch/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Aude Guivarc'h"
       }
     ]
   },
@@ -8903,6 +10099,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10143"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/84d6576ca3ca875a"
@@ -8943,6 +10144,48 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10143",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/brume/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t2927"
+      },
+      {
+        "@id": "http://topo.art/r/t2936"
+      },
+      {
+        "@id": "http://topo.art/r/t2953"
+      },
+      {
+        "@id": "http://topo.art/r/t2933"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Brume"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/84d6576ca3ca875a",
     "@type": [
       "http://schema.org/ImageObject"
@@ -8973,6 +10216,77 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t2927",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pixelscollectif.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/departement_des_pixels/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "pixels·collectif"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t2936",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sandream__/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sandrine Cadieux"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t2953",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/fredbordel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Frédérique Bordeleau"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t2933",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/dre__mercier/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Andrée-Anne Mercier"
       }
     ]
   },
@@ -9213,6 +10527,11 @@
         "@id": "http://topo.art/r/t3033"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10141"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/f7fff13cacd2e2ef"
@@ -9270,6 +10589,42 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10141",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/aleas-echos-et-reflets-des-eolithes/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t391"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ALÉAS : Échos et reflets des éolithes​"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/f7fff13cacd2e2ef",
     "@type": [
       "http://schema.org/ImageObject"
@@ -9294,6 +10649,41 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t391",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://vimeo.com/cleopq"
+      },
+      {
+        "@id": "https://soundcloud.com/cleopq"
+      },
+      {
+        "@id": "https://actuellecd.com/en/artiste/betalyrae_/Beta_Lyr%C3%A6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cléo Palacio-Quintin"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t7139",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maxime-Alexandre Gosselin"
       }
     ]
   },
@@ -9529,6 +10919,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10139"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/6adc3f53f2dd2d9c"
@@ -9569,6 +10964,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10139",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/reverie-sympoietique/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t523"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Rêverie sympoïétique"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/6adc3f53f2dd2d9c",
     "@type": [
       "http://schema.org/ImageObject"
@@ -9593,6 +11021,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t523",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://isabellasalas.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Isabella Salas"
       }
     ]
   },
@@ -9837,6 +11282,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t882"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/329b588234bbe913"
@@ -9877,6 +11327,55 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t882",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/4heures"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/4-heures-michel-huneault-et-johann-maze/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t679"
+      },
+      {
+        "@id": "http://topo.art/r/t683"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/e10e14abbf3290f0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "4 Heures"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/329b588234bbe913",
     "@type": [
       "http://schema.org/ImageObject"
@@ -9901,6 +11400,40 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t683",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://johannmaze.bandcamp.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Johann Mazé"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/e10e14abbf3290f0",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2023/10/rivierekayak.png"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-11T20:49:37+00:00"
       }
     ]
   },
@@ -10142,6 +11675,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10137"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/7d1b6c4f65c07980"
@@ -10182,6 +11720,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10137",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/n-h9/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3541"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "N-h9"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/7d1b6c4f65c07980",
     "@type": [
       "http://schema.org/ImageObject"
@@ -10212,6 +11783,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3541",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://sandrinedeumier.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sandrine Deumier"
       }
     ]
   },
@@ -10456,6 +12044,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10131"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/7b8ccd97d4c5392e"
@@ -10492,6 +12085,42 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/MixedEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10131",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/cinematographie-de-la-matiere-virtuelle/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t2672"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cinématographie de la matière virtuelle"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -10761,6 +12390,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10129"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/6898d650a682d729"
@@ -10801,6 +12435,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10129",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/homesick-brasil/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3642"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Homesick Brasil"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/6898d650a682d729",
     "@type": [
       "http://schema.org/ImageObject"
@@ -10825,6 +12492,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3642",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.leosanches.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Léo Sanches"
       }
     ]
   },
@@ -11069,6 +12753,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10127"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/8bd8a016d0812e15"
@@ -11109,6 +12798,44 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10127",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/selfgen/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/selfgen/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3650"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Selfgen"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/8bd8a016d0812e15",
     "@type": [
       "http://schema.org/ImageObject"
@@ -11139,6 +12866,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3650",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://schneidermarion.net/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marion Schneider"
       }
     ]
   },
@@ -11383,6 +13127,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2426"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/b8e9e14d55b59bd4"
@@ -11423,6 +13172,61 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2426",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/arpenteur/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/larpenteur-bleu-diode-et-jean-yves-frechette/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3317"
+      },
+      {
+        "@id": "http://topo.art/r/t3313"
+      },
+      {
+        "@id": "http://topo.art/r/t3311"
+      },
+      {
+        "@id": "http://topo.art/r/t3315"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/f2510bdc539923f0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L'Arpenteur"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/b8e9e14d55b59bd4",
     "@type": [
       "http://schema.org/ImageObject"
@@ -11453,6 +13257,109 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3317",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.bleudiode.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/bleudiode/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bleu Diode"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3313",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.isabellegagne.ca/"
+      },
+      {
+        "@id": "https://www.misspixels.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Isabelle Gagné"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "MissPixels"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3311",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.pixetoile.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sven"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Sven Buridans"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3315",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.jeanyvesfrechette.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Yves Fréchette"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/f2510bdc539923f0",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/arpenteur_3-2-e1715615688375.png"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-13T15:54:09+00:00"
       }
     ]
   },
@@ -11694,6 +13601,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10125"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/66f7a5145a6fe08c"
@@ -11730,6 +13642,39 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10125",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/million/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3742"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Million"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -11999,6 +13944,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2356"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/888cf4e446c2183c"
@@ -12039,6 +13989,52 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2356",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cymx.ca"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/cymx-isabelle-gagne/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3313"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/4e4b8969c4e52056"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "CYMX"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/888cf4e446c2183c",
     "@type": [
       "http://schema.org/ImageObject"
@@ -12069,6 +14065,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/4e4b8969c4e52056",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/CYMX-TERMINAL.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T20:05:56+00:00"
       }
     ]
   },
@@ -12310,6 +14323,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10121"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/9372b4d42d7d83cb"
@@ -12350,6 +14368,42 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10121",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/unstable-intermediated-forms/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3804"
+      },
+      {
+        "@id": "http://topo.art/r/t3807"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Unstable Intermediated Forms"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/9372b4d42d7d83cb",
     "@type": [
       "http://schema.org/ImageObject"
@@ -12380,6 +14434,40 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3804",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.robfeulner.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Rob Feulner"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3807",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://portfolio.smeech.co.uk/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Meech"
       }
     ]
   },
@@ -12615,6 +14703,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2367"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/4b596c5ad08c7cdb"
@@ -12655,6 +14748,52 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2367",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/delafrontiere/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/de-la-frontiere-michel-huneault/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t679"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/61f1351488cf23b7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "De la frontière"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/4b596c5ad08c7cdb",
     "@type": [
       "http://schema.org/ImageObject"
@@ -12685,6 +14824,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/61f1351488cf23b7",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/05_huneault.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T20:24:53+00:00"
       }
     ]
   },
@@ -12932,6 +15088,11 @@
         "@id": "http://topo.art/r/t10026"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2362"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/b1808142a4b5a163"
@@ -12994,6 +15155,44 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2362",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/frontiere/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/frontiere-reflexion-artistique-et-theorique/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/7b9b0fee890d0fc9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FRONTIÈRE | Réflexion artistique et théorique"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/b1808142a4b5a163",
     "@type": [
       "http://schema.org/ImageObject"
@@ -13024,6 +15223,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/7b9b0fee890d0fc9",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2022/06/frontiere16-9.png"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-16T18:37:12+00:00"
       }
     ]
   },
@@ -13265,6 +15481,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10119"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/bc3732fe470c063e"
@@ -13305,6 +15526,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10119",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/fantasmagorie-de-semences-potageres/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t4666"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Fantasmagorie de semences potagères"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/bc3732fe470c063e",
     "@type": [
       "http://schema.org/ImageObject"
@@ -13335,6 +15589,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t4666",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://fernandeforest.net/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Fernande Forest"
       }
     ]
   },
@@ -13570,6 +15841,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2370"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/00c3165703ad8740"
@@ -13610,6 +15886,52 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2370",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/aujourlejour/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/au-jour-le-jour-leila-zelli/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3353"
+      },
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/0cda3259e3fc3360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Au jour le jour"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/00c3165703ad8740",
     "@type": [
       "http://schema.org/ImageObject"
@@ -13640,6 +15962,43 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3353",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://leilazelli.com"
+      },
+      {
+        "@id": "https://www.instagram.com/leila.zelli/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Leila Zelli"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/0cda3259e3fc3360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/ImagePromo_Aujourlejour_16-9.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T20:27:15+00:00"
       }
     ]
   },
@@ -13875,6 +16234,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2374"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/c05e2332f7ea87fc"
@@ -13915,6 +16279,49 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2374",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/leviathan/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/leviathan-paolo-almario/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3370"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/6423dfb06da4b8dc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Léviathan"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/c05e2332f7ea87fc",
     "@type": [
       "http://schema.org/ImageObject"
@@ -13945,6 +16352,43 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3370",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://paoloalmario.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/paoloalm/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paolo Almario"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/6423dfb06da4b8dc",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/leviathan.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T20:35:26+00:00"
       }
     ]
   },
@@ -14180,6 +16624,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t2379"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/8b0c4eb52fb1150d"
@@ -14220,6 +16669,52 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t2379",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/meandres/"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/meandres-stephanie-morissette/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3382"
+      },
+      {
+        "@id": "http://topo.art/r/t4954"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/1deba419d2a07148"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Méandres"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/8b0c4eb52fb1150d",
     "@type": [
       "http://schema.org/ImageObject"
@@ -14250,6 +16745,43 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t3382",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://stephaniemorissette.com"
+      },
+      {
+        "@id": "https://www.instagram.com/steph.mori7/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Stéphanie Morissette"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/1deba419d2a07148",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2024/05/Meandres_stephaniemorissette_02.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T20:48:16+00:00"
       }
     ]
   },
@@ -14494,6 +17026,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10094"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/ad07457d5a8bb4f8"
@@ -14534,6 +17071,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10094",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/paysages-de-lanthropocene/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5172"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paysages de l’Anthropocène"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/ad07457d5a8bb4f8",
     "@type": [
       "http://schema.org/ImageObject"
@@ -14564,6 +17134,26 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5172",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.olisorenson.com/"
+      },
+      {
+        "@id": "https://www.instagram.com/oli_sorenson/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Oli Sorenson"
       }
     ]
   },
@@ -14805,6 +17395,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10092"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/65c81355ff0b3006"
@@ -14841,6 +17436,39 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10092",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/plongeons/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t3311"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Plongeons"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -15116,6 +17744,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10090"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/203b1af7aa735b6c"
@@ -15169,6 +17802,39 @@
       {
         "@language": "fr",
         "@value": "Château Dufresne"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10090",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/paysage-de-la-catastrophe-after-fukushima/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5201"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paysage de la catastrophe – After Fukushima"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -15239,6 +17905,23 @@
       {
         "@language": "fr",
         "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5201",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://databaz.org/xtrm-art/?page_id=312"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Philippe Boisnard"
       }
     ]
   },
@@ -15480,6 +18163,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10088"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/6557202a9b598a59"
@@ -15516,6 +18204,39 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t10088",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/niyolchoca/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5222"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Niyolchoca"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
       }
     ]
   },
@@ -15791,6 +18512,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10086"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/c967f39b8b3b6c27"
@@ -15831,6 +18557,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10086",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/conversation-with-falling-spheres/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5242"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conversation with Falling Spheres"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/c967f39b8b3b6c27",
     "@type": [
       "http://schema.org/ImageObject"
@@ -15861,6 +18620,29 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5242",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.ulodesign.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ULO"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Iris Godbout"
       }
     ]
   },
@@ -16102,6 +18884,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10082"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/6286b4887ef7af9a"
@@ -16142,6 +18929,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10082",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/la-ofrenda/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5290"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Ofrenda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/6286b4887ef7af9a",
     "@type": [
       "http://schema.org/ImageObject"
@@ -16172,6 +18992,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5290",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://rdzmartin.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Martín Rodríguez"
       }
     ]
   },
@@ -16407,6 +19244,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10084"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/41774f781fb9f2fb"
@@ -16447,6 +19289,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10084",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/dupu/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5274"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dupu"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/41774f781fb9f2fb",
     "@type": [
       "http://schema.org/ImageObject"
@@ -16477,6 +19352,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5274",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.makila.tv/fr/membres/cuibamedia"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diego Briceño"
       }
     ]
   },
@@ -16718,6 +19610,11 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10079"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/4fc5f11fef9bd42c"
@@ -16758,6 +19655,42 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10079",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/le-great-white-north/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t5688"
+      },
+      {
+        "@id": "http://topo.art/r/t5691"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Great White North"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/4fc5f11fef9bd42c",
     "@type": [
       "http://schema.org/ImageObject"
@@ -16788,6 +19721,30 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5688",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sophie Kuijper Dickson"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t5691",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Eduardo Perez Infante"
       }
     ]
   },
@@ -17034,6 +19991,11 @@
         "@id": "http://topo.art/r/t7984"
       }
     ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10508"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/8f7082e79c7cee62"
@@ -17086,6 +20048,49 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10508",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/ilinu"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/ilinu-incubateur-de-litterature-numerique-francophonie-canadienne/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t7139"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://topo.art/genid/9f18658511746595"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ILINU - Incubateur de littérature numérique (Francophonie canadienne)"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/8f7082e79c7cee62",
     "@type": [
       "http://schema.org/ImageObject"
@@ -17116,6 +20121,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "https://topo.art/genid/9f18658511746595",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://topo.art/chantier/wp-content/uploads/2025/08/ILINU-16x9-72dpi.jpg"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-22T16:37:43+00:00"
       }
     ]
   },
@@ -17771,7 +20793,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2026-11-17T20:45:23+00:00"
+        "@value": "2026-11-18T17:47:20+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -17835,7 +20857,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T20:45:23+00:00"
+        "@value": "2026-11-18T17:47:20+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -17961,6 +20983,16 @@
         "@id": "http://topo.art/r/t9851"
       }
     ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "http://topo.art/r/t9407"
+      }
+    ],
+    "http://schema.org/workFeatured": [
+      {
+        "@id": "http://topo.art/r/t10174"
+      }
+    ],
     "http://schema.org/image": [
       {
         "@id": "https://topo.art/genid/0d3e4d2b06f89cbd"
@@ -18069,6 +21101,39 @@
     ]
   },
   {
+    "@id": "http://topo.art/r/t10174",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://iflastandards.info/ns/lrm/lrmoo/F1"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://topo.art/production/scrolling-sans-fin/"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://topo.art/r/t9940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Scrolling sans fin"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ]
+  },
+  {
     "@id": "https://topo.art/genid/0d3e4d2b06f89cbd",
     "@type": [
       "http://schema.org/ImageObject"
@@ -18099,6 +21164,23 @@
       {
         "@language": "fr",
         "@value": "fr"
+      }
+    ]
+  },
+  {
+    "@id": "http://topo.art/r/t9940",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://annkarinebl.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ann Karine Bourdeau Leduc"
       }
     ]
   }
