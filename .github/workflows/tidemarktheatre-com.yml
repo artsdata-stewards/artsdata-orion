@@ -16,5 +16,6 @@ jobs:
           publisher: "${{ vars.CAPACOA_BOT }}"
           page-url: "https://tidemarktheatre.com"
           entity-identifier: "a.pp-content-grid-more.pp-more-link-button"
+          skolemization-exclude: '{"http://schema.org/Place":["http://schema.org/sameAs","http://schema.org/url"]}'
           token: "${{ secrets.GITHUB_TOKEN }}"
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
