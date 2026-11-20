@@ -3,6 +3,8 @@ name: Fetch tidemarktheatre-com Events
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '13 5 * * 4' # weekly
   
 jobs:
   artsdata-fetch-and-push:
