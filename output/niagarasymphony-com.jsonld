@@ -145,9 +145,6 @@
         "@id": "https://niagarasymphony.com/events/month/2027-01/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/2026-12-19/"
-      },
-      {
         "@id": "https://niagarasymphony.com/events/2026-12-20/"
       },
       {
@@ -244,10 +241,16 @@
         "@id": "https://niagarasymphony.com/venue/partridge-hall/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-16"
+        "@id": "https://niagarasymphony.com/events/2026-12-19/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-18"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-12-19"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-23"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-25"
       },
       {
         "@id": "https://niagarasymphony.com/event/steven-page/"
@@ -1778,73 +1781,6 @@
   },
   {
     "@id": "https://niagarasymphony.com/events/month/2027-01/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Events Archive - Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/events/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Niagara Symphony"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1595"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/"
-      }
-    ],
-    "https://theeventscalendar.com/": [
-      {
-        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
-      }
-    ]
-  },
-  {
-    "@id": "https://niagarasymphony.com/events/2026-12-19/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -3985,7 +3921,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-16",
+    "@id": "https://niagarasymphony.com/events/2026-12-19/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -4052,7 +3988,141 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-18",
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-12-19",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-23",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Niagara Symphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://niagarasymphony.com/wp-content/uploads/2023/11/NSO_75thAnniversaryLogoGrey-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1595"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://niagarasymphony.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-25",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -15780,9 +15850,6 @@
         "@id": "https://niagarasymphony.com/events/month/2027-01/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/2026-12-19/"
-      },
-      {
         "@id": "https://niagarasymphony.com/events/2026-12-20/"
       },
       {
@@ -15891,10 +15958,16 @@
         "@id": "https://niagarasymphony.com/venue/partridge-hall/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-16"
+        "@id": "https://niagarasymphony.com/events/2026-12-19/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-18"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-12-19"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-23"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-25"
       },
       {
         "@id": "https://niagarasymphony.com/event/dispatch-sep10/"
@@ -16346,9 +16419,6 @@
         "@id": "https://niagarasymphony.com/events/month/2027-01/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/2026-12-19/"
-      },
-      {
         "@id": "https://niagarasymphony.com/events/2026-12-20/"
       },
       {
@@ -16421,10 +16491,16 @@
         "@id": "https://niagarasymphony.com/venue/partridge-hall/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-16"
+        "@id": "https://niagarasymphony.com/events/2026-12-19/"
       },
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-18"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-12-19"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-23"
+      },
+      {
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-25"
       },
       {
         "@id": "https://niagarasymphony.com/venue/performing-arts-centre/?eventDisplay=past"
@@ -25621,22 +25697,81 @@
     ]
   },
   {
+    "@id": "https://niagarasymphony.com/event/dreams-dances/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://niagarasymphony.com/event/dreams-dances/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://niagarasymphony.com/event/dreams-dances/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T14:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-22T17:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://niagarasymphony.com/genid/18a68b9ca6a386e3"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://niagarasymphony.com/genid/a71c9619dced11c2"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://niagarasymphony.com/events/category/special-event/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dreams & Dances"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Fantasy, Fire, and Symphonic Grandeur\r\n\r\nThe concert bursts to life with Louise Farrenc’s Overture No. 2, a spirited and dramatic showcase of a composer whose music is finally receiving the attention it deserves. Brimming with energy, bold orchestral colours, and irresistible momentum, Farrenc sets the stage for an exciting evening.\r\n\r\nThen, acclaimed cellist Joseph Johnson takes centre stage for one of the most beloved works ever written for the instrument: Dvořák’s Cello Concerto. With its sweeping melodies, fiery drama, and moments of breathtaking tenderness, the concerto demands both extraordinary virtuosity and deep expression - the perfect showcase for Johnson’s remarkable artistry.\r\n\r\nThe evening concludes with Mendelssohn’s Symphony No. 5, “Reformation,” a work that journeys from mystery and tension to celebration and triumph. Its grand finale unleashes the full power of the orchestra, bringing the concert to an exhilarating close.\r\n\r\nAn inspiring journey through fantasy, tradition, and musical discovery."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://niagarasymphony.com/events/category/summer-in-niagara/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/08/NSO-2021-2022-Banner-2500x1000_orchestra1-web.jpg"
-      },
-      {
         "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/thumbnail_NSO-2021-2022-FBIG-1080x1080_colourblast_Brad2.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
-      {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/08/NSO-2021-2022-Banner-2500x1000_orchestra1-web.jpg"
-      },
       {
         "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/thumbnail_NSO-2021-2022-FBIG-1080x1080_colourblast_Brad2.jpg"
       }
@@ -25644,18 +25779,10 @@
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2000"
-      },
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
       }
     ],
     "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "800"
-      },
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
@@ -25666,16 +25793,10 @@
         "@language": "en",
         "@value": "en-US"
       }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "Concert"
-      }
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/93dbd028fae464c0",
+    "@id": "https://niagarasymphony.com/genid/5c5b3c458611c9ff",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25746,7 +25867,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/522370caadc83499",
+    "@id": "https://niagarasymphony.com/genid/8c4a93a2807e0878",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25863,38 +25984,30 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/DeSevigne_C_Nov2021-2-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/JD-Headshot-web.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/David-Fung-3-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Marina-web.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/DeSevigne_C_Nov2021-2-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/JD-Headshot-web.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/David-Fung-3-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Marina-web.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
-      },
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1000"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
-      },
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1000"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -25906,11 +26019,11 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "DeSevigne"
+        "@value": "Juliette Dunn"
       },
       {
         "@language": "en",
-        "@value": "David Fung"
+        "@value": "Marina"
       }
     ]
   },
@@ -25921,38 +26034,38 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Sarah-Slean-Photo-1_web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BT-composite-no-logo-left-lg_web.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/MusicofPhilCollins-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Sarah-Slean-Photo-1_web.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Sarah-Slean-Photo-1_web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/BT-composite-no-logo-left-lg_web.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/MusicofPhilCollins-web.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2021/07/Sarah-Slean-Photo-1_web.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1500"
+        "@value": "1000"
       },
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "800"
+        "@value": "1500"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1500"
+        "@value": "1000"
       },
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "800"
+        "@value": "1500"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -25964,16 +26077,16 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "sarah slean"
+        "@value": "brass transit"
       },
       {
         "@language": "en",
-        "@value": "Singer and guitarist playing music of Phil Colins."
+        "@value": "sarah slean"
       }
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7a12030ead41ed68",
+    "@id": "https://niagarasymphony.com/genid/ed702a34e2c7f7fd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26174,35 +26287,27 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Gavin_Hope.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/BradsHomefortheHolidays.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Rodgers_Hammerstein-1.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Classic_Rock_Jukebox.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Gavin_Hope.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/BradsHomefortheHolidays.jpg"
       },
       {
-        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Rodgers_Hammerstein-1.jpg"
+        "@id": "https://niagarasymphony.com/wp-content/uploads/2023/05/Classic_Rock_Jukebox.jpg"
       }
     ],
     "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      },
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
       }
     ],
     "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      },
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "800"
@@ -26430,7 +26535,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/350b6713727e7c96",
+    "@id": "https://niagarasymphony.com/genid/6b4cc4ed36c92756",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26468,7 +26573,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-18"
+        "@id": "https://niagarasymphony.com/events/list/?tribe-bar-date=2026-11-25"
       }
     ],
     "http://schema.org/name": [
@@ -37180,76 +37285,6 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/event/dreams-dances/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://niagarasymphony.com/event/dreams-dances/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://niagarasymphony.com/event/dreams-dances/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-22T14:30:00-05:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-11-22T17:00:00-05:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://niagarasymphony.com/genid/18a68b9ca6a386e3"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://niagarasymphony.com/genid/a71c9619dced11c2"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://niagarasymphony.com/event/dreams-dances/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://niagarasymphony.com/event/dreams-dances/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Dreams & Dances"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Fantasy, Fire, and Symphonic Grandeur\r\n\r\nThe concert bursts to life with Louise Farrenc’s Overture No. 2, a spirited and dramatic showcase of a composer whose music is finally receiving the attention it deserves. Brimming with energy, bold orchestral colours, and irresistible momentum, Farrenc sets the stage for an exciting evening.\r\n\r\nThen, acclaimed cellist Joseph Johnson takes centre stage for one of the most beloved works ever written for the instrument: Dvořák’s Cello Concerto. With its sweeping melodies, fiery drama, and moments of breathtaking tenderness, the concerto demands both extraordinary virtuosity and deep expression - the perfect showcase for Johnson’s remarkable artistry.\r\n\r\nThe evening concludes with Mendelssohn’s Symphony No. 5, “Reformation,” a work that journeys from mystery and tension to celebration and triumph. Its grand finale unleashes the full power of the orchestra, bringing the concert to an exhilarating close.\r\n\r\nAn inspiring journey through fantasy, tradition, and musical discovery."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
     "@id": "https://niagarasymphony.com/genid/717b1a89c3179d90",
     "@type": [
       "http://schema.org/ReadAction"
@@ -37542,7 +37577,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/d13927fb5d316745",
+    "@id": "https://niagarasymphony.com/genid/d8ce8ac7fc91451d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37625,7 +37660,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6088159408349e2f",
+    "@id": "https://niagarasymphony.com/genid/e6afe2fbfad723d4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37696,7 +37731,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/991be950557c43ee",
+    "@id": "https://niagarasymphony.com/genid/5fe93ca5063d87ba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37767,7 +37802,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/f25a8f8e7c31c590",
+    "@id": "https://niagarasymphony.com/genid/42975c249de69a29",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37838,7 +37873,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/43604b31a781f5d8",
+    "@id": "https://niagarasymphony.com/genid/e68e0f2438c205c2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37921,7 +37956,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/ed77cd288603fcb7",
+    "@id": "https://niagarasymphony.com/genid/817a318b208fd042",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -37992,7 +38027,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/dc330506f7f89653",
+    "@id": "https://niagarasymphony.com/genid/01c2dadfaf11c2bc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38063,7 +38098,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/44ba9e656682d960",
+    "@id": "https://niagarasymphony.com/genid/ee6d88352b42b8da",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38146,7 +38181,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7266da4e63acc76a",
+    "@id": "https://niagarasymphony.com/genid/37d862f3ee115feb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38229,7 +38264,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/57ac2d683ab4becc",
+    "@id": "https://niagarasymphony.com/genid/1e0cd34ed53c505e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38372,7 +38407,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/69b93f70053a9923",
+    "@id": "https://niagarasymphony.com/genid/59d642c3fb2ee79d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38384,13 +38419,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:15-05:00"
+        "@value": "2026-11-24T18:38:40-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:15-05:00"
+        "@value": "2026-11-24T18:38:40-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -38445,7 +38480,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/096805ab0e065ed2",
+    "@id": "https://niagarasymphony.com/genid/c330e9084edf89cf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38528,7 +38563,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6d6c62d1c21db393",
+    "@id": "https://niagarasymphony.com/genid/3779f3829411bfc7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38599,7 +38634,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/5cecf9f5d0165f9c",
+    "@id": "https://niagarasymphony.com/genid/dc9fb400b8a8db2f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38611,13 +38646,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:27-05:00"
+        "@value": "2026-11-24T18:38:51-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:27-05:00"
+        "@value": "2026-11-24T18:38:51-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -38672,7 +38707,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/aa4676ccd10493f8",
+    "@id": "https://niagarasymphony.com/genid/4d0f4e5eb308ae5e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38815,7 +38850,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/9cbb600aa5a7f6d8",
+    "@id": "https://niagarasymphony.com/genid/c41ea34c4cf9a3c0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38827,13 +38862,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:36-05:00"
+        "@value": "2026-11-24T18:38:59-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:49:36-05:00"
+        "@value": "2026-11-24T18:38:59-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -38888,7 +38923,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7ea7cd48cd5b6a8a",
+    "@id": "https://niagarasymphony.com/genid/4f0cc09e69253076",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -38971,7 +39006,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6de63a11bfdeebf6",
+    "@id": "https://niagarasymphony.com/genid/3fa351203bd9490b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39054,7 +39089,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/813ec5eb40566c96",
+    "@id": "https://niagarasymphony.com/genid/3acf169d6578940f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39125,7 +39160,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/134678db435d6708",
+    "@id": "https://niagarasymphony.com/genid/fba71d033f2aaf2d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39208,7 +39243,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/03a0d062862f74bd",
+    "@id": "https://niagarasymphony.com/genid/31a069e3e86dc7bf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39291,7 +39326,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/f08e208ab9c36138",
+    "@id": "https://niagarasymphony.com/genid/107a816927aa0acb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39374,7 +39409,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/6468de0502c1f021",
+    "@id": "https://niagarasymphony.com/genid/dc9fd78c20184bb0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39457,7 +39492,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/de5b51ffcadefb14",
+    "@id": "https://niagarasymphony.com/genid/1bce7f52a852816c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39533,7 +39568,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/f2d6abab45f28e8f",
+    "@id": "https://niagarasymphony.com/genid/a78a1bde38e5f642",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39545,13 +39580,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:13-05:00"
+        "@value": "2026-11-24T18:39:32-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:13-05:00"
+        "@value": "2026-11-24T18:39:32-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -39606,7 +39641,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/7492e64fc56a9a99",
+    "@id": "https://niagarasymphony.com/genid/d108e7ddd8332b4a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39689,7 +39724,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/9294a4c8f90386c8",
+    "@id": "https://niagarasymphony.com/genid/5cb3f72b1bc7217e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39760,7 +39795,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/175d99b84a32cf41",
+    "@id": "https://niagarasymphony.com/genid/4898c69d763383d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39831,7 +39866,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/9dbf3e797abd08e2",
+    "@id": "https://niagarasymphony.com/genid/3acfa52b9ab2ab25",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39843,13 +39878,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:26-05:00"
+        "@value": "2026-11-24T18:39:42-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:26-05:00"
+        "@value": "2026-11-24T18:39:42-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -39904,7 +39939,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/cb284c91163eee9e",
+    "@id": "https://niagarasymphony.com/genid/5aef25d3bd7fde9a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39975,7 +40010,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/9bdc862a75021ed7",
+    "@id": "https://niagarasymphony.com/genid/0d97611b23128f8f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -39987,13 +40022,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:34-05:00"
+        "@value": "2026-11-24T18:39:49-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:34-05:00"
+        "@value": "2026-11-24T18:39:49-05:00"
       }
     ],
     "http://schema.org/location": [
@@ -40048,7 +40083,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/e6789146ee9434e6",
+    "@id": "https://niagarasymphony.com/genid/6ba4a6085432a9e8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -40119,7 +40154,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/54955fd8e2044942",
+    "@id": "https://niagarasymphony.com/genid/26eed61f2e01c27a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -40190,7 +40225,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/69701261f6024499",
+    "@id": "https://niagarasymphony.com/genid/c04080ba5faa6169",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -40261,7 +40296,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/d20db588855bf1c4",
+    "@id": "https://niagarasymphony.com/genid/7d12ee730ddb490b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -40332,7 +40367,7 @@
     ]
   },
   {
-    "@id": "https://niagarasymphony.com/genid/920ba2c14114753b",
+    "@id": "https://niagarasymphony.com/genid/0386d0c27d3a4374",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -40344,13 +40379,13 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:42-05:00"
+        "@value": "2026-11-24T18:39:58-05:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-11-17T16:50:42-05:00"
+        "@value": "2026-11-24T18:39:58-05:00"
       }
     ],
     "http://schema.org/location": [
