@@ -29265,289 +29265,6 @@
     ]
   },
   {
-    "@id": "https://petittheatre.org/evenement/faf-dilate/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "FAF | Dilaté - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "L’humour noir et les répliques percutantes de Faf reviennent en force! Découvrez l’univers déjanté et les anecdotes totalement absurdes d’un artiste à la vie surprenante et en perpétuelle expansion."
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "La plus grande dilatation de l’univers depuis le Big Bang : un peu plus haut, un peu plus loin, un peu plus fort! L’humour de Faf, comme son tour de taille, est en perpétuelle expansion. \nDans ce"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-09T17:27:28+00:00"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "2026-10-09T17:27:28-05:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2560"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1440"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/webp"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://petittheatre.org/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-09T17:24:23+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-10-09T17:27:28+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://petittheatre.org/genid/00ac052c3250bc2e"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://petittheatre.org/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "FAF | Dilaté - Le Petit Théâtre du Vieux Noranda"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1440"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/genid/00ac052c3250bc2e",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/faf-dilate/#event",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-30T20:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2027-04-30T21:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://petittheatre.org/genid/f10a331afa486826"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "FAF | Dilaté"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "L’humour noir et les répliques percutantes de Faf reviennent en force! Découvrez l’univers déjanté et les anecdotes totalement absurdes d’un artiste à la vie surprenante et en perpétuelle expansion.\r\n\r\n"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://petittheatre.org/evenement/faf-dilate/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://petittheatre.org/evenement/faf-dilate/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "FAF | Dilaté"
-      }
-    ]
-  },
-  {
     "@id": "https://petittheatre.org/evenement/the-rock-show/",
     "http://ogp.me/ns#locale": [
       {
@@ -32378,6 +32095,289 @@
       {
         "@language": "fr",
         "@value": "Jerry Tremblay | Searching for Love"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/faf-dilate/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "FAF | Dilaté - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "L’humour noir et les répliques percutantes de Faf reviennent en force! Découvrez l’univers déjanté et les anecdotes totalement absurdes d’un artiste à la vie surprenante et en perpétuelle expansion."
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "La plus grande dilatation de l’univers depuis le Big Bang : un peu plus haut, un peu plus loin, un peu plus fort! L’humour de Faf, comme son tour de taille, est en perpétuelle expansion. \nDans ce"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-11-24T20:50:07+00:00"
+      },
+      {
+        "@language": "fr-ca",
+        "@value": "2026-11-24T20:50:07-05:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1440"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-09T17:24:23+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-24T20:50:07+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://petittheatre.org/genid/00ac052c3250bc2e"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FAF | Dilaté - Le Petit Théâtre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1440"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/genid/00ac052c3250bc2e",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/faf-dilate/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-30T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-30T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://petittheatre.org/genid/f10a331afa486826"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://petittheatre.org/genid/e7233ad31487cb48"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FAF | Dilaté"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "L’humour noir et les répliques percutantes de Faf reviennent en force! Découvrez l’univers déjanté et les anecdotes totalement absurdes d’un artiste à la vie surprenante et en perpétuelle expansion.\r\n\r\n"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/evenement/faf-dilate/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/evenement/faf-dilate/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2026/10/FAF_DILATE_SITE_WEB-scaled.webp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FAF | Dilaté"
       }
     ]
   }
