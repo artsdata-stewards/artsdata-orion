@@ -1,310 +1,5 @@
 [
   {
-    "@id": "https://www.centredesarts.ca/spectacle/in-my-body-crazy-smooth",
-    "fb:app_id": [
-      {
-        "@language": "fr",
-        "@value": "966242223397117"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "In My Body - Crazy Smooth | Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.centredesarts.ca/spectacle/in-my-body-crazy-smooth"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "In My Body - Crazy Smooth"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/crazy-smooth-in-my-body-20ans-20-1280x720-MD.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr",
-        "@value": "1280"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr",
-        "@value": "720"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Le chorégraphe Crazy Smooth rassemble de danseurs intergénérationnels dans ce nouveau spectacle de street dance, In My Body."
-      }
-    ],
-    "http://ogp.me/ns#image:alt": [
-      {
-        "@language": "fr",
-        "@value": "In My Body - Crazy Smooth"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.centredesarts.ca/spectacle/in-my-body-crazy-smooth"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/1e7c5ec10332d5cf",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/deee289df61aa1ae"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/36707190ec6760a4"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/399af58b9b65fae6"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/dc9bb6557fc1c3a3"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.centredesarts.ca/spectacle/in-my-body-crazy-smooth"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@language": "fr",
-        "@value": "2026-11-25T19:30:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@language": "fr",
-        "@value": "2026-11-25T21:30:00"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "In My Body - Crazy Smooth"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "12"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.centredesarts.ca/spectacle/in-my-body-crazy-smooth"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/crazy-smooth-in-my-body-20ans-20-1280x720-MD.webp"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/deee289df61aa1ae",
-    "@type": [
-      "https://schema.org/Place"
-    ],
-    "https://schema.org/containedInPlace": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/e10feaf2e78fd48e"
-      }
-    ],
-    "https://schema.org/address": [
-      {
-        "@id": "https://www.centredesarts.ca/genid/3e045ece65cd189f"
-      }
-    ],
-    "https://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Desjardins"
-      }
-    ],
-    "https://schema.org/alternateName": [
-      {
-        "@language": "fr",
-        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
-      }
-    ],
-    "https://schema.org/sameAs": [
-      {
-        "@language": "fr",
-        "@value": "http://www.wikidata.org/entity/Q111668872"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/36707190ec6760a4",
-    "@type": [
-      "https://schema.org/Organization"
-    ],
-    "https://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@language": "fr",
-        "@value": "https://www.centredesarts.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/399af58b9b65fae6",
-    "@type": [
-      "https://schema.org/Offer"
-    ],
-    "https://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "http://schema.org/InStock"
-      }
-    ],
-    "https://schema.org/validFrom": [
-      {
-        "@language": "fr",
-        "@value": "2026-04-29"
-      }
-    ],
-    "https://schema.org/validThrough": [
-      {
-        "@language": "fr",
-        "@value": "2026-11-25"
-      }
-    ],
-    "https://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "20"
-      }
-    ],
-    "https://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@language": "fr",
-        "@value": "https://centredesarts.tuxedobillet.com/main/in-my-body-crazy-smooth-261125/20261125193000"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/dc9bb6557fc1c3a3",
-    "@type": [
-      "https://schema.org/Person"
-    ],
-    "https://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "In My Body - Crazy Smooth"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/e10feaf2e78fd48e",
-    "@type": [
-      "https://schema.org/Place"
-    ],
-    "https://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.centredesarts.ca/genid/3e045ece65cd189f",
-    "@type": [
-      "https://schema.org/PostalAddress"
-    ],
-    "https://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1705 rue Saint-Antoine"
-      }
-    ],
-    "https://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Saint-Hyacinthe"
-      }
-    ],
-    "https://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "https://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J2S 9E2"
-      }
-    ],
-    "https://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
     "@id": "https://www.centredesarts.ca/spectacle/humour-jean-michel-anctil",
     "fb:app_id": [
       {
@@ -379,7 +74,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/982569cc0fd2b6eb",
+    "@id": "https://www.centredesarts.ca/genid/4b043982fc6870c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -456,6 +151,58 @@
     ]
   },
   {
+    "@id": "https://www.centredesarts.ca/genid/deee289df61aa1ae",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "https://www.centredesarts.ca/genid/e10feaf2e78fd48e"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "https://www.centredesarts.ca/genid/3e045ece65cd189f"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.centredesarts.ca/genid/36707190ec6760a4",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
     "@id": "https://www.centredesarts.ca/genid/524fd0d95d022f58",
     "@type": [
       "https://schema.org/Offer"
@@ -506,6 +253,54 @@
       {
         "@language": "fr",
         "@value": "Jean-Michel Anctil"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.centredesarts.ca/genid/e10feaf2e78fd48e",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.centredesarts.ca/genid/3e045ece65cd189f",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
       }
     ]
   },
@@ -584,7 +379,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/67aadf721dd3d694",
+    "@id": "https://www.centredesarts.ca/genid/c68df9b83eaed65b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -823,7 +618,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/021e0dfff993a0a9",
+    "@id": "https://www.centredesarts.ca/genid/ef311ffe02a73d3a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1028,7 +823,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/43f1e71bf006d9df",
+    "@id": "https://www.centredesarts.ca/genid/155b7c4aeca27862",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1233,7 +1028,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5cd8c3602d13107f",
+    "@id": "https://www.centredesarts.ca/genid/36e4c297bc801326",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1404,7 +1199,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jf-otis-avec-plaisir-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/jf-otis-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -1438,7 +1233,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/677176df0b548406",
+    "@id": "https://www.centredesarts.ca/genid/93c51ee519d95983",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1500,7 +1295,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jf-otis-avec-plaisir-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/jf-otis-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1609,7 +1404,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/kim-richardson-mon-noel-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/kim-richardson-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -1643,7 +1438,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/3288fd67a12f8dac",
+    "@id": "https://www.centredesarts.ca/genid/cd6f1cb8e476f430",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1705,7 +1500,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/kim-richardson-mon-noel-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/kim-richardson-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1814,7 +1609,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/chris-klafford-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/chris-klafford-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -1848,7 +1643,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/53fe8dfde8278d50",
+    "@id": "https://www.centredesarts.ca/genid/180af6dbe6eb9624",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1910,7 +1705,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/chris-klafford-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/chris-klafford-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2053,7 +1848,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/d62ac9fd2cc64d38",
+    "@id": "https://www.centredesarts.ca/genid/550742bbe1067e35",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2224,7 +2019,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/livre-magique-jeunesse-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/livre-magique-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -2258,7 +2053,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/381716ae4af3aa8d",
+    "@id": "https://www.centredesarts.ca/genid/5c4b9604690744ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2320,7 +2115,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/livre-magique-jeunesse-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/livre-magique-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2463,7 +2258,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f4d00f4f20fba438",
+    "@id": "https://www.centredesarts.ca/genid/d1d629b00042d24e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2696,7 +2491,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/0f99ab3558a133a2",
+    "@id": "https://www.centredesarts.ca/genid/304f34c352c9f3e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2901,7 +2696,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/7f520c93ff0f9e30",
+    "@id": "https://www.centredesarts.ca/genid/da8efbf0e79fbeab",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3106,7 +2901,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/542315ea48824656",
+    "@id": "https://www.centredesarts.ca/genid/5a7f2740788061b4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3311,7 +3106,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/bba8d085f5ebacbe",
+    "@id": "https://www.centredesarts.ca/genid/c3140b97f2839187",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3516,7 +3311,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2429ae2feba73550",
+    "@id": "https://www.centredesarts.ca/genid/e02dc778e73948b6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3721,7 +3516,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a405f9c1d354dea2",
+    "@id": "https://www.centredesarts.ca/genid/245852e3963bf32a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3926,7 +3721,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8888787db418d702",
+    "@id": "https://www.centredesarts.ca/genid/33e16d545f16a4a6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4131,7 +3926,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/0ad90a81490f6759",
+    "@id": "https://www.centredesarts.ca/genid/c9bfe5c0e79ff463",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4336,7 +4131,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/921dc89a8719c0d6",
+    "@id": "https://www.centredesarts.ca/genid/b02b82c0a2484b16",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4541,7 +4336,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/72f0b6254eeea8e3",
+    "@id": "https://www.centredesarts.ca/genid/86d6b084ca8eb930",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4712,7 +4507,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/2freres-origine-temporaire-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/2freres-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -4746,7 +4541,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5e21ba4ed85939f6",
+    "@id": "https://www.centredesarts.ca/genid/d13b7effe353d637",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4808,7 +4603,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/2freres-origine-temporaire-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/2freres-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4951,7 +4746,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8149769f0ebee07a",
+    "@id": "https://www.centredesarts.ca/genid/a808e08ffe6b4723",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5122,7 +4917,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/billy-tellier-kicker-la-ruche-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/billy-tellier-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -5156,7 +4951,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/84100e9f8faf0778",
+    "@id": "https://www.centredesarts.ca/genid/16e1443abc2bb567",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5218,7 +5013,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/billy-tellier-kicker-la-ruche-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/billy-tellier-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -5361,7 +5156,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/10034e8cd93d83b1",
+    "@id": "https://www.centredesarts.ca/genid/94875b0aed8821ea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5532,7 +5327,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/virginie-fortin-destin-fatal-mystere-total-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/virginie-fortin-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -5566,7 +5361,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e9a99d1caceb8c43",
+    "@id": "https://www.centredesarts.ca/genid/89f6764b39489f00",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5628,7 +5423,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/virginie-fortin-destin-fatal-mystere-total-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/virginie-fortin-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -5771,7 +5566,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/1819c55be1b31795",
+    "@id": "https://www.centredesarts.ca/genid/d6046a637804a6af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5976,7 +5771,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fe5f9c8b5fbf85c7",
+    "@id": "https://www.centredesarts.ca/genid/b8c10f66c0e24ff0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6181,7 +5976,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/7b988e148965670f",
+    "@id": "https://www.centredesarts.ca/genid/97885dc3b993d06a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6386,7 +6181,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a9895c4eb8e6a812",
+    "@id": "https://www.centredesarts.ca/genid/bca13c5326b9ba55",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6591,7 +6386,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e69b7e6830712bac",
+    "@id": "https://www.centredesarts.ca/genid/47e951b5e7ef2f41",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6762,7 +6557,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/elles-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/elles-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -6796,7 +6591,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fcef188c57a5bcee",
+    "@id": "https://www.centredesarts.ca/genid/26e7dbe9f1b7b2d0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6858,7 +6653,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/elles-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/elles-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -7001,7 +6796,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/d8052c9e753776fe",
+    "@id": "https://www.centredesarts.ca/genid/2bb181d7217fa475",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7206,7 +7001,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/ce33445fab17bf1e",
+    "@id": "https://www.centredesarts.ca/genid/f31daf435b8e91e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7377,7 +7172,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/olivier-martineau-c-est-pas-toi-c-est-moi-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/olivier-martineau-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -7411,7 +7206,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/03bb21f07a3f9eaa",
+    "@id": "https://www.centredesarts.ca/genid/33cc9f2baecc32bc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7473,7 +7268,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/olivier-martineau-c-est-pas-toi-c-est-moi-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/olivier-martineau-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -7616,7 +7411,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5a12526e6467e972",
+    "@id": "https://www.centredesarts.ca/genid/5faf0dcf964063fe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7821,7 +7616,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5f15179ad6cce5ac",
+    "@id": "https://www.centredesarts.ca/genid/01f36f2cac6d3b45",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8026,7 +7821,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fe0a915cd8707af8",
+    "@id": "https://www.centredesarts.ca/genid/26e369478f11b29d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8231,7 +8026,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/063404797b5fa105",
+    "@id": "https://www.centredesarts.ca/genid/69a7b8411d755773",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8436,7 +8231,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/93d3663b2258a82d",
+    "@id": "https://www.centredesarts.ca/genid/39625ba7293edf18",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8641,7 +8436,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/c95d5fc484502202",
+    "@id": "https://www.centredesarts.ca/genid/dea2299e79bc2f4c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8812,7 +8607,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/gala-comedie-star-2027-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/gala-comedie-star-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -8846,7 +8641,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/7f308c06998a32b6",
+    "@id": "https://www.centredesarts.ca/genid/a4b7258ccaa4c159",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8908,7 +8703,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/gala-comedie-star-2027-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/gala-comedie-star-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -9051,7 +8846,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/eb2ed0bf7d10b67f",
+    "@id": "https://www.centredesarts.ca/genid/3ac71edc925690db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9222,7 +9017,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/effet-lisa-richard-desjardins-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/effet-lisa-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -9256,7 +9051,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e5c5bb662bfda55f",
+    "@id": "https://www.centredesarts.ca/genid/1174cc5ecae6c15f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9318,7 +9113,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/effet-lisa-richard-desjardins-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/effet-lisa-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -9461,7 +9256,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/3ba32c6ca2d13632",
+    "@id": "https://www.centredesarts.ca/genid/0b9c47bb623e1472",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9666,7 +9461,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/26434866e4ad41b7",
+    "@id": "https://www.centredesarts.ca/genid/80a8d671c5aa65aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9871,7 +9666,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/328d0efb416c9142",
+    "@id": "https://www.centredesarts.ca/genid/3f8650f1c26d1db9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10076,7 +9871,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/1283eb07893a989f",
+    "@id": "https://www.centredesarts.ca/genid/96c45f4162a115e3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10281,7 +10076,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/d111b65656e82f50",
+    "@id": "https://www.centredesarts.ca/genid/c6a59488dd38e3db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10486,7 +10281,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5b92f8de393035c9",
+    "@id": "https://www.centredesarts.ca/genid/cfc5dde8382ba2a6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10657,7 +10452,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/emile-bilodeau-bill-aux-iles-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bilodeau-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -10691,7 +10486,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e1966a3a3b1032b7",
+    "@id": "https://www.centredesarts.ca/genid/097bb919795d0ec0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10753,7 +10548,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/emile-bilodeau-bill-aux-iles-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bilodeau-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -10896,7 +10691,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/808a6d030c2d83d9",
+    "@id": "https://www.centredesarts.ca/genid/1a8dcf4ae14700a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11067,7 +10862,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/dominique-fils-aime-the-sunshine-tour-1280-720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/dominique-fils-aime-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -11101,7 +10896,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/3d9d3fc1af20a54c",
+    "@id": "https://www.centredesarts.ca/genid/f469fabc759314e8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11163,7 +10958,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/dominique-fils-aime-the-sunshine-tour-1280-720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/dominique-fils-aime-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -11272,7 +11067,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/dumas-piano-voix-diapos-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/dumas-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -11306,7 +11101,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/97145421461d5824",
+    "@id": "https://www.centredesarts.ca/genid/3b2e26c573e027b9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11368,7 +11163,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/dumas-piano-voix-diapos-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/dumas-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -11511,7 +11306,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/4e0f956ac1fe4a3b",
+    "@id": "https://www.centredesarts.ca/genid/a6d4c25c6c6ada72",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11716,7 +11511,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/ed5d6fcc0b8ebe63",
+    "@id": "https://www.centredesarts.ca/genid/99b1d0667ad003ef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11921,7 +11716,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/0217cfd8b572e57e",
+    "@id": "https://www.centredesarts.ca/genid/39c2e88633505c11",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12126,7 +11921,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a3927fab5b021df7",
+    "@id": "https://www.centredesarts.ca/genid/4a4e38522e848b97",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12297,7 +12092,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/p-o-forget-prises-de-tete-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/p-o-forget-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -12331,7 +12126,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a16b085537a8e7cb",
+    "@id": "https://www.centredesarts.ca/genid/e1d2a934c691e0c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12393,7 +12188,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/p-o-forget-prises-de-tete-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/p-o-forget-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -12536,7 +12331,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/3ac47a893baeeab2",
+    "@id": "https://www.centredesarts.ca/genid/043f416694cd6aef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12707,7 +12502,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/florida-theatre-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/florida-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -12741,7 +12536,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/16f7b88e80d9b1bb",
+    "@id": "https://www.centredesarts.ca/genid/341c0aa0e1aee32c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12803,7 +12598,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/florida-theatre-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/florida-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -12946,7 +12741,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/398df5bb95b835b1",
+    "@id": "https://www.centredesarts.ca/genid/b0674ec59fbbd795",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13117,7 +12912,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/megan-brouillard-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/megan-brouillard-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -13151,7 +12946,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/6efa6ccc03317fb4",
+    "@id": "https://www.centredesarts.ca/genid/f7ead3fe2f9a2d3f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13213,7 +13008,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/megan-brouillard-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/megan-brouillard-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -13356,7 +13151,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a46cff039117ace8",
+    "@id": "https://www.centredesarts.ca/genid/d89bff10f5a55901",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13527,7 +13322,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/ouellet-dans-l-temps-qu-on-riait-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/ouellet-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -13561,7 +13356,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/90f922affce3e0d7",
+    "@id": "https://www.centredesarts.ca/genid/675a24098ed8a78a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13623,7 +13418,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/ouellet-dans-l-temps-qu-on-riait-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/ouellet-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -13766,7 +13561,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/10354ad5bafa3d37",
+    "@id": "https://www.centredesarts.ca/genid/489537a85feed194",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13937,7 +13732,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/empire-musical-wilkin-dufour-pedneault-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/empire-musical-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -13971,7 +13766,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/683f2ce25bb5cbd3",
+    "@id": "https://www.centredesarts.ca/genid/e67444fd96fa6b0e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14033,7 +13828,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/empire-musical-wilkin-dufour-pedneault-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/empire-musical-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -14142,7 +13937,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/francine-ruel-la-colombe-le-pigeon-et-moi-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/francine-ruel-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -14176,7 +13971,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8ee11e529b13bbfb",
+    "@id": "https://www.centredesarts.ca/genid/402fa5999294dc9d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14238,7 +14033,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/francine-ruel-la-colombe-le-pigeon-et-moi-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/francine-ruel-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -14381,7 +14176,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/47bf1917aead276f",
+    "@id": "https://www.centredesarts.ca/genid/f345783a42a2bab7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14586,7 +14381,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9d8972250015dba7",
+    "@id": "https://www.centredesarts.ca/genid/8d9be41eb544cbf7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14791,7 +14586,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/803b731e970b8359",
+    "@id": "https://www.centredesarts.ca/genid/a6563c9a59a26f72",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14962,7 +14757,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/diner-de-con-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/diner-de-cons-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -14996,7 +14791,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8c06f3daee766890",
+    "@id": "https://www.centredesarts.ca/genid/5508b1cd2fe2e0e8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15058,7 +14853,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/diner-de-con-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/diner-de-cons-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -15201,7 +14996,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a2e4092644e0b56e",
+    "@id": "https://www.centredesarts.ca/genid/df4b89d275012ecf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15372,7 +15167,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jerry-tremblay-searching-for-love-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/jerry-tremblay-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -15406,7 +15201,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f12db14ed4a37fcc",
+    "@id": "https://www.centredesarts.ca/genid/6be5e590199960f1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15468,7 +15263,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jerry-tremblay-searching-for-love-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/jerry-tremblay-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -15611,7 +15406,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/c985c4157eaea78a",
+    "@id": "https://www.centredesarts.ca/genid/64672508c88425e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15816,7 +15611,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/04145e09d4d74378",
+    "@id": "https://www.centredesarts.ca/genid/22b27da76d49e6aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16021,7 +15816,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2ababe10bea801c4",
+    "@id": "https://www.centredesarts.ca/genid/475e9906faa5f56c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16285,7 +16080,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/c1e50743cbc8a512",
+    "@id": "https://www.centredesarts.ca/genid/4cba258ff3b254f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16456,7 +16251,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/david-corriveau-100-contrefacons-new-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/david-corriveau-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -16490,7 +16285,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fa9273ae812cd59a",
+    "@id": "https://www.centredesarts.ca/genid/b80b9ba7be50e169",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16552,7 +16347,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/david-corriveau-100-contrefacons-new-1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/david-corriveau-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -16695,7 +16490,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/b86f339223d7ce90",
+    "@id": "https://www.centredesarts.ca/genid/c1f854158c27a235",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16900,7 +16695,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/15b0fd8ede55f679",
+    "@id": "https://www.centredesarts.ca/genid/75e54131b1126378",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17105,7 +16900,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/b566ac2443e1605c",
+    "@id": "https://www.centredesarts.ca/genid/7be93cbac1151ce7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17310,7 +17105,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f7de2425977fc5ff",
+    "@id": "https://www.centredesarts.ca/genid/edc1a34c06803f85",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17515,7 +17310,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/d4eec0e7a18561ca",
+    "@id": "https://www.centredesarts.ca/genid/07fb78dcae9c55a6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17720,7 +17515,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/429f7f2d6508a722",
+    "@id": "https://www.centredesarts.ca/genid/44fee804bda5584a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17891,7 +17686,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/mike-beaudoin-acharne-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/mike-beaudoin-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -17925,7 +17720,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/07b85022e1c3b5d7",
+    "@id": "https://www.centredesarts.ca/genid/92fc94b183888a0e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17987,7 +17782,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/mike-beaudoin-acharne-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/mike-beaudoin-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -18130,7 +17925,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/0136c6a89e418c5d",
+    "@id": "https://www.centredesarts.ca/genid/316dd739e4bc7340",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18335,7 +18130,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/29589cfd8e2c6615",
+    "@id": "https://www.centredesarts.ca/genid/60bb8a685ade9021",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18506,7 +18301,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/cirque-alfonse-la-noce-d-alfonse-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/cirque-alfonse-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -18540,7 +18335,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/18dbe8419db34f23",
+    "@id": "https://www.centredesarts.ca/genid/826c3b88b477b98f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18602,7 +18397,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/cirque-alfonse-la-noce-d-alfonse-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/cirque-alfonse-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -18745,7 +18540,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a9c6a5f71019a977",
+    "@id": "https://www.centredesarts.ca/genid/65cbdc9c85e19798",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18916,7 +18711,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/alex-roy-debout-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/alex-roy-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -18950,7 +18745,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f53d0da6b8a2d600",
+    "@id": "https://www.centredesarts.ca/genid/8ea512b215a8fd75",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19012,7 +18807,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/alex-roy-debout-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/alex-roy-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -19155,7 +18950,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/df93ecbceb0a22b6",
+    "@id": "https://www.centredesarts.ca/genid/b871699ac0a76c61",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19326,7 +19121,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/glenn-gould-naissance-d-un-prodige-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/glenn-gould-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -19360,7 +19155,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5954c50d65db3b5e",
+    "@id": "https://www.centredesarts.ca/genid/ae29ba4ee93c4b00",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19422,7 +19217,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/glenn-gould-naissance-d-un-prodige-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/glenn-gould-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -19565,7 +19360,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5b33ecb64b5a4a58",
+    "@id": "https://www.centredesarts.ca/genid/ee6f6859fc228f20",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19770,7 +19565,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/4c38694acfb9b443",
+    "@id": "https://www.centredesarts.ca/genid/6a3a76c8c3e501d8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19941,7 +19736,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/alexandre-barrette-ouvert-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/alexandre-barrette-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -19975,7 +19770,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/1a17ce652d6a36c2",
+    "@id": "https://www.centredesarts.ca/genid/02af20cfa3c15129",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20037,7 +19832,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/alexandre-barrette-ouvert-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/alexandre-barrette-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -20146,7 +19941,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jey-fournier-attends-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/jey-fournier-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -20180,7 +19975,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/10809dd0e393af5b",
+    "@id": "https://www.centredesarts.ca/genid/4af7f5d82f634fae",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20242,7 +20037,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/jey-fournier-attends-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/jey-fournier-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -20351,7 +20146,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/sweet-caroline-hommage-a-neil-diamond-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/sweet-caroline-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -20385,7 +20180,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/840a49cb023f8fe6",
+    "@id": "https://www.centredesarts.ca/genid/a034f8d037d09ec7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20447,7 +20242,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/sweet-caroline-hommage-a-neil-diamond-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/sweet-caroline-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -20590,7 +20385,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5a23524ec680290d",
+    "@id": "https://www.centredesarts.ca/genid/1aa05f499a6e8f0c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20795,7 +20590,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/4aeca30d203ccdd3",
+    "@id": "https://www.centredesarts.ca/genid/cd3bc44e7f51e3b7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21000,7 +20795,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/569bcdff06daed06",
+    "@id": "https://www.centredesarts.ca/genid/68e005b36e49dfbd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21205,7 +21000,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8d32673316ad5856",
+    "@id": "https://www.centredesarts.ca/genid/8d14af2a72fc4a3b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21438,7 +21233,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/53d677e5751e0775",
+    "@id": "https://www.centredesarts.ca/genid/a39e62e399458dea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21643,7 +21438,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/6004940cb8f589eb",
+    "@id": "https://www.centredesarts.ca/genid/4c47e5df50682028",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21848,7 +21643,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9b368bff6d4e7b8b",
+    "@id": "https://www.centredesarts.ca/genid/d7cd440156b4edd1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22053,7 +21848,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9f771abdf1b597e6",
+    "@id": "https://www.centredesarts.ca/genid/30f6ce4e3195bf75",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22258,7 +22053,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a42afce44a03af22",
+    "@id": "https://www.centredesarts.ca/genid/59646e18c1896e6f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22463,7 +22258,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/684adb2b2b104b32",
+    "@id": "https://www.centredesarts.ca/genid/9b572fa6f44261d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22668,7 +22463,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9899857ce63544de",
+    "@id": "https://www.centredesarts.ca/genid/45154f995a58605c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22839,7 +22634,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/big-o-string-band-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/big-o-string-band-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -22873,7 +22668,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e491a042f953555d",
+    "@id": "https://www.centredesarts.ca/genid/ef37a26c14471356",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22935,7 +22730,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/big-o-string-band-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/big-o-string-band-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -23044,7 +22839,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/pascal-cameron-un-spectacle-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/pascal-cameron-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -23078,7 +22873,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8426d55b36f1e16a",
+    "@id": "https://www.centredesarts.ca/genid/8f996388d8f9c545",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23140,7 +22935,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/pascal-cameron-un-spectacle-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/pascal-cameron-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -23283,7 +23078,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/463f4e5a208987c6",
+    "@id": "https://www.centredesarts.ca/genid/9a847e8b59e41ee1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23488,7 +23283,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a72b1c4084bec84f",
+    "@id": "https://www.centredesarts.ca/genid/ebc1d0c3fd06b949",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23693,7 +23488,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/b1e2c92748c5e6e2",
+    "@id": "https://www.centredesarts.ca/genid/56876cf32b815673",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23898,7 +23693,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/92ba911382e840f7",
+    "@id": "https://www.centredesarts.ca/genid/f259a8fa7daf9892",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24103,7 +23898,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/cfb57f6b342a75e7",
+    "@id": "https://www.centredesarts.ca/genid/1d66e8fe6621491e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24308,7 +24103,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/ef4eff96ef2cbe36",
+    "@id": "https://www.centredesarts.ca/genid/70cfd42dbdd0ef6a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24479,7 +24274,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/michel-pagliaro-electrique-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/michek-pagliaro-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -24513,7 +24308,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2aab6cb97b1a82a7",
+    "@id": "https://www.centredesarts.ca/genid/de80e5db61467bbc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24575,7 +24370,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/michel-pagliaro-electrique-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/michek-pagliaro-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -24718,7 +24513,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5b732657b87b1678",
+    "@id": "https://www.centredesarts.ca/genid/ee486ed3c456458f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24923,7 +24718,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8e367050ab0a7fd4",
+    "@id": "https://www.centredesarts.ca/genid/aa19fe0037d83667",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25128,7 +24923,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f7935821fd53d86e",
+    "@id": "https://www.centredesarts.ca/genid/9e246e47cbef1cb3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25299,7 +25094,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/glass-tiger-acoustic-tour-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/glass-tiger-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -25333,7 +25128,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/322f7f1aa73eb329",
+    "@id": "https://www.centredesarts.ca/genid/75f5ea83fd4882d0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25395,7 +25190,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/glass-tiger-acoustic-tour-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/glass-tiger-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -25538,7 +25333,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e67bb96d1b3965b8",
+    "@id": "https://www.centredesarts.ca/genid/f06197d1bfae7558",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25709,7 +25504,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/boys-le-spectacle-nouvelle-distribution1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/les-boys-le-spectacle-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -25743,7 +25538,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/6fa70a53d7bcb83f",
+    "@id": "https://www.centredesarts.ca/genid/24b6c9c3279e96b0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25805,7 +25600,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/boys-le-spectacle-nouvelle-distribution1280x720-MD.png"
+        "@value": "https://www.centredesarts.ca/img-activites/les-boys-le-spectacle-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -25948,7 +25743,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/4923d164bbf70ef1",
+    "@id": "https://www.centredesarts.ca/genid/2dc08b9a35071d80",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26153,7 +25948,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2bbe984fdff45c88",
+    "@id": "https://www.centredesarts.ca/genid/7cca7ab36805f7b9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26358,7 +26153,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/cbbd18abc97c9d27",
+    "@id": "https://www.centredesarts.ca/genid/54b5a86a60791a6c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26563,7 +26358,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/5ce0d22265ea5a88",
+    "@id": "https://www.centredesarts.ca/genid/8f81cd19e195d328",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26768,7 +26563,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/e96f5c2685cef9f7",
+    "@id": "https://www.centredesarts.ca/genid/91d3ba1d018f7aa8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26939,7 +26734,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/luc-langevin-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/luc-langevin-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -26973,7 +26768,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/c4a3021a0f596764",
+    "@id": "https://www.centredesarts.ca/genid/132b8f682d1d4d4e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27035,7 +26830,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/luc-langevin-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/luc-langevin-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -27144,7 +26939,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/cathy-gauthier-humaine-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/cathy-gauthier-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -27178,7 +26973,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/160687bf3feda188",
+    "@id": "https://www.centredesarts.ca/genid/52e75f0890e96d62",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27240,7 +27035,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/cathy-gauthier-humaine-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/cathy-gauthier-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -27349,7 +27144,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/pour-une-autre-histoire-d-un-soir-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/pour-une-autre-histoitre-d-un-soir-vendredi-fou-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -27383,7 +27178,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9ad98f00df433021",
+    "@id": "https://www.centredesarts.ca/genid/fcd78a810ac09153",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27445,7 +27240,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/pour-une-autre-histoire-d-un-soir-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/pour-une-autre-histoitre-d-un-soir-vendredi-fou-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -27588,7 +27383,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/bdc87d94b17c3f98",
+    "@id": "https://www.centredesarts.ca/genid/eae354c2c850c062",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27793,7 +27588,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/cbe668c941b456ec",
+    "@id": "https://www.centredesarts.ca/genid/9edabad9207a9eb3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27998,7 +27793,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/458607470ce5200a",
+    "@id": "https://www.centredesarts.ca/genid/6ca4d8fae58b8e1b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28203,7 +27998,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/949c1d29691a0015",
+    "@id": "https://www.centredesarts.ca/genid/7d4da09bc681b3dd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28408,7 +28203,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/14300ca9a12ff46a",
+    "@id": "https://www.centredesarts.ca/genid/3239918212eab312",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28424,7 +28219,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://www.centredesarts.ca/genid/fc1b7825b8521c84"
+        "@id": "https://www.centredesarts.ca/genid/5ebfc90455b87e9f"
       }
     ],
     "http://schema.org/performer": [
@@ -28485,7 +28280,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fc1b7825b8521c84",
+    "@id": "https://www.centredesarts.ca/genid/5ebfc90455b87e9f",
     "@type": [
       "https://schema.org/Offer"
     ],
@@ -28522,7 +28317,7 @@
     "https://schema.org/url": [
       {
         "@language": "fr",
-        "@value": "https://centredesarts.tuxedobillet.com/main/janette-270910/20270910150000"
+        "@value": "https://centredesarts.tuxedobillet.com/main/janette-270911/2020911150000"
       }
     ]
   },
@@ -28613,7 +28408,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9960cd8a503ebeae",
+    "@id": "https://www.centredesarts.ca/genid/184899cd63dd44cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28818,7 +28613,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/a6e1f027d300cabe",
+    "@id": "https://www.centredesarts.ca/genid/fa60986032d6615c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28989,7 +28784,7 @@
     "http://ogp.me/ns#image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/phil-roy-danser-sous-la-pluie-1280x720-MD.jpg"
+        "@value": "https://www.centredesarts.ca/img-activites/phil-roy-1280x720-copie-MD.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -29023,7 +28818,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/77b1d74463ec21b6",
+    "@id": "https://www.centredesarts.ca/genid/579efcf74c548f1d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29085,7 +28880,7 @@
     "http://schema.org/image": [
       {
         "@language": "fr",
-        "@value": "https://www.centredesarts.ca/img-activites/phil-roy-danser-sous-la-pluie-1280x720-MD.webp"
+        "@value": "https://www.centredesarts.ca/img-activites/phil-roy-1280x720-copie-MD.webp"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -29228,7 +29023,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/ebb778a258bf9538",
+    "@id": "https://www.centredesarts.ca/genid/6e557dbf0e75c8ea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29433,7 +29228,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/ffce890b5a444346",
+    "@id": "https://www.centredesarts.ca/genid/d53c0f3a9542bfa1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29638,7 +29433,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/727f0037fa0c31bd",
+    "@id": "https://www.centredesarts.ca/genid/166a570d9964b722",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29843,7 +29638,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/0608a8683b3e77ac",
+    "@id": "https://www.centredesarts.ca/genid/5975a351385513f9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30048,7 +29843,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/dd87b3b6466fef3b",
+    "@id": "https://www.centredesarts.ca/genid/7daeb178aaaa4aa9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30253,7 +30048,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/533cdfa74d57601b",
+    "@id": "https://www.centredesarts.ca/genid/362b18aeb5ffc7d5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30458,7 +30253,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9dedc10557d33d3e",
+    "@id": "https://www.centredesarts.ca/genid/c25529218611d765",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30663,7 +30458,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2d2c8699a26622a8",
+    "@id": "https://www.centredesarts.ca/genid/289415141d804cf5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30868,7 +30663,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/b0b9eaabf33ac2cb",
+    "@id": "https://www.centredesarts.ca/genid/34973568785616ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31073,7 +30868,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/2cd7a1ce702c7542",
+    "@id": "https://www.centredesarts.ca/genid/765cf6d4f907785a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31278,7 +31073,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/d7026cd2b6ab60e3",
+    "@id": "https://www.centredesarts.ca/genid/b54d5bff831d920c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31483,7 +31278,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/08e762760e6fb175",
+    "@id": "https://www.centredesarts.ca/genid/27e9126c9bce51b6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31688,7 +31483,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/8c127181306b5729",
+    "@id": "https://www.centredesarts.ca/genid/6057decbd6c3ae44",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31893,7 +31688,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/dcff1d9e6f4de77b",
+    "@id": "https://www.centredesarts.ca/genid/700ff40584072afa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32098,7 +31893,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/471536ad236cdff4",
+    "@id": "https://www.centredesarts.ca/genid/ab5f38ec1bdf1144",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32303,7 +32098,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/fb5ab5fe77fcb19a",
+    "@id": "https://www.centredesarts.ca/genid/c7ee0722fbe9ac6a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32508,7 +32303,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/929ad76b9bd8ba00",
+    "@id": "https://www.centredesarts.ca/genid/6062c4fa54ac6647",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32713,7 +32508,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/085836d90e94bd1f",
+    "@id": "https://www.centredesarts.ca/genid/8ed8f0d366ab3eda",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32918,7 +32713,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/1cb484e7fb0ca11b",
+    "@id": "https://www.centredesarts.ca/genid/da8f3d04d79254cb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33123,7 +32918,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/3abfb3e4b2a299ed",
+    "@id": "https://www.centredesarts.ca/genid/fbba596e43b9741f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33328,7 +33123,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/9e4297d1b03e9c24",
+    "@id": "https://www.centredesarts.ca/genid/a7de7f0f7a50650f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33533,7 +33328,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/881f6ad4f379c9a2",
+    "@id": "https://www.centredesarts.ca/genid/e0a5c9200fe75a43",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33738,7 +33533,7 @@
     ]
   },
   {
-    "@id": "https://www.centredesarts.ca/genid/f766561e42bd484d",
+    "@id": "https://www.centredesarts.ca/genid/a6f77156544dc8d2",
     "@type": [
       "http://schema.org/Event"
     ],
