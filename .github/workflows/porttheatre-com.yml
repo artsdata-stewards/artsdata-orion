@@ -3,6 +3,8 @@ name: Fetch porttheatre-com Events
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '40 10 * * 1' #runs every week on monday at 10:40 UTC (around 2:40 AM PST)
   
 jobs:
   artsdata-fetch-and-push:
